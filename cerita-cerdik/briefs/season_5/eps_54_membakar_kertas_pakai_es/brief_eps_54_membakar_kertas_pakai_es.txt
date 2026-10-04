@@ -1,0 +1,146 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Logika Sains & Fisika (Membakar Kertas Pakai Es Batu). Tuan Tanah menyita semua sumber api desa dan menantang warga membakar surat utang di dalam kerangkeng tanpa api. Ki Udin memahat es batu menjadi lensa cembung (kaca pembesar) untuk memfokuskan cahaya matahari dan membakar surat utang tersebut. Kumis Tuan Tanah ikut hangus terbakar.
+
+# [purpose]
+Sains Fisika & Komedi Slapstick. Mengikuti FLSR Framework: Curiosity Gap di awal (membakar pakai es), Cortisol dari kesombongan Tuan Tanah, Dopamine dari solusi cerdik sains lensa optik, dan Reward berupa komedi slapstick kumis terbakar.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Penggemar sains sederhana, teka-teki logika, dan komedi kearifan lokal).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up (*First 3 Seconds - Hook*). Di tengah lapangan yang sangat terik berdebu, Tuan Tanah gemuk tertawa jahat melempar tumpukan kertas ke dalam sangkar besi. Ia memamerkan kotak berisi semua pemantik api warga yang disitanya. TEXT OVERLAY BOLD: "BAKAR KERTAS PAKAI ES?! / FISIKA KI UDIN BIKIN KAGET!".
+    ENVIRONMENT: DAY. Siang hari, terik matahari sangat menyengat, lapangan berdebu.
+    SUBJECT: Tuan Tanah gemuk, sombong, memegang sangkar besi.
+    ACTION: Tuan Tanah tertawa sombong meremehkan (*slow motion*). SFX: Jumpscare Drum Hit, Tawa Sombong.
+    NARASI: "Tuan Tanah kejam merampas semua pemantik dan korek api di desa! Ia melempar surat utang warga ke dalam kerangkeng besi di tengah lapangan yang panas terik!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Wide (*Leverage Emotion - Cortisol Spike*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Tuan Tanah berkacak pinggang di depan warga yang menangis bersimpuh.
+    ACTION: Kamera menyorot wajah sedih warga, lalu kembali ke wajah meremehkan si Tuan Tanah.
+    NARASI: "Sambil tertawa sombong, ia menantang: 'Bakar surat utang ini tanpa menggunakan api! Jika sampai matahari terbenam kalian gagal, seluruh tanah desa resmi menjadi milikku!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Medium Shot Warga (*Tension Building*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Warga kepanasan mengusap keringat, menatap kerangkeng besi.
+    ACTION: Warga putus asa. SFX: Suara jangkrik kering/angin panas.
+    NARASI: "Warga desa menangis putus asa. Sangat mustahil membakar kertas tebal itu tanpa sumber api sedikitpun. Udara siang itu memang mendidih, tapi tak cukup panas untuk menyalakan rumput kering."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Medium Action Ki Udin Datang (*Curiosity Gap*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin berjalan tenang membawa balok es batu kristal yang bening dan berembun.
+    ACTION: Tuan Tanah memegang perutnya tertawa terbahak-bahak.
+    NARASI: "Tuan Tanah tertawa makin keras. Namun, Ki Udin datang membawa sesuatu yang membuat semua orang tercengang. Ia membawa sebuah balok es batu kristal yang sangat dingin dan bening! Tuan Tanah tertawa terbahak-bahak memegang perutnya. 'Hahaha! Kau mau menyalakan api menggunakan es batu yang mencair?! Otakmu sudah korslet, Udin!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Extreme Close Up Tangan Ki Udin (*Science Setup*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Tangan Ki Udin memahat es batu dengan pisau kecil.
+    ACTION: Es batu yang tadak rata dipahat perlahan menjadi bentuk bulat cembung (lensa). SFX: Suara pahatan es (Chisel).
+    NARASI: "Ki Udin tidak membalas ejekan itu. Ia duduk tenang dan mulai memahat balok es tersebut dengan pisaunya. Ia membulatkan kedua sisi es batu itu perlahan-lahan hingga bentuknya melengkung cembung sempurna dan sangat mulus, persis seperti sebuah lensa kaca pembesar raksasa!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Wide to Close Up (*Solution & Shift - Aha! Moment*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin mengangkat lensa es itu ke arah matahari, sinarnya menembus dan fokus ke setitik cahaya putih di kertas.
+    ACTION: Titik cahaya putih menyilaukan muncul di kertas. Kertas mulai berasap. SFX: Suara mendesis (Sizzle) dan WUSSH (Api menyala).
+    NARASI: "Ki Udin lalu berdiri di bawah terik matahari, mengarahkan balok es bundar itu tepat di atas kerangkeng besi. Cahaya matahari yang menembus es bening itu tiba-tiba terfokus menjadi satu titik cahaya putih yang sangat menyilaukan dan panas! Titik cahaya itu tepat mengenai tumpukan surat utang si Tuan Tanah! Dalam hitungan detik, asap mengepul! WUSSS! Surat-surat berharga itu meledak terbakar habis menjadi abu!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Slapstick Payoff (*Dopamine & Reward*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Tuan Tanah panik kepanasan, kumisnya terbakar setengah. Warga tertawa.
+    ACTION: Tuan Tanah melompat-lompat meniup kumisnya. Hard cut ke hitam. SFX: Record Scratch, Funny Boing, Sorak warga.
+    NARASI: "Tuan Tanah panik berlari mencoba memadamkan apinya, tapi pantulan cahaya es Ki Udin tak sengaja mengenai wajahnya. ZRASSS! Kumis tebal kebanggaan Tuan Tanah hangus terbakar sebelah! Warga desa bersorak kegirangan! Sekali lagi, ilmu fisika dan kecerdikan Ki Udin mengalahkan kesombongan orang kaya!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Tuan Tanah kejam merampas semua pemantik dan korek api di desa! Ia melempar surat utang warga ke dalam kerangkeng besi di tengah lapangan yang panas terik!
+Sambil tertawa sombong, ia menantang: "Bakar surat utang ini tanpa menggunakan api! Jika sampai matahari terbenam kalian gagal, seluruh tanah desa resmi menjadi milikku!"
+Warga desa menangis putus asa. Sangat mustahil membakar kertas tebal itu tanpa sumber api sedikitpun. Udara siang itu memang mendidih, tapi tak cukup panas untuk menyalakan rumput kering.
+<break time="1.0s"/>
+
+Tuan Tanah tertawa makin keras melihat keputusasaan mereka. 
+Namun, Ki Udin datang membawa sesuatu yang membuat semua orang tercengang. Ia membawa sebuah balok es batu kristal yang sangat dingin dan bening!
+Tuan Tanah tertawa terbahak-bahak memegang perutnya. "Hahaha! Kau mau menyalakan api menggunakan es batu yang mencair?! Otakmu sudah korslet, Udin!"
+<break time="1.0s"/>
+
+Ki Udin tidak membalas ejekan itu. Ia duduk tenang dan mulai memahat balok es tersebut dengan pisaunya.
+Ia membulatkan kedua sisi es batu itu perlahan-lahan hingga bentuknya melengkung cembung sempurna dan sangat mulus, persis seperti sebuah lensa kaca pembesar raksasa!
+Ki Udin lalu berdiri di bawah terik matahari, mengarahkan balok es bundar itu tepat di atas kerangkeng besi.
+Cahaya matahari yang menembus es bening itu tiba-tiba terfokus menjadi satu titik cahaya putih yang sangat menyilaukan dan panas! Titik cahaya itu tepat mengenai tumpukan surat utang si Tuan Tanah!
+<break time="1.0s"/>
+
+Dalam hitungan detik, asap mengepul! WUSSS! Surat-surat berharga itu meledak terbakar habis menjadi abu!
+Tuan Tanah panik berlari mencoba memadamkan apinya, tapi pantulan cahaya es Ki Udin tak sengaja mengenai wajahnya. ZRASSS! Kumis tebal kebanggaan Tuan Tanah hangus terbakar sebelah!
+Warga desa bersorak kegirangan! Sekali lagi, ilmu fisika dan kecerdikan Ki Udin mengalahkan kesombongan orang kaya!
+
+# [bgmStyle]
+Skor misteri ketegangan desa ala "Sneaky Comedy". Awal musik menegangkan dan tragis saat warga menangis. Berubah menjadi nada mengejek saat Tuan Tanah tertawa melihat es batu. Tempo melambat dan fokus saat Ki Udin memahat es. Saat titik cahaya muncul dan kertas terbakar (Aha Moment), musik memuncak drastis diiringi SFX WUSSH, lalu berganti ke musik komedi Slapstick riang.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'kerangkeng besi', 'tanpa menggunakan api', 'es batu kristal', 'Otakmu sudah korslet', 'lensa kaca pembesar', 'cahaya putih menyilaukan', 'meledak terbakar habis', 'Kumis tebal', 'hangus terbakar sebelah', 'ilmu fisika'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Tuan Tanah (ROLE_02)",
+        "description": "Wealthy fat arrogant landlord, thick mustache, wearing fancy green javanese beskap and blangkon. Laughing mockingly, then jumping in panic with one side of his mustache burnt. ANTAGONIS. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan lingkungan dibuat dalam gaya stop-motion claymation bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA: Pencahayaan siang hari yang sangat terik (Extreme Daylight) dengan bayangan tajam, kontras tinggi, langit panas. Efek sinar matahari tembus es batu. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

@@ -1,0 +1,46 @@
+===================================================================
+EPS 08: Menghitung Pasir di Pantai (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menghitung Pasir di Pantai 🏖️🪙
+- Clicky Headline: "Tantangan Menghitung Seluruh Pasir di Pantai Dijawab Santai: Ada 10 Miliar Butir! 🏖️🤣"
+- Caption Teks: Tantangan menghitung seluruh pasir di pantai dijawab santai: ada 10 miliar butir! 🏖️🤣 Cuma Ki Udin yang bisa bikin saudagar sombong melongo kebingungan pakai logika konyol. Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot on a sunny tropical beach. Ki Udin clay figure, a clever Javanese man with short white hair wearing a blangkon, sarong, and lurik shirt, actively scoops up a handful of golden beach sand and lets it trickle through his fingers with a mischievous smile. On the side, an arrogant rich merchant clay figure wearing expensive silk robes points angrily in total shock. Ocean waves crashing softly in the background. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair calmly holding a single sand grain near his eyes with a smart innocent smile. On the right, an arrogant rich merchant clay figure holding a large magnifying glass looking at the beach sand in complete confusion and embarrassment with a red face. In the background, Sultan Prabu laughing happily on his golden throne. Soft clay modeling textures, bright sunny tropical beach vibes, highly detailed 9:16 aspect ratio.
+
+
+[4] AI CHARACTER GENERATOR PROMPTS (GEMINI CHAT / IMAGEN - WHITE BACKGROUND)
+-------------------------------------------------------------------
+Tool Target: Gemini Chat / Google Imagen 3 (Character Generation with Solid White Background)
+
+• Karakter 1: Ki Udin
+Prompt:
+Full body character design of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat, brown batik lurik shirt, and sarong. Friendly mischievous smile, standing posture holding a tiny sand grain, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 2: Saudagar Sombong (Arrogant Merchant)
+Prompt:
+Full body character design of an arrogant wealthy merchant in comical claymation style, soft plasticine clay texture. A chubby rich middle-aged merchant wearing expensive colorful silk robes, gold rings, and holding a large magnifying glass. Embarrassed confused expression with red cheeks, standing posture, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 3: Sultan Prabu
+Prompt:
+Full body character design of Sultan Prabu in comical claymation style, soft plasticine clay texture. A dignified Javanese King wearing a golden royal crown and majestic royal Javanese attire. Laughing hysterically holding his belly with tears of joy, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.

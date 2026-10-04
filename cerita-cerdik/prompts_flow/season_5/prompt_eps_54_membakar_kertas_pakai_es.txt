@@ -1,0 +1,42 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membakar Surat Utang Pakai Es Batu (Eps 54)
+- Clicky Video Headline: BAKAR KERTAS PAKAI ES?! FISIKA KI UDIN BIKIN KAGET!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Trik Fisika: Membakar Kertas Pakai Es (Eps 54)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: a wealthy fat arrogant village landlord wearing a fancy green javanese beskap and blangkon is laughing mockingly while throwing a pile of paper into a small iron cage on the dry dusty ground. The sun is shining extremely bright and hot. Terrified poor Javanese villagers are crying in the background, sweating profusely. At exactly second 1.5, the fat landlord shouts loudly in authentic Javanese accent: "Bakar nak iso!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Fluid clay stop-motion animation, dramatic extreme daylight lighting casting harsh shadows, hot dusty atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text, modern iron cage, plastic materials]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground under extreme bright daylight, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is holding a clear crystal ice block shaped like a giant round magnifying glass. A focused bright beam of sunlight shines through the ice and sets a pile of paper inside an iron cage on fire (orange flames and thick smoke). In the background, a wealthy fat village landlord wearing a green javanese shirt is panicking, jumping, and screaming because one side of his thick mustache is catching fire from the light reflection. Radiant cinematic extremely hot daylight lighting, rich clay stop-motion textures, cinematic depth of field, full environmental dry village square setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, real magnifying glass, modern lighter, matchsticks]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Karakter: Tuan Tanah Sombong]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wealthy fat arrogant village landlord, 50 years old, thick black mustache, wearing fancy green javanese beskap (shirt) and blangkon. Pose standing with hands on hips, laughing arrogantly, empty hands, holding no objects, holding nothing, no props. Clean sweaty face.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, extreme bright daylight lighting, dry dusty ground...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, real magnifying glass, matchsticks]`

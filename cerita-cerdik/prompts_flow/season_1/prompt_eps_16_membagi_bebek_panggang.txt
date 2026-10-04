@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 16
+Judul Episode: Membagi Lima Ekor Bebek Panggang (Eps 16)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membagi Lima Ekor Bebek Panggang
+- Clicky Video Headline: 6 ORANG MAKAN 5 BEBEK PANGGANG?! LOGIKA ANATOMI KI UDIN BIKIN BANGSAWAN SERAKAH CUMA DAPAT CAKAR!
+- Single Video Title: Cerita Cerdik Ki Udin - Membagi Lima Ekor Bebek Panggang (Eps 16)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a luxurious Javanese royal palace dining hall (Ruang Jamuan Keraton), a lavish teak dining table displays five glistening steaming golden-brown roasted ducks on brass platters. A chubby visiting courtier clay figure in extravagant purple and gold silk robes greedily grabs three whole roasted ducks onto his plate, shouting loudly in Javanese accent: "Bebek lima iki dadi duwekku telu, ben adil kabeh!" with clear authentic Javanese spoken dialogue audio. Next to him, Sultan Prabu on his throne scowls with narrowed eyes, while Ki Udin watches with a calm knowing smile. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved teak wooden dining hall background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. Inside an opulent traditional Javanese royal palace dining hall, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt stands holding a large brass platter piled high with delicious plump roasted duck breast, winking with a cheerful proud smile. Sitting beside the table, a chubby visiting nobleman in purple silk stares in total shock with wide bulging eyes at two tiny dry roasted duck feet on his plate, while Sultan Prabu and the royal family laugh heartily with tears of joy. Steaming golden-brown roasted ducks with honey glaze, glowing lanterns, rich carved teak wooden dining room background, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a shiny brass carving knife and a plate of golden roasted duck meat, standing confidently beside a royal banquet table inside an ornate palace dining hall, warm cheerful wise facial expression, warm lantern lighting, rich carved wooden architecture in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a shiny brass carving knife and a plate of golden roasted duck meat, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. BANGSAWAN SERAKAH (Visiting Nobleman) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, round-faced visiting nobleman in an opulent purple and gold silk traditional vest, embroidered batik jarik skirt, and ornate royal cap. Comical shocked embarrassed expression with wide bulging eyes and red blushing cheeks, holding two tiny crispy duck feet in both hands, standing in the palace dining hall near carved pillars, warm natural lantern light, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, round-faced visiting nobleman in an opulent purple and gold silk traditional vest, embroidered batik jarik skirt, and ornate royal cap. Comical shocked embarrassed expression with wide bulging eyes and red blushing cheeks, holding two tiny crispy duck feet in both hands, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden dining throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden dining throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. BEBEK PANGGANG MADU KERATON (Honey Roasted Duck Platter Asset) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A sumptuous claymation banquet prop of five whole glistening golden-brown honey-glazed roasted ducks garnished with fresh herbs and lime slices, arranged on an ornate antique brass platter on a polished teak wooden table, warm candlelight reflections, full palace banquet hall interior background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A sumptuous claymation banquet prop of five whole glistening golden-brown honey-glazed roasted ducks garnished with fresh herbs and lime slices, arranged on an ornate antique brass platter, isolated full asset on a solid plain white background, soft studio lighting, 8k resolution.

@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 23 (SEASON 2 EPISODE 3)
+Judul Episode: Memasak Sup Batu Gurih (Eps 23 / S2E03)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Memasak Sup Batu Gurih
+- Clicky Video Headline: JURAGAN PELIT GAK MAU BAGI MAKANAN?! AKAL SUP BATU AJAIB KI UDIN BIKIN JURAGAN KIKIR TRAKTIR SATU DESA!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Memasak Sup Batu Gurih (Eps 23)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a sun-drenched traditional village square, an arrogant chubby landlord (Juragan Sastro) in opulent emerald green silk robes locks a massive wooden food barn with a heavy iron padlock, cruelly mocking hungry poor villagers, shouting loudly in Javanese accent: "Lumbung pangan iki tak gembok, wong mlarat ora bakal iso mangan enak!" with clear authentic Javanese spoken dialogue audio. Across the square, Ki Udin sets up a large smoking cooking cauldron with a wise mischievous smirk. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm natural daylight, rustic wooden village houses in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a bustling sunlit village square, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt stands joyfully stirring a giant smoking bronze cooking cauldron on a wood fire with a long wooden ladle, lifting three smooth river stones out of rich steaming golden broth filled with tender goat meat chunks and carrots. Beside the cauldron, a chubby wealthy landlord in emerald green silk stares in flabbergasted shock with dropped jaw and bulging eyes, realizing his food barn was emptied to feed the crowd. Surrounding the square, dozens of smiling village farmers hold steaming soup bowls joyfully. Radiant natural daylight, rich aromatic steam clouds, vibrant clay textures, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Standing confidently by a crackling cooking fire holding a large wooden soup ladle, warm cheerful wise facial expression, warm morning sunlight, rustic village square background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a large wooden soup ladle, standing with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. JURAGAN SASTRO KIKIR (Chubby Greedy Landlord) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A wealthy chubby middle-aged landlord in an opulent emerald green and gold embroidered Javanese beskap, batik jarik skirt, gold rings, and velvet cap. Hilarious flabbergasted shocked expression with wide bulging eyes and mouth open, staring at an empty food basket in his hands, standing in the village square, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A wealthy chubby middle-aged landlord in an opulent emerald green and gold embroidered Javanese beskap, batik jarik skirt, gold rings, and velvet cap. Hilarious flabbergasted shocked expression with wide bulging eyes and mouth open, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. KUALI SUP BATU & DAGING KAMBING (Cauldron of Stone & Meat Soup Prop) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A large antique bronze cooking cauldron resting on a clay brick wood-burning stove with glowing red embers, bubbling with rich golden meat broth, fresh cabbage leaves, orange carrot slices, and smooth river stones, with thick aromatic white steam billowing into the air, in the center of a rustic village square, warm sunlight, full background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A miniature claymation model of an antique bronze cooking cauldron filled with bubbling soup, vegetables, and river stones over glowing firewood, isolated full prop on a solid plain white background, soft studio lighting, 8k resolution.

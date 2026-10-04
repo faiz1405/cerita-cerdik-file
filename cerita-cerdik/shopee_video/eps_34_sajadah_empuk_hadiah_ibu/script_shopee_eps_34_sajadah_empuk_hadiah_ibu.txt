@@ -1,0 +1,50 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK - HEMAT TOKEN AI)
+Episode Afiliasi: Cerita Cerdik Eps 34 (Membedakan Induk Kuda dan Anak Kuda Kembar Identik)
+Produk Rekomendasi: Sajadah Busa Tebal Empuk Memory Foam (Hadiah Spesial Ibu Tercinta)
+Format: 9:16 Vertical Video (Shopee Video / TikTok / Reels)
+Durasi: 12 Detik Utuh
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK)
+-------------------------------------------------------------------
+- Detik 00 - 03 (AI Video Hook):
+  Visual: Ki Udin versi claymation bersimpuh prihatin menatap seorang ibu tua yang mengelus lututnya yang pegal sehabis sholat di atas lantai dingin, lalu Ki Udin menatap kamera sambil tersenyum hangat dan mengedipkan mata cerdik.
+  Audio/SFX: Suara desah nafas lelah, chime lembut (ting!), pop sound (plop!).
+  Teks Layar: "IBU SERING NGELUH LUTUT PEGAL PAS SHOLAT?!"
+
+- Detik 03 - 08 (B-Roll Realistis Produk Seller Shopee):
+  Visual: Video nyata (footage seller/unboxing) tangan menekan sajadah busa tebal warna pastel, memperlihatkan busa memory foam tebal 3 cm yang super empuk membal kembali, permukaan kain beludru lembut tidak rontok, dan lapisan bawah anti-slip tidak licin di lantai.
+  Audio/SFX: BGM syahdu hangat menenangkan, suara desau kain lembut.
+  Teks Layar: "Busa Tebal 3cm Empuk Banget! Lutut Aman Nyaman!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Visual: Panah animasi bergerak menunjuk ke pojok kiri bawah (ikon Keranjang Oranye Shopee Video), memperlihatkan harga diskon spesial (Rp40 ribuan).
+  Audio/SFX: Cash register ding (cling!), suara VO persuasif hangat.
+  Teks Layar: "Cuma 40 Ribuan! Hadiahkan Buat Ibu Sekarang 👇"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 1X GENERATE)
+Target Engine: Google Veo 3.1 / Text-to-Video
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Inside a peaceful traditional rustic Javanese clay room with warm wooden windows, an elderly Javanese mother clay figure in white prayer veil gently rubs her knee, while Ki Udin clay figure with white hair and striped lurik shirt kneels beside her with a caring expression, then quickly looks directly at the camera with an affectionate clever wink and points gently forward. Fluid clay stop-motion motion, comical expressive eye-roll to bright heartwarming wink, soft golden morning light through wooden lattice, woven bamboo mats in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, 3d CGI cartoon, photorealistic, real human skin, modern clothes, studio void, plain white background, blank backdrop, dark, gloomy, low resolution, blurry, subtitles]
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) BAHASA INDONESIA (12 DETIK)
+-------------------------------------------------------------------
+"Ibu sering ngeluh lutut pegal dan ngilu pas sujud di lantai dingin? Hadiahkan sajadah busa memory foam ini! Tebal tiga senti, super empuk, dan anti-slip! Bikin ibadah ibu makin nyaman dan khusyuk! Mumpung promo cuma empat puluh ribuan, yuk checkout di keranjang oranye sekarang!"
+
+===================================================================
+[4] KRITERIA PEMILIHAN PRODUK SHOPEE AFFILIATE
+-------------------------------------------------------------------
+- Kategori Produk: Perlengkapan Ibadah / Perlengkapan Sholat / Sajadah Busa
+- Kata Kunci Pencarian Shopee: "Sajadah Busa Tebal Empuk Memory Foam / Sajadah Anti Slip Bulu Halus"
+- Kisaran Harga Jual: Rp45.000 – Rp79.000 (Harga sangat terjangkau, cocok hadiah kasih sayang anak ke ibu)
+- Syarat Toko: Wajib Star Seller+ / Shopee Mall, rating bintang > 4.8, terjual > 5.000 unit
+- Label Komisi: Wajib pilih yang berlabel "Komisi Ekstra" (10% - 15% per checkout)

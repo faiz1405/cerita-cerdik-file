@@ -1,0 +1,49 @@
+[theme] Menangkap Pencuri Emas Keraton Pakai Ayam Jantan Berjelaga / Cerita Cerdik Season 3
+[purpose] To entertain and showcase the brilliant psychological reverse-trap of Ki Udin exposing a corrupt royal minister who stole the royal gold chest using a soot-covered rooster in a pitch-black chamber.
+[audience] General audience, Indonesian families who love folklore, clever mysteries, and dramatic royal justice.
+[visualMaterial] Stop-motion claymation, royal Javanese throne hall, broken iron treasure chest with severed chains, proud black rooster in bamboo cage, dark interrogation room, open palms covered in black charcoal soot, glittering gold coins.
+[duration] 160
+[mediaType] clip
+[ratio] 9:16
+[platform] Tiktok
+[styleValue] Claymation
+[bgmStyle] Tense royal gamelan stings, mysterious bamboo flute, suspenseful drum beats, triumphant brass gong celebration.
+
+[outline]
+Shot 1 (0-35s): The Robbed Treasury and the Magic Rooster
+Shot 2 (35-70s): The Dark Chamber and the Silent Ordeal
+Shot 3 (70-115s): The Boastful Return and the Open Palm Command
+Shot 4 (115-160s): The Soot Trap Revealed and the Thief's Confession
+
+[videoContent]
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Inside the grand carved teakwood throne hall, Sultan Prabu in golden royal robes angrily slams his golden scepter onto the marble floor beside a massive royal treasure chest with severed iron chains lying empty, as ten nervous royal ministers in elaborate batik beskap uniforms tremble and point fingers accusing each other. Before the 8th second, Ki Udin steps forward in his humble earth-toned striped lurik shirt holding a traditional round bamboo cage containing a proud black rooster with glossy clay feathers, raising his hand with a brilliant calculating smirk to calm the furious King and offer a magical test.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. In a separate pitch-black stone chamber devoid of windows, Ki Udin places the proud black rooster onto a round wooden table, announcing the supernatural rule to the sweating ministers: every official must enter alone and stroke the rooster's tail feathers; the rooster will stay silent for the innocent, but will crow thunderously if touched by the greedy thief. One by one, the officials walk into the eerie dark chamber with pounding hearts, including the corrupt greedy minister (Tumenggung Culas) who sneers in the shadows thinking he can easily outsmart the supernatural bird.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Outside in the candlelit grand hall, tense silence fills the air as all ten officials finish their solitary visits, yet not a single rooster crow was heard throughout the entire test. Tumenggung Culas struts out puffing his chest in arrogant triumph, believing he has fooled the entire kingdom and mocking the peasant advisor. Unfazed, Ki Udin smiles calmly and commands with booming court authority for all ten ministers to raise both open palms high into the air facing Sultan Prabu and the gathered royal guards.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Gasps of shock erupt across the entire hall as nine honest officials display palms completely blackened with thick charcoal soot, while Tumenggung Culas stands frozen in horror with both palms completely clean, white, and spotless! Ki Udin laughs heartily as he reveals his psychological trap: the rooster's tail was coated with black pot soot, and only the guilty thief was too terrified to touch it. Guards seize the panicking minister who weeps on his knees confessing his crime, as the stolen gold chest is recovered from beneath his floorboards and Sultan Prabu roars in laughter.
+
+[videoNarration]
+Peti emas perbendaharaan keraton dibobol maling saat malam perayaan! Rantai besi penutup peti putus berserakan, dan sepuluh pejabat istana saling tuduh dengan wajah tegang di hadapan Gusti Sultan Prabu yang murka besar. Tumenggung Culas yang berwatak licik melotot galak menuduh menteri lain. Namun sebelum sepuluh detik berlalu, Ki Udin melangkah maju membawa kurungan bambu berisi seekor ayam jantan berbulu hitam legam sambil tersenyum licik: "Gusti Sultan, tak perlu saling tuduh! Biar ayam jantan keramat ini yang membongkar siapa maling aslinya!"
+
+Ki Udin menaruh ayam jantan tersebut di atas meja bundar di dalam bilik kamar tertutup yang gelap gulita tanpa jendela. Di depan seluruh pejabat yang berkeringat dingin, Ki Udin mengumumkan syarat keramatnya: "Setiap pejabat wajib masuk seorang diri ke bilik gelap dan memegang ekor ayam ini! Jika orang jujur yang menyentuhnya, ayam akan diam tenang. Tapi jika disentuh oleh tangan si pencuri emas, ayam keramat ini akan berkokok dahsyat memekakkan telinga!"
+
+Para pejabat pun bergiliran melangkah masuk ke bilik gulita dengan jantung berdegup kencang. Di dalam kegelapan pekat, Tumenggung Culas tersenyum licik di depan sang ayam. Anehnya, hingga orang kesepuluh selesai keluar, suasana bilik tetap sunyi senyap tanpa ada kokokan ayam sedikit pun! Tumenggung Culas berjalan keluar dengan dada membusung pongah, mengira dirinya telah berhasil mengelabui seluruh keraton. Namun dengan tenang, Ki Udin berseru lantang: "Gusti Sultan, sekarang mohon seluruh pejabat membuka kedua telapak tangan mereka tinggi-tinggi ke atas!"
+
+Seketika seisi keraton gempar terbelalak! Sembilan pejabat memiliki telapak tangan yang hitam pekat berlumur jelaga arang tebal, sedangkan hanya kedua telapak tangan Tumenggung Culas yang putih bersih kinclong tanpa noda sedikit pun! 
+
+Ki Udin tertawa lebar membongkar rahasianya: ekor ayam jantan itu sengaja dilumuri jelaga arang kuali hitam pekat. Sembilan pejabat berani memegang ekornya karena merasa tidak bersalah, sedangkan hanya si pencuri yang ketakutan ayam berkokok sehingga sama sekali tak berani menyentuhnya! Tumenggung Culas pucat pasi gemetaran bersujud mengakui kejahatannya, peti emas berhasil diselamatkan, dan sang menteri culas langsung dibelenggu masuk penjara bawah tanah!
+
+[subtitleInfo] subtitle in Bahasa Indonesia.
+
+[characters]
+Ki Udin, Tumenggung Culas, Sultan Prabu
+
+[ttsList]
+Ki Udin: Male, calm, witty, gentle, expressive.
+Tumenggung Culas: Male, corrupt royal official, arrogant, boastful, cowardly when caught.
+Sultan Prabu: Male, deep, authoritative, majestic king.
+
+[styleList]
+Claymation style, grand Javanese royal palace hall, soft plasticine textures, humorous stop-motion pacing, dramatic lighting contrast.

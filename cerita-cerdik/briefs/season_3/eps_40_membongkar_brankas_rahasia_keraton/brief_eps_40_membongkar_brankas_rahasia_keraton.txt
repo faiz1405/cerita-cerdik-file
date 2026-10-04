@@ -1,0 +1,47 @@
+[theme] Membongkar Brankas Rahasia Perbendaharaan Keraton / Grand Finale Cerita Cerdik Season 3
+[purpose] To entertain and showcase Ki Udin's ultimate scientific revelation using invisible citrus ink and candlelight to expose the corrupt Prime Minister hoarded treasury, freeing peasants from taxes and returning peacefully to the village.
+[audience] General audience, Indonesian families who love folklore, high-stakes royal courtroom mysteries, clever science puzzles, and heartwarming moral triumphs.
+[visualMaterial] Stop-motion claymation, grand carved teakwood throne hall, spotless blank parchment ledger, flickering beeswax candle flame, fresh green lime juice drops, heat-activated brown ink blueprint, underground cavern of gleaming gold chests, heavy iron chains, humble village cottage sunset.
+[duration] 160
+[mediaType] clip
+[ratio] 9:16
+[platform] Tiktok
+[styleValue] Claymation
+[bgmStyle] Somber court gamelan percussion, dramatic flute tension, thrilling investigative strings, triumphant royal brass gong anthem, gentle acoustic village closing melody.
+
+[outline]
+Shot 1 (0-35s): The Fake Bankruptcy and the Peasant's Intervention
+Shot 2 (35-70s): The Blank Ledger and the Heat Reaction Test
+Shot 3 (70-115s): The Secret Underground Blueprint Revealed
+Shot 4 (115-160s): The Grand Asset Confiscation and the Humble Farewell
+
+[videoContent]
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Inside the opulent carved teakwood throne hall, Sultan Prabu sits in somber distress beside golden pillars as the chubby corrupt Prime Minister (Mahapatih Arya Culas) dramatically prostrates with theatrical crocodile tears, waving an apparently empty parchment royal ledger to deceitfully claim national bankruptcy and demand doubling the taxes on impoverished peasants. Before the eighth second, Ki Udin steps forward in his signature striped earth-toned lurik shirt, brown blangkon, and golden royal sash, raising his hand with an amused calculating smirk to intercept the corrupt official and boldly declare to the King that the treasury is not empty, but hidden by a traitor.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Mahapatih Arya Culas sneers in arrogant mockery, holding up the spotless blank royal parchment ledger and challenging the humble peasant advisor to produce proof of deceit. Undaunted, Ki Udin casually lights a thick beeswax candle on the royal table, cuts a fresh green key lime in half, and squeezes drops of fresh citrus juice across the blank parchment before gently hovering the paper above the flickering warm candle flame. Smelling the warm citrus vapor, Mahapatih Arya Culas suddenly freezes in horrified dread as heavy beads of cold clay sweat roll down his trembling jowls.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. As Sultan Prabu and gathered royal courtiers lean in with breathless astonishment, the heat from the candle oxidizes the invisible citric acid, causing crisp dark-brown ink lines to magically materialize across the blank parchment into an intricate underground blueprint and hidden ledger tracking hundreds of stolen gold treasure chests! Ki Udin points his finger with triumphant authority toward the marble tiles beneath the Prime Minister's private pavilion. Royal guards armed with iron pikes immediately smash through the hollow floorboards, revealing a dazzling underground cavern overflowing with mountains of glittering gold coins and jewel-encrusted chalices!
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Mahapatih Arya Culas collapses in utter disgrace, weeping hysterically on his knees as heavy iron chains are locked around his wrists before being hauled away toward the dungeon. Sultan Prabu roars in triumphant laughter, seizing the hoarded fortune to grant all commoners five years of tax exemption, and warmly extends his golden royal scepter offering Ki Udin the supreme title of Prime Minister. With gentle humility, Ki Udin bows respectfully, politely declining the gold crown to return to his peaceful village thatched cottage in simple lurik, knowing true honor lies in peaceful freedom for the people.
+
+[videoNarration]
+Kas perbendaharaan istana dilaporkan kosong melompong hingga keraton terancam bangkrut! Mahapatih Arya Culas yang bertubuh tambun bersujud dramatis di depan Gusti Sultan Prabu, mengklaim kas negara habis akibat gagal panen dan mendesak pajak rakyat miskin dinaikkan dua kali lipat. Sultan tertunduk sedih memikirkan nasib rakyat kecilnya. Namun sebelum delapan detik berlalu, Ki Udin melangkah maju dengan senyum licik misterius: "Gusti Sultan, jangan bebankan rakyat! Kas keraton tidak pernah habis, melainkan disembunyikan oleh orang yang paling Anda percaya!"
+
+Mahapatih Arya Culas terbahak-bahak mengejek, bersumpah di atas buku kas istana yang lembarannya tampak putih bersih tanpa noda tulisan sedikit pun. Namun Ki Udin tetap melangkah santai menyalakan sebatang lilin dan memeras tetesan air jeruk nipis segar ke atas permukaan kertas kosong tersebut. Ki Udin lalu menghangatkan lembaran kertas perlahan di atas jilatan api lilin temaram. Melihat ketenangan Ki Udin dan bau asam yang menguar, sang Mahapatih mendadak tercekat panik dan mulai banjir keringat dingin!
+
+Di hadapan Gusti Sultan dan seisi balairung yang menahan napas tegang, keajaiban sains terungkap! Efek panas lilin membakar senyawa asam jeruk nipis yang tak kasat mata, hingga seketika memunculkan guratan tinta cokelat pekat di atas kertas. Lembaran itu ternyata denah rahasia lorong bawah tanah tempat sang Mahapatih menimbun ratusan peti emas dan perak upeti! Prajurit langsung mendobrak lantai marmer paviliun istana dan menemukan gunungan harta curian yang berkilauan menyilaukan mata!
+
+Mahapatih Arya Culas pucat pasi gemetaran bersujud mencium lantai memohon ampun sebelum diseret prajurit masuk bui bawah tanah! Sultan Prabu bersorak gembira menyita seluruh gunung emas korupsi untuk membebaskan pajak rakyat selama lima tahun ke depan. Sultan langsung menawari Ki Udin menjadi Mahapatih baru pengganti, namun Ki Udin tersenyum santun menolak tahta dan pamit pulang ke gubuk desanya: "Bagi rakyat kecil sepertiku, kemuliaan sejati bukanlah tahta emas istana, melainkan melihat rakyat bisa tersenyum damai tanpa rasa takut!"
+
+[subtitleInfo] subtitle in Bahasa Indonesia.
+
+[characters]
+Ki Udin, Mahapatih Arya Culas, Sultan Prabu
+
+[ttsList]
+Ki Udin: Male, calm, witty, gentle, expressive.
+Mahapatih Arya Culas: Male, corrupt chubby prime minister, theatrical, arrogant, hysterical when caught.
+Sultan Prabu: Male, deep, authoritative, majestic king.
+
+[styleList]
+Claymation style, majestic Javanese royal palace hall, soft plasticine textures, humorous stop-motion pacing, dramatic candlelit atmosphere.

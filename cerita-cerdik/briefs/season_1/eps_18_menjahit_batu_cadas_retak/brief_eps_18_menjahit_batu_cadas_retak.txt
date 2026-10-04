@@ -1,0 +1,106 @@
+[theme]
+Membungkam Penjahit Sombong dengan Logika Benang Batu / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin membalas tantangan mustahil seorang penjahit istana sombong yang menyuruhnya menjahit batu cadas yang pecah terbelah dua.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside a sunlit royal palace courtyard, an arrogant royal tailor clay figure in ornate blue silk robes and a large pair of golden tailor scissors points aggressively at a massive split boulder cracked in half, shouting a mock challenge to Ki Udin while Sultan Prabu on his throne watches. The tailor boasts that Ki Udin must sew the giant rock back together smoothly within one day or be banished from the village. CapCut Effect: Dramatic Slow Zoom-in on the jagged cracked boulder and the tailor's mocking smirk, Claymation filter. Audio: Tense royal gamelan fanfare, arrogant loud shouting SFX, heavy stone cracking SFX. Royal palace courtyard setting, carved wooden pillars, tropical trees, warm daylight, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang penjahit istana yang sombong dan suka memeras warga menantang Ki Udin di hadapan Sultan Prabu untuk menjahit sebuah batu cadas raksasa yang terbelah dua agar menyatu kembali secara mulus dalam satu hari."
+
+Shot 2 (35-70s): Poor villagers look worried and gasp in disbelief at the impossible challenge. Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon steps forward calmly, inspecting the giant cracked rock while gently picking up a small pebble from the ground with a serene, confident smile. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on Ki Udin's clever eyes and the small clay rock in his hand. Audio: Cheerful acoustic gamelan melody, curious crowd whispers, tapping stone SFX. Rustic courtyard background, warm morning sunlight, full environmental setting, no studio void, no white background. VO: "Keesokan paginya di hadapan ribuan rakyat, Ki Udin yang tenang melangkah maju menghampiri batu cadas raksasa sambil memegang sebongkah batu kecil di tangannya."
+
+Shot 3 (70-115s): Ki Udin politely hands the small stone to the arrogant tailor, loudly announcing before Sultan Prabu that he is completely ready to sew the giant cracked rock, provided the master tailor first spins a fine needle and a long strand of flexible thread out of that stone! The arrogant tailor drops his golden scissors in total shock, his jaw dropping wide open with wide bulging eyes and pale face. CapCut Effect: Dynamic camera pan, dramatic Zoom-in on the tailor's dropped jaw and sweating face. Audio: Comical bouncy bassoon music, metallic scissors clattering SFX, gasping crowd laughter. Grand palace courtyard, soaring royal flags, thousands of spectators, full depth, no plain white background. VO: "Ki Udin menyerahkan batu kecil kepada sang penjahit dan berseru bahwa ia siap menjahit batu cadas tersebut, asalkan sang penjahit membuatkan jarum dan memintal seutas benang halus dari batu yang sama terlebih dahulu!"
+
+Shot 4 (115-150s): Sultan Prabu on his golden throne bursts into roaring belly laughter holding his sides until his crown wobbles, while the arrogant tailor kneels in shame, unable to spin stone into thread. Sultan Prabu rewards Ki Udin with a pouch of golden coins and sentences the arrogant tailor to sew clothes for all poor villagers for free as the crowd cheers joyfully. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd applause. Royal courtyard background, warm golden lighting, cheering villagers, full depth. VO: "Sang penjahit sombong melongo mati kutu kehabisan kata-kata, sementara Sultan Prabu tertawa terbahak-bahak memuji kecerdikan Ki Udin dan menghukum sang penjahit untuk menjahit baju seluruh warga miskin secara gratis!"
+
+[videoNarration]
+Di sebuah kerajaan yang makmur, hiduplah seorang penjahit istana yang sangat ahli namun memiliki sifat yang teramat sombong, tamak, dan suka memeras warga miskin dengan tarif jahitan yang selangit. Karena merasa dirinya adalah orang paling hebat dan paling pintar di seluruh negeri, sang penjahit istana merasa sangat iri dengan kepopuleran Ki Udin yang selalu dipuji oleh Sultan Prabu dan dicintai oleh seluruh rakyat jelata.
+
+Suatu hari di pelataran keraton yang ramai, sang penjahit sombong membawa sebuah batu cadas raksasa yang terbelah retak menjadi dua bagian akibat tersambar petir. Di hadapan Sultan Prabu dan ribuan rakyat yang berkumpul, sang penjahit mengacungkan gunting emasnya lalu menantang Ki Udin dengan nada mengejek: 'Wahai Ki Udin yang katanya orang paling cerdik! Jika kamu memang hebat, coba jahit batu cadas yang terbelah dua ini sampai menyatu mulus kembali hanya dalam waktu satu hari! Jika kamu gagal, kamu harus mengakui di depan seluruh rakyat bahwa kamu hanyalah orang bodoh pembual!' Seluruh warga desa pun mengelus dada dan merasa cemas, karena mana mungkin ada orang yang bisa menjahit batu keras.
+
+Keesokan paginya di tanah lapang keraton, ribuan rakyat kembali berkumpul untuk menyaksikan jawaban Ki Udin. Sultan Prabu duduk di atas takhta emasnya didampingi sang penjahit yang tersenyum sinis penuh kemenangan. Tepat saat fajar menyingsing, Ki Udin yang berambut putih melangkah maju dengan langkah santai. Ki Udin membungkuk hormat kepada Sultan Prabu, lalu mengeluarkan sebongkah batu cadas kecil dari dalam kantongnya dan menyerahkannya ke tangan sang penjahit sombong.
+
+Dengan suara lantang dan senyum percaya diri, Ki Udin berseru di hadapan semua orang: 'Ampun Gusti Sultan dan Tuan Penjahit yang tersohor! Hamba sudah siap menjahit batu cadas raksasa ini sekarang juga sampai menyatu tanpa bekas. Namun seperti halnya menjahit kain sutra yang membutuhkan benang sutra, menjahit batu cadas tentu membutuhkan jarum dan benang dari batu cadas yang sama! Tolong, Tuan Penjahit yang sakti, buatkan hamba sebatang jarum halus dan pintalkan seutas benang panjang dari batu kecil ini terlebih dahulu, maka hamba akan langsung menjahit batunya di depan Gusti Sultan sekarang juga!'
+
+Mendengar permintaan yang luar biasa cerdik dan tak terbantahkan itu, sang penjahit sombong langsung terperangah kaku, gunting emas di tangannya terlepas jatuh ke tanah, dan wajahnya pucat pasi keringat dingin. Mana mungkin ada manusia di muka bumi yang bisa memintal batu keras menjadi seutas benang yang lentur! Seketika itu juga, Sultan Prabu tertawa terbahak-bahak memegangi perutnya hingga mahkota emasnya bergoyang riang. Sultan memuji akal cerdik Ki Udin setinggi langit, memberinya hadiah sekantong koin emas, dan langsung menghukum sang penjahit sombong untuk menjahit seluruh pakaian warga miskin desa secara gratis seumur hidup!
+
+[bgmStyle]
+(1) 0-35s: Tense royal gamelan fanfare, arrogant loud shouting SFX, heavy stone cracking SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, curious crowd whispers, tapping stone SFX.
+(3) 70-115s: Comical bouncy bassoon music, metallic scissors clattering SFX, gasping crowd laughter.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd applause.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik memegang sebongkah batu kecil tersenyum tenang penuh akal di samping batu cadas raksasa, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Penjahit Sombong",
+"description": "Pria penjahit istana memakai jubah biru sutra mewah berwajah pucat melongo kaget menjatuhkan gunting emas besarnya, gaya claymation.",
+"id": "ROLE_03"
+},
+{
+"name": "Batu Cadas Retak",
+"description": "Sebongkah batu cadas abu-abu raksasa dengan retakan terbelah dua yang dramatis di tengah pelataran, gaya claymation.",
+"id": "ROLE_04"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

@@ -1,0 +1,51 @@
+[theme] Menentukan Pangkal dan Ujung Batang Kayu Bundar / Cerita Cerdik Season 3
+[purpose] To entertain and showcase the witty scientific logic of Ki Udin outsmarting an arrogant royal scholar with an absurd wooden log challenge, ending in a hilarious muddy lotus pond slapstick splash.
+[audience] General audience, Indonesian families who love folklore, clever wit, and hilarious royal comedy.
+[visualMaterial] Stop-motion claymation, royal Javanese palace garden, lotus pond, giant seamless cylindrical teak log, water ripples, open gold chest, comical green frog.
+[duration] 160
+[mediaType] clip
+[ratio] 9:16
+[platform] Tiktok
+[styleValue] Claymation
+[bgmStyle] Playful court gamelan, whimsical flute, comical brass sting, hilarious water splash, victorious gong resonance.
+
+[outline]
+Shot 1 (0-35s): The Arrogant Scholar's Impossible Challenge
+Shot 2 (35-70s): The Puzzled Court and Lotus Pond March
+Shot 3 (70-115s): Floating Wood and the Law of Water Physics
+Shot 4 (115-160s): The Muddy Pond Splash and Royal Laughter
+
+[videoContent]
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional grand Javanese royal palace garden setting. In a grand sunlit open-air marble pavilion surrounded by lotus ponds and royal frangipani trees, an arrogant tall scholar (Mahaguru Drajat) in an opulent navy-blue gold-embroidered beskap and tall conical headdress slams a giant polished cylindrical teakwood log onto a carved table, gesturing fiercely while boasting and placing an open chest of gold coins as a humiliating challenge before Sultan Prabu and terrified court ministers. Before the 8th second, Ki Udin steps forward calmly in his humble striped lurik shirt and golden silk sash with a brilliant confident smirk, raising his hand gracefully to accept the impossible challenge.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional grand Javanese royal palace garden setting. As bewildered court ministers, astrologers, and veteran royal carpenters scratch their batik blangkons in total confusion, measuring the seamless log with ropes and balancing it on wooden scales where both ends weigh identically without a single branch mark or visible wood grain, Ki Udin chuckles softly. Without wasting a moment, Ki Udin easily hoists the smooth wooden cylinder onto his shoulder and strolls leisurely down the stone garden steps toward the tranquil emerald lotus pond, while the tall scholar folds his arms and snickers arrogantly believing his victory is assured.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional grand Javanese royal palace garden setting. Standing at the edge of the clear lotus pond before Sultan Prabu and the entire court, Ki Udin gently releases the seamless wooden log horizontally onto the surface of the calm pond water: the log bobs, ripples gently, and naturally tilts at an angle—one end floats noticeably higher while the opposite end dips deeper beneath the surface! Ki Udin raises his hand with noble certainty, pointing at the submerged end as he proclaims that the deeper end is the natural tree base because older wood fibers at the bottom are denser and heavier to support the tree, leaving the scholar completely dumbfounded and pale.
+
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional grand Javanese royal palace garden setting. Panicking in utter disbelief, the arrogant scholar rushes frantically to the slippery mossy edge of the pond to inspect the floating log, but accidentally trips on his own long luxurious royal robe—SPLASH! The scholar plunges headfirst into the shallow muddy lotus pond, sending giant water droplets and pink lotus flowers flying, resurfacing with a comical round lotus leaf draped over his head like a silly court jester hat and a green clay frog perched on his forehead, as Sultan Prabu and all the ministers roar in belly-shaking laughter while Ki Udin distributes the scholar's gold chest to the joyful villagers.
+
+[videoNarration]
+"Kurang ajar! Siapa di antara kalian yang bisa menebak mana pangkal dan mana pucuk kayu bundar mulus ini tanpa membelahnya, ambil seluruh peti emasku! Tapi kalau gagal, seluruh penasihat keraton harus potong botak sebelah dan nyebur ke kolam kodok!" Begitulah sesumbar sombong Mahaguru Drajat sambil membanting sebatang kayu silinder yang dipahat licin sempurna tanpa serat.
+
+Para menteri, ahli nujum, dan tukang kayu istana pusing tujuh keliling. Kayu itu diukur dengan tali dan ditimbang bolak-balik, namun kedua sisinya persis seimbang. Melihat seisi keraton terdiam kebingungan, sang mahaguru tertawa pongah mengira dirinya sudah menang mutlak. Namun sebelum sepuluh detik berlalu, Ki Udin yang berpakaian lurik sederhana melangkah maju dengan senyum tenang menerima tantangan mustahil itu!
+
+Ki Udin tidak membuang waktu berdebat. Ia memanggul gelondong kayu silinder tersebut dengan santai, lalu melangkah menuju kolam teratai istana. Sang mahaguru mengejek di belakangnya: "Hahaha! Mana ada air kolam teratai bisa membongkar serat kayu rahasia?!" Ki Udin tetap tenang, lalu melepaskan kayu bundar itu secara mendatar ke atas permukaan air—PLUNG!
+
+Seketika keajaiban hukum alam membuktikan kebenarannya! Kayu silinder itu mengapung miring: satu ujungnya terangkat tinggi, sedangkan ujung lainnya tenggelam condong lebih dalam. Ki Udin berseru lantang di hadapan Sultan: "Gusti Sultan, ujung yang tenggelam lebih dalam inilah pangkal pohonnya! Karena serat kayu bagian bawah lebih tua, rapat, dan berat untuk menopang pohon, sedangkan bagian pucuk pasti lebih ringan!"
+
+Mendengar penjelasan sains yang tak terbantahkan, seluruh keraton gempar berdecak kagum! Sang mahaguru panik tak percaya. Ia berlari tergesa-gesa ke bibir kolam hendak memeriksa kayu, tapi jubah mewahnya terinjak sendiri—BYUUUR! Sang mahaguru tercebur jungkir balik ke kolam teratai penuh lumpur!
+
+Ia merangkak keluar basah kuyup dengan selembar daun teratai menempel di kepalanya bagai topi badut, dan seekor kodok bertengger di dahinya. Sultan Prabu dan para menteri tertawa terbahak-bahak melihat pejabat sombong dipermalukan akal cerdik Ki Udin, sementara peti emas sang mahaguru dibagikan untuk kemakmuran rakyat desa!
+
+[subtitleInfo] subtitle in Bahasa Indonesia.
+
+[characters]
+Ki Udin, Mahaguru Drajat, Sultan Prabu
+
+[ttsList]
+Ki Udin: Male, calm, witty, gentle, expressive.
+Mahaguru Drajat: Male, tall scholar, arrogant, loud, dramatic.
+Sultan Prabu: Male, deep, authoritative, cheerful king.
+
+[styleList]
+Claymation style, warm royal palace garden, soft plasticine textures, humorous stop-motion pacing.

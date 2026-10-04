@@ -1,0 +1,96 @@
+[theme]
+Membungkam Tantangan Mustahil Saudagar Sombong / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat membungkam tantangan konyol saudagar sombong yang ingin mempermalukannya di depan Sultan Prabu.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. On a sunny sandy beach under a blue sky, an arrogant rich merchant clay figure wearing expensive silk robes mockingly scoops up a handful of sand, pointing at Ki Udin. CapCut Effect: Slow Zoom-in towards the arrogant merchant holding beach sand, use Claymation filter. Audio: Upbeat traditional gamelan BGM, arrogant laughter SFX. VO: "An arrogant wealthy merchant arrives at the village intending to humiliate Ki Udin in front of Sultan Prabu."
+
+Shot 2 (35-70s): Inside the grand royal palace pendopo, the arrogant merchant clay figure slams a heavy pouch of gold coins onto a wooden table in front of Sultan Prabu's golden throne, challenging Ki Udin to count the beach sand. CapCut Effect: Soft Blur background with slow Zoom-in as the merchant places gold coins. Audio: Dramatic court marimba music, heavy pouch slamming SFX. VO: "In front of Sultan Prabu, the arrogant merchant challenges Ki Udin to count every single grain of sand on the beach with a pouch of gold coins as a bet."
+
+Shot 3 (70-115s): Ki Udin clay figure with short white hair wearing a blangkon and lurik shirt steps forward calmly, holding a single sand grain between his fingers with a relaxed, confident smile. CapCut Effect: Warm Fade In transition, add aura shimmer effect to Ki Udin. Audio: Upbeat acoustic guitar BGM, dramatic drumroll SFX. VO: "The whole palace pendopo suddenly becomes quiet and tense, but Ki Udin with short white hair remains completely calm."
+
+Shot 4 (115-150s): Ki Udin smiles mischievously, while Sultan Prabu clay figure on his golden throne laughs hysterically holding his belly, and the arrogant merchant stands frozen in red-faced embarrassment holding a magnifying glass. CapCut Effect: Gentle Slow Zoom-out, funny shake effect when Sultan laughs, warm Fade Out at the end. Audio: Playful chime SFX, belly laugh SFX, cheerful gamelan ending. VO: "Ki Udin casually answers that there are exactly ten billion grains of sand, telling the arrogant merchant to count it himself if he doubts it."
+
+[videoNarration]
+Seorang saudagar kaya yang sangat sombong datang ke desa dengan niat ingin mempermalukan Ki Udin di hadapan Sultan Prabu. Beliau membawa sekantong uang emas dan menantang siapa saja di pendopo keraton untuk menjawab teka-teki yang menurutnya tidak mungkin bisa dihitung oleh rakyat biasa. Saudagar sombong itu berdiri tegak dengan dagu terangkat tinggi, memamerkan kekayaannya di hadapan Sultan Prabu dan para pengawal.
+Di hadapan Sultan Prabu, saudagar sombong itu menghentakkan sekantong uang emas ke atas meja kayu sambil berkata lantang, 'Gusti Sultan! Hamba menantang Ki Udin untuk menghitung berapa jumlah pasti butir pasir yang ada di seluruh pantai desa ini! Jika Ki Udin bisa menjawabnya dengan tepat, sekantong uang emas ini menjadi miliknya. Tapi jika salah, Ki Udin harus mengaku kalah dan menyembah hamba!' Sultan Prabu terperanjat heran. Seluruh pejabat keraton saling berbisik cemas karena tahu tidak ada manusia yang bisa menghitung butir pasir pantai satu per satu.
+Seluruh ruangan pendopo keraton mendadak menjadi sangat hening dan tegang. Namun Ki Udin yang berambut putih dan penuh akal santai tidak panik sama sekali. Beliau maju beberapa langkah ke tengah pendopo dengan tersenum polos, lalu menjepit sebutir pasir imajiner di antara kedua jarinya dengan sangat tenang. Beliau menatap saudagar sombong itu tanpa rasa takut sedikit pun.
+Dengan suara yang sangat nyaring dan tegas, Ki Udin menjawab lantang: 'Mohon ampun Gusti Sultan! Hamba sudah selesai menghitung seluruh pasir di pantai. Jumlahnya ada tepat sepuluh miliar delapan ratus ribu lima ratus tiga puluh dua butir pasir!' Saudagar sombong terperanjat kaget lalu berteriak marah, 'Bohong! Bagaimana kamu bisa tahu jumlahnya pas begitu?!' Ki Udin tersenum cerdik lalu menjawab santai, 'Jika Tuan tidak percaya, silakan Tuan pergi ke pantai sekarang dan hitung sendiri pasirnya satu per satu! Jika jumlahnya berkurang atau lebih sebutir saja, berarti ada orang yang mencurinya!' Mendengar jawaban luar biasa cerdik itu, Sultan Prabu tertawa terbahak-bahak sampai memegang perutnya, sementara saudagar sombong langsung melongo tertunduk malu karena tidak sanggup menghitung pasir pantai!
+
+[bgmStyle]
+(1) 0-35s: Upbeat traditional gamelan BGM, arrogant laughter SFX.
+(2) 35-70s: Dramatic court marimba music, heavy pouch slamming SFX.
+(3) 70-115s: Upbeat acoustic guitar BGM, dramatic drumroll SFX.
+(4) 115-150s: Playful chime SFX, belly laugh SFX, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, tersenum santai menjepit pasir di jari, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Saudagar Sombong",
+"description": "Pria kaya gemuk sombong berpakaian sutra mewah memegang kaca pembesar terdiam malu berwajah merah padam, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

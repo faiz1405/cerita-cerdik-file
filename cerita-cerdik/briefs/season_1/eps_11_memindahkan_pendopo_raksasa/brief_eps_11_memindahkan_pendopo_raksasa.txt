@@ -1,0 +1,99 @@
+[theme]
+Membungkam Tantangan Mustahil Pejabat Sombong / Cerita Cerdik.
+
+[purpose]
+Menghibur penonton keluarga dan dewasa dengan kisah humor cerdik Ki Udin yang membalikkan jebakan Patih sombong di hadapan Sultan Prabu menggunakan logika memindahkan Pendopo raksasa.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & Instagram Reels.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside a grand royal courtyard, an arrogant chubby royal minister (Patih) clay figure in opulent purple and gold Javanese attire aggressively points at a massive traditional carved teak wooden pavilion (Pendopo), loudly issuing an impossible challenge to Ki Udin while poor villagers watch in fear. CapCut Effect: Dramatic Slow Zoom-in on the Patih's arrogant smirk, Claymation filter. Audio: Tense gamelan suspense music, loud arrogant shouting SFX, gasping crowd SFX. Rich traditional Javanese royal palace courtyard setting, lush tropical trees, no plain white background, no blank backdrop. VO: "Di sebuah kadipaten makmur, seorang Patih kerajaan yang sombong dan dengki menantang Ki Udin memindahkan bangunan Pendopo kayu jati raksasa ke atas puncak bukit dalam satu hari, dengan ancaman menyita seluruh tabungan emas warga desa."
+
+Shot 2 (35-70s): In the village square, Ki Udin clay figure with short white hair in a humble lurik shirt calmly ties a sturdy woven shoulder sash and carries thick hemp ropes, smiling with peaceful confidence while anxious village elders gather around him. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on Ki Udin's confident smile. Audio: Cheerful acoustic gamelan melody, rope rustling SFX, warm village chatter SFX. Full environmental background of a rustic traditional Javanese village, wooden huts, warm morning sunlight, no studio void, no white background. VO: "Keesokan paginya di hadapan Sultan Prabu dan ribuan rakyat, Ki Udin melangkah maju membawa seutas tali tambang dan kain selendang di pundaknya, siap menjawab tantangan sang Patih."
+
+Shot 3 (70-115s): Outside the giant wooden Pendopo in the royal grounds, thousands of villagers and Sultan Prabu on his throne gather. Ki Udin bends down with his ropes ready, loudly asking the arrogant Patih and all the royal guards to lift the massive pavilion onto his shoulders first. CapCut Effect: Dynamic Zoom-in on the Patih's jaw dropping in shock and bulging eyes. Audio: Tense comedic marimba music, funny spring boing SFX, dramatic crowd murmurs SFX. Grand royal palace grounds, massive wooden pillars, warm lanterns, no plain white background. VO: "Ki Udin membungkuk bersiap dan berseru lantang bahwa tugasnya adalah memindahkan pendopo, bukan mengangkatnya dari dalam tanah, sehingga sang Patih bersama seluruh prajurit harus mengangkat pendopo itu ke atas pundak Ki Udin terlebih dahulu!"
+
+Shot 4 (115-150s): Sultan Prabu clay figure on his golden throne laughs uncontrollably holding his stomach, while the arrogant Patih kneels in shame and defeat as the crowd cheers joyfully. Ki Udin receives a bag of gold coins with a polite bow. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan music ending, cheerful crowd applause SFX. Grand royal palace Pendopo background, warm golden lighting, no studio background, full depth. VO: "Mendengar jawaban cerdik itu, sang Patih melongo pucat tak berkutik, sementara Sultan Prabu tertawa terbahak-bahak memuji Ki Udin dan menghadiahinya sekantong keping emas!"
+
+[videoNarration]
+Di sebuah kadipaten makmur, ada seorang Patih kerajaan yang sangat sombong, licik, dan iri hati kepada Ki Udin yang terkenal bijak dan dicintai seluruh rakyat desa. Suatu hari di hadapan Sultan Prabu dan para pembesar keraton, sang Patih yang ingin mencelakakan Ki Udin melontarkan sebuah tantangan yang sangat mustahil. Sang Patih menantang Ki Udin untuk memindahkan sebuah bangunan Pendopo kayu jati raksasa milik keraton ke atas puncak bukit yang tinggi hanya dalam waktu satu hari. Jika Ki Udin gagal, seluruh tabungan koin emas warga desa akan disita oleh sang Patih. Seluruh warga desa pun menangis ketakutan dan cemas, namun Ki Udin yang berambut putih dan penuh akal hanya tersenyum tenang menerima tantangan tersebut.
+
+Keesokan paginya, ribuan rakyat berbondong-bondong memadati pelataran keraton. Sultan Prabu duduk megah di atas takhtanya didampingi sang Patih yang tersenyum sinis penuh kemenangan. Tepat saat matahari terbit, Ki Udin melangkah maju dengan gagah sambil membawa seutas tali tambang kelapa tebal dan sehelai selendang kain lurik yang dililitkan di pundaknya. Sang Patih langsung berteriak mengejek, 'Hai Ki Udin! Mana kekuatan saktimu?! Cepat pindahkan pendopo raksasa ini ke puncak bukit sekarang juga, atau seluruh emas wargamu akan menjadi milikku!'
+
+Mendengar gertakan itu, Ki Udin merapikan kain selendangnya, membungkuk bersiap di samping tiang pendopo raksasa, lalu berseru lantang, 'Ampun Gusti Sultan dan Tuan Patih yang perkasa... Hamba sudah siap memindahkan pendopo kayu jati ini ke puncak bukit sesuai janji. Namun, tugas hamba hanyalah memindahkan barang, bukan mengangkatnya dari dalam tanah! Oleh karena itu, silakan Tuan Patih bersama seluruh prajurit istana mengangkat pendopo raksasa ini terlebih dahulu dan taruhlah ke atas pundak hamba, maka hamba akan langsung berjalan membawanya ke puncak bukit!'
+
+Mendengar jawaban yang sangat cerdas dan tak terduga itu, sang Patih langsung pucat pasi, matanya melotot, dan mulutnya ternganga kebingungan tanpa bisa membantah sepatah kata pun. Mana mungkin manusia sanggup mengangkat bangunan pendopo seberat puluhan ton! Seketika itu juga, Sultan Prabu tertawa terbahak-bahak memegangi perutnya hingga mahkotanya bergoyang, diikuti sorak tawa gembira ribuan rakyat. Sultan Prabu pun memuji kecerdikan Ki Udin dan menghadiahinya sekantong keping emas, sementara sang Patih terpaksa menunduk malu menanggung aibnya sendiri!
+
+[bgmStyle]
+(1) 0-35s: Tense gamelan suspense music, loud arrogant shouting SFX, gasping crowd SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, rope rustling SFX, warm village chatter SFX.
+(3) 70-115s: Tense comedic marimba music, funny spring boing SFX, dramatic crowd murmurs SFX.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan music ending, cheerful crowd applause SFX.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik membawa selendang dan tali tambang di pundak tersenyum tenang penuh akal, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Patih Sombong",
+"description": "Pria pejabat kerajaan bertubuh gemuk memakai pakaian ungu emas berwajah pucat melongo kaget terperangah, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

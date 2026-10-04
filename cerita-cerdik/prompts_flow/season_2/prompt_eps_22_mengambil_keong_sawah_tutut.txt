@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 22 (SEASON 2 EPISODE 2)
+Judul Episode: Mengambil Keong Sawah di Air Jernih (Eps 22 / S2E02)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Mengambil Keong Sawah di Air Jernih
+- Clicky Video Headline: DISURUH NYEBUR SAWAH NYARI KEONG?! AKAL BAYANGAN LANGIT KI UDIN BIKIN PAK LURAH BELEPOTAN LUMPUR!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Mengambil Keong Sawah di Air Jernih (Eps 22)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a sun-drenched rural rice terrace village, an arrogant chubby village chief (Pak Lurah) clay figure in traditional brown beskap and blangkon stands on a grassy ridge, shouting aggressively at Ki Udin in Javanese accent: "Ndang mudhuno neng sawah, jupukno keong rong kranjang saiki!" with clear authentic Javanese spoken dialogue audio, aggressively pointing at shallow rice paddy water filled with black freshwater snails. Standing on the dry ridge, Ki Udin holds a long bamboo stick with a clever cautious smirk. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm natural daylight, scenic green rice terraces and coconut palms in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a scenic sunlit terraced rice field, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt squats comfortably on a dry grassy ridge, holding a long slender bamboo pole, poking at the crystal-clear water surface which mirrors the deep blue sky and puffy white clouds like an endless void. Beside him, an arrogant chubby village head in a brown beskap trips and falls comically face-first into deep black squelching mud with huge muddy water splashes, his eyes spinning dizzy with shock and mouth wide open! In the distance, village farmers chuckle warmly under tropical palm trees. Radiant natural daylight, glistening water reflections, lush emerald rice stalks, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Squatting comfortably on a green grassy rice field ridge holding a long bamboo stick, warm cheerful wise facial expression, warm morning sunlight, lush green terraced rice paddies in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Squatting comfortably holding a long bamboo stick, with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH BELEPOTAN LUMPUR (Muddy Chubby Village Head) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief in a traditional dark brown Javanese beskap jacket, batik jarik skirt, and brown blangkon, completely covered in splatters of thick black clay mud from head to toe. Hilarious dizzy bewildered expression with wide rolling eyes, mouth open in shock, sitting drenched in a muddy rice field, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief in a traditional dark brown Javanese beskap jacket, batik jarik skirt, and brown blangkon, completely covered in splatters of thick black clay mud from head to toe. Hilarious dizzy bewildered expression with wide rolling eyes and mouth open in shock, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SAWAH PANTULAN LANGIT & KEONG TUTUT (Mirror Rice Paddy & Snails Prop) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A scenic corner of a claymation rice terrace filled with crystal-clear calm water reflecting the blue sky and fluffy white clouds perfectly, with black freshwater cone snails (tutut) clinging to green clay rice stems and an empty woven bamboo basket resting on the dry grassy ridge, warm tropical morning sun, full landscape background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A miniature claymation model of an open woven bamboo basket filled with black freshwater river snails (tutut) and a long bamboo pole, isolated full asset pair on a solid plain white background, soft studio lighting, 8k resolution.

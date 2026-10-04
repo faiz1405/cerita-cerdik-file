@@ -1,0 +1,48 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membongkar Babi Ngepet Palsu (Eps 50)
+- Clicky Video Headline: TANGKAP BABI NGEPET?! DETEKTIF KI UDIN BONGKAR MALING ASLINYA!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Detektif Desa: Babi Ngepet Palsu (Eps 50)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: extreme close-up of a terrified small wild boar (babi hutan) cowering on the ground. The camera quickly zooms out starting at 0.0s to reveal the boar is surrounded by angry Javanese villagers in the middle of a rustic dirt village square at night. The villagers, wearing traditional earthy clothes, are holding bright burning torches (obor) and wooden sticks, ready to attack the boar they believe is a supernatural creature (babi ngepet). At exactly second 2.0, the angry villagers shout loudly in authentic Javanese accent: "Pateni babi ngepet iki!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 2 seconds. Fluid clay stop-motion animation, dramatic dark night lighting illuminated by bright orange firelight from the torches casting long dynamic shadows, tense angry atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, bright sunny lighting, daylight, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text, gore, real blood]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground next to a wooden village house window, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is pointing analytically at a muddy boot footprint on the ground! In the comical background, a corrupt village guard (Hansip) wearing a green uniform and muddy boots is caught red-handed, holding a stack of stolen money, his face frozen in extreme shock and sweat, ready to run away in panic. A cute wild boar is smiling beside Ki Udin. Terrified angry villagers are holding wooden torches in the distance. Radiant cinematic firelight at night, rich clay stop-motion textures, cinematic depth of field, full environmental mystery setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, real blood, gore]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Ki Udin Menunjuk Jejak (Tangan Kosong)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Ki Udin, elderly Javanese wise peasant detective, 58 years old, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Crouching down slightly, pointing one finger firmly down to the ground, empty hands, holding no objects, holding nothing, no props. Sharp intelligent analyzing face, smiling slightly, unblemished clean face.
+
+[Prompt Option B: Hansip Desa Kaget (Panik Lari)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A corrupt village guard (Hansip), 40 years old, wearing classic green Indonesian Hansip uniform and heavy muddy boots. Pose caught red-handed, body turned slightly preparing to run away comically, hands raised up in shock, empty hands, holding no objects, holding nothing, no props. Sweaty terrified eyes wide open in fear, guilty expression, clean face.
+
+[Prompt Option C: Babi Hutan Lucu]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A small wild boar (babi hutan), earthy brown clay color. Sitting down, looking confused but cute and innocent, no props.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, mystery detective atmosphere, dark night firelight lighting...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, real blood, gore, injury]`

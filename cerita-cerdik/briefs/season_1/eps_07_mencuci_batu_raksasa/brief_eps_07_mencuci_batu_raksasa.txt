@@ -1,0 +1,96 @@
+[theme]
+Membungkam Syarat Mustahil Tuan Tanah Serakah / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat mengelabuhi tantangan licik Tuan Tanah Serakah yang mengancam menyita kebun rakyat desa.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. At the wooden porch of a rich landlord's mansion, a greedy landlord clay figure in expensive robes mockingly points at a giant mossy muddy boulder sitting in the middle of a rushing river, challenging Ki Udin. CapCut Effect: Slow Zoom-in towards the landlord laughing arrogantly, use Claymation filter. Audio: Upbeat traditional gamelan BGM, arrogant laughter SFX. VO: "A greedy landlord in the village intends to seize the farmers' land by giving an unreasonable challenge to Ki Udin."
+
+Shot 2 (35-70s): Outside the greedy landlord's mansion at midnight under full moon light, Ki Udin clay figure with short white hair in a lurik shirt vigorously scrubs the front wooden door with a large wooden brush and a soapy bucket, creating white soap suds everywhere. CapCut Effect: Soft Blur background with slow Zoom-in as Ki Udin vigorously scrubs the landlord's door. Audio: Dramatic marimba music, splashing water and scrubbing brush SFX. VO: "In the quiet midnight under the bright full moon, Ki Udin suddenly arrives at the greedy landlord's mansion carrying a soapy bucket and a large wooden brush."
+
+Shot 3 (70-115s): The greedy landlord clay figure opens the door in nightclothes, shocked and furious with white soap suds splattered on his face. Ki Udin clay figure calmly gestures with his brush, pointing at the river boulder, demanding the landlord move the giant boulder into his front yard first. CapCut Effect: Warm Fade In transition, add funny surprise effect on landlord's face. Audio: Upbeat acoustic guitar BGM, angry shouting SFX. VO: "The startled landlord opens the door furiously with soap on his face, but Ki Udin calmly smiles and presents his clever condition."
+
+Shot 4 (115-150s): Ki Udin smiles mischievously, while Sultan Prabu clay figure on his golden throne laughs hysterically holding his belly, and the greedy landlord stands frozen in embarrassment without words. CapCut Effect: Gentle Slow Zoom-out, funny shake effect when Sultan laughs, warm Fade Out at the end. Audio: Loud scrubbing SFX, belly laugh SFX, cheerful gamelan ending. VO: "Ki Udin casually tells the landlord to move the giant boulder to his yard first, leaving the greedy landlord completely speechless."
+
+[videoNarration]
+Seorang tuan tanah serakah di desa berniat merebut lahan pertanian warga dengan memberikan tantangan yang sangat tidak masuk akal kepada Ki Udin. Beliau menunjuk sebuah batu raksasa yang sangat kotor berlumut di tengah sungai deras dan berkata, 'Ki Udin! Jika kamu tidak bisa mencuci batu raksasa di tengah sungai itu sampai bersih dan berkilau dalam waktu satu malam, maka seluruh tanah kebun warga desa akan menjadi milikku!' Para warga desa menangis cemas karena tahu tantangan itu mustahil dilakukan. Namun Ki Udin yang berambut putih dan penuh akal hanya tersenyum tenang tanpa rasa panik sedikit pun.
+Di tengah malam yang sunyi sepi saat bulan purnama bersinar terang, Ki Udin tiba-tiba datang ke depan rumah mewah tuan tanah membawa ember air sabun berbusa dan sikat kayu besar. Tanpa ragu-ragu, Ki Udin mulai menggosok pintu kayu mahal milik tuan tanah kencang-kencang. Suara sikat 'srek... srek... srek...' dan cipratan air sabun membuat seluruh teras rumah tuan tanah menjadi basah kuyup dan kotor penuh busa putih!
+Tuan tanah yang sedang tidur nyenyak terbangun kaget mendengar kegaduhan itu. Beliau bergegas membuka pintu dengan wajah merah padam karena marah besar, 'Ki Udin! Apa-apaan kamu ini?! Kenapa kamu malah menyikat pintu rumahku malam-malam begini?!' Ki Udin menyapu sikatnya santai lalu menjawab dengan wajah sangat polos, 'Mohon ampun Tuan Tanah yang terhormat... Hamba siap mencuci batu raksasa di sungai itu sampai bersih kilap. Tapi bagaimana hamba bisa mencucinya kalau batu itu masih di tengah sungai? Tolong Tuan pindahkan batu raksasa itu ke pekarangan rumah ini sekarang, nanti hamba sabuni sampai mengkilap!'
+Tuan tanah mendadak melongo dan gemetar ketakutan membayangkan rumah mewahnya akan hancur jika batu raksasa dipindahkan ke sana. Beliau sadar telah masuk ke dalam jebakan logikanya sendiri dan terpaksa membatalkan surat ancamannya! Saat berita ini terdengar sampai ke keraton, Sultan Prabu tertawa terbahak-bahak memuji kecerdikan luar biasa Ki Udin yang selalu punya akal membela rakyat miskin.
+
+[bgmStyle]
+(1) 0-35s: Upbeat traditional gamelan BGM, arrogant laughter SFX.
+(2) 35-70s: Dramatic marimba music, splashing water & scrubbing brush SFX (srek-srek).
+(3) 70-115s: Upbeat acoustic guitar BGM, angry shouting SFX.
+(4) 115-150s: Loud scrubbing SFX, belly laugh SFX, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, membawa sikat kayu dan ember sabun menggosok pintu, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Tuan Tanah Serakah",
+"description": "Pria kaya gemuk serakah berpakaian mewah terkejut berbusa di wajah terdiam malu, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

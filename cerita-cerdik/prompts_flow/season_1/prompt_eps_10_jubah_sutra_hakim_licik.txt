@@ -1,0 +1,64 @@
+===================================================================
+EPS 10: Meminjam Jubah Sutra Hakim Licik (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & Instagram Reels - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+Framework: FLSR Winning Content & Neuromarketing Director (System 1 Retention)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Meminjam Jubah Sutra Hakim Licik 👘⚖️
+- Clicky Headline: "Hakim Licik Suka Rampas Tanah Warga, Malah Kena Jebakan Jubah Sutra Ki Udin di Depan Sultan! 👘⚖️🤣"
+- Caption Teks FB: Hakim licik suka rampas tanah warga, langsung kena jebakan lidah Ki Udin di depan Sultan sampai jabatannya dicopot! 👘⚖️🤣 Cuma Ki Udin yang bisa bikin pejabat sombong buka aibnya sendiri pakai pinjaman jubah sutra! Tulis pendapat kalian di kolom komentar! 👇
+- Caption Teks IG: Hakim licik suka rampas tanah warga, langsung kena jebakan lidah Ki Udin di depan Sultan sampai jabatannya dicopot! 👘⚖️🤣 Cuma Ki Udin yang berani permaluin hakim serakah pakai logika jubah sutra kegedean! 📌 Klik [ IKUTI / FOLLOW ] di profil @ceritacerdik!
+
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a grand Javanese royal palace hall (Pendopo), Sultan Prabu on his golden throne watches intently. Ki Udin clay figure with short white hair stands wearing an oversized glittering golden silk robe, winking with a calm mischievous smile. Next to him, an angry corrupt judge clay figure panics with wide bulging eyes, pointing aggressively and shouting loudly in Javanese accent: "Kuwi jubah sutraku! Balekno klambiku!". Clear authentic Javanese spoken dialogue audio, fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved wooden palace interior background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[english speech, english dialogue, western accent, english audio, subtitles, text overlay, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay modeling textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair proudly smiling in an oversized royal golden silk robe. On the right, an arrogant corrupt judge clay figure looking pale and screaming in panic, pointing his finger with funny popped-out eyes. In the center background, Sultan Prabu in golden crown laughing heartily on his majestic palace throne. Rich clay textures, warm royal palace lantern lighting, cinematic depth of field, highly detailed 9:16 vertical aspect ratio, no studio void.
+
+
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+-------------------------------------------------------------------
+Tool Target: Gemini Chat / Google Imagen 3
+
+▶ OPTION A: IN-SCENE CHARACTER FRAME (RECOMMENDED FOR CAPCUT / SEEDANCE)
+(Gunakan prompt ini agar gambar karakter sudah langsung memiliki latar pemandangan alami keraton/kantor pengadilan dan TIDAK menghasilkan latar putih saat di-render di CapCut)
+
+• Karakter 1: Ki Udin (In-Scene Keyframe)
+Prompt:
+Full body character shot of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat and an oversized luxurious golden silk robe. Friendly mischievous smile, standing gracefully inside a majestic traditional Javanese royal palace hall (Pendopo), warm ambient palace lanterns, carved teak wood pillars background, full rich royal setting, no plain white background, no studio void, 8k resolution.
+
+• Karakter 2: Hakim Licik (In-Scene Keyframe)
+Prompt:
+Full body character shot of a corrupt greedy judge in comical claymation style, soft plasticine clay texture. A chubby arrogant middle-aged official with a thin mustache, wearing rich traditional Javanese attire. Panicked pale expression with wide bulging eyes, pointing aggressively, standing inside a traditional wooden court hall with scrolls and wooden gavels on the table, warm natural daytime lighting, full rich environmental interior background, no plain white background, no blank studio backdrop, 8k resolution.
+
+• Karakter 3: Sultan Prabu (In-Scene Keyframe)
+Prompt:
+Full body character shot of Sultan Prabu in comical claymation style, soft plasticine clay texture. A dignified Javanese King wearing a golden royal crown and majestic royal Javanese attire. Laughing happily with a hearty expression, seated on a majestic carved wooden throne inside a traditional Javanese royal palace hall (Pendopo), warm ambient palace lanterns lighting, full royal interior background, no plain white background, no studio backdrop, 8k resolution.
+
+-------------------------------------------------------------------
+▶ OPTION B: ISOLATED CHARACTER SHEET (FOR CUTOUT / STICKERS ONLY)
+
+• Karakter 1: Ki Udin (Isolated)
+Prompt: Full body character design of Ki Udin in comical claymation style, soft plasticine clay texture. Wise elderly Javanese man with white hair in an oversized golden robe, smiling mischievously, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 2: Hakim Licik (Isolated)
+Prompt: Full body character design of a corrupt greedy judge in comical claymation style, soft plasticine clay texture. Chubby arrogant judge pointing in panic, isolated on a solid plain clean white background, 8k resolution.
+
+• Karakter 3: Sultan Prabu (Isolated)
+Prompt: Full body character design of Sultan Prabu in comical claymation style, dignified smiling King in royal crown, isolated on a solid plain clean white background, 8k resolution.

@@ -1,0 +1,29 @@
+===================================================================
+HARI 1: Kuali Beranak dan Meninggal (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Kuali Beranak dan Meninggal 🍳👶
+- Clicky Headline: "Kuali Bisa Beranak dan Meninggal?! 🍳🤣 Cuma Pria Ini yang Bikin Lurah Serakah Kena Batunya!"
+- Caption Teks: Kuali bisa beranak dan meninggal?! 🍳👶 Cuma Ki Udin yang bisa mengelabuhi Pak Lurah serakah menggunakan logikanya sendiri. Menurut kalian, Pak Lurah pantes gak kena batunya begini? Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot. Ki Udin, a clever Javanese villager clay figure wearing a blangkon hat and lurik shirt, actively hands over a tiny bronze pot wrapped in cloth like a newborn baby. Next to him, Pak Lurah, a chubby village chief clay figure, laughs merrily with his mouth open, clapping his clay hands and nodding his head in pure joy. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure holding a tiny bronze pot wrapped in a baby blanket. On the right, a funny chubby village chief clay figure with a big mustache laughing greedily with eyes wide open. In the background is a traditional Javanese wooden pendopo house made of clay. Soft clay modeling textures, bright sunny daytime vibes, highly detailed 9:16 aspect ratio.

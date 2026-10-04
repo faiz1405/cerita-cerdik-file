@@ -1,0 +1,207 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — seorang juragan tanah sombong (Juragan Broto) yang berniat menggusur sawah para petani penggarap menantang Ki Udin dengan tugas fisik mustahil: membuat seutas tali tambang pengikat kerbau yang seluruhnya terbuat dari abu jerami yang dibakar, tanpa boleh putus sedikit pun. Hukum ceritanya satu kalimat: **hukum alam tak bisa diubah, tapi persepsi manusia bisa dijebak dengan logika mereka sendiri**. Ki Udin menganyam jerami basah di atas sebilah papan kayu jati panjang, lalu membakarnya dengan api kecil teratur hingga seluruh jerami berubah menjadi abu hitam padat yang mempertahankan bentuk anyaman tambang secara sempurna. Palu penutupnya bukan sihir, melainkan pembalikan syarat (Uno Reverse Card): Ki Udin menyuruh sang juragan mengangkat sendiri tali abu rapuh itu ke leher kerbau. Begitu disentuh, tali abu meledak berhamburan menjadi kepulan debu hitam pekat yang melumuri wajah sombong sang juragan sampai cemong hitam legam bagai badut arang di depan gelak tawa seluruh warga desa.
+
+# [purpose]
+Lane David-vs-Goliath klasik yang terbukti mencetak rekor penonton tertinggi di serial Cerita Cerdik (seperti formula 87k views 'Menjahit Batu Cadas' dan 64k views 'Memindahkan Pendopo'), kini diangkat ke lingkungan pedesaan Season 4 dengan standar arsitektur Tier-1. Penonton dibuat geram oleh kesombongan Juragan Broto di detik 0-3 yang menendang jerami dan mengancam menyita sawah petani miskin. Mesin retensinya adalah 'The Impossible Physical Task' di mana penonton penasaran bagaimana mungkin abu yang rapuh bisa berwujud tali tambang utuh, diperkuat oleh pacing bertahap (penganyaman jerami, pembakaran perlahan di atas papan, dan jebakan sentuhan tangan juragan). Comment engine-nya memancing perdebatan moral warga: bagaimana menghadapi penguasa/tuan tanah yang suka membuat aturan mustahil untuk menindas rakyat kecil. Zero supernatural, zero darah, zero kekerasan berbahaya; kepulan abu murni bersifat slapstick komikal tradisi Nusantara.
+
+# [audience]
+Masyarakat dan keluarga Indonesia 20–55 tahun, khususnya penonton yang menyukai humor kearifan lokal Nusantara, dongeng kecerdikan rakyat (folk wisdom), dan kepuasan melihat pejabat/tuan tanah arogan dipermalukan oleh kecerdikan orang kecil. Perabot visualnya sangat membumi dan dikenal: tumpukan jerami padi kuning keemasan, kerbau sawah, papan kayu jati tua, caping bambu, pakaian lurik tradisional, dan debu abu jerami hitam pekat. Sangat memicu tombol share ke grup WhatsApp keluarga karena pesan moralnya tentang kerendahan hati dan pembelaan hak petani kecil.
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up, COLD OPEN. HOLD 2 detik.
+    ENVIRONMENT: DAY, siang terik. Pematang sawah desa pasca-panen. REGISTER SAWAH SIANG.
+    SUBJECT: Wajah tambun Juragan Broto melotot sangat kejam dan serakah, tertawa lebar memamerkan gigi emasnya yang menyilaukan. Kaki beralas selop mewah menendang gundukan jerami kering.
+    ACTION: Juragan Broto mengacungkan tongkat kayu berujung perunggu. TEXT OVERLAY BOLD: "TANTANGAN TALI ABU JERAMI?! / JURAGAN SOMBONG MAU SITA SAWAH!".
+    NARASI: "Panen padi baru saja selesai, tapi Juragan Broto yang serakah malah mencari gara-gara untuk menggusur sawah rakyat!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium wide shot.
+    ENVIRONMENT: DAY, siang terik. Pematang sawah berlatar gubuk petani bambu. REGISTER SAWAH SIANG.
+    SUBJECT: Juragan Broto membentak petani yang ketakutan.
+    ACTION: Juragan Broto mengancam menyita sawah dengan gestur congkak dan sadis.
+    NARASI: "Sang juragan menantang membuat tali tambang pengikat kerbau dari abu jerami."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan (Pattern Interrupt) & Medium two-shot.
+    ENVIRONMENT: DAY, siang terik. Tepi sawah desa. REGISTER SAWAH SIANG.
+    SUBJECT: Kamera melakukan whip pan (bergeser kilat) dari wajah bengis juragan ke arah Ki Udin yang berdiri tenang.
+    ACTION: Tepat di detik ke-5, Ki Udin langsung membalas dengan senyum licik tanpa rasa takut sedikit pun.
+    NARASI: "Jika gagal, sawah disita! Warga desa cemas ketakutan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up. HOLD.
+    ENVIRONMENT: DAY, siang menjelang sore. Di depan kerumunan warga desa. REGISTER SAWAH SIANG.
+    SUBJECT: Wajah Ki Udin dari dekat. Sorot matanya berbinar cerdik.
+    ACTION: Ki Udin melangkah maju dengan cepat, diiringi SFX gong (JENG!), langsung menyanggupi tantangan sebelum detik ke-10. <break time="1.0s"/>
+    NARASI: "Namun Ki Udin langsung melangkah maju tersenyum cerdik: Jangankan seutas tali kerbau, tambang kapal dari abu pun hamba sanggup, Juragan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium shot.
+    ENVIRONMENT: DAY, sore menjelang senja. Pelataran balai desa beralas tanah padat, cahaya lentera mulai dinyalakan. REGISTER BALAI SENJA.
+    SUBJECT: Juragan Broto duduk di kursi kayu berukir sambil tertawa terbahak-bahak menepuk pahanya sendiri, meremehkan Ki Udin di depan ratusan warga yang menonton.
+    ACTION: Juragan Broto melambaikan tangan mencemooh, bersumpah keras ke arah langit bahwa abu tidak akan pernah bisa menjadi tali.
+    NARASI: "Juragan Broto terbahak-bahak pongah, bersumpah di depan warga bahwa abu takkan pernah bisa dipilin jadi tali."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium close-up.
+    ENVIRONMENT: NIGHT, malam temaram. Pelataran balai desa, diterangi dua obor bambu dan lentera minyak tanah. REGISTER BALAI SENJA.
+    SUBJECT: Ki Udin berlutut tenang di samping bilah papan kayu jati tebal yang diletakkan mendatar di tanah. Di sampingnya ada ember tanah liat berisi cairan ketan encer dan seikat jerami padi pilihan.
+    ACTION: Tangan Ki Udin membasahi jerami padi dengan air ketan, gerakannya tenang dan sangat metodis tanpa rasa terburu-buru.
+    NARASI: "Namun Ki Udin tetap tenang meminta sebilah papan kayu jati panjang dan seikat jerami padi yang dibasahi air perasan ketan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Extreme close-up.
+    ENVIRONMENT: NIGHT, malam. Di atas bilah papan kayu jati, cahaya kuning hangat obor. REGISTER BALAI SENJA.
+    SUBJECT: Tangan terampil Ki Udin memilin tiga untai jerami basah menjadi lilitan tali tambang yang tebal, rapat, dan kokoh. AUDIO MOTIF: gesekan jerami "srek... sret" terdengar jelas dan ritmis.
+    ACTION: Kamera bergerak perlahan mengikuti panjang tali yang teranyam rapi membentang lurus di atas permukaan papan kayu tanpa putus.
+    NARASI: "Di hadapan warga yang berkumpul di pelataran balai desa, Ki Udin dengan teliti menganyam jerami basah itu menjadi seutas tali tambang tebal yang rapi di atas permukaan papan kayu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Close-up.
+    ENVIRONMENT: NIGHT, malam. Ujung bilah papan kayu jati. REGISTER BALAI SENJA.
+    SUBJECT: Tangan Ki Udin memegang sebatang lilin lebah kecil yang menyala tenang, mendekatkan nyala api ke ujung anyaman jerami di atas papan.
+    ACTION: Api kecil perlahan menyala membakar jerami. Asap tipis beraroma harum jerami terbakar naik pelan. Nyala api merambat sangat lambat dan terkendali di sepanjang alur tambang.
+    NARASI: "Setelah anyaman tali selesai membentang sempurna, Ki Udin membakar ujung jerami menggunakan api lilin kecil yang membara teratur."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Medium two-shot. HOLD.
+    ENVIRONMENT: NIGHT, larut malam. Sisi meja juragan dan pelataran. REGISTER BALAI SENJA.
+    SUBJECT: Juragan Broto berdiri terpaku memegang perutnya. Wajahnya terbaca: keangkuhan yang mulai retak menjadi kepanikan nyata, butiran keringat dingin mengalir di pelipisnya. Di sebelahnya, Ki Udin duduk bersila mengawasi bara api dengan senyum teduh.
+    ACTION: Juragan Broto menggigit bibir bawahnya, matanya melotot menatap bara api yang merambat tanpa merusak jalinan tali. <break time="1.0s"/>
+    NARASI: "Melihat asap tipis merambat tanpa merusak jalinan tali, Juragan Broto mulai tercekat gelisah dan banjir keringat dingin!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 10**: Wide shot transisi fajar.
+    ENVIRONMENT: DAY, subuh berkabut tipis keemasan. Pelataran balai desa, ayam jago berkokok bersahutan di kejauhan. REGISTER FAJAR JERAMI.
+    SUBJECT: Kerumunan warga desa berdiri melingkar dengan mata terbelalak kagum. Di tengah lingkaran, papan kayu jati terbentang dengan seutas tambang yang seluruhnya telah menjadi abu hitam pekat sempurna.
+    ACTION: Cahaya pagi menyorot tambang abu hitam yang masih mempertahankan setiap lekukan pilinan tali tanpa runtuh sedikit pun.
+    NARASI: "Di bawah tatapan takjub warga desa, api perlahan melahap seluruh jerami hingga tuntas!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 11**: Extreme close-up. HOLD.
+    ENVIRONMENT: DAY, pagi fajar berkabut. Di atas bilah papan kayu jati. REGISTER FAJAR JERAMI.
+    SUBJECT: Tekstur tali tambang abu hitam dari jarak sangat dekat. Guratan abu arang lembut tampak mengkristal mempertahankan siluet tambang tambang tebal secara utuh dan menakjubkan.
+    ACTION: Kamera melakukan panning lambat di sepanjang tambang abu yang rapuh namun tampak padat bagai tali sungguhan. <break time="1.0s"/>
+    NARASI: "Ajaib, anyaman tambang itu tetap utuh terbaring di atas papan kayu, kini berwujud abu hitam pekat yang sempurna mempertahankan setiap jalinan talinya!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 12**: Medium shot — THE UNO REVERSE CARD.
+    ENVIRONMENT: DAY, pagi cerah. Pelataran balai desa di samping kandang kerbau. REGISTER FAJAR JERAMI.
+    SUBJECT: Ki Udin berdiri tegak di samping papan kayu berisi tali abu, membungkuk santun dengan kedua tangan terbuka ke arah Juragan Broto. Juragan Broto berdiri kaku dengan mata melotot ngeri.
+    ACTION: Ki Udin tersenyum cerdik dan mempersilakan sang juragan dengan gestur tangan hormat ke arah leher kerbau sawah di belakangnya.
+    NARASI: "Ki Udin membungkuk hormat sambil tersenyum lebar: Tali tambang dari abu sudah jadi utuh, Juragan! Sekarang silakan Juragan sendiri yang mengangkatnya dan mengikatkannya ke leher kerbau!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 13**: Extreme close-up to medium — CLIMAX & SLAPSTICK PAYOFF.
+    ENVIRONMENT: DAY, pagi cerah. Di depan papan tali abu. REGISTER FAJAR JERAMI.
+    SUBJECT: Tangan tambun Juragan Broto dengan cincin akik perunggu gemetaran meraih tali abu. Begitu ujung jarinya menyentuh permukaan abu rapuh, tali abu seketika ambyar meledak! AUDIO MOTIF: "FWOOSH-PUFFF!".
+    ACTION: Kepulan debu abu hitam legam membubung deras menyembur langsung ke muka Juragan Broto! Juragan Broto terperanjat mundur, melompat-lompat terbatuk histeris dengan muka, hidung, kumis melintir, dan rompi mewahnya cemong hitam legam bagai arang terbakar!
+    NARASI: "Juragan Broto melongo kaget terpojok oleh logikanya sendiri! Dengan tangan gemetaran disaksikan seisi desa, sang juragan terpaksa mencoba mengangkat tali abu tersebut. Namun begitu jarinya menyentuh, kepulan abu hitam seketika ambyar meledak beterbangan ke udara! Debu abu pekat langsung menabur wajah, kumis melintir, dan pakaian sutra mewahnya hingga cemong hitam legam bagai badut arang!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 14**: FINAL SHOT — Wide celebration shot.
+    ENVIRONMENT: DAY, pagi hangat keemasan. Pelataran balai desa berlatar pemandangan sawah hijau permai. REGISTER SAWAH SIANG.
+    SUBJECT: Seluruh petani desa bersorak-sorai dan tertawa terbahak-bahak menunjuk Juragan Broto yang lari tunggang-langgang pontang-panting menutupi mukanya yang cemong arang. Di tengah pelataran, Ki Udin tersenyum hangat merangkul pundak Petani Tua.
+    ACTION: Petani mengacungkan caping bambunya gembira, kerbau sawah mengibaskan ekornya riang. Kamera perlahan menarik mundur (slow pull-back) ke pemandangan sawah desa yang damai dan asri diiringi suara tawa renyah warga. Hard cut ke hitam tepat setelah kata terakhir.
+    NARASI: "Juragan Broto terbatuk-batuk histeris kepanasan diiringi gelak tawa terbahak-bahak seluruh petani desa! Sang juragan lari pontang-panting menanggung malu, sawah rakyat batal disita, dan kecerdikan Ki Udin kembali menyelamatkan desa!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Panen padi baru saja selesai, tapi Juragan Broto yang serakah malah mencari gara-gara untuk menggusur sawah rakyat!
+Sang juragan menantang membuat tali tambang pengikat kerbau dari abu jerami.
+Jika gagal, sawah disita! Warga desa cemas ketakutan.
+Namun Ki Udin langsung melangkah maju tersenyum cerdik:
+"Jangankan seutas tali kerbau, tambang kapal dari abu pun hamba sanggup, Juragan!"
+<break time="1.0s"/>
+
+Juragan Broto terbahak-bahak pongah, bersumpah di depan warga bahwa abu takkan pernah bisa dipilin jadi tali.
+Namun Ki Udin tetap tenang meminta sebilah papan kayu jati panjang dan seikat jerami padi yang dibasahi air perasan ketan.
+Di hadapan warga yang berkumpul di pelataran balai desa, Ki Udin dengan teliti menganyam jerami basah itu menjadi seutas tali tambang tebal yang rapi di atas permukaan papan kayu.
+Setelah anyaman tali selesai membentang sempurna, Ki Udin membakar ujung jerami menggunakan api lilin kecil yang membara teratur.
+Melihat asap tipis merambat tanpa merusak jalinan tali, Juragan Broto mulai tercekat gelisah dan banjir keringat dingin!
+<break time="1.0s"/>
+
+Di bawah tatapan takjub warga desa, api perlahan melahap seluruh jerami hingga tuntas!
+Ajaib, anyaman tambang itu tetap utuh terbaring di atas papan kayu, kini berwujud abu hitam pekat yang sempurna mempertahankan setiap jalinan talinya!
+Ki Udin membungkuk hormat sambil tersenyum lebar:
+"Tali tambang dari abu sudah jadi utuh, Juragan! Sekarang silakan Juragan sendiri yang mengangkatnya dan mengikatkannya ke leher kerbau!"
+<break time="1.0s"/>
+
+Juragan Broto melongo kaget terpojok oleh logikanya sendiri!
+Dengan tangan gemetaran disaksikan seisi desa, sang juragan terpaksa mencoba mengangkat tali abu tersebut.
+Namun begitu jarinya menyentuh, kepulan abu hitam seketika ambyar meledak beterbangan ke udara!
+Debu abu pekat langsung menabur wajah, kumis melintir, dan pakaian sutra mewahnya hingga cemong hitam legam bagai badut arang!
+Juragan Broto terbatuk-batuk histeris kepanasan diiringi gelak tawa terbahak-bahak seluruh petani desa!
+Sang juragan lari pontang-panting menanggung malu, sawah rakyat batal disita, dan kecerdikan Ki Udin kembali menyelamatkan desa!
+
+# [bgmStyle]
+Skor komikal pedesaan bernuansa hangat dan ceria tanpa musik horor. Babak pertama dibuka dengan instrumen gamelan slendro ritmis pedesaan yang energik bercampur desau angin pematang sawah dan kokok ayam. Adegan tantangan juragan diiringi suara gender dan kendang berdegup cepat memicu ketegangan komikal. Saat Ki Udin mulai menganyam jerami di malam hari, musik meredam menjadi suasana malam pedesaan yang tenang: bunyi jangkrik, desau angin malam, dan foley gesekan jerami 'srek... sret' yang menenangkan. Titik pembakaran jerami diiringi gesekan rebab tipis misterius yang memicu rasa penasaran penonton. Tiga jeda hening <break time="1.0s"/> diiringi senyap total instrumen untuk menegaskan punchline kecerdikan Ki Udin. Saat jari juragan menyentuh abu, foley ledakan debu 'FWOOSH-PUFFF!' meletus disusul suara slide whistle kartun komikal dan tawa terbahak-bahak warga desa bertumpuk riuh. Penutup video diakhiri denting kempul dan gong suwukan gamelan desa yang megah, riang, dan merayakan kemenangan rakyat kecil.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright amber-gold highlights on key phrases: 'tali tambang pengikat kerbau dari abu jerami', 'seluruh sawah petani akan disita!', 'membuat tambang kapal dari abu pun hamba sanggup, Juragan!', 'abu takkan pernah bisa dipilin jadi tali.', 'air perasan ketan.', 'kini berwujud abu hitam pekat', 'silakan Juragan sendiri yang mengangkatnya', 'cemong hitam legam bagai badut arang!', and 'sawah rakyat batal disita!'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with sandals, warm mischievous smile. POV PROTAGONIS CERDIK. Arc: tenang menghadapi gertakan tuan tanah → fokus metodis menganyam jerami basah di atas papan kayu jati → senyum penuh kemenangan saat membalikkan tantangan ke juragan → tawa hangat merangkul petani desa. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Chubby arrogant wealthy village landlord, 48, protruding belly, twirled thick black mustache, ornate golden-brown silk lurik vest, white inner shirt, batik parang jarik, polished dark headcloth. ANTAGONIS SLAPSTICK. Arc: sombong menendang jerami dan mengancam sita sawah → tertawa mencemooh meremehkan rakyat kecil → keringat dingin saat bara api merambat rapi → kaget terpojok saat disuruh mengangkat tali abu → panik histeris saat abu meledak melumuri seluruh wajahnya cemong arang hitam. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Petani Tua (ROLE_03)",
+        "description": "Elderly humble Javanese farmer, 63, weathered kind face, wearing an authentic woven bamboo caping hat, faded earth-brown short-sleeved work shirt, rolled-up dark batik work trousers, barefoot on the paddy dirt. Arc: ketakutan memegang caping saat sawah diancam disita → menatap takjub saat anyaman abu berhasil → bersorak gembira menertawakan sang juragan culas. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan latar dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA & RAMBUT TERKUNCI MATI: Ki Udin selalu mengenakan blangkon batik cokelat klasik dan baju lurik cokelat-krem bergaris; Juragan Broto selalu bertubuh tambun dengan kumis melintir hitam dan rompi lurik sutra cokelat-emas; Petani Tua selalu mengenakan caping bambu. DILARANG MENGGUNAKAN ELEMEN MODERN (tidak ada pakaian modern, tidak ada kacamata hitam, tidak ada benda plastik modern). TIGA REGISTER CAHAYA HANGAT PEDESAAN: (1) SAWAH SIANG dengan cahaya matahari tropis cerah menyinari jerami keemasan dan tanah sawah retak; (2) BALAI SENJA dengan pencahayaan lentera obor minyak tanah dan lilin temaram hangat; (3) FAJAR JERAMI dengan kabut tipis subur di latar pepohonan kelapa desa. ATURAN SLAPSTICK ARANG: Ledakan abu jerami di Shot 13 digambarkan murni sebagai debu arang hitam lembut komikal yang menutupi wajah juragan seperti riasan badut, tanpa ada luka fisik atau api berbahaya. TEKSTUR CLAY HIPER-SPESIFIK: serat jerami padi kuning kering, bilah papan kayu jati tua dengan guratan serat kayu alami, lilin lebah dengan lelehan minyak bening, butiran debu abu arang hitam pekat, dan kain batik parang tradisional. DILARANG menggunakan text card penutup di layar video — video selesai tepat saat tawa warga pecah, hard cut ke layar hitam dengan denting gong penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

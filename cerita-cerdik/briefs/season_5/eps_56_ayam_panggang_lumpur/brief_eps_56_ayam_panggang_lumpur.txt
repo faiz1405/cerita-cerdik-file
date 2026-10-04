@@ -1,0 +1,161 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tema Visual Makanan/Dapur (Kamis). Juragan pelit menantang pelayan miskin memanggang ayam tanpa alat dan tanpa menyentuh api. Ki Udin menjawab mustahilnya dengan trik "Ayam Panggang Lumpur" (*Beggar's Chicken*). Juragan yang rakus kena karma saat terpaksa memeluk ayam yang baru matang.
+
+# [purpose]
+Memicu rasa lapar (Dopamine) dari visual bumbu rempah ayam panggang dan uap panas, serta rasa puas (*Schadenfreude*) melihat Juragan pelit kepanasan. Menggunakan FLSR Framework & Micro-Cliffhanger di akhir setiap paragraf.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Khususnya audiens pecinta konten masak-masak pedesaan dan karma instan).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Juragan pelit melempar ayam mentah ke dada kakek pelayan tua. Pelayan itu jatuh terduduk menangis. TEXT OVERLAY BOLD: "SYARAT MUSTAHIL JURAGAN PELIT! / AYAM PANGGANG LUMPUR!".
+    ENVIRONMENT: DAY. Halaman pendopo desa yang panas terik, bayangan keras.
+    SUBJECT: Juragan Pelit (baju sutera merah, kumis tebal melintang), Pelayan Tua (baju lusuh kotor, menangis bersimpuh).
+    ACTION: Juragan melempar ayam mentah dengan keras. Pelayan jatuh menangis ketakutan. Juragan bertolak pinggang garang.
+    NARASI: "Di halaman pendopo desa yang terik, Juragan Broto yang pelit melempar seekor ayam mentah ke dada pelayan tuanya! Sang juragan membentak garang memberi syarat yang sama sekali tidak masuk akal: "Panggang ayam ini sampai matang sempurna! Tapi awas, tidak boleh pakai wajan, tidak boleh pakai besi pemanggang, dan dagingnya sama sekali tidak boleh menyentuh api!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot Pelayan Menangis (*Sad Empathy*).
+    ENVIRONMENT: DAY. Halaman pendopo.
+    SUBJECT: Kakek pelayan bersimpuh menangis di tanah berdebu.
+    ACTION: Pelayan menangis menutupi wajahnya yang berkeriput ketakutan.
+    NARASI: "Kakek pelayan itu langsung menangis bersimpuh di tanah. Juragan serakah itu memang sengaja mencari celah agar bisa memecatnya tanpa membayar tunggakan gaji selama sepuluh tahun!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Medium Action (*The Challenge / Conflict*).
+    ENVIRONMENT: DAY. Halaman pendopo.
+    SUBJECT: Ki Udin berjalan maju membela sang pelayan. Juragan Broto di depannya.
+    ACTION: Ki Udin tersenyum licik cerdik dan menunjuk juragan. Juragan tertawa terbahak-bahak meremehkan sambil menepuk perut buncitnya dan melempar sekantong koin emas.
+    NARASI: "Melihat ketidakadilan itu, Ki Udin sang pahlawan desa melangkah maju dengan senyum liciknya. "Baiklah Juragan! Tapi jika ayam ini matang sesuai syaratmu, kau harus melunasi gajinya dengan sekantong koin emas, dan kau wajib memakan ayam utuh ini selagi panas!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Extreme Close Up Makanan (*Visual Dopamine Setup*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Tangan Ki Udin melumuri ayam mentah dengan bumbu rempah merah.
+    ACTION: Bumbu merah merona yang basah diusap perlahan ke seluruh daging ayam, terlihat sangat lezat.
+    NARASI: "Juragan Broto tertawa terbahak-bahak meremehkan. Ki Udin lalu mengambil ayam itu dan melumurinya perlahan dengan bumbu rempah cabai merah merona yang sangat lezat dan menggugah selera."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium Wide (*The Trick Preparation*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Ayam dibungkus berlapis daun pisang tebal, lalu dibalut lumpur tanah liat.
+    ACTION: Tangan Ki Udin menempelkan tanah liat kotor basah hingga membentuk bola raksasa kotor.
+    NARASI: "Setelah bumbu meresap, Ki Udin membungkus ayam tersebut dengan berlapis-lapis daun pisang tebal. Lalu, hal aneh terjadi! Ki Udin membalut seluruh bungkusan itu dengan lumpur tanah liat basah tebal, hingga bentuknya berubah menyerupai bola kotor raksasa!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Action (*Throwing into Fire*).
+    ENVIRONMENT: DAY. Api unggun besar berkobar menyala.
+    SUBJECT: Ki Udin melempar bola lumpur itu ke tengah api. Juragan Broto menertawakan.
+    ACTION: Bola lumpur mendarat di bara api besar. Juragan Broto menunjuk dan tertawa geli, yakin ayamnya akan gosong.
+    NARASI: "Tanpa ragu, Ki Udin langsung melempar bola lumpur itu ke tengah kobaran api unggun! Juragan pelit tertawa mengejek, yakin seratus persen ayam itu akan gosong dan kotor terbakar abu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Extreme Close Up (*Aha Moment & ASMR Dopamine*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Bola lumpur yang sudah keras kecokelatan dipecahkan oleh tongkat.
+    ACTION: KRAK! Tanah pecah. Daun pisang terbuka sendiri. Uap tebal mengepul keluar. Ayam panggang di dalamnya tampak matang kecokelatan, sangat juicy dan lezat.
+    NARASI: "Namun beberapa jam kemudian, lumpur itu mengeras seperti batu bata. Saat Ki Udin memukul dan memecahkannya... KRAK! Daun pisang terbuka dan uap panas mengepul tebal ke udara! Terlihatlah daging ayam panggang kecokelatan yang sangat juicy dan matang sempurna, karena panas bara api terperangkap ke dalam tanah liat tanpa tersentuh api sedikit pun!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Payoff (*Karma Instan*).
+    ENVIRONMENT: DAY. Kerumunan warga tertawa.
+    SUBJECT: Juragan Broto menjerit kepanasan berlari ke selokan, ayam masuk ke celananya.
+    ACTION: Juragan memeluk ayam panas, kepanasan hebat, ayam melompat dan merosot masuk ke dalam celana suteranya. Ia lari terbirit-birit memegangi pantatnya nyebur ke selokan (Byuur!). Ki Udin menyerahkan emas ke pelayan tua.
+    NARASI: "Warga pasar bersorak kegirangan, sementara Juragan Broto melongo pucat! Sesuai taruhan, sang juragan yang rakus dan gengsi langsung memeluk ayam yang mengepul panas itu. Akibat kepanasan parah, ayam itu terlempar dari tangannya dan malah meluncur masuk menyangkut di dalam celana suteranya! Juragan menjerit histeris memegangi pantatnya dan lari menceburkan diri ke selokan kotor, sementara Ki Udin tersenyum menyerahkan koin emas kepada kakek pelayan!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Di halaman pendopo desa yang terik, Juragan Broto yang pelit melempar seekor ayam mentah ke dada pelayan tuanya! Sang juragan membentak garang memberi syarat yang sama sekali tidak masuk akal: "Panggang ayam ini sampai matang sempurna! Tapi awas, tidak boleh pakai wajan, tidak boleh pakai besi pemanggang, dan dagingnya sama sekali tidak boleh menyentuh api!"
+<break time="1.0s"/>
+
+Kakek pelayan itu langsung menangis bersimpuh di tanah. Juragan serakah itu memang sengaja mencari celah agar bisa memecatnya tanpa membayar tunggakan gaji selama sepuluh tahun!
+<break time="1.0s"/>
+
+Melihat ketidakadilan itu, Ki Udin sang pahlawan desa melangkah maju dengan senyum liciknya. "Baiklah Juragan! Tapi jika ayam ini matang sesuai syaratmu, kau harus melunasi gajinya dengan sekantong koin emas, dan kau wajib memakan ayam utuh ini selagi panas!"
+<break time="1.0s"/>
+
+Juragan Broto tertawa terbahak-bahak meremehkan. Ki Udin lalu mengambil ayam itu dan melumurinya perlahan dengan bumbu rempah cabai merah merona yang sangat lezat dan menggugah selera.
+<break time="1.0s"/>
+
+Setelah bumbu meresap, Ki Udin membungkus ayam tersebut dengan berlapis-lapis daun pisang tebal. Lalu, hal aneh terjadi! Ki Udin membalut seluruh bungkusan itu dengan lumpur tanah liat basah tebal, hingga bentuknya berubah menyerupai bola kotor raksasa!
+<break time="1.0s"/>
+
+Tanpa ragu, Ki Udin langsung melempar bola lumpur itu ke tengah kobaran api unggun! Juragan pelit tertawa mengejek, yakin seratus persen ayam itu akan gosong dan kotor terbakar abu.
+<break time="1.0s"/>
+
+Namun beberapa jam kemudian, lumpur itu mengeras seperti batu bata. Saat Ki Udin memukul dan memecahkannya... KRAK! Daun pisang terbuka dan uap panas mengepul tebal ke udara! Terlihatlah daging ayam panggang kecokelatan yang sangat juicy dan matang sempurna, karena panas bara api terperangkap ke dalam tanah liat tanpa tersentuh api sedikit pun!
+<break time="1.0s"/>
+
+Warga pasar bersorak kegirangan, sementara Juragan Broto melongo pucat! Sesuai taruhan, sang juragan yang rakus dan gengsi langsung memeluk ayam yang mengepul panas itu. Akibat kepanasan parah, ayam itu terlempar dari tangannya dan malah meluncur masuk menyangkut di dalam celana suteranya! Juragan menjerit histeris memegangi pantatnya dan lari menceburkan diri ke selokan kotor, sementara Ki Udin tersenyum menyerahkan koin emas kepada kakek pelayan!
+
+# [bgmStyle]
+Diawali dengan musik tegang/sedih saat kakek pelayan dimarahi dan menangis. Berubah menjadi musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin menantang taruhan dan memasak ayam. Berubah menjadi nada magis menggugah selera (ASMR Food vibe) saat ayam keluar dari lumpur, lalu diakhiri musik komedi kejar-kejaran Slapstick yang heboh dan riang.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'syarat yang sama sekali tidak masuk akal', 'tidak boleh menyentuh api', 'membayar tunggakan gaji', 'melunasi gajinya dengan sekantong koin emas', 'bumbu rempah cabai merah merona', 'bola kotor raksasa', 'uap panas mengepul tebal', 'sangat juicy dan matang sempurna', 'masuk menyangkut di dalam celana suteranya', 'menceburkan diri ke selokan kotor'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Wealthy greedy Javanese merchant, 45 years old, thick mustache, wearing shiny red silk shirt and gold necklaces. Arrogant expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Pelayan Tua (ROLE_03)",
+        "description": "Poor elderly male servant, 60 years old, wearing faded dirty brown clothes. Sad crying expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan lingkungan dibuat dalam gaya stop-motion claymation bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA: Dapur tradisional pedesaan, halaman pendopo desa yang panas terik, lumpur tanah liat panggang api. Adegan makanan sangat detail dan menggoda (food dopamine). DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

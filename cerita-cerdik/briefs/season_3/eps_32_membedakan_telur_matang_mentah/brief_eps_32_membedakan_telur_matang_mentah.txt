@@ -1,0 +1,121 @@
+[theme]
+Membedakan Telur Matang dan Mentah Tanpa Memecahkannya / Cerita Cerdik Season 3.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan sains fisika Ki Udin saat membongkar tipu muslihat saudagar culas yang menjual telur mentah dan mengklaimnya sebagai telur bebek asin matang istana, membuktikannya melalui putaran sentrifugal di atas meja marmer tanpa memecahkan cangkang sedikit pun di hadapan warga pasar.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[outline]
+Shot 1 (0-35s): In the bustling royal market square, an arrogant fat egg merchant holds a basket of raw eggs, deceitfully claiming they are premium cooked salted duck eggs and challenging buyers to prove him wrong without cracking them; Ki Udin steps forward with a witty smirk to accept the bet.
+Shot 2 (35-70s): Ki Udin places two identical eggs onto a smooth stone marble table before the crowd and spins both eggs with his fingers, revealing that one egg spins rapidly upright like a balanced spinning top while the other wobbles slowly and stumbles.
+Shot 3 (70-115s): Ki Udin explains the undeniable physics: the cooked egg has solid mass that spins in perfect unison, while the raw liquid inside the other egg drags momentum and wobbles; a slight touch stops the cooked egg completely while the raw egg keeps rocking.
+Shot 4 (115-150s): Exposed before royal guards and cheering market buyers, the panic-stricken merchant stumbles backwards as raw eggs splatter humorously all over his hat and forehead; Sultan's guards confiscate his fraudulent earnings and Ki Udin is cheered by the market villagers.
+
+[videoContent]
+Shot 1 (0-35s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese market square setting, 9:16 vertical ratio. Under the warm morning sun in a bustling traditional market square with wicker awnings and spice stalls, a haughty chubby egg merchant (Juragan Telur) in an opulent yellow silk beskap and red batik jarik stands beside large bamboo baskets of eggs, arrogantly waving a purse of gold coins in the air and deceitfully claiming his raw eggs are expensive royal cooked salted duck eggs, barking an impossible challenge that nobody can prove they are raw without cracking the shells! Before the 10th second, Ki Udin steps forward in his humble earth-toned striped lurik shirt with a brilliant witty smirk, confidently accepting the wager before astonished market shoppers and royal guards. CapCut Effect: Comical Snap Zoom-in on the merchant's sneering arrogant face and the smooth brown eggs, Slow Zoom on Ki Udin's confident playful smirk, Claymation filter. Audio: Bustling traditional market ambiance, shouting merchant SFX, clinking gold coins (klining!), curious crowd murmuring voices. Sunlit cobblestone market square background, woven bamboo baskets, clay jars, vibrant clay textures, full environmental depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background, no blank backdrop. VO: "Seorang juragan telur culas di pasar keraton nekat menipu warga dengan menjual telur mentah dibilang telur asin matang seharga lima kali lipat, menantang taruhan sekantong emas bahwa tak ada yang bisa membuktikannya tanpa memecahkan cangkang!"
+
+Shot 2 (35-70s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese market square setting, 9:16 vertical ratio. While the chubby merchant smirks smugly crossing his arms and market villagers watch with wide curious eyes, Ki Udin approaches a smooth round white marble butcher table in the middle of the square. Ki Udin takes two identical eggs—one cooked and one raw—and places them upright on the marble surface. With a swift flick of his fingers, Ki Udin spins both eggs simultaneously. Astonishingly, one egg instantly stands up on its end, spinning at high speed smoothly and upright like a perfect spinning top, while the other egg wobbles sluggishly, tilting clumsily and struggling to turn! CapCut Effect: Soft Blur background with comical Slow Zoom-in on the two spinning eggs on the marble table, dynamic rotational blur effect, dramatic close-up on the merchant's sudden nervous wide eyes. Audio: Whirring spinning egg SFX (wuuush-wuuush), smooth marble tabletop scraping SFX, crowd excited gasps and pointing whispers. Grand traditional market pendopo background, clay earthenware stalls, royal palace guards watching with keen interest, full environmental setting, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no studio void, no white background. VO: "Tanpa ragu, Ki Udin langsung memutar kedua butir telur itu di atas meja marmer: sebutir telur berputar tegak kencang bagai gasing, sementara telur satunya oleng bergoyang lambat dan hampir roboh!"
+
+Shot 3 (70-115s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese market square setting, 9:16 vertical ratio. Ki Udin lightly taps both spinning eggs with the tip of his finger for half a second. The fast-spinning egg stops dead instantly and stays still, but the wobbling egg continues to turn and wobble on its own due to the swirling fluid inside! Ki Udin points and explains with brilliant physics logic: the solid cooked egg spins as one solid body and stops immediately, whereas the raw egg contains swirling liquid that drags momentum and continues moving! To prove it to all, the royal guard cracks the wobbling egg into a clay bowl—gloopy raw yellow yolk and clear egg white spill out! The fraudulent merchant turns comically pale as a ghost, his mouth dropping open in total shock as cold sweat beads burst from his forehead. CapCut Effect: Dynamic camera pan following the finger tap, comical slow-motion egg wobble, dramatic snap Zoom-in on the raw yellow yolk splattering in the bowl, screen shake on the merchant's terrified pale face. Audio: Crisp finger tap SFX (tik!), raw egg cracking sound (kreeek-plop!), dramatic brass sting (jreeeng!), boisterous crowd laughter and cheers. Market square background, laughing village mothers pointing, shocked market merchant trembling, full depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background. VO: "Ki Udin membongkar rahasia sains: telur matang berputar padat dan stabil, sedangkan telur mentah oleng karena cairan di dalamnya, membuktikan tipuan sang juragan secara telak di depan seluruh warga pasar!"
+
+Shot 4 (115-150s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese market square setting, 9:16 vertical ratio. Panic-stricken and trying to flee, the clumsy chubby merchant trips over his own bamboo basket, and a shower of raw eggs splatters comically all over his velvet hat, face, and golden beskap—yellow raw yolks dripping from his curly mustache! Royal guards seize his bag of fraudulent gold coins to refund every deceived villager, while laughing market mothers and farmers cheer enthusiastically, handing Ki Udin a basket of fresh fruits. CapCut Effect: Gentle Slow Zoom-out, hilarious bounce shake effect as the crowd roars with laughter at the egg-splattered merchant, warm triumphant market golden sunlight Fade Out. Audio: Comical squish splat SFX (crooosh!), boisterous market crowd belly laughter, triumphant gamelan melody ending, cheerful applause. Sunlit marketplace background, cheering market crowd tossing caps, Ki Udin smiling wittily beside the guards, full depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no studio void. VO: "Panik mau kabur, sang juragan culas malah tersandung keranjangnya sendiri sampai mukanya mandi kuning telur mentah, sementara seluruh uang tipuannya disita prajurit untuk ganti rugi warga!"
+
+[videoNarration]
+Suasana pagi hari di pasar kadipaten mendadak gaduh dan ramai berkerumun. Seorang juragan telur berbadan tambun bernama Juragan Somad, yang mengenakan beskap sutra kuning mencolok dan cincin akik di setiap jarinya, sedang berteriak-teriak pongah di atas bangku kayu.
+
+Rupanya, juragan serakah ini membawa puluhan keranjang telur bebek mentah biasa, namun dengan licik ia menempelkan cap istana palsu dan mengklaim bahwa seluruh telur itu adalah telur bebek asin matang kualitas nomor satu yang gurih berminyak! Ia menjualnya dengan harga lima kali lipat lebih mahal. Ketika seorang ibu rumah tangga miskin ragu, Juragan Somad justru memukul meja dan menantang pongah: "Heh, jangan banyak cakap! Siapa pun yang berani meragukan telur asinku, sini taruhan sekantong koin emas! Tak ada seorang pun di dunia ini yang bisa membuktikan telur ini matang atau mentah tanpa memecahkan cangkangnya!"
+
+Mendengar tantangan itu, para pembeli dan pedagang pasar hanya bisa terdiam bingung, karena cangkang telur bebek itu tampak persis sama dari luar.
+
+Namun belum sampai sepuluh detik kepanikan pasar berlangsung, Ki Udin yang sedang melintas mengenakan baju lurik bergaris langsung melangkah maju sambil tersenyum licik: "Wahai Tuan Juragan yang terhormat, simpan kantong emasmu baik-baik. Biar hamba buktikan mana telur matang dan mana telur mentah tanpa merusak cangkangnya sedikit pun sekarang juga!"
+
+Juragan Somad tertawa terbahak-bahak meremehkan: "Hahaha! Orang tua kampung sok pinter! Cangkang telur ini tertutup rapat! Mana mungkin kamu bisa melihat isinya tanpa dipecahkan, hah?!"
+
+Ki Udin tidak membuang waktu untuk berdebat kusir. Ia melangkah menuju meja potong daging dari batu marmer putih yang halus di tengah pasar. Ki Udin mengambil sebutir telur milik juragan dan sebutir telur rebus matang pembanding. Di hadapan ratusan pasang mata yang menonton tegang, Ki Udin memutar kedua telur tersebut di atas meja marmer dengan jentikan jarinya!
+
+Seketika keajaiban sains terjadi di depan mata! Telur yang sudah matang berputar dengan sangat kencang, tegak lurus, dan stabil bagai gasing mainan anak-anak. Sedangkan telur dagangan sang juragan berputar sangat lambat, oleng ke kanan dan ke kiri, lalu bergoyang tak seimbang seolah mau roboh!
+
+Ki Udin lalu menyentuh puncak kedua telur itu dengan ujung telunjuknya selama setengah detik. Telur yang matang seketika berhenti total saat disentuh. Namun aneh bin ajaib, telur dagangan sang juragan yang disentuh justru kembali berputar dan bergoyang pelan dengan sendirinya!
+
+Alun-alun pasar seketika gempar oleh decak kagum! Ki Udin tersenyum membeberkan ilmunya: "Wahai warga sekalian, perhatikan! Telur yang matang isinya sudah memadat menjadi satu kesatuan utuh, sehingga putarannya stabil dan langsung berhenti saat disentuh. Sedangkan telur mentah isinya masih berupa cairan encer! Ketika diputar, cairan di dalamnya tertinggal dan menahan putaran cangkang sehingga oleng. Dan saat disentuh sesaat, cairan di dalam telur masih terus berputar karena inersia, membuat telurnya bergoyang lagi!"
+
+Prajurit keraton yang mengawal pasar langsung mengambil telur oleng tersebut dan memecahkannya ke dalam mangkuk tanah liat—KRAAAK! Seketika kuning telur mentah yang cair dan berlendir tumpah ruah ke mangkuk! Terbukti bahwa seluruh dagangannya adalah telur mentah palsu!
+
+Wajah Juragan Somad seketika pucat pasi bagai mayat! Panik hendak kabur menyelamatkan diri dari amukan warga, kakinya malah tersandung keranjang telurnya sendiri—GUBRAK! Puluhan telur mentah tumpah ruah menimpa kepalanya, membuat wajah dan kumis melengkungnya mandi lelehan kuning telur mentah yang amis dan lengket!
+
+Seluruh warga pasar tertawa terbahak-bahak menyoraki sang penipu! Prajurit keraton langsung menyita seluruh uang emas sang juragan untuk mengganti kerugian para ibu rumah tangga, sementara Ki Udin tersenyum bahagia melihat keadilan dan kecerdikan kembali menang di tanah keraton!
+
+[bgmStyle]
+(1) 0-35s: Bustling traditional market ambiance, shouting merchant SFX, clinking gold coins (klining!), curious crowd murmuring voices.
+(2) 35-70s: Whirring spinning egg SFX (wuuush-wuuush), smooth marble tabletop scraping SFX, crowd excited gasps and pointing whispers.
+(3) 70-115s: Crisp finger tap SFX (tik!), raw egg cracking sound (kreeek-plop!), dramatic brass sting (jreeeng!), boisterous crowd laughter and cheers.
+(4) 115-150s: Comical squish splat SFX (crooosh!), boisterous market crowd belly laughter, triumphant gamelan melody ending, cheerful applause.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font pasar jenaka hangat, warna kuning telur kemilau dengan outline cokelat tembaga tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria tua Jawa berambut putih cerdik mengenakan baju lurik bergaris dan selendang batik tersenyum penuh kemenangan memutar telur di meja marmer, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Juragan Telur Culas",
+"description": "Pria saudagar tambun berkumis melengkung memakai beskap sutra kuning mencolok terbelalak panik pucat pasi ketakutan, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Prajurit Pengawal Pasar",
+"description": "Prajurit keraton berbadan tegap berseragam lurik prajurit dan blangkon memegang tombak sambil tertawa puas melihat terbongkarnya penipuan, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

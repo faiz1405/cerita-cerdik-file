@@ -1,0 +1,148 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Keadilan (Jebakan Sumur Belerang). Rentenir serakah yang baru menyita tanah warga dijebak oleh Ki Udin dengan rumor harta karun di sumur tua. Rentenir turun ke sumur di malam hari karena melihat pantulan emas, yang ternyata hanya pantulan cermin tembaga di sumur belerang yang panas dan bau. Ki Udin menolak menarik rentenir naik sebelum ia merobek semua surat utang warga.
+
+# [purpose]
+Mitos vs Fakta (Keadilan/Schadenfreude). Mengikuti FLSR Framework dan Neuromarketing: memicu Cortisol di awal melihat kekejaman Rentenir, lalu membanjiri otak penonton dengan Dopamine saat Rentenir terjebak dan dipaksa merobek surat utang.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Penggemar sindiran sosial, isu korupsi, dan komedi kearifan lokal).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up (*First 3 Seconds - Hook*). Di tengah gelapnya malam, Rentenir berwajah rakus melongok ke bawah sebuah sumur bata tua. Dari dasar air memantul cahaya keemasan yang sangat terang menyinari wajah si Rentenir. Ia tertawa gembira memamerkan gigi emasnya. TEXT OVERLAY BOLD: "HARTA KARUN DI SUMUR? / RENTENIR KENA BATUNYA!".
+    ENVIRONMENT: NIGHT. Gelap, cahaya kuning keemasan memantul dari dasar sumur.
+    SUBJECT: Rentenir serakah, wajah rakus, memegang pinggiran sumur.
+    ACTION: Rentenir tertawa serakah melihat ke bawah (*slow motion*). SFX: Jumpscare Drum Hit, Tawa Serakah, Suara percikan air.
+    NARASI: "Rentenir serakah tertawa kegirangan di tengah malam buta! Matanya terbelalak melihat kilauan ratusan koin emas dari dasar sumur tua!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Flashback / Medium Wide (*Leverage Emotion - Cortisol Spike*).
+    ENVIRONMENT: DAY. Halaman desa yang gersang.
+    SUBJECT: Rentenir merampas kertas (sertifikat) dari tangan ibu-ibu desa yang menangis bersimpuh.
+    ACTION: Rentenir menendang debu dan tertawa sombong tanpa ampun.
+    NARASI: "Siang harinya, Rentenir kejam ini baru saja merampas seluruh sertifikat tanah milik warga desa miskin yang tak mampu membayar utang dengan bunga gila-gilaan. Warga desa menangis histeris karena kehilangan tempat tinggal, tapi si Rentenir malah tertawa sombong tanpa ampun."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Medium Shot (*Tension Building*).
+    ENVIRONMENT: DAY. Warung kopi desa kayu.
+    SUBJECT: Ki Udin tersenyum cerdik sambil berbisik kepada warga.
+    ACTION: Kamera mendekat (Slow Zoom-in). Ki Udin tersenyum penuh tipu muslihat. SFX: Sneaky Whoosh.
+    NARASI: "Melihat ketidakadilan itu, Ki Udin yang cerdik diam-diam menyebar rumor mematikan. Ia bercerita dengan suara pelan di warung kopi bahwa ada peti harta karun keraton yang terkubur di dasar sumur tua desa, dan hanya bisa diambil saat bulan purnama!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Medium Action (*Climax Preparation*).
+    ENVIRONMENT: NIGHT. Bibir sumur tua.
+    SUBJECT: Rentenir melompat masuk ke dalam ember kayu raksasa yang diikat tali katrol.
+    ACTION: Ia memegang erat tali katrol dan meluncur turun ke dalam sumur yang gelap.
+    NARASI: "Telinga si Rentenir langsung memerah karena keserakahan. Tepat tengah malam, ia mengendap-endap membawa karung besar. Saat melongok ke dalam sumur, ia melihat kilauan cahaya keemasan yang sangat terang! Tanpa pikir panjang, Rentenir itu melompat ke dalam ember kayu dan menurunkan dirinya ke dasar sumur yang sangat dalam."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Close-up di dasar sumur (*Solution & Shift - Dopamine Hit*).
+    ENVIRONMENT: NIGHT. Dasar sumur berkabut asap hijau kekuningan (belerang).
+    SUBJECT: Rentenir mendarat, memegang hidungnya panik dan kepanasan.
+    ACTION: Asap tebal belerang mengepul. Rentenir melihat ke bawah air, ternyata kilauan emas itu berasal dari sebuah cermin tembaga datar! SFX: Record Scratch, Funny Boing.
+    NARASI: "Tapi sesampainya di bawah... BOOM! Bau busuk belerang yang sangat panas dan mencekik langsung menyengat hidungnya! Ternyata tak ada sekeping pun koin emas di sana! Kilauan itu hanyalah pantulan cahaya bulan purnama dari sebuah cermin tembaga yang sengaja diletakkan Ki Udin!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: High Angle & Low Angle bergantian (*Reward & Resolution*).
+    ENVIRONMENT: NIGHT. Ki Udin di bibir sumur menatap ke bawah.
+    SUBJECT: Ki Udin (tersenyum sinis memegang tali katrol) vs Rentenir (kepanasan di dasar sumur).
+    ACTION: Ki Udin menggelengkan jari telunjuknya.
+    NARASI: "Rentenir itu menjerit panik minta ditarik naik. Tapi Ki Udin sudah berdiri tegak di bibir sumur, memegang tali katrol dengan senyum sinis. Ki Udin berteriak dari atas, 'Harta di dalam sumur itu milikmu, tapi tali katrol ini milikku! Robek semua sertifikat tanah warga sekarang juga, atau kau ku biarkan menginap bersama bau belerang sampai pagi!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Slapstick Payoff (*Oxytocin Bridge*).
+    ENVIRONMENT: NIGHT. Dasar sumur belerang.
+    SUBJECT: Rentenir menangis meraung-raung merobek kertas sertifikat utang jadi serpihan.
+    ACTION: Asap belerang makin tebal, wajahnya memerah kepanasan. Hard cut ke hitam. SFX: Kertas dirobek, Tawa lepas warga.
+    NARASI: "Tersiksa oleh udara panas dan bau busuk yang mematikan, Rentenir serakah itu akhirnya menangis meronta-ronta sambil merobek surat utang warga menjadi serpihan kecil! Sekali lagi, keadilan berpihak pada rakyat berkat kecerdikan Ki Udin!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Rentenir serakah tertawa kegirangan di tengah malam buta! Matanya terbelalak melihat kilauan ratusan koin emas dari dasar sumur tua!
+Siang harinya, Rentenir kejam ini baru saja merampas seluruh sertifikat tanah milik warga desa miskin yang tak mampu membayar utang dengan bunga gila-gilaan.
+Warga desa menangis histeris karena kehilangan tempat tinggal, tapi si Rentenir malah tertawa sombong tanpa ampun.
+<break time="1.0s"/>
+
+Melihat ketidakadilan itu, Ki Udin yang cerdik diam-diam menyebar rumor mematikan.
+Ia bercerita dengan suara pelan di warung kopi bahwa ada peti harta karun keraton yang terkubur di dasar sumur tua desa, dan hanya bisa diambil saat bulan purnama!
+Telinga si Rentenir langsung memerah karena keserakahan.
+Tepat tengah malam, ia mengendap-endap membawa karung besar. Saat melongok ke dalam sumur, ia melihat kilauan cahaya keemasan yang sangat terang!
+Tanpa pikir panjang, Rentenir itu melompat ke dalam ember kayu dan menurunkan dirinya ke dasar sumur yang sangat dalam.
+<break time="1.0s"/>
+
+Tapi sesampainya di bawah... BOOM! Bau busuk belerang yang sangat panas dan mencekik langsung menyengat hidungnya!
+Ternyata tak ada sekeping pun koin emas di sana!
+Kilauan itu hanyalah pantulan cahaya bulan purnama dari sebuah cermin tembaga yang sengaja diletakkan Ki Udin!
+<break time="1.0s"/>
+
+Rentenir itu menjerit panik minta ditarik naik. Tapi Ki Udin sudah berdiri tegak di bibir sumur, memegang tali katrol dengan senyum sinis.
+Ki Udin berteriak dari atas, "Harta di dalam sumur itu milikmu, tapi tali katrol ini milikku! Robek semua sertifikat tanah warga sekarang juga, atau kau kubiarkan menginap bersama bau belerang sampai pagi!"
+Tersiksa oleh udara panas dan bau busuk yang mematikan, Rentenir serakah itu akhirnya menangis meronta-ronta sambil merobek surat utang warga menjadi serpihan kecil!
+Sekali lagi, keadilan berpihak pada rakyat berkat kecerdikan Ki Udin!
+
+# [bgmStyle]
+Skor detektif komedi ala "Sneaky Comedy". Awal musik gelap dan mencekam saat Rentenir mengintip, lalu berubah tragis saat flashback merampas tanah. Saat Ki Udin menyebar rumor, tempo menjadi misterius dan mengendap-endap. Saat rentenir sampai di bawah (Aha Moment), musik berhenti dengan SFX Record Scratch, berganti ke musik komedi Slapstick bertempo cepat. Diakhiri sorak-sorai riuh warga desa.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'Rentenir serakah', 'kilauan ratusan koin emas', 'bunga gila-gilaan', 'harta karun keraton', 'bau busuk belerang', 'cermin tembaga', 'Robek semua sertifikat', 'kepanasan', 'surat utang warga', 'kecerdiakan Ki Udin'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Rentenir Serakah (ROLE_02)",
+        "description": "Wealthy arrogant loan shark, greedy expression, wearing shiny red javanese silk shirt and golden necklaces. Laughing evilly, then turning into panicked, sweaty, and crying face in a sulfur well. ANTAGONIS. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan lingkungan dibuat dalam gaya stop-motion claymation bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA: Pencahayaan malam (Night lighting) dengan dominasi cahaya kuning emas terang dari pantulan dasar air sumur, kontras dengan bayangan gelap dinding sumur bata. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

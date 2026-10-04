@@ -1,0 +1,77 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 32 (SEASON 3 EPISODE 2)
+Judul Episode: Membedakan Telur Matang dan Mentah Tanpa Memecahkannya (Eps 32 / S3E02)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Tema Utama: Food Logic & Visual Dopamine - Trik Putaran Sentrifugal Telur
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membedakan Telur Matang dan Mentah Tanpa Memecahkannya
+- Clicky Video Headline: JUAL TELUR MENTAH DIBILANG TELUR ASIN MATANG?! AKAL CERDIK KI UDIN PUTAR TELUR DI MEJA MARMER BIKIN JURAGAN CULAS MANDI KUNING TELUR!
+- Single Video Title: Cerita Cerdik Ki Udin Season 3 - Membedakan Telur Matang dan Mentah (Eps 32)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Inside a sunny traditional Javanese marketplace with woven bamboo canopies, a chubby arrogant egg merchant in an opulent yellow silk beskap and red batik jarik slams a heavy wooden market table beside bamboo egg baskets, waving a jingling pouch of gold coins, shouting loudly in thick authentic Javanese accent: "Endog asinku iki mateng gurih! Sopo sing wani taruhan emas nek iso mbuktekno nek iki mentah tanpa mecah?!" with clear authentic Javanese spoken dialogue audio. Before the crowd, Ki Udin steps forward with a brilliant witty smirk, raising his hand calmly to accept the bet. Fluid clay stop-motion character animation, comical expressive sneer, gentle slow camera zoom-in, 3-second looping video motion, warm morning marketplace lighting, clay earthenware spice jars and market crowd in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a vibrant traditional Javanese market square, Ki Udin clay figure with short white clay hair in a striped lurik shirt smiles with triumphant witty confidence, leaning over a polished white marble tabletop where one cooked egg spins upright at high speed like a smooth spinning top, while another raw egg wobbles sluggishly and clumsily. In the background, a chubby corrupt egg merchant in a bright yellow silk beskap clutches his head in comical panic with jaw dropped open, as royal guards and smiling village market mothers in batik kebaya point and laugh in amazement. Radiant morning tropical sunlight, rich clay textures, wicker baskets, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan: Seluruh aset karakter menggunakan latar belakang transparan / clean cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah Juragan dibuat BERSIH tanpa noda telur, efek tumpahan telur akan ditambahkan via CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Penasihat Cerdik Keraton) ---
+Option A (Pede & Senyum Kemenangan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, holding items, eggs, tools, background, room, scenery, market, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Berpikir Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden royal silk sash. Standing pose with a cheerful witty expression, one hand touching his chin in thoughtful amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, eggs, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. JURAGAN TELUR CULAS (Chubby Corrupt Egg Merchant - CLEAN FACE / TANPA NODA TELUR) ---
+Option A (Sombong / Arrogant Pose - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese merchant with a clean fair face, curled black mustache, and a brown batik blangkon. Wearing an opulent bright yellow silk beskap, gold necklace chains, gemstone rings, and red batik jarik skirt. Comical arrogant sneering expression with hands placed on his hips, empty hands, holding no objects, holding nothing, no props, completely clean skin without any egg yolk stains or dirt, immaculate clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, egg basket, money bag, egg yolk, egg stains, messy clothes, dirty face, background, room, market, scenery, photorealistic, 3d CGI cartoon]
+
+Option B (Panik / Terrified Shock Pose - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese merchant with a clean fair face, curled mustache, and blangkon. Wearing a bright yellow silk beskap and red batik jarik. Comical shocked panicked face with wide bulging eyes and mouth agape, empty hands raised in shock without holding anything, no props, completely clean face without any egg yolk or stains, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, egg yolk, dirty face, stains, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. PRAJURIT PENGAWAL PASAR (Market Royal Guard) ---
+Option A (Tegas & Waspada - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A strong muscular Javanese royal palace guard with a stern confident expression, wearing a traditional striped lurik warrior shirt, black keraton blangkon, red waist sash, and batik wrap. Standing upright with a disciplined authoritative posture, empty hands resting naturally at sides, holding no objects, holding no spear, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding weapons, holding spear, sword, background, market, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Tertawa Lepas / Senang - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A strong Javanese royal palace guard wearing a striped lurik warrior shirt, black blangkon, and red waist sash. Laughing heartily with an amused broad smile, hands resting on his leather belt, empty hands, holding no objects, holding no weapons, no props, isolated full body on a clean transparent background, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding spear, weapons, background, market, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+- Frasa Pengunci Style (Wajib di Awal Setiap Shot & Prompt Video):
+  `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese market square setting`
+- Negative Constraints (Anti-Orang Asli & Anti-3D CGI):
+  `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]`
+- Karakter Manusia Saja: Daftar karakter hanya boleh diisi oleh karakter manusia hidup (Ki Udin, Juragan Telur Culas, Prajurit Pengawal Pasar).

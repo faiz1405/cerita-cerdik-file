@@ -1,0 +1,162 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Teka-teki Logika (Tiga Pintu Gudang Saudagar). Saudagar pelit menyembunyikan maling beras di balik salah satu dari 3 pintu gudang. Hanya satu petunjuk pintu yang jujur. Ki Udin menggunakan logika deduksi (If/Then) untuk memecahkan teka-teki dan mendobrak pintu kedua yang berisi maling. Saudagar pelit kalah taruhan.
+
+# [purpose]
+Teka-teki Logika Interaktif. Memancing retensi audiens (Hold Rate) tinggi karena penonton harus berpikir keras bersama Ki Udin. Memancing komentar audiens yang ingin mencoba menjelaskan ulang logikanya.
+
+# [audience]
+Masyarakat Indonesia 18-45 tahun (Penggemar riddle, teka-teki, dan komedi kearifan lokal).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up. Saudagar kaya berbaju emas tertawa meremehkan sambil menunjuk ke arah 3 pintu kayu gudang berjejer. Di setiap pintu ada papan tulisan. TEXT OVERLAY BOLD: "TEBAK PINTU MANA? / 99% WARGA GAGAL!".
+    ENVIRONMENT: DAY. Halaman luas depan gudang kayu, cahaya siang terik yang dramatis.
+    SUBJECT: Saudagar pelit, angkuh.
+    ACTION: Saudagar tertawa meremehkan, warga di sekitarnya kebingungan dan panik (*slow motion*). SFX: Jumpscare Hit, Tawa Sombong.
+    NARASI: "Saudagar pelit menyembunyikan pencuri beras desa di salah satu dari tiga pintu gudang raksasa!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium pan.
+    ENVIRONMENT: DAY.
+    SUBJECT: Tiga pintu kayu dengan papan kayu bertuliskan teks.
+    ACTION: Kamera menggeser menyorot ketiga pintu secara berurutan. SFX: Whoosh.
+    NARASI: "Syaratnya: Hanya SATU tulisan pintu yang jujur! Jika warga salah tebak, beras sekampung disita!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Close-up Pintu. (Pacing Anti-Drop Detik 5-15).
+    ENVIRONMENT: DAY.
+    SUBJECT: Pintu 1, Pintu 2, Pintu 3.
+    ACTION: Kamera menyorot cepat ke arah masing-masing pintu sesuai VO. SFX: Pop (x3). <break time="1.0s"/>
+    NARASI: "Pintu satu bertuliskan: Maling ada di sini. Pintu dua: Maling tidak ada di sini. Pintu tiga: Maling tidak ada di pintu satu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Medium Two-Shot.
+    ENVIRONMENT: DAY.
+    SUBJECT: Warga desa menangis memegang kepala. Ki Udin maju menenangkan mereka.
+    ACTION: Ki Udin memegang dagunya, tersenyum cerdik menganalisis masalah.
+    NARASI: "Warga panik kebingungan. Namun Ki Udin maju sambil tersenyum tenang."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium shot Ki Udin (Menjelaskan).
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin menunjuk pintu satu.
+    ACTION: Muncul grafis silang merah besar (X) di atas pintu satu. SFX: Buzzer (Salah).
+    NARASI: "Ia menjelaskan, 'Jika maling di pintu satu, maka tulisan pintu satu dan pintu dua sama-sama benar. Itu menyalahi syarat!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium shot Ki Udin.
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin menunjuk pintu tiga.
+    ACTION: Muncul grafis silang merah besar (X) di atas pintu tiga. SFX: Buzzer (Salah).
+    NARASI: "'Jika maling di pintu tiga, maka tulisan pintu dua dan tiga sama-sama benar. Itu juga salah!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Close up mata Ki Udin.
+    ENVIRONMENT: DAY.
+    SUBJECT: Mata Ki Udin menyala tajam.
+    ACTION: Ki Udin menunjuk mantap ke Pintu Dua.
+    NARASI: "'Tapi jika maling bersembunyi di pintu DUA, maka hanya tulisan pintu TIGA yang benar!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Action.
+    ENVIRONMENT: DAY.
+    SUBJECT: Pintu dua terbuka keras.
+    ACTION: Ki Udin menendang pintu dua. Pencuri (Maling) berwajah kaget jatuh terjungkal di tumpukan karung beras. SFX: Door Kick, Ta-daa!, Slip!
+    NARASI: "Ki Udin pun mendobrak pintu dua! TAA-DAA! Maling beras itu jatuh terjungkal!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Wide shot Reaksi.
+    ENVIRONMENT: DAY.
+    SUBJECT: Saudagar pelit pucat, pingsan terjatuh ke belakang. Warga bersorak.
+    ACTION: Saudagar pingsan kaku seperti papan kayu. Warga menggotong beras. Hard cut ke hitam. SFX: Thud, Crowd Cheer.
+    NARASI: "Saudagar pelit pucat pasi karena kalah taruhan. Kecerdasan Ki Udin kembali menyelamatkan desa!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Saudagar pelit menyembunyikan pencuri beras desa di salah satu dari tiga pintu gudang raksasa!
+Syaratnya: Hanya SATU tulisan pintu yang jujur! Jika warga salah tebak, beras sekampung disita!
+Pintu satu bertuliskan: Maling ada di sini.
+Pintu dua: Maling tidak ada di sini.
+Pintu tiga: Maling tidak ada di pintu satu.
+<break time="1.0s"/>
+
+Warga panik kebingungan. Namun Ki Udin maju sambil tersenyum tenang.
+Ia menjelaskan, "Jika maling di pintu satu, maka tulisan pintu satu dan pintu dua sama-sama benar. Itu menyalahi syarat!"
+"Jika maling di pintu tiga, maka tulisan pintu dua dan tiga sama-sama benar. Itu juga salah!"
+<break time="1.0s"/>
+
+"Tapi jika maling bersembunyi di pintu DUA, maka hanya tulisan pintu TIGA yang benar!"
+Ki Udin pun mendobrak pintu dua! TAA-DAA! Maling beras itu jatuh terjungkal!
+Saudagar pelit pucat pasi karena kalah taruhan.
+Kecerdasan Ki Udin kembali menyelamatkan desa!
+
+# [bgmStyle]
+Skor detektif misterius ala "Sneaky Comedy" yang memacu adrenalin otak di awal saat membacakan petunjuk. Saat Ki Udin mulai memecahkan teka-teki, musik berganti ke ketukan tempo cepat ala "Heist/Mission Impossible" komedi. Diakhiri SFX dobrak pintu, TA-DAA!, dan sorak-sorai riuh warga desa.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'tiga pintu gudang', 'Hanya SATU tulisan', 'beras sekampung disita', 'sama-sama benar', 'menyalahi syarat', 'pintu DUA', 'mendobrak pintu', 'Saudagar pelit pucat'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Saudagar (ROLE_02)",
+        "description": "Wealthy arrogant village merchant, wearing luxurious shiny gold javanese shirt and golden blangkon. Laughing mockingly then turning pale and fainting. ANTAGONIS. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Maling (ROLE_03)",
+        "description": "Clumsy village thief wearing black shirt and black mask covering his mouth. Surprised and falling comically. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan lingkungan dibuat dalam gaya stop-motion claymation bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA TEKA TEKI: Pencahayaan siang terik (Daylight) dengan bayangan tajam. Papan kayu tulisan harus terlihat jelas. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

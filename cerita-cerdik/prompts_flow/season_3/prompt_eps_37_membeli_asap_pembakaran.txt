@@ -1,0 +1,61 @@
+===================================================================
+PROMPT FLOW & ASSET GENERATION: EPS 37 - Membeli Asap 1 Koin
+Target Engine: Google Veo 3.1 (Video) & Imagen 3 (Images)
+Rasio: 9:16 (Vertical) & 16:9 (Horizontal)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+- Judul Utama: Membeli Asap 1 Koin
+- Clicky Headline: Juragan Kena Skakmat Kontrak Asap!
+- Single Video Title: KI UDIN BELI ASAP PEMBAKARAN LAHAN 1 KOIN
+
+-------------------------------------------------------------------
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target: Google Veo 3.1
+Ratio: 9:16
+Description: Adegan hook dinamis menampilkan Ki Udin memegang kertas segel dan menunjuk ke arah Juragan Tejo yang terbatuk-batuk tercekik asap di pendoponya.
+
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional Javanese village pendopo setting. 9:16 vertical looping motion. In the foreground, Ki Udin (an old man with white hair, wearing traditional Javanese lurik shirt) smiling mischievously holding a piece of official paper seal and a shiny copper coin, pointing forward. In the background, Juragan Tejo (a wealthy merchant in expensive batik sarong) is violently coughing and waving his hands, surrounded by thick grey smoke filling his luxurious house. Dramatic lighting, chaotic and comedic atmosphere, clear action of coughing. Shouting loudly in Javanese accent: "Waduh kobongan! Sarungku kobong!" with clear authentic Javanese spoken dialogue audio.
+
+Negative Prompt:
+[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+-------------------------------------------------------------------
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target: Google Imagen 3
+Ratio: 9:16 & 16:9
+
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation. Dramatic and chaotic scene. A wealthy Javanese merchant (Juragan Tejo) wearing an expensive batik sarong is slipping and falling face-first into a puddle of dirty mud, holding a wooden bucket. Surrounding him is thick grey smoke from a burning grass field. In the foreground, an old Javanese village man (Ki Udin) wearing a lurik shirt stands calmly with his hands on his hips, smiling victoriously, holding a small copper coin and a paper scroll. In the background, village women are laughing. Traditional Javanese village setting, dramatic lighting, high contrast.
+
+-------------------------------------------------------------------
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BG & NO PROPS)
+
+# CHARACTER 1: Ki Udin (The Witty Sage)
+Option A (Holding paper / Victorious):
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation. Isolated full body of Ki Udin, a wise old Javanese man with white hair and a white mustache, wearing a traditional brown striped lurik shirt and brown pants. Calm mischievous smile, innocent eyes. Empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery.
+
+Option B (Neutral):
+Consistent comical claymation style, soft plasticine clay texture. Full body of Ki Udin, traditional brown lurik shirt. Neutral calm expression. Empty hands, no props. Isolated on solid white background.
+
+# CHARACTER 2: Juragan Tejo (The Arrogant Merchant)
+Option A (Coughing/Panicked):
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation. Isolated full body of Juragan Tejo, a wealthy Javanese merchant with a plump body and a mustache, wearing a luxurious gold and red batik sarong and a traditional blangkon hat. Exaggerated shocked and panicked face, wide opened eyes, mouth open as if coughing. Empty hands, hands raised in panic, holding no objects, holding nothing, no props. Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery.
+
+Option B (Arrogant laughing):
+Consistent comical claymation style, soft plasticine clay texture. Full body of Juragan Tejo. Arrogant laughing expression, greedy eyes. Empty hands, hands on hips, no props. Isolated on solid white background.
+
+# CHARACTER 3: Ibu Warga Desa (The Village Women)
+Option A (Angry/Protesting):
+Consistent comical claymation style, soft plasticine clay texture. Isolated full body of a traditional Javanese village woman wearing a simple kebaya and batik skirt. Angry expression, protesting, furrowed brows. Empty hands, pointing finger, holding no objects, no props. Clean face, unblemished. Isolated on transparent background, clean alpha cutout edges.
+
+Option B (Laughing):
+Consistent comical claymation style, soft plasticine clay texture. Isolated full body of Javanese village woman. Cheerful laughing expression. Empty hands, holding no objects. Isolated on transparent background.
+
+-------------------------------------------------------------------
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL
+Gunakan frasa pengunci wajib di awal setiap prompt:
+"Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village / royal palace setting."
+Negative Constraints Ketat: "[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]"
+===================================================================

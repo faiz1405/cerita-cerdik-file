@@ -1,0 +1,29 @@
+===================================================================
+EPS 06: Membeli Bau Masakan dengan Denting Uang Emas (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membeli Bau Masakan dengan Denting Uang Emas 🍲💸
+- Clicky Headline: "Niatnya Cuma Hirup Bau Gulai, Eh Ditagih Bayaran?! Ki Udin Punya Cara Konyol Buat Bayarnya! 🍲🤣"
+- Caption Teks: Cuma menghirup bau gulai, malah ditagih bayaran uang emas oleh saudagar kikir! 🍲💸 Untung ada Ki Udin yang membela pakai akal konyol: bau masakan dibayar pakai bunyi denting uang! Menurut kalian, saudagar kikirnya pantes gak dikerjain Ki Udin begitu? Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot inside a grand Javanese royal palace pendopo. Ki Udin clay figure, a clever Javanese man with short white hair wearing a blangkon, sarong, and lurik shirt, actively shakes a heavy pouch of golden coins right next to an arrogant greedy merchant clay figure's ear. Golden coins clink together. In the background, Sultan Prabu clay figure on his golden throne laughs hysterically holding his belly. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair mischievously shaking a sparkling pouch of gold coins near a greedy merchant's ear. On the right, an arrogant greedy merchant clay figure in rich robes looking frozen in total embarrassment with a red face. In the background, Sultan Prabu laughing heartily on his golden throne. Soft clay modeling textures, bright sunny palace vibes, highly detailed 9:16 aspect ratio.

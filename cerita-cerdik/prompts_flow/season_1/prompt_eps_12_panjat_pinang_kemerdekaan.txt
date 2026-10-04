@@ -1,0 +1,65 @@
+===================================================================
+EPS 12: Akal Cerdik Panjat Pinang Kemerdekaan (Edisi Spesial 17 Agustus)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & Instagram Reels - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+Framework: FLSR Winning Content & Neuromarketing Director (Patriotic Pride & System 1 Retention)
+Edisi Khusus: Hari Kemerdekaan Republik Indonesia (17 Agustus)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Akal Cerdik Panjat Pinang Kemerdekaan 🇮🇩🎋
+- Clicky Headline: "Tiang Panjat Pinang Dilumuri Oli Licin Sama Tuan Tanah Sombong, Ki Udin Taklukkan Pakai Jurus Gotong Royong 17 Agustus! 🇮🇩🎋🤣"
+- Caption Teks FB: Tiang panjat pinang dilumuri oli ekstra licin sama Tuan Tanah sombong, Ki Udin kalahkan pakai jurus GOTONG ROYONG! 🇮🇩🎋🤣 Spesial 17 Agustus, bukti kalau kita bersatu gak ada yang bisa ngalahin! Dirgahayu Republik Indonesia! Tulis 'MERDEKA' di komentar! 👇
+- Caption Teks IG: Tiang panjat pinang dilumuri oli ekstra licin sama Tuan Tanah sombong, Ki Udin kalahkan pakai jurus GOTONG ROYONG! 🇮🇩🎋🤣 Spesial 17 Agustus, bukti kalau bersatu kita teguh bercerai kita runtuh! 📌 Tulis 'MERDEKA' di kolom komentar dan klik [ IKUTI / FOLLOW ] di profil @ceritacerdik!
+
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a vibrant festive Javanese village festival square decorated with fluttering red-and-white Indonesian flags (Merah Putih), a giant 10-meter shiny black greasy palm pole (pinang) stands tall with gold bags and an Indonesian flag at the top. Ki Udin clay figure with short white hair wearing a red-and-white headband stands at the muddy base, raising his fist and shouting enthusiastically in Javanese accent: "Ayo bareng-bareng! Gotong royong kuncine! Merdeka!". Behind him, agile village youths in muddy shorts quickly climb onto each other's sturdy shoulders forming an energetic human pyramid. Clear authentic Javanese spoken dialogue audio, fluid claymation character animation, dynamic upward tilting camera movement, 3-second looping video motion, bright festive morning sunlight, red-and-white festive buntings background, floating celebratory confetti particles, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[english speech, english dialogue, western accent, english audio, subtitles, text overlay, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay modeling textures. High contrast humorous festive scene tailored for vertical mobile screens: In the foreground, Ki Udin clay figure with short white hair and a red-and-white headband smiling proudly, pointing upward. In the center, a group of funny muddy Javanese village youths forming a heroic human pyramid ladder around a tall greasy black palm pole, with the top boy triumphantly waving the Indonesian red-and-white flag (Merah Putih). On the right, an arrogant colonial landlord clay figure in a white suit and safari hat looking pale with wide popped-out eyes, dropping his cup in shock. Festive village background with flying red-and-white confetti, lush coconut trees, sunny morning lighting, cinematic depth of field, highly detailed 9:16 vertical aspect ratio, no studio void.
+
+
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+-------------------------------------------------------------------
+Tool Target: Gemini Chat / Google Imagen 3
+
+▶ OPTION A: IN-SCENE CHARACTER FRAME (RECOMMENDED FOR CAPCUT / SEEDANCE)
+(Gunakan prompt ini agar gambar karakter sudah langsung memiliki latar pemandangan alami festival kemerdekaan desa dan TIDAK menghasilkan latar putih saat di-render di CapCut)
+
+• Karakter 1: Ki Udin (In-Scene Keyframe Spesial 17 Agustus)
+Prompt:
+Full body character shot of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a vibrant red-and-white batik headband, traditional striped brown lurik shirt, and sarung. Raising his right fist with an inspiring confident smile, standing in the center of a sunny village festival square decorated with fluttering red-and-white Indonesian flags and festive paper buntings, warm morning sunlight, lush tropical village background, full rich festival setting, no plain white background, no studio void, 8k resolution.
+
+• Karakter 2: Tuan Tanah Sombong (In-Scene Keyframe)
+Prompt:
+Full body character shot of an arrogant colonial landlord in comical claymation style, soft plasticine clay texture. A chubby proud middle-aged European official in an ornate clean white colonial suit, vintage boots, and a white pith sun hat. Shocked pale expression with popped-out bulging eyes, jaw dropped wide open in disbelief, hands placed on his hips, standing in a sunny Javanese village festival square decorated with red-and-white flags, warm natural daytime lighting, full rich environmental festival background, no plain white background, no blank studio backdrop, 8k resolution.
+
+• Karakter 3: Pemuda Desa Merdeka (In-Scene Keyframe)
+Prompt:
+Full body character shot of an agile athletic Javanese village youth in comical claymation style, soft plasticine clay texture. A cheerful brave young man with brown batik shorts, joyfully waving a vibrant red-and-white Indonesian flag above his head with a broad victorious grin. Standing proudly atop a bamboo structure under bright blue sunny skies with fluttering red-and-white festival banners in the background, warm golden sunlight, full environmental depth, no plain white background, no studio backdrop, 8k resolution.
+
+-------------------------------------------------------------------
+▶ OPTION B: ISOLATED CHARACTER SHEET (FOR CUTOUT / STICKERS ONLY)
+
+• Karakter 1: Ki Udin (Isolated Spesial 17 Agustus)
+Prompt: Full body character design of Ki Udin in comical claymation style, soft plasticine clay texture. Wise elderly Javanese man with white hair and a red-and-white headband raising his fist with an inspiring smile, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 2: Tuan Tanah Sombong (Isolated)
+Prompt: Full body character design of a chubby arrogant colonial landlord in comical claymation style, soft plasticine clay texture. Shocked landlord in a white colonial suit and pith helmet standing with hands on hips in disbelief, isolated on a solid plain clean white background, 8k resolution.
+
+• Karakter 3: Pemuda Desa Merdeka (Isolated)
+Prompt: Full body character design of an athletic Javanese youth triumphantly waving the Indonesian Merah Putih flag, isolated on a solid plain clean white background, 8k resolution.

@@ -1,0 +1,188 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Rentenir licik ingin merampas 17 ekor kambing warisan tiga pemuda yatim karena wasiat pembagiannya mustahil (1/2, 1/3, 1/9). Ki Udin memecahkan teka-teki logika matematika kuno tingkat dewa dengan menyumbangkan 1 ekor kambing miliknya (menjadi 18), sehingga pembagian berjalan sempurna (9+6+2 = 17), lalu mengambil kembali 1 sisa kambingnya. Pembalikan keadaan terjadi saat Rentenir mengamuk dan diseruduk kambing ke dalam kubangan lumpur.
+
+# [purpose]
+Lane Family Logic Puzzle & Wealth Confiscation (Tipe B & C). Memecahkan teka-teki logika warisan yang satisfying (Aha Moment / Dopamin hit) dengan hukuman slapstick bagi rentenir serakah di akhir.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun. Sangat memicu tombol share ibu-ibu karena pesan keadilan terhadap anak yatim.
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up wajah Rentenir Sengkuni melotot sangat kejam, tertawa memamerkan gigi emasnya. Ia mengayunkan rantai besi tebal ke arah kamera di detik 0.0. TEXT OVERLAY BOLD: "WARISAN 17 KAMBING MAU DIRAMPAS?! / RENTENIR KENA JEBAKAN MATEMATIKA DEWA!".
+    ENVIRONMENT: DAY. Halaman rumah pedesaan berdebu. REGISTER KANDANG SIANG.
+    SUBJECT: Rentenir Sengkuni berwajah serakah.
+    ACTION: Ayunan rantai besi. Quick Zoom-in.
+    NARASI: "Seorang rentenir serakah yang sangat licik mau merampas warisan tujuh belas ekor kambing milik tiga pemuda yatim!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium wide shot.
+    ENVIRONMENT: DAY. Halaman rumah. REGISTER KANDANG SIANG.
+    SUBJECT: Rentenir membentak tiga pemuda yatim yang ketakutan di depan kandang.
+    ACTION: Rentenir mengancam merampas kambing dengan ekspresi sangat sadis.
+    NARASI: "Wasiat ayah mereka rumit: anak pertama dapat setengah, kedua sepertiga, ketiga sepersembilan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan (Pattern Interrupt) & Medium two-shot.
+    ENVIRONMENT: DAY. Pelataran kandang. REGISTER KANDANG SIANG.
+    SUBJECT: Kamera melakukan whip pan (bergeser kilat) dari wajah bengis rentenir ke arah Ki Udin.
+    ACTION: Tepat di detik ke-5, Ki Udin masuk menuntun satu kambing miliknya dengan senyum licik.
+    NARASI: "Karena tak bisa dibagi, rentenir mengancam menyita semuanya! Tiga yatim pun cemas ketakutan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up. HOLD.
+    ENVIRONMENT: DAY. Di depan kerumunan warga desa. REGISTER KANDANG SIANG.
+    SUBJECT: Wajah Ki Udin dari dekat bersorot penuh kalkulasi.
+    ACTION: Ki Udin melangkah maju dengan cepat, diiringi SFX gong (JENG!), langsung menyanggupi tantangan sebelum detik ke-10. <break time="1.0s"/>
+    NARASI: "Namun Ki Udin tiba-tiba datang menuntun kambingnya sambil tersenyum cerdik: Jangankan belasan ekor, hamba punya cara membagi warisan tanpa menyembelih satupun!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium shot.
+    ENVIRONMENT: DAY. Pelataran kandang. REGISTER KANDANG SIANG.
+    SUBJECT: Rentenir tertawa terbahak-bahak meremehkan.
+    ACTION: Rentenir melipat tangan mengejek, tak percaya matematika mustahil itu bisa dipecahkan.
+    NARASI: "Rentenir tertawa terbahak-bahak meremehkan, yakin matematika mustahil itu takkan bisa dipecahkan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium close-up.
+    ENVIRONMENT: DAY. Kandang kambing. REGISTER KANDANG SIANG.
+    SUBJECT: Ki Udin menuntun kambingnya menyatu dengan 17 kambing warisan.
+    ACTION: Ki Udin menyatukan kawanan kambing menjadi genap 18 ekor dengan sangat tenang.
+    NARASI: "Namun Ki Udin tetap tenang menyatukan satu kambingnya dengan tujuh belas kambing warisan, sehingga totalnya pas jadi delapan belas ekor."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium two-shot.
+    ENVIRONMENT: DAY. Pelataran. REGISTER KANDANG SIANG.
+    SUBJECT: Ki Udin mengacungkan jari, menunjuk ke arah tiga pemuda yatim secara bergantian.
+    ACTION: Ki Udin menghitung pembagian dengan lantang dan wibawa mutlak.
+    NARASI: "Dengan senyum wibawa, Ki Udin mulai membaginya: Anak pertama dapat setengah dari delapan belas, yaitu sembilan ekor! Anak kedua dapat sepertiga, yaitu enam ekor! Dan anak bungsu dapat sepersembilan, yaitu dua ekor kambing!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Extreme close-up. HOLD.
+    ENVIRONMENT: DAY. Wajah Rentenir Sengkuni. REGISTER KANDANG SIANG.
+    SUBJECT: Mata Rentenir melotot lebar, mulutnya menganga syok. Keringat dingin menetes.
+    ACTION: Rentenir panik, otaknya meledak menyadari jebakan matematika tingkat dewa tersebut. <break time="1.0s"/>
+    NARASI: "Warga desa takjub bertepuk tangan! Jika ditotal: sembilan ditambah enam ditambah dua, jumlahnya persis tujuh belas ekor! Rentenir seketika pucat pasi, mulutnya menganga lebar karena akal bulusnya patah total oleh logika matematika tingkat dewa!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Medium close-up. HOLD.
+    ENVIRONMENT: DAY. Tepi kandang. REGISTER KANDANG SIANG.
+    SUBJECT: Ki Udin membungkuk sopan mengambil sisa satu kambingnya, tersenyum licik ke arah Rentenir.
+    ACTION: Ki Udin menuntun kembali kambingnya dengan gestur pemenang mutlak. <break time="1.0s"/>
+    NARASI: "Ki Udin membungkuk hormat mengambil satu sisa kambingnya sendiri: Pembagian sudah adil, dan kambing hamba kembali dengan utuh!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 10**: Slapstick Medium shot.
+    ENVIRONMENT: DAY. Kandang lumpur. REGISTER KANDANG SIANG.
+    SUBJECT: Rentenir marah melompat, kakinya tak sengaja menginjak ekor kambing jantan raksasa.
+    ACTION: Kambing jantan mengamuk dan langsung menyeruduk pantat rentenir ("PLOK-BOING!"). Rentenir terjungkal keras ke kubangan lumpur hitam.
+    NARASI: "Rentenir mendidih amarahnya karena gagal merampas warisan! Ia melompat marah, tapi tanpa sengaja ekor kambing terbesar terinjak kakinya! Kambing jantan itu mengamuk dan langsung menyeruduk pantat sang rentenir dengan tanduk besarnya!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 11**: Wide shot.
+    ENVIRONMENT: DAY. Pelataran penuh warga. REGISTER KANDANG SIANG.
+    SUBJECT: Rentenir lari terbirit-birit menutupi pantatnya dengan wajah cemong berlumpur, dikejar sorak-sorai warga desa.
+    ACTION: Ki Udin dan tiga pemuda yatim tertawa merayakan kemenangan. Hard cut ke hitam.
+    NARASI: "Rentenir terjungkal masuk ke dalam kubangan lumpur, seluruh pakaian mewahnya basah kuyup cemong berlumpur kotor bagai kerbau mandi! Warga desa meledak dalam tawa terbahak-bahak! Rentenir lari terbirit-birit menanggung malu, dan warisan tiga anak yatim akhirnya terselamatkan!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Seorang rentenir serakah yang sangat licik mau merampas warisan tujuh belas ekor kambing milik tiga pemuda yatim!
+Wasiat ayah mereka rumit: anak pertama dapat setengah, kedua sepertiga, ketiga sepersembilan!
+Karena tak bisa dibagi, rentenir mengancam menyita semuanya! Tiga yatim pun cemas ketakutan.
+Namun Ki Udin tiba-tiba datang menuntun kambingnya sambil tersenyum cerdik:
+"Jangankan belasan ekor, hamba punya cara membagi warisan tanpa menyembelih satupun!"
+<break time="1.0s"/>
+
+Rentenir tertawa terbahak-bahak meremehkan, yakin matematika mustahil itu takkan bisa dipecahkan.
+Namun Ki Udin tetap tenang menyatukan satu kambingnya dengan tujuh belas kambing warisan, sehingga totalnya pas jadi delapan belas ekor.
+Dengan senyum wibawa, Ki Udin mulai membaginya:
+Anak pertama dapat setengah dari delapan belas, yaitu sembilan ekor!
+Anak kedua dapat sepertiga, yaitu enam ekor!
+Dan anak bungsu dapat sepersembilan, yaitu dua ekor kambing!
+
+Warga desa takjub bertepuk tangan! Jika ditotal: sembilan ditambah enam ditambah dua, jumlahnya persis tujuh belas ekor!
+Rentenir seketika pucat pasi, mulutnya menganga lebar karena akal bulusnya patah total oleh logika matematika tingkat dewa!
+<break time="1.0s"/>
+
+Ki Udin membungkuk hormat mengambil satu sisa kambingnya sendiri:
+"Pembagian sudah adil, dan kambing hamba kembali dengan utuh!"
+<break time="1.0s"/>
+
+Rentenir mendidih amarahnya karena gagal merampas warisan!
+Ia melompat marah, tapi tanpa sengaja ekor kambing terbesar terinjak kakinya!
+Kambing jantan itu mengamuk dan langsung menyeruduk pantat sang rentenir dengan tanduk besarnya!
+Rentenir terjungkal masuk ke dalam kubangan lumpur, seluruh pakaian mewahnya basah kuyup cemong berlumpur kotor bagai kerbau mandi!
+Warga desa meledak dalam tawa terbahak-bahak!
+Rentenir lari terbirit-birit menanggung malu, dan warisan tiga anak yatim akhirnya terselamatkan!
+
+# [bgmStyle]
+Skor komikal pedesaan bernuansa segar. Babak pertama drum cepat. Saat Whip pan bunyi WHOOSH. Langkah Ki Udin bunyi JENG. Jawaban logika matematika diiringi ticking clock kartun. Saat serudukan kambing SFX BOING-SPLAT. Tawa warga bersahutan, ditutup gong suwukan.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'warisan tujuh belas ekor kambing', 'menyita semuanya!', 'membagi warisan tanpa menyembelih satupun!', 'totalnya pas jadi delapan belas ekor', 'patah total oleh logika matematika tingkat dewa!', 'kambing hamba kembali dengan utuh!', 'langsung menyeruduk pantat sang rentenir', 'cemong berlumpur kotor bagai kerbau mandi!', and 'warisan tiga anak yatim akhirnya terselamatkan!'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with wooden sandals, warm mischievous smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Rentenir Sengkuni (ROLE_02)",
+        "description": "Skinny arrogant and greedy village moneylender, 45, cross-eyed slightly, gold teeth, gaudy purple silk shirt, black peci hat, clutching an iron chain. ANTAGONIS SLAPSTICK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Pemuda Yatim (ROLE_03)",
+        "description": "Three young Javanese farmers, humble, wearing faded working clothes and carrying grass sickles. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. DILARANG MEMASUKKAN UNSUR MODERN. ATURAN SLAPSTICK SARI: Serudukan kambing dan lumpur murni komikal, TANPA unsur kekerasan fisik berbahaya/darah. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

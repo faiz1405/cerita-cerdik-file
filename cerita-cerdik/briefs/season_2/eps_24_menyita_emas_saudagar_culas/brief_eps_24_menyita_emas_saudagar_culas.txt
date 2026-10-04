@@ -1,0 +1,103 @@
+[theme]
+Menyita Brankas Emas Saudagar Culas / Cerita Cerdik Season 2.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin membongkar brankas emas haram saudagar culas penimbun upeti desa, menyita seluruh hartanya untuk dibagikan kembali ke seluruh warga miskin sesuai sumpah palsu sang saudagar.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. In front of the traditional village hall pendopo, a corrupt chubby tax collector (Saudagar Karta) wearing an opulent red and gold silk robe dramatically kneels with fake tears before Sultan Prabu and poor villagers, loudly swearing a false oath that his house is empty and if there is any hidden gold, his entire wealth may be confiscated by the villagers. CapCut Effect: Dramatic Slow Zoom-in on the landlord's deceitful face and the glowing gold rings on his fingers, Claymation filter. Audio: Crowd murmuring SFX, arrogant dramatic shouting SFX, thunder clap ominous SFX. Village hall square background, wooden houses, warm morning sunlight, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang saudagar culas penimbun upeti desa bersumpah palsu di depan warga bahwa rumahnya sudah miskin, bahkan bersumpah jika ada emas haram tersimpan di rumahnya, seluruh hartanya sah dirampas untuk kas warga desa!"
+
+Shot 2 (35-70s): In the dead of night, Ki Udin sprinkles sweet honey powder and night-blooming jasmine flowers along the foundation air vents beneath the landlord's mansion. Ki Udin loudly beats the village slit-drum kentongan, shouting in alarm that subterranean gold termites are devouring the house foundation and eating all buried treasure underground. CapCut Effect: Soft Blur background with comical Slow Zoom-in on glowing insects crawling into floor vents, dramatic camera shake on Ki Udin beating the slit-drum. Audio: Bamboo slit-drum rapid beating SFX, night cricket chirping SFX, urgent shouting alarm SFX. Moonlit village courtyard background, rustic mansion walls, full environmental setting, no studio void, no white background. VO: "Tahu sang saudagar menimbun emas di bawah lantai, Ki Udin menyalakan kentongan bahaya dan berteriak bahwa rayap emas sedang menggerogoti pondasi bawah tanah rumah saudagar!"
+
+Shot 3 (70-115s): Panicked and terrified of losing his treasure, Saudagar Karta rushes out in nightclothes, frantically smashing open his own floor tiles with a crowbar in front of the assembled crowd, accidentally revealing a gigantic iron safe overflowing with thousands of dazzling gold coins and stolen jewels. CapCut Effect: Dynamic camera pan following the shattering tiles, comical slow-motion explosion of golden dust and glittering treasure, dramatic Zoom-in on the landlord's horrified dropped jaw. Audio: Stone shattering crash SFX, sparkling gold coin clinking SFX, shocked crowd gasping SFX. Grand mansion hall interior background, glittering golden treasure piles, shocked villagers watching through windows, full depth, no plain white background. VO: "Panik hartanya lenyap, sang saudagar berlari membongkar ubin lantainya sendiri di depan warga, seketika membongkar brankas raksasa berisi tumpukan emas jarahan yang selama ini ia sembunyikan!"
+
+Shot 4 (115-150s): Sultan Prabu strikes the gavel of justice, ordering the immediate confiscation of all hoarded gold to fill the village grain barn and feed impoverished families. Saudagar Karta collapses on the floor weeping hysterically, while happy villagers joyfully hoist Ki Udin onto their shoulders cheering triumphantly through the village square. CapCut Effect: Gentle Slow Zoom-out, hilarious bounce shake effect when the crowd hoists Ki Udin, warm triumphant golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheerful village celebration cheers. Sunlit village square background, overflowing golden grain carts, happy smiling village crowd, full depth. VO: "Sultan langsung menyita seluruh emas haram tersebut untuk dibagikan ke seluruh rakyat miskin, sementara sang saudagar culas menangis histeris terkena jeratan sumpahnya sendiri!"
+
+[videoNarration]
+Di sebuah kadipaten yang makmur, hiduplah seorang juragan sekaligus saudagar penarik upeti bernama Saudagar Karta yang terkenal sangat licik, tamak, dan gemar menimbun kekayaan hasil memeras keringat rakyat kecil. Ketika musim paceklik tiba dan lumbung desa kosong, Sultan Prabu mengumpulkan para orang kaya untuk menyumbangkan sebagian hartanya. Bukannya membantu, Saudagar Karta yang mengenakan jubah sutra merah bersulam benang emas justru bersujud di alun-alun sambil menangis buaya: 'Ampun Gusti Sultan! Hamba ini sudah jatuh miskin! Demi langit dan bumi, jika hamba menyembunyikan emas haram sepeser pun di dalam rumah hamba, hamba rela seluruh harta dan brankas hamba disita dan dirampas habis untuk warga desa!'
+
+Mendengar sumpah palsu yang begitu meyakinkan, sebagian pejabat istana sempat mempercayainya. Namun, Ki Udin yang berdiri di barisan belakang hanya tersenyum tipis penuh arti. Ki Udin tahu betul bahwa di balik lantai ubin marmer ruang bawah tanah rumah Saudagar Karta, tersimpan peti-peti besi raksasa yang sarat dengan kepingan emas murni dan permata hasil korupsi upeti desa selama bertahun-tahun.
+
+Malam harinya saat suasana desa sunyi senyap, Ki Udin membawa seekor musang pandan dan menaburkan bubuk madu kental beraroma wangi bunga sedap malam ke lubang ventilasi bawah tanah rumah sang saudagar. Tak lama kemudian, ribuan serangga dan kunang-kunang tanah beterbangan mengerumuni pondasi rumah itu. Tepat tengah malam, Ki Udin memukul kentongan desa dengan nada titir bertalu-talu sambil berteriak lantang: 'Bahaya! Gawat! Ada wabah rayap emas gaib dari dalam tanah yang sedang melahap pondasi rumah Saudagar Karta sampai ambles!'
+
+Mendengar jeritan ada rayap yang melahap pondasi dan takut timbunan emasnya hancur atau ambles ke perut bumi, Saudagar Karta yang sedang tidur langsung melompat panik! Tanpa berpikir panjang, sang saudagar mengambil linggis dan palu besar lalu membongkar ubin lantai marmer ruangannya sendiri sekuat tenaga di hadapan ratusan warga dan prajurit desa yang berkerumun di jendela!
+
+*PRAAAK!* Begitu lantai terbongkar oleh tangannya sendiri, tampaklah sebuah brankas besi kuno raksasa yang terbuka menganga, memancarkan kilau menyilaukan dari ribuan keping uang emas, batangan perak, dan kalung intan yang bertumpuk-tumpuk! Saudagar Karta seketika pucat pasi bagai mayat, matanya melotot dan lidahnya kelu saat Ki Udin melangkah maju sambil tersenyum ramah: 'Wahai Tuan Saudagar, terima kasih telah membongkar sendiri brankas rahasiamu! Bukankah tadi siang Tuan sendiri yang bersumpah bahwa jika ada emas tersembunyi, seluruhnya sah dirampas untuk rakyat miskin?'
+
+Gusti Sultan Prabu yang menyaksikan langsung bukti tak terbantahkan itu langsung mengetuk tongkat keadilannya dan memerintahkan penyitaan seluruh aset emas haram tersebut untuk mengisi lumbung pangan dan dibagikan ke seluruh rakyat desa. Saudagar Karta menangis histeris jatuh terduduk memegangi kepalanya yang pusing terkena senjata makan tuan, sementara seluruh warga desa bersorak gembira mengarak Ki Udin keliling alun-alun desa!
+
+[bgmStyle]
+(1) 0-35s: Crowd murmuring SFX, arrogant dramatic shouting SFX, thunder clap ominous SFX.
+(2) 35-70s: Bamboo slit-drum rapid beating SFX, night cricket chirping SFX, urgent shouting alarm SFX, funny insect fluttering SFX.
+(3) 70-115s: Stone shattering crash SFX, sparkling gold coin clinking SFX, shocked crowd gasping SFX.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheerful village celebration cheers.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik mengenakan baju lurik bergaris dan blangkon lusuh tersenyum tenang penuh akal, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Saudagar Karta Culas",
+"description": "Pria saudagar gemuk culas berpakaian jubah sutra mewah bersulam emas dengan cincin permata melongo syok pucat pasi, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Brankas Emas Bawah Tanah",
+"description": "Sebuah brankas besi antik raksasa terbuka di bawah ubin batu yang pecah memancarkan kilau ribuan keping koin emas dan perhiasan, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

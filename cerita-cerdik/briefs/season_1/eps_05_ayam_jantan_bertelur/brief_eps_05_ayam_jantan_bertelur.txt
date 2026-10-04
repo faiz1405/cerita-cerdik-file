@@ -1,0 +1,96 @@
+[theme]
+Membungkam Pejabat Licik & Kebijaksanaan Keraton / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat membungkam jebakan para pejabat licik di hadapan Sultan Prabu.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. Inside a traditional Javanese village hall, a group of jealous arrogant court ministers clay figures wearing rich batik robes secretively hide chicken eggs inside their shirts. CapCut Effect: Slow Zoom-in towards the scheming ministers hiding eggs, use Claymation filter. Audio: Upbeat traditional gamelan BGM, secretive whispering SFX. VO: "Ketenaran Ki Udin yang semakin melambung di seluruh negeri membuat sekelompok pejabat istana merasa sangat cemburu dan iri hati."
+
+Shot 2 (35-70s): In the grand royal court pendopo, arrogant court ministers squat down and produce chicken eggs onto the floor, pointing mockingly at Ki Udin clay figure with white hair. CapCut Effect: Soft Blur background with slow Zoom-in as ministers produce eggs. Audio: Playful marimba music, chicken clucking SFX. VO: "Keesokan harinya, saat sidang keraton sedang berlangsung hangat, sang menteri licik tiba-tiba berdiri dan berkata kepada Sultan Prabu."
+
+Shot 3 (70-115s): Ki Udin clay figure with short white hair wearing a blangkon and lurik shirt steps forward calmly in front of Sultan Prabu's golden throne, flapping his arms like rooster wings with a confident smile. CapCut Effect: Warm Fade In transition, add aura shimmer effect to Ki Udin. Audio: Upbeat acoustic guitar BGM, dramatic drumroll SFX. VO: "Seluruh ruangan pendopo keraton mendadak menjadi sangat hening dan tegang. Para pejabat tersenyum penuh kemenangan."
+
+Shot 4 (115-150s): Ki Udin crows loudly like a rooster, while Sultan Prabu clay figure on his throne laughs hysterically holding his belly with tears of joy, and the arrogant ministers bow their heads in red-faced embarrassment. CapCut Effect: Gentle Slow Zoom-out, funny Glitch/Shake effect when Sultan laughs, warm Fade Out at the end. Audio: Loud rooster crowing SFX (kukuruyuk), belly laugh SFX, cheerful gamelan ending. VO: "Dengan suara yang sangat nyaring dan berkobar, Ki Udin berkokok keras: 'Kukuruyuukk! Mohon ampun Gusti Sultan! Mana ada ayam betina bisa bertelur kalau tidak ada ayam jantan jagonya?'"
+
+[videoNarration]
+Ketenaran Ki Udin yang semakin melambung di seluruh negeri membuat sekelompok pejabat istana merasa sangat cemburu dan iri hati. Di bawah pimpinan seorang menteri senior yang licik, para pejabat berkumpul di balai desa secara sembunyi-sembunyi untuk merencanakan sebuah jebakan konyol yang diyakini akan membuat Ki Udin dipermalukan di hadapan Sultan Prabu. Masing-masing pejabat menyembunyikan sebuah telur ayam mentah di dalam saku baju beskap mewah mereka. Rencana mereka sangat sederhana: menantang semua orang di pendopo keraton untuk 'bertelur' persis seperti ayam betina, sehingga Ki Udin yang tidak membawa telur akan dianggap gagal dan dihukum oleh Sultan.
+Keesokan harinya, saat sidang keraton sedang berlangsung hangat, sang menteri licik tiba-tiba berdiri dan berkata kepada Sultan Prabu, 'Gusti Sultan, untuk membuktikan siapa di antara kami yang paling setia, marilah kita semua berjongkok dan bertelur seperti ayam betina!' Tanpa menunggu aba-aba, para pejabat istana satu per satu berjongkok, berkotek pura-pura mengeram, lalu dengan bangga mengeluarkan telur ayam yang sudah disiapkan dari balik saku mereka. Sultan Prabu terperangah heran melihat bertumpuk-tumpuk telur ayam di lantai keraton. Menteri licik itu lalu menunjuk Ki Udin sambil tersenyum sinis, 'Nah Ki Udin, mana telurmu? Jika kamu tidak bisa bertelur, berarti kamu tidak setia kepada Sultan!'
+Seluruh ruangan pendopo keraton mendadak menjadi sangat hening dan tegang. Para pejabat tersenyum penuh kemenangan membayangkan Ki Udin akan dihukum menguras kolam istana. Namun Ki Udin yang berambut putih dan penuh akal santai tidak panik sama sekali. Beliau tersenyum polos, maju beberapa langkah ke tengah pendopo, lalu berkacak pinggang dengan gagah. Di hadapan Sultan Prabu dan seluruh pengawal, Ki Udin mengepakkan kedua siku tangannya naik turun menirukan gerakan sayap ayam jantan jago yang perkasa.
+Dengan suara yang sangat nyaring dan berkobar, Ki Udin berkokok keras: 'Kukuruyuukk! Mohon ampun Gusti Sultan! Mana ada ayam betina bisa bertelur kalau tidak ada ayam jantan jagonya? Jika seluruh pejabat di sini adalah ayam betina yang bertelur, maka hamba inilah satu-satunya ayam jantan jago yang membuahi mereka semua!' Mendengar jawaban luar biasa cerdik itu, Sultan Prabu tertawa terbahak-bahak sampai memegang perutnya dan meneteskan air mata gembira. Sementara para pejabat istana langsung tertunduk malu dengan wajah merah padam karena senjata mereka memakan diri sendiri!
+
+[bgmStyle]
+(1) 0-35s: Upbeat traditional gamelan BGM, secretive whispering SFX.
+(2) 35-70s: Playful marimba music, chicken clucking SFX.
+(3) 70-115s: Upbeat acoustic guitar BGM, dramatic drumroll SFX.
+(4) 115-150s: Loud rooster crowing SFX (kukuruyuk), belly laugh SFX, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, mengepakkan tangan berkokok gagah, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Menteri Licik",
+"description": "Pejabat keraton gemuk licik berjongkok mengeluarkan telur ayam dengan wajah malu merah padam, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

@@ -1,0 +1,74 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 40 (SEASON 3 EPISODE 10)
+Judul Episode: Membongkar Brankas Rahasia Perbendaharaan Keraton (Eps 40 / S3E10 - Grand Finale)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Tema Utama: Sains Tinta Rahasia Asam Sitrat, Pembongkaran Korupsi Terbesar Keraton, & Kepulangan Bersahaja Ki Udin
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membongkar Brankas Rahasia Perbendaharaan Keraton (Grand Finale Season 3)
+- Clicky Video Headline: GRAND FINALE SEASON 3! KAS KERAJAAN BANGKRUT & PAJAK NAIK 2X LIPAT?! AKAL AIR JERUK NIPIS KI UDIN BONGKAR BRANKAS RAHSIA RATUSAN PETI EMAS MAHAPATIH KORUP!
+- Single Video Title: Cerita Cerdik Ki Udin Season 3 - Membongkar Brankas Rahasia Keraton (Eps 40 Grand Finale)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: inside the grand candlelit Javanese royal throne hall, an opulent carved mahogany table holds a large open royal ledger with blank empty pages. A corrupt chubby Prime Minister (Mahapatih Arya Culas) in an elaborate royal purple silk beskap and gold brocade waist sash prostrates dramatically on the floor, waving both hands theatrically, mouth wide open aggressively shouting instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Gusti Sultan, kas kraton ambyar bangkrut, pajek rakyat kudu diundhakne tikel loro!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Beside the royal throne, Ki Udin steps forward immediately at second 0 raising a burning beeswax candle and a freshly sliced green key lime with a clever mysterious smirk, boldly interrupting the panic while Sultan Prabu gasps in royal distress. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, glowing candles and carved teakwood palace hall in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Epic comical claymation grand finale poster, soft plasticine clay texture, 8k resolution. In the center of a majestic Javanese royal palace hall, Ki Udin clay figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt holds up a glowing ancient parchment ledger above a flickering candle flame: sharp dark-brown oxidized ink lines magically glow across the paper displaying an intricate secret underground cavern blueprint! In the center foreground, the royal marble floor tiles have been broken open, revealing a glowing underground stone cavern overflowing with gigantic wooden treasure chests bursting with glittering gold coins, jewel chalices, and silver ingots! To the left, Mahapatih Arya Culas chubby corrupt Prime Minister in purple royal silk weeps in utter panic on his knees, wrapped in heavy iron chains. In the background, Sultan Prabu in a radiant golden crown smiles warmly offering a golden royal scepter in gratitude. Cinematic warm golden candlelight, rich clay stop-motion textures, majestic royal palace perspective, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/jelaga, lilin, jeruk nipis, atau buku kas dianimasikan terpisah di CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Penasihat Cerdik Keraton - Versi Pamit Bersahaja) ---
+Option A (Senyum Tenang Rendah Hati - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Standing upright with a calm, humble, serene smile, hands placed politely in front of him or relaxed naturally at sides, empty hands, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, holding candle, lime, paper, scroll, scepter, tools, background, room, scenery, palace, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Menjelaskan Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden royal silk sash. Standing pose with an articulate cheerful expression, one hand raised gesturing wisely, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, scroll, book, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. MAHAPATIH ARYA CULAS (Corrupt Chubby Prime Minister - CLEAN SKIN / TANPA NODA) ---
+Option A (Sombong Bersandiwara Menuduh - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. An overweight middle-aged Javanese prime minister with a heavy double chin, pompous waxed mustache, wearing an extravagant royal purple silk beskap adorned with gold brocade trim, dark batik parang skirt, and ornate tall velvet royal cap. Comical theatrical arrogant expression with eyebrows raised in deceitful drama, hands outstretched theatrically, empty hands, holding no objects, holding no ledger, holding no gold, holding nothing, no props, completely clean spotless skin without any soot or stains, immaculate royal clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, book, ledger, chains, gold, dirty skin, stains, background, room, throne, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Panik Histeris Tertangkap Basah - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. An overweight Javanese prime minister in purple silk beskap. Comical utterly shocked terrified expression with bulging clay eyes, trembling double chin, mouth open in hysterical dismay, empty hands raised in defensive surrender, empty hands, holding no objects, no props, completely clean dry clothing and dry skin, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, chains, gold, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. SULTAN PRABU (Wise Regal King) ---
+Option A (Tertawa Bangga Menegakkan Keadilan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A dignified middle-aged Javanese king with a well-groomed black mustache, wearing a radiant royal golden crown with jewel inlays, an opulent dark velvet royal beskap with intricate gold embroidery, royal golden belt sash, and traditional royal batik parang jarik skirt with elegant sandals. Standing with a hearty joyful belly-laugh expression, hands raised in an enthusiastic clapping gesture, empty hands, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding scepter, holding staff, holding props, background, throne, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Sedih Cemas Memikirkan Rakyat - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified Javanese king in a golden royal crown and dark velvet royal beskap. Standing upright with a deep solemn worried royal expression, hands clasped together thoughtfully, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, scepter, background, throne, scenery, photorealistic, 3d CGI cartoon]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+===================================================================
+- Frasa Pengunci Wajib: Awali setiap prompt dengan "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting".
+- Batasan Ketat: [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void].

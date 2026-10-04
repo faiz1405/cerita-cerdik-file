@@ -1,0 +1,106 @@
+[theme]
+Membungkam Bangsawan Serakah dengan Logika Anatomi Cerdik / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin membagi lima ekor bebek panggang untuk enam orang dalam jamuan keraton menggunakan logika anatomi yang membuat bangsawan serakah terdiam malu.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside an ornate Javanese royal palace dining hall (Ruang Jamuan Keraton), a lavish wooden banquet table is laid out with steaming aromatic golden-brown roasted ducks on brass platters. Sultan Prabu in golden robes, the Queen (Permaisuri), two young princes, an arrogant chubby foreign nobleman clay figure in opulent purple silk, and Ki Udin sit around the table. The greedy nobleman greedily grabs three roasted ducks for himself, giving awkward excuses while Sultan frowns in disgust. CapCut Effect: Dramatic Slow Zoom-in on the glistening roasted ducks and the greedy nobleman's smirk, Claymation filter. Audio: Cheerful royal court gamelan melody, sizzling meat SFX, greedy chuckling SFX. Rich carved teak palace dining room background, glowing lanterns, golden goblets, full environmental depth, no plain white background, no blank backdrop. VO: "Dalam jamuan makan malam keraton untuk enam orang, hanya tersaji lima ekor bebek panggang madu lezat. Seorang bangsawan tamu yang serakah mencoba memonopoli makanan dengan mengambil tiga ekor bebek untuk dirinya sendiri."
+
+Shot 2 (35-70s): Sultan Prabu scolds the greedy nobleman and turns to Ki Udin. Ki Udin clay figure with short white hair in a striped lurik shirt steps forward with a polite smile, taking the carving knife and brass platter to redistribute the roasted ducks fairly before the royal family. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on Ki Udin's clever eyes and shiny carving knife. Audio: Playful marimba music, knife sharpening SFX (srek-srek), curious crowd murmurs. Royal dining hall background, ornate carved pillars, warm ambient candlelight, full environmental setting, no studio void, no white background. VO: "Sultan Prabu yang murka melihat keserakahan itu kemudian menantang Ki Udin untuk membagi lima ekor bebek tersebut secara adil dan bermartabat."
+
+Shot 3 (70-115s): Ki Udin slices the roasted duck with comical precision: he presents the roasted duck head to Sultan Prabu, the slender neck to the Queen, two crispy wings to the two young princes, and two small duck feet (claws) to the greedy nobleman. The nobleman stares in horror and disbelief at the tiny duck feet on his plate while Ki Udin places the plump, juicy duck meat and breasts onto his own plate! CapCut Effect: Dynamic camera pan across the plates, dramatic Zoom-in on the nobleman's dropped jaw and bulging eyes. Audio: Comical bouncy bassoon music, funny spring boing SFX, gasping laughter SFX. Ornate palace dining table, glistening roasted duck slices, royal family smiling, full depth, no plain white background. VO: "Ki Udin membagi bebek dengan logika jenius: kepala bebek untuk Sultan sang kepala negara, leher untuk Permaisuri, dua sayap untuk kedua Pangeran agar bisa terbang memimpin, dua cakar bebek untuk si bangsawan serakah agar rajin jalan, dan badan bebek yang empuk montok untuk Ki Udin sang rakyat jelata penopang negeri!"
+
+Shot 4 (115-150s): Sultan Prabu and the royal family burst into roaring belly laughter holding their sides, while the greedy nobleman sits frozen in red-faced embarrassment holding only dry duck feet. Ki Udin takes a delicious bite of duck meat with a contented smile as Sultan rewards him with a pouch of golden coins. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering applause SFX. Grand royal dining hall background, warm golden lighting, cheerful royalty, full depth. VO: "Mendengar pembagian yang sangat cerdas itu, Sultan Prabu tertawa terbahak-bahak memuji Ki Udin dan menghadiahinya keping emas, sementara sang bangsawan serakah hanya bisa melongo malu memegangi cakar bebek!"
+
+[videoNarration]
+Suatu malam di dalam keraton, Sultan Prabu menggelar jamuan makan malam istimewa untuk menyambut seorang bangsawan tamu dari kadipaten seberang yang terkenal sangat sombong dan serakah. Di atas meja makan perjamuan yang megah, telah tersaji lima ekor bebek panggang bumbu madu yang sangat harum, gurih, dan berkilau keemasan. Namun, orang yang hadir di meja makan itu berjumlah enam orang: Sultan Prabu, sang Permaisuri, dua orang Pangeran muda, sang bangsawan tamu, dan Ki Udin yang diundang sebagai tamu kehormatan.
+
+Sebelum jamuan dimulai, Sultan Prabu dengan sengaja menantang sang bangsawan serakah untuk membagikan lima ekor bebek panggang tersebut kepada enam orang secara adil. Karena sifat serakahnya yang tak tahu malu, sang bangsawan langsung memotong tiga ekor bebek utuh dan menaruhnya di atas piringnya sendiri! Dengan nada sok pintar, ia berkata: 'Gusti Sultan dan Permaisuri adalah dua orang ditambah satu bebek jadilah tiga. Dua pangeran ditambah satu bebek jadilah tiga. Dan saya sendiri satu orang ditambah tiga bebek jadilah empat, maka semua adil dan pas!' Sultan Prabu dan para pangeran langsung mengerutkan dahi dengan kesal melihat pembagian yang sangat curang dan licik itu.
+
+Melihat suasana perjamuan mulai tidak nyaman, Ki Udin yang berambut putih melangkah maju dengan senyum santai. Ki Udin meminta izin kepada Sultan Prabu untuk membagi ulang kelima bebek panggang tersebut menggunakan ilmu anatomi keraton. Sambil memegang pisau pemotong, Ki Udin memotong kepala bebek dan menyerahkannya ke piring Sultan Prabu sambil berkata: 'Kepala bebek ini untuk Gusti Sultan, karena Gusti adalah kepala keluarga dan pemimpin tertinggi seluruh negeri!' Lalu Ki Udin memotong leher bebek dan memberikannya kepada Permaisuri: 'Leher ini untuk Kanjeng Ratu, karena tugas leher adalah menyangga kepala sang raja!'
+
+Selanjutnya, Ki Udin memotong dua sayap bebek dan membagikannya ke piring kedua Pangeran muda: 'Dua sayap ini untuk kedua Pangeran, agar kelak kalian bisa terbang tinggi dan melindungi rakyat!' Kemudian, Ki Udin mengambil dua cakar bebek yang kecil dan kering, lalu menaruhnya ke piring sang bangsawan serakah sambil berkata lantang: 'Dan dua cakar bebek ini untuk Tuan Bangsawan, agar Tuan rajin berjalan kaki melayani rakyat dan tidak duduk malas bermewah-mewahan!' Terakhir, Ki Udin mengambil seluruh badan dan dada bebek yang paling gemuk, montok, dan empuk ke atas piringnya sendiri sambil tersenyum polos: 'Dan badan bebek yang montok ini untuk saya, Ki Udin sang rakyat jelata yang selalu menopang seluruh beban kerajaan!'
+
+Mendengar logika pembagian yang luar biasa cerdik dan menohok itu, Sultan Prabu, Permaisuri, dan kedua Pangeran langsung tertawa terbahak-bahak memegangi perut mereka sampai air mata menetes! Sementara sang bangsawan serakah mendadak merah padam wajahnya, terdiam kaku tanpa bisa membantah, dan hanya bisa memandangi dua cakar bebek di piringnya dengan rasa malu yang luar biasa. Sultan Prabu pun memuji kecerdikan Ki Udin setinggi langit dan menghadiahinya sekantong keping emas atas tawa bahagia malam itu!
+
+[bgmStyle]
+(1) 0-35s: Cheerful royal court gamelan melody, sizzling meat SFX, greedy chuckling SFX.
+(2) 35-70s: Playful marimba music, knife sharpening SFX (srek-srek), curious crowd murmurs.
+(3) 70-115s: Comical bouncy bassoon music, funny spring boing SFX, gasping laughter SFX.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering applause SFX.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik memegang pisau pemotong dan piring bebek panggang montok tersenyum polos penuh kemenangan di meja makan keraton, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Bangsawan Serakah",
+"description": "Pria bangsawan gemuk bertubuh tambun memakai jubah ungu emas berwajah merah padam melongo malu memegang dua cakar bebek kecil, gaya claymation.",
+"id": "ROLE_03"
+},
+{
+"name": "Bebek Panggang Madu",
+"description": "Lima ekor bebek panggang berkilau keemasan bumbu madu di atas nampan tembaga mewah keraton, gaya claymation.",
+"id": "ROLE_04"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

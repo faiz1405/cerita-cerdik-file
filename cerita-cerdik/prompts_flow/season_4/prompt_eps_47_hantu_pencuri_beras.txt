@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Misteri Hantu Pencuri Beras Terbongkar (Eps 47)
+- Clicky Video Headline: HANTU PENCURI BERAS?! INVESTIGASI DETEKTIF KI UDIN BONGKAR KEBOHONGAN JURAGAN PELIT!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Detektif Desa: Misteri Hantu Beras (Eps 47)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: in front of a rustic Javanese wooden rice warehouse with a giant iron padlock securely locking the thick wooden doors, a skinny greedy merchant (Juragan Pelit) wearing a faded dirty yellow silk shirt and black peci hat is screaming hysterically in panic. He points his trembling hand frantically at the locked door, grabbing his own messy hair in fear. He shouts instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Tolong! Berasku dicolong dedemit gaib!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Beside him at second 0, terrified Javanese villagers wearing woven caping hats are hugging each other, shivering in fear of the ghost rumor. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, mysterious slightly dark daylight lighting, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, bright sunny lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground inside a dark wooden rice warehouse illuminated by dramatic moonlight rays from the roof, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is pointing analytically at the wooden floor. On the floor covered in white flour powder, there is a clear visible trail of human shoe footprints and small wheel tracks leading to a secret stone tile! In the comical background, the skinny greedy merchant (Juragan Pelit) wearing a dirty yellow silk shirt is caught red-handed, emerging half-body from a secret underground tunnel holding a sack of rice, his face frozen in extreme shock and sweat with his mouth wide open. Radiant cinematic moonlight beams, rich clay stop-motion textures, cinematic depth of field, full environmental mystery setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry, blood, gore]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Ki Udin Detektif Mengamati (Tangan Kosong)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Ki Udin, elderly Javanese wise peasant detective, 58 years old, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Crouching down slightly, one hand pointing down analytically at the ground, empty hands, holding no objects, holding nothing, no props. Calm serious intelligent analyzing face, unblemished clean face.
+
+[Prompt Option B: Juragan Pelit Ketahuan (Panik)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Skinny greedy merchant, 50 years old, wearing faded dirty yellow silk shirt, messy hair, black peci hat. Hands raised up in total surrender and shock, frozen in panic, empty hands, holding no objects, holding nothing, no props. Sweaty terrified face, eyes wide open in fear, guilty expression, clean face.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, mystery detective atmosphere...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no blood, no injury]`

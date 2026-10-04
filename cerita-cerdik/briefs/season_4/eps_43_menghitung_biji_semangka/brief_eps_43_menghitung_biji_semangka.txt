@@ -1,0 +1,207 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Juragan Broto yang serakah berniat memborong paksa panen kebun semangka milik petani desa dengan harga super murah (sepersepuluh harga pasar). Sang juragan sombong menantang petani dengan syarat mustahil: menebak jumlah pasti biji di dalam buah semangka utuh tanpa boleh membelahnya sedikit pun. Jika salah atau tidak berani menjawab, seluruh hasil panen semangka harus diserahkan secara cuma-cuma padanya. Hukum ceritanya satu kalimat: **hukum alam tak bisa diubah, tapi persepsi manusia bisa dijebak dengan logika mereka sendiri**. Ki Udin melangkah maju, mengetuk kulit semangka tiga kali dengan gestur ilmiah serius, lalu dengan lantang menyebut angka mutlak: "Tepat 333 biji!". Palu penutupnya adalah pembalikan syarat (Uno Reverse Card): Ki Udin mempersilakan sang juragan sendiri yang membelah dan menghitung bijinya satu per satu di depan warga desa. Saat sang juragan berlutut menghitung dengan jemari tambunnya, biji semangka yang licin terpeleset melesat mengenai matanya, semangka merah berair menggelinding menimpa perut buncitnya hingga pakaian sutra mewahnya basah kuyup berlumuran sari semangka lengket, disambut gelak tawa seluruh warga desa.
+
+# [purpose]
+Lane David-vs-Goliath klasik berbalut Food & Agricultural Logic yang terbukti mencetak retensi dan jangkauan tertinggi di serial Cerita Cerdik (seperti formula 47k reach 'Telur Matang Mentah' dan 43k views 'Bebek Panggang'). Penonton dibuat geram di detik 0-3 oleh kesombongan Juragan Broto yang mengacungkan pisau belati menindas petani semangka miskin. Mesin retensinya adalah 'The Impossible Guessing Riddle' di mana penonton dibuat penasaran bagaimana mungkin seseorang tahu isi biji di dalam buah pejal tanpa membelahnya, diperkuat oleh pacing komikal saat sang juragan terjebak harus membuktikan ucapannya sendiri. Comment engine memancing perdebatan tawa warga tentang taktik cerdik Ki Udin membalikkan beban pembuktian (*burden of proof*). Zero kekerasan berbahaya, zero darah; sari semangka merah murni komikal layaknya sirup manis di pesta rakyat.
+
+# [audience]
+Masyarakat dan keluarga Indonesia 20–55 tahun, khususnya ibu-ibu dan keluarga pencinta humor kearifan lokal Nusantara, drama hasil bumi pedesaan yang relatable, serta kepuasan melihat penindas rakyat kecil dipermalukan oleh kecerdikan orang biasa. Perabot visualnya sangat memikat dan menggugah selera (food dopamine): buah semangka bulat loreng hijau segar berukuran raksasa, daging semangka merah merekah berair manis, biji semangka hitam mengkilap, timbangan pasar gantung kuningan, caping bambu, dan daun semangka hijau subur. Sangat memicu tombol share ke grup keluarga WhatsApp karena pesan moralnya tentang keadilan dan kerendahan hati.
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up, COLD OPEN. HOLD 2 detik.
+    ENVIRONMENT: DAY, siang terik. Hamparan kebun semangka pedesaan subur, buah semangka bulat loreng raksasa tergeletak di atas jerami. REGISTER KEBUN SIANG.
+    SUBJECT: Wajah tambun Juragan Broto melotot sangat kejam dan serakah, tertawa lebar memamerkan gigi emasnya yang menyilaukan. Ia mengacungkan sebilah pisau belati perak besar ke arah kamera di detik 0.0.
+    ACTION: Kamera bergerak cepat (quick zoom-in) memperlihatkan pisau yang menancap kasar ke meja kayu samping semangka. TEXT OVERLAY BOLD: "TEBAK BIJI SEMANGKA TANPA DIBELAH?! / JURAGAN KIKIR MAU RAMPAS KEBUN!".
+    NARASI: "Musim panen tiba, tapi Juragan Broto yang sangat serakah malah membuat ulah licik untuk merampas hasil kebun rakyat!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium wide shot.
+    ENVIRONMENT: DAY, siang terik. Tepi kebun semangka. REGISTER KEBUN SIANG.
+    SUBJECT: Juragan Broto berdiri berkacak pinggang, membentak Petani Somad yang ketakutan memegang caping bambunya.
+    ACTION: Juragan Broto mengancam menyita seluruh hasil panen dengan ekspresi sangat sadis.
+    NARASI: "Sang juragan menantang warga menebak jumlah pasti biji semangka utuh tanpa boleh membelahnya sedikit pun!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan (Pattern Interrupt) & Medium two-shot.
+    ENVIRONMENT: DAY, siang terik. Pelataran kebun semangka. REGISTER KEBUN SIANG.
+    SUBJECT: Kamera melakukan whip pan (bergeser kilat) dari wajah bengis juragan ke arah Ki Udin yang berdiri tenang.
+    ACTION: Tepat di detik ke-5, Ki Udin langsung membalas dengan senyum licik penuh percaya diri tanpa rasa takut sedikit pun.
+    NARASI: "Jika salah, seluruh panen disita! Warga pun cemas ketakutan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up. HOLD.
+    ENVIRONMENT: DAY, siang menjelang sore. Di depan kerumunan warga desa. REGISTER KEBUN SIANG.
+    SUBJECT: Wajah Ki Udin dari dekat. Sorot matanya berbinar jenaka penuh kalkulasi.
+    ACTION: Ki Udin melangkah maju dengan cepat, diiringi SFX gong (JENG!), langsung menyanggupi tantangan sebelum detik ke-10. <break time="1.0s"/>
+    NARASI: "Namun Ki Udin langsung melangkah maju tersenyum cerdik: Jangankan sebutir semangka, menghitung biji seribu semangka sekaligus pun hamba sanggup, Juragan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium shot.
+    ENVIRONMENT: DAY, siang cerah. Meja kayu di bawah tenda terpal kebun semangka. REGISTER KEBUN SIANG.
+    SUBJECT: Juragan Broto tertawa terbahak-bahak menepuk perut buncitnya, menantang Ki Udin membuktikan omong kosongnya di hadapan puluhan warga desa.
+    ACTION: Juragan Broto menyilangkan tangan di dada, mencemooh dengan seringai congkak: "Ayo buktikan sekarang juga di depan semua orang!"
+    NARASI: "Juragan Broto tertawa terbahak-bahak mengejek, yakin seratus persen akal bulusnya kali ini tidak akan bisa dipatahkan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium close-up.
+    ENVIRONMENT: DAY, siang cerah. Di depan meja kayu beralas daun pisang. REGISTER KEBUN SIANG.
+    SUBJECT: Ki Udin mendekati semangka raksasa itu dengan langkah tenang dan khidmat.
+    ACTION: Ki Udin mengetuk-ngetuk kulit semangka tiga kali dengan buku jarinya ("tuk... tuk... tuk..."), lalu mendekatkan telinganya ke kulit semangka seolah mendengar detak biji di dalam buah layaknya seorang tabib ahli.
+    NARASI: "Namun Ki Udin dengan tenang mendekati semangka tersebut, lalu mengetuk-ngetuk kulit buahnya tiga kali sambil menempelkan telinganya dengan sangat serius."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Extreme close-up.
+    ENVIRONMENT: DAY, siang cerah. Permukaan kulit semangka hijau loreng mengkilap dan telinga Ki Udin. REGISTER KEBUN SIANG.
+    SUBJECT: Wajah Ki Udin dari samping, mata terpejam penuh konsentrasi komikal. Suara ketukan jari bergema renyah diiringi suara desau angin.
+    ACTION: Ki Udin mengangguk-angguk mantap seolah mendapatkan wahyu hitungan gaib, lalu membuka matanya dengan binar kepuasan mutlak.
+    NARASI: "Warga desa menahan napas penasaran menyaksikan lagak Ki Udin yang tampak seperti sedang berbicara langsung dengan isi semangka."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Medium two-shot. HOLD.
+    ENVIRONMENT: DAY, siang cerah. Pelataran meja kebun semangka. REGISTER KEBUN SIANG.
+    SUBJECT: Ki Udin berdiri tegak mengacungkan tiga jari tangannya ke udara dengan wibawa penuh. Di sebelahnya, Juragan Broto melongo heran.
+    ACTION: Ki Udin melontarkan jawabannya dengan senyum mengembang bangga dan tatapan tanpa ragu sedikit pun. <break time="1.0s"/>
+    NARASI: "Dengan suara lantang yang menggelegar ke seluruh kebun, Ki Udin mengumumkan: Jumlah biji di dalam semangka ini persis tiga ratus tiga puluh tiga butir, Juragan! Tidak kurang satu pun, tidak lebih satu pun!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Close-up.
+    ENVIRONMENT: DAY, siang cerah. Sisi meja juragan. REGISTER KEBUN SIANG.
+    SUBJECT: Wajah Juragan Broto memerah berang. Matanya melotot tajam menunjuk muka Ki Udin dengan dengusan marah.
+    ACTION: Juragan Broto berteriak menuduh Ki Udin hanya membual dan mengarang angka ngawur untuk membodohi warga.
+    NARASI: "Juragan Broto seketika meradang dan membentak kasar: Bohong! Kamu cuma asal tebak angka ngawur! Mana buktinya?!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 10**: Medium close-up. HOLD.
+    ENVIRONMENT: DAY, siang menjelang sore. Meja semangka kebun. REGISTER KEBUN SIANG.
+    SUBJECT: Wajah Ki Udin tersenyum lebar dengan gestur santun mempersilakan. Di tangannya, sebilah pisau belati disodorkan ke arah Juragan Broto.
+    ACTION: Ki Udin melontarkan jebakan balik (Uno Reverse Card) dengan suara lembut namun telak mengunci lawan. <break time="1.0s"/>
+    NARASI: "Ki Udin tersenyum cerdik sambil menyodorkan pisau belati: Jika Juragan tidak percaya, silakan Juragan sendiri yang membelah semangka ini dan menghitung setiap bijinya satu per satu di depan warga sekarang juga!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 11**: Extreme close-up.
+    ENVIRONMENT: DAY, sore cerah. Tangan gemetar Juragan Broto dan buah semangka. REGISTER KEBUN SIANG.
+    SUBJECT: Juragan Broto terbujur kaku tercekat! Butiran keringat dingin sebesar biji jagung mengucur deras di pelipis dan kumis melintirnya.
+    ACTION: Juragan Broto menyadari jebakan mautnya: jika ia menolak menghitung, tebakan Ki Udin sah menang; jika ia membelahnya sendiri, ia harus berlutut menghitung ratusan biji di tanah berdebu!
+    NARASI: "Sang juragan mendadak tercekat panik dan banjir keringat dingin! Karena jika ia menolak membuktikan, tebakan Ki Udin dianggap sah dan ia wajib membayar taruhan sekantong emas!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 12**: Medium shot.
+    ENVIRONMENT: DAY, sore temaram keemasan. Lantaran tanah kebun di samping meja semangka. REGISTER KEBUN SENJA.
+    SUBJECT: Juragan Broto terpaksa berlutut di tanah berdebu membelah semangka tersebut dengan pisau. Belahan semangka merah merekah berair manis pecah merebak.
+    ACTION: Juragan Broto dengan tangan tambun gemetaran mencungkil biji-biji hitam licin satu per satu sambil menghitung terengah-engah: "Satu... dua... tiga... aduh licin... sepuluh...".
+    NARASI: "Dengan wajah terhina disaksikan seisi desa yang menahan tawa, sang juragan terpaksa berlutut membelah semangka dan mencungkil biji-biji licin itu satu per satu!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 13**: Medium close-up slapstick. HOLD.
+    ENVIRONMENT: DAY, sore temaram keemasan. Lantaran tanah kebun semangka. REGISTER KEBUN SENJA.
+    SUBJECT: Saat hitungan baru mencapai angka empat puluh, sebutir biji semangka hitam yang sangat licin terpeleset dari jemari tambun Juragan Broto dan melesat bagai peluru ketapel tepat mengenai matanya sendiri ("PLOK-ADUH!").
+    ACTION: Juragan Broto menjerit kaget terhuyung ke belakang. Belahan semangka merah berair menggelinding menimpa perut buncitnya, menyemburkan sari semangka merah lengket yang melumuri seluruh wajah, kumis, dan rompi sutra mewahnya layaknya badut buah! <break time="1.0s"/>
+    NARASI: "Namun saat hitungan baru mencapai empat puluh, sebutir biji semangka yang licin terpeleset melesat mengenai matanya sendiri! Sang juragan terjungkal ke belakang, buah semangka menggelinding menimpa perut buncitnya hingga rompi sutra mewahnya basah kuyup berlumuran sari semangka merah lengket!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 14**: FINAL SHOT — wide shot.
+    ENVIRONMENT: DAY, sore keemasan indah. Seluruh kebun semangka dipenuhi tawa riang gembira warga desa. REGISTER KEBUN SENJA.
+    SUBJECT: Juragan Broto terbirit-birit lari pontang-panting meninggalkan kantong koin emas di tanah sambil mengusap mukanya yang lengket merah belepotan, diiringi gelak tawa terbahak-bahak seluruh petani desa.
+    ACTION: Ki Udin membagikan potongan semangka merah manis segar kepada anak-anak dan petani desa. Semua orang bersorak merayakan panen semangka yang selamat dari keserakahan juragan culas. Hard cut ke hitam tepat setelah kalimat terakhir. DENTING GONG SUWUKAN.
+    NARASI: "Warga desa meledak dalam tawa terbahak-bahak! Juragan Broto lari terbirit-birit menanggung malu sambil melempar kantong koin emas, sementara Ki Udin bersama para petani berpesta menikmati manisnya semangka desa yang merdeka!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Musim panen tiba, tapi Juragan Broto yang sangat serakah malah membuat ulah licik untuk merampas hasil kebun rakyat!
+Sang juragan menantang warga menebak jumlah pasti biji semangka utuh tanpa boleh membelahnya sedikit pun!
+Jika salah, seluruh panen disita! Warga pun cemas ketakutan.
+Namun Ki Udin langsung melangkah maju tersenyum cerdik:
+"Jangankan sebutir semangka, menghitung biji seribu semangka sekaligus pun hamba sanggup, Juragan!"
+<break time="1.0s"/>
+
+Juragan Broto tertawa terbahak-bahak mengejek, yakin seratus persen akal bulusnya kali ini tidak akan bisa dipatahkan.
+Namun Ki Udin dengan tenang mendekati semangka tersebut, lalu mengetuk-ngetuk kulit buahnya tiga kali sambil menempelkan telinganya dengan sangat serius.
+Warga desa menahan napas penasaran menyaksikan lagak Ki Udin yang tampak seperti sedang berbicara langsung dengan isi semangka.
+Dengan suara lantang yang menggelegar ke seluruh kebun, Ki Udin mengumumkan:
+"Jumlah biji di dalam semangka ini persis tiga ratus tiga puluh tiga butir, Juragan! Tidak kurang satu pun, tidak lebih satu pun!"
+<break time="1.0s"/>
+
+Juragan Broto seketika meradang dan membentak kasar:
+"Bohong! Kamu cuma asal tebak angka ngawur! Mana buktinya?!"
+Ki Udin tersenyum cerdik sambil menyodorkan pisau belati:
+"Jika Juragan tidak percaya, silakan Juragan sendiri yang membelah semangka ini dan menghitung setiap bijinya satu per satu di depan warga sekarang juga!"
+Sang juragan mendadak tercekat panik dan banjir keringat dingin! Karena jika ia menolak membuktikan, tebakan Ki Udin dianggap sah dan ia wajib membayar taruhan sekantong emas!
+<break time="1.0s"/>
+
+Dengan wajah terhina disaksikan seisi desa yang menahan tawa, sang juragan terpaksa berlutut membelah semangka dan mencungkil biji-biji licin itu satu per satu!
+Namun saat hitungan baru mencapai empat puluh, sebutir biji semangka yang licin terpeleset melesat mengenai matanya sendiri!
+Sang juragan terjungkal ke belakang, buah semangka menggelinding menimpa perut buncitnya hingga rompi sutra mewahnya basah kuyup berlumuran sari semangka merah lengket!
+Warga desa meledak dalam tawa terbahak-bahak!
+Juragan Broto lari terbirit-birit menanggung malu sambil melempar kantong koin emas, sementara Ki Udin bersama para petani berpesta menikmati manisnya semangka desa yang merdeka!
+
+# [bgmStyle]
+Skor komikal pedesaan bernuansa segar, riang, dan menggelitik emosi penonton. Babak pertama dibuka dengan instrumen gamelan slendro ceria dipadukan tiupan seruling bambu pedesaan dan derit timbangan gantung pasar. Adegan kemarahan dan bentakan Juragan Broto diiringi bunyi kendang bertalu cepat yang menegaskan ketegangan komikal. Saat Ki Udin mengetuk kulit semangka, musik mendadak hening (dead air pause) menyisakan foley ketukan renyah 'tuk... tuk... tuk...' dan hembusan angin semilir. Jawaban angka '333 biji' ditegaskan dengan senggakan vokal gamelan komikal 'HAAAK-EEE!'. Saat sang juragan berlutut menghitung biji semangka, ritme musik bertempo cepat jenaka seperti ketukan jam dinding kartun. Titik slapstick biji semangka melesat mengenai mata diiringi sound effect kartun 'PLOK-BOING!' disusul suara semangka pecah 'SPLATTT!' dan gemuruh gelak tawa warga desa yang bersahut-sahutan renyah. Penutup video diakhiri denting kempul dan gong suwukan gamelan Jawa yang rancak, merayakan pesta makan semangka manis bersama seluruh warga.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'merampas hasil kebun rakyat!', 'menebak jumlah pasti bijinya tanpa boleh membelahnya sedikit pun!', 'menghitung biji seribu semangka sekaligus pun hamba sanggup, Juragan!', 'mengetuk-ngetuk kulit buahnya tiga kali', 'persis tiga ratus tiga puluh tiga butir, Juragan!', 'silakan Juragan sendiri yang membelah semangka ini dan menghitung setiap bijinya', 'banjir keringat dingin!', 'biji semangka yang licin terpeleset melesat mengenai matanya sendiri!', and 'berpesta menikmati manisnya semangka desa yang merdeka!'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with wooden sandals, warm mischievous smile. POV PROTAGONIS CERDIK. Arc: tenang menghadapi gertakan tengkulak juragan tanah → bersandiwara ilmiah mengetuk kulit semangka dan menempelkan telinga → melontarkan angka tebakan mutlak 333 biji dengan percaya diri tinggi → membalikkan beban pembuktian kepada sang juragan → tertawa hangat membagikan irisan semangka manis kepada anak-anak desa. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Chubby arrogant wealthy village landlord and greedy produce broker, 48, protruding round belly, twirled thick black mustache, ornate golden-brown silk lurik vest over white inner shirt, batik parang jarik, polished dark headcloth. ANTAGONIS SLAPSTICK. Arc: sombong mengacungkan pisau belati menantang warga demi merampas hasil kebun → tertawa meremehkan rakyat jelata → syok tercekat saat ditantang balik membuktikan hitungan biji → terpaksa berlutut di tanah mencungkil biji semangka licin satu per satu → panik histeris saat biji semangka mengenai matanya dan sari semangka merah muncrat melumuri pakaian sutranya hingga basah kuyup layaknya badut. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Petani Somad (ROLE_03)",
+        "description": "Humble middle-aged Javanese watermelon farmer, 52, weathered honest face, wearing a traditional conical bamboo caping hat, faded dark indigo work shirt, rolled-up brown trousers, holding a woven bamboo produce basket. Arc: cemas ketakutan saat hasil panen kebunnya terancam dirampas cuma-cuma → terheran-heran takjub melihat lagak Ki Udin mengetuk semangka → tertawa puas terbahak-bahak melihat sang juragan basah kuyup tersiram semangka merah. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter, buah semangka, dan perabot latar dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA & TOKOH TERKUNCI MATI: Ki Udin selalu mengenakan blangkon batik cokelat klasik dan baju lurik garis cokelat-krem bersahaja; Juragan Broto bertubuh tambun dengan rompi lurik sutra cokelat-emas mewah, perut membuncit, dan kumis hitam tebal melintir; Petani Somad selalu mengenakan caping bambu anyaman usang. DILARANG MEMASUKKAN UNSUR MODERN (tidak ada pakaian modern, tidak ada pisau dapur stainless steel modern, tidak ada plastik kresek). DUA REGISTER CAHAYA HANGAT PEDESAAN: (1) KEBUN SIANG dengan cahaya matahari tropis terik keemasan menyinari kebun semangka hijau subur dan tanah kebun gembur; (2) KEBUN SENJA dengan cahaya matahari sore oranye temaram yang hangat dan bayangan panjang saat babak penghitungan biji semangka berlangsung. ATURAN SLAPSTICK SARI SEMANGKA: Efek tumpahan semangka di Shot 13 digambarkan murni sebagai sari buah semangka merah manis alami dengan butiran biji hitam komikal yang melumuri baju dan kumis juragan, TANPA unsur darah atau kekerasan fisik berbahaya. TEKSTUR CLAY HIPER-SPESIFIK: kulit semangka hijau tua bermotif loreng mengkilap pejal, daging semangka merah merekah berserat lempung lembut dengan biji hitam licin mengkilap, pisau belati gagang kayu tradisional, timbangan pasar kuningan berkarat artistik, dan caping bambu. DILARANG menggunakan text card penutup di layar video — video selesai tepat saat tawa warga pecah, hard cut ke layar hitam dengan denting gong penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

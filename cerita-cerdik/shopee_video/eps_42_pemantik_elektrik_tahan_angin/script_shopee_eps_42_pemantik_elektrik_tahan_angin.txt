@@ -1,0 +1,49 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK - HEMAT TOKEN AI)
+Episode Afiliasi: Cerita Cerdik Eps 42 (Membuat Tali Tambang dari Abu Jerami Padi)
+Produk Rekomendasi: Pemantik Api Elektrik USB Rechargeable Tanpa Gas (Plasma Arc Lighter Anti-Angin)
+Format: 9:16 Vertical Video (Shopee Video / TikTok / Reels)
+Durasi: 12 Detik Utuh
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK)
+-------------------------------------------------------------------
+- Detik 00 - 03 (AI Video Hook):
+  Visual: Ki Udin versi claymation di luar rumah panggung kayu sedang mencoba menyalakan lilin dan kayu bakar dengan korek api kayu, tapi apinya terus-menerus mati tertiup angin kencang hingga jarinya hampir melepuh kepanasan. Ki Udin mengibaskan tangannya meringis lucu, lalu tersadar menatap kamera, tersenyum licik, dan mengacungkan jempol memberi kode solusi rahasia.
+  Audio/SFX: Suara tiupan angin kencang (wuuush!), korek api patah (krek!), dramatic sting kaget (jreeeng!), pop sound (plop!).
+  Teks Layar: "NYALAIN LILIN / KOMPOR SUSAH GARA-GARA ANGIN & GAS HABIS?!"
+
+- Detik 03 - 08 (B-Roll Realistis Produk Seller Shopee):
+  Visual: Video nyata estetis (footage seller/unboxing) memperlihatkan pemantik elektrik leher fleksibel berbahan metal elegan. Ditekan satu tombol: busur plasma listrik ungu menyala instan membakar lilin aromaterapi dan kompor gas seketika, sama sekali tidak mati meski ditiup kipas angin kencang. Diperlihatkan indikator baterai LED dan port charger USB type-C tanpa perlu isi ulang gas butane berbahaya.
+  Audio/SFX: BGM upbeat ceria, suara desis listrik plasma renyah (bzzz-tzz!), ting sound memuaskan.
+  Teks Layar: "Plasma Elektrik Tahan Angin! Tanpa Gas & Tinggal Cas USB!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Visual: Panah animasi bergerak menunjuk ke pojok kiri bawah (ikon Keranjang Oranye Shopee Video), memperlihatkan harga promo flash sale sangat hemat (Cuma Rp20 ribuan / Rp30 ribuan).
+  Audio/SFX: Cash register ding (cling!), suara VO persuasif ceria dan meyakinkan.
+  Teks Layar: "Cuma 20 Ribuan! Checkout di Keranjang Oranye Sekarang 👇"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 1X GENERATE)
+Target Engine: Google Veo 3.1 / Text-to-Video
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Outside a rustic traditional Javanese village house in windy weather, Ki Udin clay figure with short white clay hair and striped lurik shirt tries to light a small beeswax candle with a traditional wooden matchstick, but the gusty wind immediately blows the flame out, making him comically shake his stinging burnt fingertip with an exaggerated pout. Suddenly noticing the camera, Ki Udin gasps with wide bulging eyes, then instantly snaps straight with a brilliant triumphant grin and gives an enthusiastic thumbs-up. Smooth stop-motion clay animation, woven bamboo walls and banana trees swaying in wind in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, 3d CGI cartoon, photorealistic, real human skin, modern clothes, studio void, plain white background, blank backdrop, dark, gloomy, low resolution, blurry, subtitles]
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) BAHASA INDONESIA (12 DETIK)
+-------------------------------------------------------------------
+"Mau nyalain kompor atau lilin tapi korek mati terus kena angin? Pakai Pemantik Elektrik Tanpa Gas ini! Apinya tahan angin badai, aman, dan bisa dicas ulang. Cuma 20 ribuan, klik keranjang oranye sekarang!"
+
+===================================================================
+[4] KRITERIA PRODUK & METADATA AFFILIATE
+-------------------------------------------------------------------
+- Kategori Produk: Peralatan Rumah Tangga & Dapur / Pemantik Api Elektrik USB
+- Target Harga: Rp20.000 – Rp38.000 (Sangat terjangkau, pemicu konversi belanja impulsif tinggi)
+- Syarat Toko: Star+ / Shopee Mall, Rating 4.8+, Terjual > 80.000 unit
+- Potensi Komisi: Komisi Ekstra Shopee Affiliate (10% – 15%)

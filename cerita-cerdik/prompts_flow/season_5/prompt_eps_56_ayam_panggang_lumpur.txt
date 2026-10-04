@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Ayam Panggang Lumpur & Juragan Pelit (Eps 56)
+- Clicky Video Headline: JURAGAN PELIT SIKSA PELAYAN! / AYAM PANGGANG LUMPUR!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Karma Instan Juragan Pelit & Ayam Lumpur (Eps 56)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: in a bright sunny javanese courtyard, a wealthy greedy javanese merchant wearing a shiny red silk shirt angrily throws a raw whole chicken at a poor elderly servant who is sitting on the ground. The poor servant catches the raw chicken with his hands, weeping bitterly and looking terrified. At exactly second 1.5, the cruel merchant shouts loudly in authentic Javanese accent: "Masak iki!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Fluid clay stop-motion animation, bright harsh sunlight casting hard shadows, tense emotional atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text, modern interior, modern kitchen]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground during daytime, a wealthy greedy javanese merchant is screaming and jumping in extreme pain because a steaming hot roasted chicken is stuck inside his pants. He is holding his bottom frantically. Smoke and steam are rising from his pants. In the background, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is pointing at him and laughing out loud alongside a poor elderly servant. Near them, a broken ball of baked clay is on the ground. Bright sunny cinematic lighting, rich clay stop-motion textures, cinematic depth of field, full environmental rustic village setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, modern glass jar, plastic bucket, modern house]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Juragan Pelit]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wealthy greedy javanese merchant, 45 years old, thick mustache, wearing a shiny red silk shirt, gold necklaces, and a batik sarung. Pose standing with arms crossed, angry arrogant expression, empty hands, holding no objects, holding nothing, no props. Clean face.
+
+[Prompt Karakter 2: Pelayan Tua]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A poor elderly javanese male servant, 60 years old, thin, wearing faded dirty brown traditional clothes. Pose kneeling or standing slightly hunched, crying expression, sad eyes, empty hands, holding no objects, holding nothing, no props. Clean face with tear marks.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, bright sunny lighting, wooden kitchen...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, modern glass jar, plastic bucket]`

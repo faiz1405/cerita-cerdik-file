@@ -1,0 +1,157 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Detektif Desa (Test Ombak 2). Warga desa gempar karena pohon beringin pusaka mengeluarkan cairan kental merah seperti darah. Tengkulak licik memanfaatkan ketakutan ini untuk menyuruh warga menjual murah tanah tersebut kepadanya karena dianggap terkutuk. Ki Udin datang meneliti, mengusap dan mencium "darah" tersebut, lalu membongkar bahwa itu hanyalah getah pohon Angsana (sains botani). Tengkulak ketahuan merekayasa kutukan demi tanah dan dikejar warga.
+
+# [purpose]
+Mitos vs Fakta (Botani). Menggunakan fenomena horor alam (pohon berdarah) di 3 detik pertama untuk Thumb-stop maksimal, diselesaikan dengan logika sains sederhana yang sangat relatable dengan kehidupan desa (getah kayu merah).
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Penggemar horor desa, konspirasi tanah, dan drama kearifan lokal).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up cairan kental berwarna merah pekat menetes perlahan dari batang pohon beringin tua. Kamera perlahan mundur memperlihatkan warga desa yang ketakutan. TEXT OVERLAY BOLD: "KUTUKAN POHON BERINGIN BERDARAH?! / DETEKTIF KI UDIN BONGKAR MITOS!".
+    ENVIRONMENT: DUSK. Suasana sore remang-remang di bawah pohon beringin besar (pencahayaan dramatis).
+    SUBJECT: Batang pohon besar, cairan merah, warga desa.
+    ACTION: Tetesan merah lambat (*slow motion*). Warga desa gemetar ketakutan, beberapa sujud. SFX: Suara tetesan cairan kental, jeritan tertahan, Jumpscare hit.
+    NARASI: "Warga desa mendadak gempar dan ketakutan melihat pohon beringin pusaka desa tiba-tiba menangis darah!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium shot.
+    ENVIRONMENT: DUSK. Bawah pohon.
+    SUBJECT: Tengkulak licik (baju hijau sutra) tersenyum picik namun berakting panik di depan warga.
+    ACTION: Tengkulak berpidato menakut-nakuti warga, menunjuk-nunjuk pohon berdarah.
+    NARASI: "Cairan kental berwarna merah pekat terus menetes dari batang pohon itu, membuat suasana desa menjadi sangat mencekam. Di tengah kepanikan, Tengkulak licik datang dan menakut-nakuti warga bahwa desa ini telah dikutuk!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan & Medium Two-Shot (Pacing Anti-Drop Detik 5-15).
+    ENVIRONMENT: DUSK.
+    SUBJECT: Ki Udin berjalan tenang menembus kerumunan warga yang panik. Matanya menyipit penuh kecurigaan.
+    ACTION: Tengkulak menyerahkan secarik kertas (surat tanah) ke warga, tapi Ki Udin menepisnya perlahan. SFX: JENG! <break time="1.0s"/>
+    NARASI: "Ia mendesak warga untuk segera menebang beringin itu dan menjual tanahnya dengan harga sangat murah kepadanya. Warga yang ketakutan hampir saja setuju, sampai akhirnya Ki Udin datang mendekat."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up Makro.
+    ENVIRONMENT: DUSK. Batang pohon.
+    SUBJECT: Tangan Ki Udin menyentuh cairan merah itu, mengusapnya di jari, lalu mendekatkannya ke hidung.
+    ACTION: Mengendus cairan merah itu perlahan dengan wajah serius ala detektif forensik.
+    NARASI: "Ki Udin mengusap cairan merah di batang pohon itu, menciumnya, lalu tersenyum tipis."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium close-up.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Ki Udin menatap tajam ke arah Tengkulak yang mulai berkeringat.
+    ACTION: Ki Udin mengangkat jarinya yang merah, menggelengkan kepala meremehkan.
+    NARASI: "Ia lalu menoleh ke arah Tengkulak dan berkata: Sejak kapan darah manusia berbau getah kayu, Tuan?"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Action Shot.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Ki Udin menarik sebuah sumbat kayu kecil yang disembunyikan di balik akar gantung beringin.
+    ACTION: Saat sumbat ditarik, terlihat tabung bambu kecil tersembunyi yang berisi getah merah. Warga melongo kaget!
+    NARASI: "Ki Udin membongkar rahasia itu! Ternyata itu bukanlah darah kutukan, melainkan murni getah merah dari pohon Angsana!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Wide shot.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Tengkulak pucat pasi ketahuan belangnya.
+    ACTION: Warga desa serentak mengepalkan tangan marah.
+    NARASI: "Sang Tengkulak sengaja melubangi batang beringin dan meneteskan getah angsana setiap sore untuk menakuti warga! Niat busuknya merebut tanah sengketa desa kini terbongkar jelas di depan semua orang!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Action & Reaksi.
+    ENVIRONMENT: DUSK. Halaman desa.
+    SUBJECT: Tengkulak lari terbirit-birit, sandalnya terlepas.
+    ACTION: Tengkulak dikejar warga desa yang membawa sapu lidi komikal. SFX: Slip, Thud, Suara kaki lari kartun.
+    NARASI: "Tengkulak licik itu pucat pasi dan lari terbirit-birit dikejar warga yang marah!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Medium shot Ki Udin.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Ki Udin tertawa kecil sambil mengelap jarinya dengan kain.
+    ACTION: Ki Udin tersenyum cerdik ke arah kamera. Hard cut ke hitam.
+    NARASI: "Sekali lagi, mitos kutukan desa berhasil dihancurkan oleh logika sains Ki Udin!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Warga desa mendadak gempar dan ketakutan melihat pohon beringin pusaka desa tiba-tiba menangis darah!
+Cairan kental berwarna merah pekat terus menetes dari batang pohon itu, membuat suasana desa menjadi sangat mencekam.
+Di tengah kepanikan, Tengkulak licik datang dan menakut-nakuti warga bahwa desa ini telah dikutuk!
+Ia mendesak warga untuk segera menebang beringin itu dan menjual tanahnya dengan harga sangat murah kepadanya.
+<break time="1.0s"/>
+
+Warga yang ketakutan hampir saja setuju, sampai akhirnya Ki Udin datang mendekat.
+Ki Udin mengusap cairan merah di batang pohon itu, menciumnya, lalu tersenyum tipis.
+Ia lalu menoleh ke arah Tengkulak dan berkata: "Sejak kapan darah manusia berbau getah kayu, Tuan?"
+Ki Udin membongkar rahasia itu! Ternyata itu bukanlah darah kutukan, melainkan murni getah merah dari pohon Angsana!
+<break time="1.0s"/>
+
+Sang Tengkulak sengaja melubangi batang beringin dan meneteskan getah angsana setiap sore untuk menakuti warga!
+Niat busuknya merebut tanah sengketa desa kini terbongkar jelas di depan semua orang!
+Tengkulak licik itu pucat pasi dan lari terbirit-birit dikejar warga yang marah!
+Sekali lagi, mitos kutukan desa berhasil dihancurkan oleh logika sains Ki Udin!
+
+# [bgmStyle]
+Skor misteri/horor berbalut kearifan lokal. Awal sangat mencekam (Jumpscare hit, gamelan pelan dan berat ala film horor sekte). Saat Ki Udin mencium getah, instrumen gamelan misterius mengendap-endap. Saat sumbat bambu dicabut terdengar SFX "TA-DAA!" kemenangan. Diakhiri suara kejar-kejaran komikal kartun dan tawa warga.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'menangis darah', 'desa ini telah dikutuk', 'menjual tanahnya', 'berbau getah kayu', 'getah merah dari pohon Angsana', 'merebut tanah sengketa', 'lari terbirit-birit', 'mitos kutukan desa'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Tengkulak Licik (ROLE_02)",
+        "description": "Greedy middleman, 45, wearing bright green silk Javanese shirt, slicked black hair. Fake worried face but secretly smiling. ANTAGONIS LICIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. DILARANG MEMASUKKAN UNSUR MODERN. TEMA MISTERI: Pencahayaan sore hari (dusk) yang agak kemerahan dan dramatis. Cairan merah dibuat seperti lendir tanah liat. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

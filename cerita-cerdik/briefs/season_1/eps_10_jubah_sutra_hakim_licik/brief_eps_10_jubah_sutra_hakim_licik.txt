@@ -1,0 +1,97 @@
+[theme]
+Menjebak Hakim Licik yang Suka Merampas Harta Rakyat / Cerita Cerdik.
+
+[purpose]
+Menghibur penonton keluarga dan dewasa dengan kisah humor cerdik Ki Udin yang mempermalukan Hakim licik di hadapan Sultan Prabu menggunakan jebakan logika Jubah Sutra Emas.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & Instagram Reels.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside a traditional wooden courtroom, a greedy arrogant judge clay figure in an ornate golden silk robe aggressively slams a wooden gavel, unfairly seizing poor village farmers' land documents while poor villagers cry. CapCut Effect: Dramatic Slow Zoom-in on the judge's wicked smirk, Claymation filter. Audio: Gamelan tension music, heavy gavel slam SFX, sobbing villagers SFX. Full environmental setting of traditional Javanese court hall, no plain white background, no blank backdrop. VO: "Seorang hakim licik di kota sering merampas tanah milik warga miskin dengan membuat vonis palsu dan mengaku-aku bahwa harta warga adalah miliknya, hingga warga desa hanya bisa menangis pasrah."
+
+Shot 2 (35-70s): Outside the grand courthouse, Ki Udin clay figure with short white hair in a lurik shirt politely borrows the judge's oversized golden silk robe to visit Sultan Prabu at the royal palace, and the vain judge smugly hands it over. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on the shimmering golden robe. Audio: Cheerful acoustic gamelan, silk rustling SFX, vain chuckling SFX. Full environmental background of lush courthouse courtyard, warm natural daylight, no studio void, no white background. VO: "Ki Udin mendatangi rumah sang hakim dengan ramah dan meminjam jubah sutra emas mewahnya dengan alasan ingin terlihat pantas saat menghadap Sultan Prabu di keraton."
+
+Shot 3 (70-115s): Inside the grand royal palace Pendopo, Ki Udin wears the oversized golden robe before Sultan Prabu. When Ki Udin accuses the judge of stealing people's land, the furious judge points aggressively and shouts that Ki Udin even stole his golden robe. CapCut Effect: Dynamic Zoom-in on the judge's bulging eyes and Ki Udin's mischievous calm smile. Audio: Tense comedic marimba music, loud shouting SFX, dramatic drum roll SFX. Rich traditional Javanese royal palace interior setting, warm lanterns, no plain white background. VO: "Di hadapan Sultan Prabu, Ki Udin melaporkan kejahatan hakim tersebut hingga sang hakim berteriak histeris menuduh Ki Udin mencuri jubah sutra emas yang sedang dipakainya."
+
+Shot 4 (115-150s): Ki Udin calmly gestures to the Sultan, proving the judge's greedy habit of claiming everything as his own. Sultan Prabu clay figure on his golden throne laughs hysterically holding his belly, while the corrupt judge collapses in panic and shame. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan music ending, cheerful crowd applause SFX. Grand royal palace Pendopo background, warm lighting, no studio background, full depth. VO: "Ki Udin dengan tenang membalikkan logika bahwa jubah yang sedang dipakainya saja diaku-aku oleh hakim serakah itu, membuat Sultan tertawa terbahak-bahak dan langsung mencopot jabatannya!"
+
+[videoNarration]
+Seorang hakim licik di kota sering merampas tanah dan hewan ternak milik warga miskin dengan membuat vonis palsu dan mengaku-aku bahwa harta warga adalah miliknya. Siapa pun warga yang berani melawan akan langsung dipenjarakan oleh sang hakim yang sombong itu. Para warga desa hanya bisa menangis pasrah meratapi nasib mereka. Namun Ki Udin yang berambut putih dan penuh akal bertekad memberikan pelajaran yang tak akan pernah dilupakan oleh hakim serakah itu.
+Suatu pagi, Ki Udin mendatangi rumah megah sang hakim dengan wajah sangat ramah. Ki Udin meminta izin meminjam jubah sutra emas mewah milik hakim dengan alasan ingin terlihat pantas saat menghadap Sultan Prabu di keraton. Karena merasa tersanjung dan ingin pamer kekayaan, sang hakim dengan sombong meminjamkan jubah sutra emasnya yang sangat mahal itu kepada Ki Udin.
+Keesokan harinya di hadapan Sultan Prabu dan para pembesar keraton, Ki Udin yang memakai jubah sutra emas kegedean maju dan melaporkan kejahatan sang hakim yang suka merampas tanah rakyat. Sang hakim yang hadir di keraton mendadak panik dan marah besar. Beliau berteriak histeris menunjuk Ki Udin, 'Gusti Sultan! Jangan percaya fitnah orang miskin ini! Dia pembohong besar! Bahkan jubah sutra emas yang sedang dipakainya itu saja adalah jubah curian milik hamba!'
+Mendengar teriakan panik itu, Ki Udin tersenyum tenang lalu berkata dengan sangat santai, 'Ampun Gusti Sultan... Lihatlah sendiri kelakuan hakim ini. Jangankan tanah dan rumah warga miskin, jubah sutra emas yang jelas-jelas sedang menempel di badan hamba saja langsung diaku-aku sebagai miliknya di depan mata Gusti Sultan!'
+Seluruh keraton mendadak hening sejenak sebelum akhirnya Sultan Prabu tertawa terbahak-bahak memegang perutnya. Sang hakim mendadak pucat pasi dan gemetar ketakutan karena sadar lidahnya sendiri telah membongkar sifat serakahnya. Sultan pun langsung mencopot jabatan hakim licik itu dan mengembalikan seluruh tanah kepada rakyat miskin!
+
+[bgmStyle]
+(1) 0-35s: Gamelan tension music, heavy gavel slam SFX, sobbing villagers SFX.
+(2) 35-70s: Cheerful acoustic gamelan, silk rustling SFX, vain chuckling SFX.
+(3) 70-115s: Tense comedic marimba music, loud shouting SFX, dramatic drum roll SFX.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan music ending, cheerful crowd applause SFX.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik memakai jubah sutra emas kebesaran tersenyum polos penuh kemenangan, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Hakim Licik",
+"description": "Pria pejabat licik sombong berwajah pucat panik menunjuk dengan mata melotot ketakutan, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

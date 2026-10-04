@@ -1,0 +1,99 @@
+[theme]
+Membungkam Tantangan Mustahil Pejabat Sombong / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin menjawab tantangan mustahil membangun istana megah di atas awan menggunakan layang-layang raksasa dan logika tangga langit, membungkam Patih yang sombong.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside a grand royal palace courtyard, an arrogant chubby royal minister (Patih) clay figure in opulent purple and gold court attire points aggressively at the sky, issuing an impossible challenge to Ki Udin while poor villagers cry in fear. The Patih threatens to seize all the villagers' homes if Ki Udin cannot build a grand palace in the clouds within one day. CapCut Effect: Dramatic Slow Zoom-in on the Patih's arrogant smirk and cloudy sky, Claymation filter. Audio: Tense royal gamelan fanfare, arrogant loud shouting SFX, sobbing villagers SFX. Rich traditional Javanese royal palace courtyard setting, royal guards, tropical trees, morning sunlight, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang Patih kerajaan yang sombong dan dengki menantang Ki Udin di hadapan Sultan Prabu untuk membangun mahligai istana megah di atas awan dalam satu hari, dengan ancaman menyita seluruh rumah dan tanah warga desa."
+
+Shot 2 (35-70s): At a breezy wide open village field, Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon cheerfully crafts a massive traditional diamond-shaped kite decorated with glowing brass bells and a small wooden puppet holding a hammer. Anxious village elders gather around him while Ki Udin smiles with serene confidence. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on Ki Udin's clever smile and the ornate kite. Audio: Cheerful acoustic gamelan melody, whistling wind SFX, curious village chatter SFX. Rustic village meadow background, lush palm trees, rolling green hills, warm natural daylight, no studio void, no white background. VO: "Keesokan paginya di lapangan desa berangin kencang, Ki Udin yang tenang mempersiapkan layang-layang raksasa berlonceng kuningan dan boneka pemahat kayu untuk diterbangkan ke langit berawan tebal."
+
+Shot 3 (70-115s): The giant colorful kite soars high into the fluffy white clouds, disappearing into the sky while ringing bells and wooden knocking sounds ('ting... ting... ting...') echo loudly from above. Below on the ground, thousands of villagers, Sultan Prabu on his royal throne, and the arrogant Patih watch with wide bewildered eyes. Ki Udin proudly points to a giant bamboo ladder and piles of clay bricks on the ground. CapCut Effect: Dynamic camera tilt-up soaring into the clouds, dramatic Zoom-in on the Patih's jaw dropping in utter shock. Audio: Rhythmic kendang drums, ringing bell chimes SFX (ting-ting), wind howling SFX, excited crowd murmurs. Wide sunlit grassy field, soaring fluffy clouds, thousands of spectators, full environmental setting, no plain white background. VO: "Layang-layang raksasa melesat menembus awan membunyikan dentang lonceng seperti suara tukang sedang memahat, disusul seruan Ki Udin yang meminta sang Patih dan pasukannya memanjat tangga membawa batu bata ke atas awan!"
+
+Shot 4 (115-150s): Ki Udin politely explains that his master builders are already waiting in the sky, so the Patih must personally deliver the bricks and sand up the ladder. The Patih trembles in pale defeat, unable to climb the sky, while Sultan Prabu clay figure on his golden throne bursts into roaring belly laughter holding his stomach. Ki Udin is rewarded with a pouch of gold coins as the crowd cheers joyfully. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd SFX. Grand royal palace grounds, sunset golden glow, cheering villagers, full depth. VO: "Sang Patih melongo pucat gemetar karena mustahil memanjat ke atas awan, sementara Sultan Prabu tertawa terbahak-bahak memuji kecerdikan Ki Udin dan menghadiahinya sekantong keping emas!"
+
+[videoNarration]
+Di sebuah kerajaan makmur, ada seorang Patih istana yang sangat sombong, licik, dan selalu merasa iri dengan kecerdasan Ki Udin yang dicintai oleh seluruh rakyat jelata. Suatu hari di hadapan Sultan Prabu dan para pembesar keraton, sang Patih melontarkan sebuah tantangan yang luar biasa mustahil dan di luar nalar manusia. Sang Patih menantang Ki Udin untuk membangun sebuah mahligai istana megah berlantai marmer di atas gumpalan awan hanya dalam waktu satu hari. Jika Ki Udin gagal menyelesaikan tugas itu sebelum matahari terbenam, seluruh tanah pertanian dan rumah warga desa akan disita paksa oleh sang Patih. Seluruh warga desa pun menangis histeris ketakutan, namun Ki Udin yang berambut putih dan penuh akal hanya tersenyum tenang menyanggupi tantangan tersebut.
+
+Keesokan paginya di tanah lapang desa yang berangin kencang, ribuan rakyat berbondong-bondong berkumpul untuk menyaksikan keajaiban. Sultan Prabu duduk megah di atas takhta emasnya didampingi sang Patih yang tersenyum sinis penuh kemenangan. Tepat saat angin bertiup kencang ke arah langit, Ki Udin melangkah maju membawa sebuah layang-layang raksasa yang terbuat dari kain sutra tebal. Di ujung rangka layang-layang itu, Ki Udin memasang puluhan lonceng kuningan berdenting dan boneka kayu kecil yang dirancang memukulkan palu setiap kali baling-balingnya berputar tertiup angin kencang.
+
+Dengan sekali sentakan tali yang kuat, layang-layang raksasa itu melesat terbang sangat tinggi menembus gumpalan awan putih tebal hingga tak terlihat lagi oleh mata telanjang. Dari balik langit yang tertutup awan, terdengar suara dentangan lonceng dan ketukan palu kayu bertalu-talu 'ting... ting... ting... tok... tok... tok...' menggema sangat nyaring di seluruh angkasa, persis seperti suara ratusan tukang bangunan yang sedang sibuk memahat fondasi istana! Seluruh rakyat dan para pejabat istana terperanjat takjub menatap ke atas langit.
+
+Ki Udin lalu membungkuk hormat kepada sang Patih, menunjuk tangga bambu raksasa dan tumpukan batu bata di hadapannya, lalu berseru lantang: 'Ampun Gusti Sultan dan Tuan Patih yang perkasa! Para tukang bangunan hamba yang sakti sudah siap bekerja memahat istana di atas awan seperti yang Anda dengar sendiri suaranya. Sekarang, giliran Tuan Patih bersama seluruh prajurit istana untuk memanjat tangga ini membawa batu bata, semen, dan pasir ke atas awan agar tukang hamba bisa menyusun istananya sekarang juga!' Mendengar jawaban luar biasa cerdas itu, sang Patih langsung pucat pasi, lututnya lemas gemetar, dan ia tertunduk malu tanpa bisa membantah sepatah kata pun. Mana mungkin ada manusia yang bisa memanjat ke atas awan! Seketika itu juga, Sultan Prabu tertawa terbahak-bahak memegangi perutnya di atas takhta emas, lalu menghadiahi Ki Udin sekantong keping emas atas kecerdikannya yang tiada tanding!
+
+[bgmStyle]
+(1) 0-35s: Tense royal gamelan fanfare, arrogant loud shouting SFX, sobbing villagers SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, whistling wind SFX, curious village chatter SFX.
+(3) 70-115s: Rhythmic kendang drums, ringing bell chimes SFX (ting-ting), wind howling SFX, excited crowd murmurs.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd SFX.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik memegang gulungan tali layang-layang raksasa tersenyum tenang penuh akal di lapangan berangin, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Patih Sombong",
+"description": "Pria pejabat kerajaan bertubuh gemuk memakai pakaian ungu emas berwajah pucat gemetar melongo kebingungan menatap langit, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

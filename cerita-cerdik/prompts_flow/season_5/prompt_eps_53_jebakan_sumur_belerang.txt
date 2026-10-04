@@ -1,0 +1,42 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Jebakan Emas Sumur Belerang (Eps 53)
+- Clicky Video Headline: HARTA KARUN DI SUMUR? RENTENIR KENA BATUNYA!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Karma Rentenir Rakus (Eps 53)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: a wealthy arrogant village moneylender with a greedy expression, wearing a shiny red javanese silk shirt and golden necklaces, is looking down into an old brick well in the dark of night. Glowing bright golden light reflects from the water at the bottom of the well, illuminating the moneylender's greedy face. He is laughing evilly and showing his gold teeth in extreme excitement. At exactly second 2.0, the moneylender shouts loudly in authentic Javanese accent: "Wah, sugih aku!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 2 seconds. Fluid clay stop-motion animation, dramatic dark night lighting casting high contrast shadows, glowing magical reflection, tense curious atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text, modern well, metal buckets]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground at the bottom of an old brick well, a wealthy village moneylender wearing a red javanese shirt is sweating profusely, crying, and tearing up pieces of paper (debt certificates). Thick yellowish-green sulfur smoke surrounds him. At the bottom of the well water, there is only a flat copper mirror reflecting light, no gold coins. In the background at the top of the well, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is looking down, holding a wooden pulley rope with a cynical, victorious smile. Radiant cinematic night lighting with glowing sulfur mist, rich clay stop-motion textures, cinematic depth of field, full environmental village well setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, modern well, metal buckets]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Karakter: Rentenir Serakah]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wealthy arrogant village moneylender, 45 years old, greedy expression, wearing shiny red javanese silk shirt and golden necklaces. Pose standing with arms crossed, empty hands, holding no objects, holding nothing, no props. Clean face.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, dark night lighting, old brick well...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, modern well, metal buckets]`

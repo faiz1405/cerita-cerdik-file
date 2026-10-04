@@ -1,0 +1,77 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 43 (SEASON 4 EPISODE 3)
+Judul Episode: Menghitung Biji Buah Semangka Tanpa Membelahnya (Eps 43 / S4E03)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation - Tier-1 High Granularity)
+Tema Utama: Food & Agricultural Logic (Tipe B) & Slapstick Sari Semangka (Tipe A)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menghitung Biji Buah Semangka Tanpa Membelahnya (Eps 43)
+- Clicky Video Headline: NANTANG TEBAK BIJI SEMANGKA TANPA DIBELAH BUAT RAMPAS KEBUN PETANI?! AKAL CERDIK KI UDIN BIKIN JURAGAN KIKIR MANDI AIR SEMANGKA MERAH!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Menghitung Biji Semangka (Eps 43)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: in a lush sun-drenched rural watermelon field under bright tropical daylight, an arrogant chubby Javanese village landlord (Juragan Broto) with a twirled black mustache and ornate golden-brown silk lurik vest brandishes a large silver dagger knife straight toward the camera with bulging angry eyes, mouth wide open aggressively shouting instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Tebaken piro cacahe wiji semongko iki tanpa dibelah, nek ora iso kebonmu tak sita saiki!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Beside a giant striped green watermelon resting on a rustic wooden table at second 0, Ki Udin steps forward in his signature striped earth-toned lurik shirt and brown batik blangkon, calmly knocking on the watermelon rind with a mischievous confident smirk, boldly accepting the impossible challenge before trembling elderly farmers. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, lush green watermelon vines, thatched farm huts, and coconut trees in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground in a vibrant tropical watermelon patch, Ki Udin the clever elderly clay figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt smiles with triumphant wit, pointing one finger toward a sliced giant red watermelon glistening with sweet juicy clay texture and shiny black seeds! In the comical background, Juragan Broto the chubby landlord jumps backward in utter shock and agony: a juicy chunk of red watermelon has just smashed onto his round belly, completely soaking his silk vest, twirled mustache, and entire face in sticky red watermelon juice and black seeds like a comical fruit clown, with a black seed stuck right onto his forehead! Grateful Javanese farmers wearing woven bamboo caping hats cheer and roar with hearty belly laughter around a wooden harvest wagon piled high with watermelons. Radiant morning tropical sunlight, rich clay stop-motion textures, cinematic depth of field, full environmental rural village setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry, blood, gore]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/sari buah, efek sari semangka merah dan pisau belati dianimasikan terpisah di CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Desa Cerdik - Versi Lurik Sederhana Desa) ---
+Option A (Pede & Senyum Kemenangan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with sandals. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, watermelon, knife, seeds, basket, tools, background, room, scenery, farm, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Berpikir & Mengetuk - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung. Standing pose with a cheerful witty calculating expression, one hand raised with bent knuckles as if tapping, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, watermelon, knife, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. JURAGAN BROTO (Tengkulak & Tuan Tanah Sombong - CLEAN SKIN / TANPA SARI BUAH) ---
+*(Catatan: Karakter Juragan Broto telah tersedia di `cerita-cerdik/character/season4/juragan_broto_transparent.png`)*
+Option A (Sombong Menunjuk Mengancam - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese village produce broker and landlord with a protruding round belly, twirled black mustache, wearing an ornate brown and golden silk lurik vest over white undershirt, brown batik jarik skirt, and polished dark headcloth. Comical arrogant sneering expression pointing his finger forward aggressively, empty hands, holding no objects, holding no knife, holding nothing, no props, completely clean spotless skin without any watermelon juice, red stains, or seeds, immaculate traditional clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, knife, dagger, watermelon, seeds, red stains, background, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Kaget Terjungkal & Keringat Dingin - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby Javanese landlord in silk lurik vest. Comical utterly shocked panicking expression with bulging cross-eyed look, hands waving backward in defensive alarm, empty hands, holding no objects, no props, completely clean dry clothing and dry skin, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, watermelon, juice, red fluid, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. PETANI SOMAD (Watermelon Farmer - Caping Bambu Usang) ---
+Option A (Cemas Ketakutan Memegang Caping - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A humble middle-aged Javanese watermelon farmer with a weathered kind face, wearing an authentic conical bamboo caping hat, faded dark indigo work shirt, rolled-up brown trousers, barefoot. Standing with a worried, anxious expression, empty hands, hands held near chest, holding no objects, holding no basket, holding nothing, no props, clean face, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, watermelon, basket, tools, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Tertawa Gembira Puas - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A humble Javanese farmer in bamboo caping hat and indigo work shirt. Standing cheerful pose with wide happy mouth open laughing heartily, hands clapping playfully, empty hands, holding no objects, no props, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, watermelon, background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+- Frasa Pengunci Wajib (Wajib ditaruh di awal setiap prompt video/gambar):
+  "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese agricultural watermelon farm setting."
+- Negative Constraints Ketat:
+  [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no blood, no gore, no modern stainless steel tools].

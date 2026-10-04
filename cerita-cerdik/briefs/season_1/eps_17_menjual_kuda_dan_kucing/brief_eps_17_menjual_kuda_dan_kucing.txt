@@ -1,0 +1,104 @@
+[theme]
+Membongkar Trik Nadzar Saudagar Kikir / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin membongkar akal licik saudagar pelit yang menjual kuda seharga 1 perak namun mem-bundling dengan kucing seharga 100 emas, memaksanya menyedekahkan seluruh hartanya.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. In a bustling rustic village market square, a chubby wealthy merchant clay figure in extravagant green and gold robes holds the reins of a majestic Arabian horse with a wooden sign 'Kuda 1 Perak' and a scrawny calico cat with a sign 'Kucing 100 Emas'. The greedy merchant shouts arrogantly at poor villagers, refusing to sell the horse unless they also pay 100 gold coins for the skinny cat, intending to keep the gold and only donate the silver coin! CapCut Effect: Dramatic Slow Zoom-in on the grinning merchant and the bewildered poor villagers, Claymation filter. Audio: Bustling market crowd murmurs, horse whinnying SFX, arrogant shouting SFX, cat meowing SFX. Rustic traditional Javanese market background, thatched stalls, palm trees, warm daylight, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang saudagar kaya yang pelit berniat mengingkari nadzar sedekahnya dengan menjual kuda pacuan seharga satu keping perak, tetapi wajib dibeli bersama seekor kucing kampung kurus seharga seratus keping emas!"
+
+Shot 2 (35-70s): Poor villagers look disheartened and complain about the merchant's deceit. Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon steps forward calmly. Ki Udin smiles, gently petting the scrawny cat, and boldly announces to the crowd that he will bring this miraculous 100-gold cat directly to Sultan Prabu's royal court! CapCut Effect: Soft Blur background with gentle Slow Zoom-in on Ki Udin's wise smile and the comical cat. Audio: Cheerful acoustic gamelan melody, curious crowd murmurs, cat purring SFX. Village market background, wooden market stalls, tropical sunlight, full environmental setting, no studio void, no white background. VO: "Melihat warga miskin dipermainkan, Ki Udin yang tenang melangkah maju dan mengajak sang saudagar menghadap Sultan Prabu untuk mengesahkan penjualan kucing ajaib berharga fantastis itu."
+
+Shot 3 (70-115s): Inside the grand royal palace hall (Pendopo Keraton), Ki Udin presents the skinny cat to Sultan Prabu sitting on his golden throne. Ki Udin cleverly argues that since the merchant values this ordinary cat at 100 gold coins, it must be a rare royal treasure, meaning the merchant is obligated to pay 200 gold coins in royal treasure tax—or confess before the Sultan that he lied and broke his sacred vow! The greedy merchant drops to his knees in pale terror, sweating profusely with bulging eyes. CapCut Effect: Dynamic camera pan from the royal throne, dramatic Zoom-in on the merchant's trembling dropped jaw. Audio: Tense royal gamelan suspense, dramatic drum boom SFX, gasping courtiers SFX. Grand carved teak palace hall, golden throne, royal guards, full depth, no plain white background. VO: "Di hadapan Sultan Prabu, Ki Udin menjebak sang saudagar dengan aturan pajak pusaka istana sebesar dua ratus keping emas jika kucing itu berharga seratus emas, atau ia akan dijebloskan ke penjara karena mempermainkan sumpah nadzar!"
+
+Shot 4 (115-150s): Terrified of imprisonment, the greedy merchant desperately empties his heavy velvet pouches, handing over all 100 shiny gold coins to the cheering poor villagers in the courtyard. Sultan Prabu bursts into roaring belly laughter holding his sides, while Ki Udin winks cheerfully holding the satisfied cat. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, clinking gold coins SFX, cheering crowd applause. Grand palace courtyard, golden sunset glow, happy villagers, full depth. VO: "Panik ketakutan akan ancaman penjara, sang saudagar akhirnya menyerahkan seluruh seratus keping emasnya kepada fakir miskin diiringi tawa terbahak-bahak Sultan Prabu yang memuji kejeniusan Ki Udin!"
+
+[videoNarration]
+Alkisah di sebuah desa makmur, hiduplah seorang saudagar kaya raya yang terkenal sangat kikir, sombong, dan tidak pernah mau bersedekah kepada rakyat miskin. Suatu hari saat jatuh sakit parah dan mengira ajalnya telah tiba, sang saudagar bernadzar di hadapan orang banyak bahwa jika ia berhasil sembuh, ia akan menjual kuda pacuan terbaik miliknya seharga satu keping perak saja, dan seluruh hasil penjualannya akan disumbangkan kepada fakir miskin. Ajaibnya, beberapa hari kemudian saudagar itu sembuh total. Namun karena sifat kikirnya yang mendarah daging, ia sangat menyesal telah bernadzar menjual kuda mahalnya dengan harga satu keping perak!
+
+Agar tidak kehilangan hartanya, sang saudagar licik membuat siasat curang di pasar desa. Ia menuntun kudanya dengan papan bertuliskan 'Kuda Terbaik: 1 Keping Perak', namun di sampingnya ia mengikat seekor kucing kampung yang kurus dengan papan bertuliskan 'Kucing Ajaib: 100 Keping Emas'. Sang saudagar berseru bahwa kuda itu hanya boleh dibeli jika pembeli bersedia membeli kucingnya sekaligus! Dengan cara licik ini, sang saudagar berencana hanya menyedekahkan satu keping perak ke warga miskin, sementara seratus keping emas hasil penjualan kucing akan masuk ke kantong pribadinya sendiri! Seluruh warga desa pun kecewa dan menangis karena merasa dipermainkan.
+
+Melihat kezaliman itu, Ki Udin yang berambut putih dan penuh akal melangkah maju menghadap sang saudagar. Sambil mengelus kucing kurus tersebut, Ki Udin mengajak saudagar itu menghadap Sultan Prabu di keraton untuk mengesahkan transaksi jual beli hewan langka tersebut. Di hadapan Sultan Prabu dan para pembesar istana, Ki Udin membungkuk hormat lalu berkata lantang: 'Ampun Gusti Sultan! Saudagar ini membawa seekor kucing luar biasa sakti yang harganya mencapai seratus keping emas. Menurut undang-undang kerajaan, siapa pun yang memiliki hewan pusaka langka bernilai seratus emas wajib membayar pajak pusaka istana sebesar dua ratus keping emas ke kas desa, atau ia harus mengakui di hadapan Gusti Sultan bahwa ia telah berbohong dan mempermainkan sumpah nadzarnya demi menipu rakyat miskin!'
+
+Mendengar aturan hukum yang luar biasa menohok itu, sang saudagar langsung pucat pasi, sekujur tubuhnya gemetar hebat, dan ia bersujud ketakutan di lantai marmer istana. Jika ia mengaku berbohong mempermainkan sumpah, hukumannya adalah dipenjara seumur hidup; namun jika ia bersikeras kucing itu berharga seratus emas, ia harus membayar pajak dua ratus keping emas! Karena tidak punya pilihan lain, sang saudagar langsung mengeluarkan seluruh kantong uang emasnya dan membagikan seratus keping emas itu kepada seluruh fakir miskin di hadapan Sultan. Seketika itu juga, Sultan Prabu tertawa terbahak-bahak memegangi perutnya di atas takhta emas, lalu menghadiahkan koin kehormatan kepada Ki Udin atas akal cerdiknya yang membela rakyat kecil!
+
+[bgmStyle]
+(1) 0-35s: Bustling market crowd murmurs, horse whinnying SFX, arrogant shouting SFX, cat meowing SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, curious crowd murmurs, cat purring SFX.
+(3) 70-115s: Tense royal gamelan suspense, dramatic drum boom SFX, gasping courtiers SFX.
+(4) 115-150s: Boisterous belly laughter SFX, clinking gold coins SFX, cheering crowd applause.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik mengelus kucing kurus tersenyum santai penuh kemenangan di pendopo keraton, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Saudagar Kikir",
+"description": "Pria saudagar kaya bertubuh tambun berpakaian hijau emas berwajah pucat gemetar bersujud ketakutan mengeluarkan kantong koin emas, gaya claymation.",
+"id": "ROLE_03"
+},
+{
+"name": "Kuda & Kucing",
+"description": "Kuda pacuan gagah bertali kekang dan seekor kucing kampung belang tiga kurus dengan kalung tali jerami, gaya claymation.",
+"id": "ROLE_04"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

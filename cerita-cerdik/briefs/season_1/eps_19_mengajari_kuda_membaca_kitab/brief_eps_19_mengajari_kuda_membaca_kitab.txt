@@ -1,0 +1,106 @@
+[theme]
+Membungkam Tantangan Mustahil 10 Tahun Pejabat Sombong / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin mengajari seekor kuda kerajaan membaca kitab tebal dengan trik rumput segar di tiap halaman, membungkam Patih yang sombong.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside the grand Javanese royal palace hall, an arrogant chubby royal minister (Patih) in purple silk and ornate headdress aggressively points at a massive leather-bound book on a wooden stand and a majestic royal horse, shouting a mock challenge to Ki Udin in front of Sultan Prabu. The Patih threatens that Ki Udin must teach this horse to read the holy book within 10 years or face execution! CapCut Effect: Dramatic Slow Zoom-in on the giant book, the blinking horse, and the Patih's cruel smirk, Claymation filter. Audio: Tense royal gamelan fanfare, arrogant loud shouting SFX, horse whinnying SFX. Grand carved teak wooden palace hall setting, glowing lanterns, golden throne, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang Patih istana yang sombong dan dengki menantang Ki Udin di hadapan Sultan Prabu untuk mengajari seekor kuda kerajaan membaca kitab tebal dalam waktu sepuluh tahun dengan taruhan nyawa jika gagal."
+
+Shot 2 (35-70s): Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon cheerfully accepts the challenge with a serene smile, requesting a 10-year deadline and monthly horse feed budget. In a rustic wooden stable, Ki Udin cleverly trains the horse by tucking crisp fresh green grass blades between every single page of a giant clay book while the horse watches attentively. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on Ki Udin slipping grass into pages and the chewing horse. Audio: Cheerful acoustic gamelan melody, horse munching grass SFX (kruk-kruk), turning pages paper rustling SFX. Rustic village stable background, sunny courtyard, palm trees, full environmental setting, no studio void, no white background. VO: "Ki Udin menyanggupi tantangan tersebut dengan santai, lalu melatih sang kuda di kandang desa dengan cara menyelipkan helai-helai rumput segar di antara setiap lembar halaman kitab."
+
+Shot 3 (70-115s): Inside the crowded royal court, Ki Udin places the giant book before the horse in front of Sultan Prabu and the Patih. The horse swiftly turns page after page using its long tongue and lips, licking and chewing each leaf of grass while nodding and whinnying proudly! When the Patih scoffs that the horse is only looking for grass, Ki Udin loudly retorts that the horse at least diligently turns and reads every page, unlike the Patih who signs tax decrees without ever reading them! CapCut Effect: Dynamic camera pan across the book pages, dramatic Zoom-in on the Patih's dropped jaw and blushing red cheeks. Audio: Rhythmic kendang drums, funny spring boing SFX, rapid page turning SFX, gasping crowd laughter. Grand palace hall, Sultan Prabu leaning forward with wide excited eyes, full depth, no plain white background. VO: "Di hadapan Sultan Prabu, sang kuda dengan lincah membalik halaman demi halaman menggunakan lidahnya sambil meringkik, disusul sindiran telak Ki Udin bahwa kuda saja rajin membalik halaman tidak seperti Patih yang sering tanda tangan tanpa membaca!"
+
+Shot 4 (115-150s): Ki Udin winks at the crowd, explaining that within 10 years, either the Sultan changes, the Patih passes away, the horse dies, or Ki Udin himself retires safely! Sultan Prabu bursts into roaring belly laughter holding his sides until his crown tilts, rewarding Ki Udin with golden coins while the Patih stands humiliated in red-faced silence. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd applause. Royal palace hall background, warm golden lighting, cheering courtiers, full depth. VO: "Sultan Prabu tertawa terbahak-bahak memuji kejeniusan logika Ki Udin dan menghadiahi keping emas, sementara sang Patih melongo malu terdiam kaku!"
+
+[videoNarration]
+Suatu hari di keraton, seorang Patih istana yang sangat sombong, dengki, dan membenci Ki Udin berusaha mencari akal busuk untuk menyingkirkan Ki Udin selamanya. Di hadapan Sultan Prabu dan para pembesar kerajaan, sang Patih melontarkan tantangan paling mustahil: ia menantang Ki Udin untuk mengajari seekor kuda pacuan kerajaan membaca kitab ilmu pengetahuan yang tebal dalam waktu sepuluh tahun. Jika dalam sepuluh tahun kuda itu tidak bisa membaca, maka leher Ki Udin akan dipenggal di tiang gantungan!
+
+Mendengar ancaman maut itu, seluruh keraton terdiam tegang. Namun Ki Udin yang berambut putih dan penuh akal justru tersenyum santai dan menyanggupi tantangan tersebut. Ki Udin hanya meminta dua syarat: tenggat waktu sepuluh tahun penuh dan biaya pemeliharaan kuda sebesar sepuluh keping emas setiap bulan dari kas istana. Setiap hari di kandang kudanya, Ki Udin melatih kuda tersebut dengan trik yang luar biasa cerdik. Sebelum memberi makan, Ki Udin menyelipkan helai-helai rumput segar di antara setiap lembar halaman kitab tebal, sehingga sang kuda terbiasa membalik-balik halaman menggunakan lidahnya untuk mencari makan.
+
+Saat hari pengujian tiba di hadapan Sultan Prabu dan para pejabat istana, Ki Udin menaruh kitab tebal itu di depan sang kuda. Tanpa ragu, sang kuda langsung membalik lembar demi lembar kitab dengan lincah menggunakan lidahnya, menatap tiap halaman, lalu meringkik gembira setelah membalik halaman terakhir! Melihat keajaiban itu, seluruh hadirin bertepuk tangan takjub. Sang Patih yang panik langsung berteriak sinis: 'Kuda itu tidak bisa membaca! Kuda itu hanya membalik halaman karena mencari rumput!'
+
+Ki Udin lalu membungkuk hormat sambil tersenyum menohok: 'Tentu saja, Tuan Patih! Namanya juga seekor kuda, cara membacanya memang hanya membalik lembaran tanpa mengerti artinya. Namun setidaknya kuda ini rajin membuka dan membaca setiap lembarannya, tidak seperti Tuan Patih yang katanya pejabat berilmu tetapi sering menandatangani surat pajak rakyat tanpa membaca isinya sama sekali!' Ki Udin lalu berbisik bahwa dalam waktu sepuluh tahun: entah Sultan berganti, sang Patih wafat, kudanya mati, atau Ki Udin sendiri yang pensiun dengan tenang!
+
+Mendengar sindiran yang luar biasa cerdas dan mengocok perut itu, Sultan Prabu langsung tertawa terbahak-bahak memegangi perutnya hingga mahkotanya bergoyang miring, lalu menghadiahi Ki Udin sekantong keping emas atas kecerdikannya yang tiada tanding!
+
+[bgmStyle]
+(1) 0-35s: Tense royal gamelan fanfare, arrogant loud shouting SFX, horse whinnying SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, horse munching grass SFX (kruk-kruk), turning pages paper rustling SFX.
+(3) 70-115s: Rhythmic kendang drums, funny spring boing SFX, rapid page turning SFX, gasping crowd laughter.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd applause.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berdiri di samping kuda pintar yang membalik buku tebal tersenyum santai penuh akal di pendopo keraton, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Patih Sombong",
+"description": "Pria pejabat kerajaan memakai jubah ungu emas berwajah merah padam melongo malu terdiam kaku, gaya claymation.",
+"id": "ROLE_03"
+},
+{
+"name": "Kuda Pintar & Kitab Tebal",
+"description": "Seekor kuda pacuan cokelat menggemaskan dengan lidah menjulur membalik lembaran kitab kulit tebal di atas meja kayu, gaya claymation.",
+"id": "ROLE_04"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

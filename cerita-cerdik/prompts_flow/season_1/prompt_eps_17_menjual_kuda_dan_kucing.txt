@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 17
+Judul Episode: Menjual Kuda 1 Perak dan Kucing 100 Emas (Eps 17)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menjual Kuda 1 Perak dan Kucing 100 Emas
+- Clicky Video Headline: JUAL KUDA 1 PERAK TAPI KUCING 100 EMAS?! TRIK PAJAK KI UDIN BIKIN SAUDAGAR KIKIR LUDESIN HARTANYA KE WARGA!
+- Single Video Title: Cerita Cerdik Ki Udin - Menjual Kuda 1 Perak dan Kucing 100 Emas (Eps 17)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a lively sunlit traditional Javanese village marketplace, a chubby wealthy merchant clay figure in extravagant green and gold robes holds the leather reins of a magnificent black Arabian horse and the rope leash of a scrawny calico cat, shouting loudly in Javanese accent: "Kuda iki regane siji perak, nanging kudu tuku kucinge satus emas!" with clear authentic Javanese spoken dialogue audio. Next to him, a wooden sign reads 'Kuda 1 Perak' and 'Kucing 100 Emas', while poor village farmers shake their heads in disbelief. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm natural morning sunlight, rustic thatched market stalls and palm trees in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a vibrant rustic Javanese marketplace, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt holds a cute scrawny calico cat with a wide knowing grin. Beside him, a magnificent black horse with ornate leather saddle stands proudly, while a chubby wealthy merchant in green silk robes kneels in utter shock with dropped jaw and bulging eyes as gold coins spill out from his heavy velvet pouches onto the dirt ground. Sultan Prabu on his throne in background laughs heartily holding his belly. Warm radiant daylight, bustling thatched wooden stalls, lush tropical greenery, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Gently cradling a comical scrawny calico cat in his arms, standing confidently in a rustic wooden village market square, warm cheerful wise facial expression, warm morning sunlight, thatched wooden stalls in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Gently cradling a comical scrawny calico cat in his arms, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. SAUDAGAR KIKIR (Chubby Wealthy Merchant) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, wealthy middle-aged merchant in an opulent green and gold silk traditional robe, embroidered batik sash, and velvet merchant turban cap. Holding a leather horse whip in one hand and clutching heavy golden coin pouches, shocked panicked expression with wide bulging eyes and sweating brow, standing in the village market near wooden stalls, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, wealthy middle-aged merchant in an opulent green and gold silk traditional robe, embroidered batik sash, and velvet merchant turban cap. Holding a leather horse whip in one hand and clutching heavy golden coin pouches, shocked panicked expression with wide bulging eyes and sweating brow, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. KUDA PACUAN & KUCING KAMPUNG (Horse & Cat Animal Assets) ---
+Option A (In-Scene Animal Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A handsome muscular black Arabian horse with shiny clay coat, ornate leather bridle and saddle, standing patiently beside a comical scrawny calico cat with funny curious round eyes sitting on the ground, in a sunlit rustic village courtyard, warm daylight, full environmental background, no plain white background, 8k resolution.
+
+Option B (Isolated Animal Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A handsome muscular black Arabian horse with shiny clay coat and ornate bridle, standing beside a comical scrawny calico cat sitting on the floor, isolated full animal pair on a solid plain white background, soft studio lighting, 8k resolution.

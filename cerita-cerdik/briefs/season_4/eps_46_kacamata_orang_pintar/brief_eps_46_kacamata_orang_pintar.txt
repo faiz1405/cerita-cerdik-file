@@ -1,0 +1,185 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Tuan Tanah zalim yang anti-kritik menghukum warga yang mengeluh. Ki Udin memberinya jebakan psikologi: "Kacamata Kayu Ajaib" yang katanya hanya bisa dilihat tembus pandang oleh orang jenius, sedangkan orang bodoh akan buta. Karena gengsi dan gila hormat, Tuan Tanah pura-pura bisa melihat meski matanya tertutup kayu gelap. Kesombongannya membawanya celaka saat ia berjalan pongah dan jatuh ke dalam selokan penuh kotoran sapi berlumpur.
+
+# [purpose]
+Sarkasme Sosial & Slapstick (Tipe C). Menyentil sifat bos/pemimpin yang anti-kritik dengan sindiran psikologi (Emperor's New Clothes) yang berujung pada azab memalukan. 
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Sangat relatable untuk hari Senin bagi para pekerja kantoran).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up wajah Tuan Tanah buncit yang sedang murka melotot ke kamera. Ia memukulkan cambuk berduri ke atas meja kayu dengan brutal ("CTAR!"). Tangan kirinya menjewer telinga seorang petani kurus yang kesakitan memohon ampun. TEXT OVERLAY BOLD: "BOS ANTI KRITIK KENA MENTAL?! / JEBAKAN JENIUS KI UDIN BIKIN TUAN TANAH NYUNGSEP!".
+    ENVIRONMENT: DAY. Pendopo desa tradisional.
+    SUBJECT: Tuan Tanah Sombong (Buncit, baju beludru merah, banyak perhiasan) dan Petani Miskin.
+    ACTION: Memecut meja dengan cambuk. Camera push-in cepat. SFX: Cambukan, rintihan.
+    NARASI: "Seorang Tuan Tanah sombong mengamuk dan memecut meja dengan cambuknya!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium shot.
+    ENVIRONMENT: DAY. Pendopo desa.
+    SUBJECT: Tuan Tanah membentak kerumunan warga desa.
+    ACTION: Tuan Tanah mondar-mandir angkuh sambil menuding warga.
+    NARASI: "Ia menghukum seorang petani miskin, hanya karena petani itu berbisik mengeluhkan pajak yang mencekik! Tuan Tanah itu memang gila hormat! Siapapun yang berani mengkritik keputusannya akan dicambuk tanpa ampun!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan & Medium Two-Shot (Pacing Anti-Drop Detik 5-15).
+    ENVIRONMENT: DAY. Pendopo.
+    SUBJECT: Kamera bergeser kilat (whip pan) ke arah Ki Udin yang melangkah mantap masuk ke pendopo.
+    ACTION: Ki Udin tersenyum cerdik membawa kacamata aneh yang terbuat dari papan kayu buntu. SFX: JENG! <break time="1.0s"/>
+    NARASI: "Warga desa ketakutan. Namun Ki Udin tiba-tiba maju membawa sebuah kacamata kayu buntu: Hamba punya hadiah khusus untuk Tuan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up wajah Ki Udin.
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin memamerkan kacamata kayu tersebut dengan gerakan meyakinkan layaknya pesulap.
+    ACTION: Sorot mata Ki Udin penuh misteri dan sarkasme cerdas.
+    NARASI: "Tuan Tanah melotot curiga. Ki Udin tersenyum cerdik dan berkata: Ini adalah kacamata ajaib dari kahyangan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium close-up.
+    ENVIRONMENT: DAY. Tangan Ki Udin menyodorkan kacamata.
+    SUBJECT: Tuan Tanah dan Ki Udin.
+    ACTION: Ki Udin membisikkan jebakan logikanya. Tuan Tanah terkejut.
+    NARASI: "Hanya orang paling jenius sedunia yang bisa melihat tembus pandang menembus kayu ini! Sedangkan orang bodoh, matanya akan buta kegelapan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium shot.
+    ENVIRONMENT: DAY.
+    SUBJECT: Tuan Tanah memakai kacamata kayu yang menutup rapat kedua matanya.
+    ACTION: Tuan Tanah merampas kacamata itu dan langsung memakainya karena gengsi. Ia terdiam sejenak karena tak bisa melihat apapun.
+    NARASI: "Mendengar itu, Tuan Tanah yang anti-kritik dan gengsi itu langsung merampasnya. Ia memakainya. Tentu saja pandangannya gelap gulita karena itu hanya sepotong papan kayu!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Wide shot.
+    ENVIRONMENT: DAY. Halaman pendopo.
+    SUBJECT: Tuan Tanah mengangkat tangan ke udara pura-pura takjub melihat sekeliling.
+    ACTION: Ia berjalan meraba-raba dengan wajah bodoh, berbohong agar tak disebut bodoh oleh warganya. Warga di belakangnya menahan tawa sambil menutup mulut.
+    NARASI: "Tapi karena tak mau dibilang bodoh oleh warganya sendiri, Tuan Tanah berbohong: Wah! Pemandangannya sungguh luar biasa indah!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Medium Tracking Shot.
+    ENVIRONMENT: DAY. Jalanan desa berdebu dekat selokan.
+    SUBJECT: Tuan Tanah berjalan angkuh membusungkan dada layaknya orang buta tanpa tongkat.
+    ACTION: Ia melangkah pongah namun arahnya salah.
+    NARASI: "Warga desa menahan tawa melihat kekonyolan Tuan Tanah yang pura-pura bisa melihat. Dengan sombongnya, ia berjalan pongah memamerkan kacamata itu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Slapstick Action Shot.
+    ENVIRONMENT: DAY. Tepi selokan penuh kotoran sapi dan lumpur hitam.
+    SUBJECT: Tuan Tanah menabrak gerobak lalu terjungkal ke udara.
+    ACTION: Kakinya menabrak roda gerobak, ia terpelanting ke belakang dengan efek komikal, dan mendarat telentang ke dalam selokan kotoran sapi. SFX: CRASH! SPLASH! BOING!
+    NARASI: "Akibatnya fatal! Ia berjalan lurus menabrak gerobak sayur, lalu jatuh terjungkal ke dalam selokan berlumpur yang dipenuhi kotoran sapi!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 10**: Medium Close-Up.
+    ENVIRONMENT: DAY. Dalam selokan lumpur.
+    SUBJECT: Tuan Tanah belepotan kotoran sapi coklat di wajahnya, kacamata kayu masih menempel bengkok.
+    ACTION: Ia meludah-ludah gelagapan meminum air comberan.
+    NARASI: "Tuan Tanah berteriak minta tolong sambil gelagapan menelan air comberan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 11**: Wide shot kerumunan warga.
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin dan warga desa meledak tertawa.
+    ACTION: Warga menunjuk-nunjuk Tuan Tanah yang konyol. Hard cut ke hitam.
+    NARASI: "Warga meledak dalam tawa terbahak-bahak melihat pemimpin arogan itu kena azabnya! Tuan Tanah akhirnya malu luar biasa, dan kesombongan orang yang anti-kritik kembali hancur oleh jebakan psikologi rakyat jelata!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Seorang Tuan Tanah sombong mengamuk dan memecut meja dengan cambuknya!
+Ia menghukum seorang petani miskin, hanya karena petani itu berbisik mengeluhkan pajak yang mencekik!
+Tuan Tanah itu memang gila hormat! Siapapun yang berani mengkritik keputusannya akan dicambuk tanpa ampun!
+Warga desa ketakutan. Namun Ki Udin tiba-tiba maju membawa sebuah kacamata kayu buntu:
+"Hamba punya hadiah khusus untuk Tuan!"
+<break time="1.0s"/>
+
+Tuan Tanah melotot curiga. Ki Udin tersenyum cerdik dan berkata:
+"Ini adalah kacamata ajaib dari kahyangan!"
+"Hanya orang paling jenius sedunia yang bisa melihat tembus pandang menembus kayu ini!"
+"Sedangkan orang bodoh, matanya akan buta kegelapan!"
+<break time="1.0s"/>
+
+Mendengar itu, Tuan Tanah yang anti-kritik dan gengsi itu langsung merampasnya.
+Ia memakainya. Tentu saja pandangannya gelap gulita karena itu hanya sepotong papan kayu!
+Tapi karena tak mau dibilang bodoh oleh warganya sendiri, Tuan Tanah berbohong:
+"Wah! Pemandangannya sungguh luar biasa indah!"
+<break time="1.0s"/>
+
+Warga desa menahan tawa melihat kekonyolan Tuan Tanah yang pura-pura bisa melihat.
+Dengan sombongnya, ia berjalan pongah memamerkan kacamata itu.
+Akibatnya fatal! Ia berjalan lurus menabrak gerobak sayur, lalu jatuh terjungkal ke dalam selokan berlumpur yang dipenuhi kotoran sapi!
+Tuan Tanah berteriak minta tolong sambil gelagapan menelan air comberan!
+Warga meledak dalam tawa terbahak-bahak melihat pemimpin arogan itu kena azabnya!
+Tuan Tanah akhirnya malu luar biasa, dan kesombongan orang yang anti-kritik kembali hancur oleh jebakan psikologi rakyat jelata!
+
+# [bgmStyle]
+Skor komikal pedesaan yang cepat. Awal tegang dengan ketukan drum tajam saat cambuk berbunyi "CTAR!". Efek gesekan cepat saat WHIP PAN. Melodi magis usil saat kacamata diperkenalkan (Tinkling chimes). Saat berjalan buta, ada nada pizzicato (petikan biola mengendap-endap lucu). Saat terjungkal SFX "CRASH, SQUISH, SPLASH & BOING" bertubi-tubi komikal ala kartun. Diakhiri tawa massal riuh.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'memecut meja dengan cambuknya', 'mengeluhkan pajak yang mencekik', 'kacamata ajaib dari kahyangan', 'orang bodoh, matanya akan buta', 'pandangannya gelap gulita', 'tak mau dibilang bodoh', 'menabrak gerobak sayur', 'terjungkal ke dalam selokan berlumpur', 'menelan air comberan', 'hancur oleh jebakan psikologi'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with wooden sandals, warm mischievous smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Tuan Tanah Buncit (ROLE_02)",
+        "description": "Obese arrogant landlord, 50, round face, wearing luxurious red velvet Javanese beskap shirt and heavy gold necklaces, holding a spiked whip. ANTAGONIS SLAPSTICK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Petani Kurus (ROLE_03)",
+        "description": "Skinny frail elderly Javanese farmer, wearing torn faded clothes, holding his ear in pain, trembling. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. DILARANG MEMASUKKAN UNSUR MODERN. ATURAN SLAPSTICK SARI: Tercebur selokan murni komikal kartun (lumpur coklat menempel di wajah), TANPA unsur kekerasan fisik berbahaya/darah/luka sobek. Kacamata terbuat dari papan kayu pejal menutupi kedua mata. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

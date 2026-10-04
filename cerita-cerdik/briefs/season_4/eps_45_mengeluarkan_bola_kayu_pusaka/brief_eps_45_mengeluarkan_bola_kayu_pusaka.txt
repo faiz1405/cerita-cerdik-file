@@ -1,0 +1,179 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Seorang saudagar sombong mengancam kakek miskin karena bola kayu pusaka desa terjatuh ke dalam lubang pipa batu yang sangat sempit dan dalam. Saat warga panik mencari kawat dan galah, Ki Udin datang membawa seember air. Ia menuangkan air ke dalam lubang batu yang kedap itu hingga bola kayu yang ringan mengapung naik ke permukaan. Logika fisika sederhana mengalahkan ancaman sadis. Antagonis terkena karma komikal menginjak kotoran sapi basah.
+
+# [purpose]
+Science Trick / Physics Logic. Memecahkan teka-teki benda jatuh di ruang sempit menggunakan massa jenis air. Memberikan "Aha Moment" edukatif dan memuaskan.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun.
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up wajah Saudagar Kikir berkumis melintang melotot penuh amarah ke layar. Ia mencengkeram erat leher baju lusuh seorang kakek tua yang gemetaran ketakutan ke arah kamera. TEXT OVERLAY BOLD: "BOLA PUSAKA TERJEBAK DI LUBANG BATU?! / LOGIKA JENIUS KI UDIN BIKIN SAUDAGAR MELONGO!".
+    ENVIRONMENT: DAY. Halaman luas desa Jawa tradisional dengan tiang batu pusaka kuno.
+    SUBJECT: Saudagar Kikir (Kumis melintang, baju sutra ungu) dan Kakek Miskin.
+    ACTION: Tarikan kerah baju kasar. Camera push-in cepat. SFX: Baju ditarik, bentakan.
+    NARASI: "Seorang saudagar kejam mencengkeram leher baju seorang kakek tua yang gemetaran ketakutan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium shot.
+    ENVIRONMENT: DAY. Di samping tugu pipa batu sempit sedalam satu meter.
+    SUBJECT: Saudagar menunjuk-nunjuk lubang batu sempit dengan marah.
+    ACTION: Kakek tua mencoba memasukkan tangannya tapi tak muat.
+    NARASI: "Saudagar itu mengamuk karena bola kayu pusaka desa jatuh ke dalam pipa batu yang sangat sempit dan dalam!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan & Medium Wide Shot.
+    ENVIRONMENT: DAY. Halaman tugu batu.
+    SUBJECT: Warga desa panik berlarian mencari galah bambu kecil. Saudagar mengancam.
+    ACTION: Whip pan. Saudagar mengayunkan palu besar mengancam merobohkan gubuk kakek.
+    NARASI: "Tangan si kakek tak muat mengambilnya. Saudagar itu mengancam membakar gubuk sang kakek jika bola itu tak kembali sebelum matahari terbenam!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up Pacing Anti-Drop (Detik ke-10). HOLD.
+    ENVIRONMENT: DAY. Halaman tugu batu.
+    SUBJECT: Ki Udin berjalan cepat memegang ember kayu berisi air. Wajah percaya diri.
+    ACTION: Langkah cepat tegas. SFX: JENG! Ki Udin menyuruh saudagar minggir. <break time="1.0s"/>
+    NARASI: "Namun tiba-tiba Ki Udin datang dengan tenang membawa seember air: Lepaskan kakek itu, biarkan aku yang mengambilnya!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium shot.
+    ENVIRONMENT: DAY. Halaman tugu.
+    SUBJECT: Saudagar tertawa pongah memamerkan gigi emas.
+    ACTION: Ia melipat tangan meremehkan Ki Udin sambil menunjuk lubang yang dalam.
+    NARASI: "Saudagar itu tertawa meremehkan memamerkan gigi emasnya, yakin lubang sedalam itu mustahil dijangkau oleh tangan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Macro close-up shot.
+    ENVIRONMENT: DAY. Tugu pipa batu.
+    SUBJECT: Tangan Ki Udin menuangkan air dari gayung kayu ke dalam lubang batu.
+    ACTION: Air mengalir pelan masuk ke lubang.
+    NARASI: "Namun alih-alih memasukkan tangannya, Ki Udin justru menuangkan air sumur itu perlahan-lahan ke dalam pipa batu yang sempit."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Wide shot.
+    ENVIRONMENT: DAY.
+    SUBJECT: Kerumunan warga menggaruk-garuk kepala kebingungan. Saudagar marah.
+    ACTION: Saudagar maju membentak Ki Udin. SFX: Ticking clock.
+    NARASI: "Warga desa kebingungan melihat tindakan tak masuk akal itu! Saudagar membentak marah: Apa gunanya menyiram batu, dasar orang gila?!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Extreme macro shot (Inside the pipe / top down).
+    ENVIRONMENT: DAY. Mulut pipa batu.
+    SUBJECT: Bola kayu pusaka berwarna coklat kemerahan.
+    ACTION: Air naik, bola kayu ikut mengapung ke atas secara mulus (Hukum Fisika). SFX: Water bubbling, magical chime.
+    NARASI: "Namun keajaiban alam terjadi! Perlahan-lahan, bola kayu pusaka yang ringan itu mengapung naik ke atas mengikuti tinggi air!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Close-up. HOLD.
+    ENVIRONMENT: DAY. Mulut pipa batu.
+    SUBJECT: Ki Udin tersenyum cerdik.
+    ACTION: Mengambil bola kayu yang sudah menyembul di permukaan dengan dua jarinya secara elegan. <break time="1.0s"/>
+    NARASI: "Hanya dalam hitungan detik, bola kayu itu menyembul tepat di mulut pipa batu! Ki Udin pun mengambilnya dengan sangat mudah!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 10**: Medium Two-Shot Slapstick.
+    ENVIRONMENT: DAY. Halaman desa.
+    SUBJECT: Saudagar syok melongo, mulut menganga lebar. Warga tertawa.
+    ACTION: Saudagar gemetar mundur karena malu ditertawakan, namun tiba-tiba kakinya menginjak gundukan kotoran sapi raksasa basah. Terpeleset jatuh telentang komikal. SFX: SPLASH! BOING!
+    NARASI: "Warga bersorak riuh bertepuk tangan melihat kecerdikan tingkat dewa itu! Saudagar sombong seketika melongo dengan mulut menganga lebar! Saking malunya ditertawakan, ia mundur ketakutan hingga kakinya menginjak kotoran sapi lumpur yang tebal!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 11**: Wide shot.
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin mengembalikan bola ke kakek miskin. Saudagar lari pontang-panting belepotan.
+    ACTION: Warga mengarak Ki Udin. Hard cut ke hitam.
+    NARASI: "Akhirnya, sang kakek tua selamat, dan kesombongan lintah darat kembali hancur oleh keajaiban hukum alam!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Seorang saudagar kejam mencengkeram leher baju seorang kakek tua yang gemetaran ketakutan!
+Saudagar itu mengamuk karena bola kayu pusaka desa jatuh ke dalam pipa batu yang sangat sempit dan dalam!
+Tangan si kakek tak muat mengambilnya. Saudagar itu mengancam membakar gubuk sang kakek jika bola itu tak kembali sebelum matahari terbenam!
+Namun tiba-tiba Ki Udin datang dengan tenang membawa seember air:
+"Lepaskan kakek itu, biarkan aku yang mengambilnya!"
+<break time="1.0s"/>
+
+Saudagar itu tertawa meremehkan memamerkan gigi emasnya, yakin lubang sedalam itu mustahil dijangkau oleh tangan.
+Namun alih-alih memasukkan tangannya, Ki Udin justru menuangkan air sumur itu perlahan-lahan ke dalam pipa batu yang sempit.
+Warga desa kebingungan melihat tindakan tak masuk akal itu!
+Saudagar membentak marah: "Apa gunanya menyiram batu, dasar orang gila?!"
+Namun keajaiban alam terjadi! Perlahan-lahan, bola kayu pusaka yang ringan itu mengapung naik ke atas mengikuti tinggi air!
+<break time="1.0s"/>
+
+Hanya dalam hitungan detik, bola kayu itu menyembul tepat di mulut pipa batu! Ki Udin pun mengambilnya dengan sangat mudah!
+Warga bersorak riuh bertepuk tangan melihat kecerdikan tingkat dewa itu!
+Saudagar sombong seketika melongo dengan mulut menganga lebar!
+Saking malunya ditertawakan warga, ia mundur ketakutan hingga kakinya menginjak kotoran sapi lumpur yang tebal!
+Akhirnya, sang kakek tua selamat, dan kesombongan lintah darat kembali hancur oleh keajaiban hukum alam!
+
+# [bgmStyle]
+Skor komikal pedesaan yang menegangkan di awal (drum tribal ketat). Efek WHIP PAN "WHOOSH". Langkah Ki Udin berani "JENG". Saat air dituang ada SFX "Water Pouring & Magic Shimmer". Saat bola naik SFX Triumphant Chime. Saat jatuh menginjak kotoran sapi SFX "SPLASH, SQUISH & BOING". Tawa warga menggema riang.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'mencengkeram leher baju', 'pipa batu yang sangat sempit', 'mengancam membakar gubuk', 'menuangkan air sumur itu perlahan-lahan', 'Apa gunanya menyiram batu', 'bola kayu pusaka yang ringan itu mengapung', 'menginjak kotoran sapi lumpur yang tebal!', 'hancur oleh keajaiban hukum alam!'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with wooden sandals, warm mischievous smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Saudagar Sombong (ROLE_02)",
+        "description": "Fat greedy merchant, 45, thick curled mustache, shiny bald head, purple silk Javanese beskap shirt, dark green batik pants. Arrogant expression. ANTAGONIS SLAPSTICK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Kakek Pemulung (ROLE_03)",
+        "description": "Frail skinny elderly Javanese beggar, wearing torn faded clothes, trembling in hunger and fear. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. DILARANG MEMASUKKAN UNSUR MODERN. ATURAN SLAPSTICK SARI: Terpeleset kotoran sapi murni komikal kartun (lumpur coklat), TANPA unsur kekerasan fisik berbahaya/darah. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

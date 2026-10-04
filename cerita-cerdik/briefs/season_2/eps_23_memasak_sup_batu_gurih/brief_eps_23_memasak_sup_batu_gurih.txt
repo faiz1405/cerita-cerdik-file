@@ -1,0 +1,103 @@
+[theme]
+Mengakali Juragan Kikir agar Sukarela Mentraktir Warga / Cerita Cerdik Season 2.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin memasak 'sup batu ajaib' di alun-alun desa, menjebak Juragan kikir menyumbangkan daging kambing dan sayuran lezat untuk memberi makan seluruh warga desa secara sukarela.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. In a sunlit village square, an arrogant, wealthy landlord (Juragan Sastro) in ornate green silk and gold rings tightly locks his giant wooden food barn, cruelly laughing at hungry poor village farmers clutching empty bowls. Juragan Sastro boasts that poor folks will never taste tender goat meat and fragrant rich spices without piles of gold coins. CapCut Effect: Dramatic Slow Zoom-in on the heavy iron padlock of the food barn and the landlord's greedy mocking smirk, Claymation filter. Audio: Hungry stomach growling SFX, arrogant cruel laughter SFX, heavy padlock locking clank SFX. Village square background, thatched wooden houses, dry village trees, warm sunlight, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang juragan kaya yang sangat kikir dan tamak mengunci rapat lumbung makanannya saat warga desa kelaparan, mengejek bahwa orang miskin tidak akan pernah bisa makan daging enak tanpa uang emas."
+
+Shot 2 (35-70s): Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon sets up a massive bronze cooking cauldron over a crackling wood fire right outside the landlord's gate. Ki Udin fills it with fresh water and ceremoniously drops three smooth round river stones into the boiling bubbling broth, stirring with a giant wooden ladle and sniffing the steam with exaggerated pure bliss! CapCut Effect: Soft Blur background with gentle Slow Zoom-in on the bubbling bronze cauldron and the glowing round river stones inside. Audio: Cheerful acoustic gamelan melody, wood fire crackling SFX, bubbling boiling soup SFX, deep satisfied sniffing SFX (hmmm-sedap). Village square background, curious village children watching, full environmental setting, no studio void, no white background. VO: "Melihat kesombongan itu, Ki Udin mendirikan tungku kuali besar di depan rumah sang juragan lalu merebus tiga butir batu kali bersih, mengaku sedang memasak sup batu ajaib paling lezat di dunia!"
+
+Shot 3 (70-115s): Hypnotized by his own gluttony and curiosity, Juragan Sastro rushes out sniff-testing the air. Ki Udin tastes the broth, loudly sighing that the stone soup is already fit for kings, but would taste divine with a pinch of garlic, fresh cabbage, carrots, and especially a tender leg of roasted goat meat! Eager to taste the legendary royal stone soup, Juragan Sastro eagerly runs back and forth, dumping his finest spices, vegetable baskets, and a giant prime goat leg directly into Ki Udin's cauldron! CapCut Effect: Dynamic camera pan, fast-motion montage of food tumbling into the soup, dramatic Zoom-in on the landlord's drooling greedy mouth. Audio: Comical bouncy bassoon music, sizzle boiling SFX, funny splashing food SFX (plung-plung), gasping crowd chuckles. Boisterous village square, rich aromatic golden steam billowing everywhere, full depth, no plain white background. VO: "Tergiur ingin mencicip sup batu ajaib para raja, sang juragan kikir terhasut sukarela menyumbangkan garam, bawang, sayuran segar, hingga sepaha daging kambing empuk ke dalam kuali Ki Udin!"
+
+Shot 4 (115-150s): As the rich golden goat soup boils into a thick fragrant stew, Ki Udin fishes out the three river stones and throws them away, saying the stones' essence is done! Ki Udin happily ladles hundreds of steaming bowls of delicious meat soup to the cheering hungry villagers for free. Juragan Sastro drops his jaw in total shock, clutching his empty wallet and realizing he just sponsored a feast for the entire village, while everyone laughs in joy! CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when the crowd cheers, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheerful village celebration clinking bowls. Village square background, steaming delicious soup bowls, happy villagers eating joyfully, full depth. VO: "Ki Udin membuang batunya lalu membagikan ratusan mangkok sup daging kambing lezat gratis kepada seluruh warga, sementara sang juragan kikir melongo lemas sadar telah dikibuli mentraktir seluruh desa!"
+
+[videoNarration]
+Di sebuah desa yang sedang dilanda musim paceklik, hiduplah seorang juragan kaya raya bernama Juragan Sastro yang terkenal sangat kikir, sombong, dan berhati dingin. Di saat warga desa miskin sedang kesulitan mencari makan, Juragan Sastro justru mengunci rapat-rapat lumbung makanannya yang penuh dengan beras, rempah-rempah, dan daging kambing segar. Dari atas teras rumah mewahnya, sang juragan mengejek rakyat kecil: 'Hai orang-orang miskin! Jangan harap kalian bisa makan daging lezat kalau tidak punya koin emas untuk membelinya dari lumbungku!'
+
+Melihat kesombongan dan kekikiran yang keterlaluan itu, Ki Udin yang berambut putih dan penuh akal tersenyum santai. Ki Udin membawa sebuah kuali tembaga raksasa dan menyalakan tungku kayu bakar tepat di tengah lapangan desa di depan rumah sang juragan. Setelah mengisi kuali dengan air jernih, Ki Udin mengambil tiga butir batu kali yang bersih dan bulat, lalu menceburkannya ke dalam air yang mendidih. Sambil mengaduk-aduk kuali dengan sendok kayu panjang, Ki Udin mencicip kuah sup itu lalu berteriak takjub: 'Wah, luar biasa! Baru tiga batu kali saja aromanya sudah seharum ini! Inilah Sup Batu Ajaib warisan leluhur yang paling nikmat di jagat raya!'
+
+Mendengar seruan itu dan melihat asap kuah yang mengepul, Juragan Sastro yang doyan makan enak langsung keluar dari rumahnya karena penasaran setengah mati. Sang juragan bertanya dengan mata terbelalak: 'Hai Ki Udin! Masa batu kali bisa jadi sup enak?!' Ki Udin menjawab dengan tenang: 'Tentu saja Tuan Juragan! Tapi sayang sekali, sup batu ini akan jauh lebih sempurna kalau ditambah sedikit garam dan bawang merah.' Karena ingin ikut mencicip sup ajaib itu, Juragan Sastro langsung lari ke dapurnya dan membawakan segenggam garam serta sekantong bawang merah untuk dimasukkan ke kuali.
+
+Beberapa saat kemudian, Ki Udin mencicipi kuahnya lagi sambil berdecak kagum: 'Wah, rasanya makin dahsyat! Tapi andai saja ada irisan wortel, kubis segar, dan sepaha daging kambing muda yang empuk, sup batu ini pasti akan menjadi hidangan termewah para raja!' Terbakar rasa penasaran dan nafsu makannya yang tak terbendung, Juragan Sastro berlari lagi ke lumbungnya dan mengeluarkan sekeranjang sayur segar serta potongan paha kambing terbaiknya lalu menceburkannya ke dalam kuali Ki Udin!
+
+Kuah sup daging kambing yang kental dan harum semerbak langsung mendidih sempurna memenuhi seluruh penjuru desa. Begitu matang, Ki Udin mengambil centong kayunya, menyaring ketiga butir batu kali tersebut, lalu membuangnya ke tanah sambil berkata: 'Batunya sudah selesai diserap kelezatannya!' Seketika itu juga, Ki Udin membagikan ratusan mangkok sup daging kambing yang luar biasa gurih dan lezat secara gratis kepada seluruh warga desa yang kelaparan!
+
+Melihat seluruh warga desa bersorak gembira berpesta sup daging dari lumbungnya sendiri, Juragan Sastro langsung melongo lemas kehabisan kata-kata, matanya berputar pusing menyadari bahwa ia telah masuk perangkap cerdik Ki Udin dan mentraktir seluruh desa makan enak secara sukarela!
+
+[bgmStyle]
+(1) 0-35s: Hungry stomach growling SFX, arrogant cruel laughter SFX, heavy padlock locking clank SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, wood fire crackling SFX, bubbling boiling soup SFX, deep satisfied sniffing SFX (hmmm-sedap).
+(3) 70-115s: Comical bouncy bassoon music, sizzle boiling SFX, funny splashing food SFX (plung-plung), gasping crowd chuckles.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheerful village celebration clinking bowls.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik mengaduk kuali sup besar dengan centong kayu tersenyum santai penuh akal di alun-alun, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Juragan Sastro Kikir",
+"description": "Pria juragan kaya gemuk berpakaian hijau sutra mewah melongo lemas syok menatap kuali kosong, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Kuali Sup Batu & Daging Kambing",
+"description": "Sebuah kuali tembaga besar di atas tungku kayu bakar berasap harum berisi kuah sup kuning mendidih dengan daging kambing dan sayuran lezat, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

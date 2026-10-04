@@ -1,0 +1,162 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Mitos vs Fakta Keadilan (Sel Mewah Koruptor). Warga miskin mengintip mantan Kades koruptor yang dipenjara malah hidup mewah makan enak. Penjaga penjara (Hansip) yang sudah disuap berbohong bahwa Kades menderita makan singkong basi. Ki Udin membongkarnya dengan melepaskan semut merah yang tidak bisa disuap; semut mengabaikan singkong dan langsung menyeret sisa tulang makanan mewah Kades. Kades dan Hansip dihukum warga.
+
+# [purpose]
+Mitos vs Fakta (Keadilan/Moral Justice). Mengangkat isu viral "sel mewah koruptor" di Indonesia menjadi bentuk komedi slapstick pedesaan. Memancing emosi marah di awal (Thumb-stop) dan diakhiri kepuasan (Schadenfreude) melihat koruptor digigit semut.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Penggemar sindiran sosial, isu korupsi, dan komedi kearifan lokal).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up dari celah jeruji bambu. Di dalam sel, Mantan Kades gendut memakai baju tahanan tertawa lebar sambil menggigit paha angsa panggang raksasa. Kamera zoom out memperlihatkan sel itu dilengkapi bantal sutra mewah. TEXT OVERLAY BOLD: "SEL MEWAH KORUPTOR?! / KI UDIN BONGKAR KEBOHONGAN HANSIP!".
+    ENVIRONMENT: DUSK. Suasana sore hari, cahaya senja menembus celah jeruji kayu/bambu.
+    SUBJECT: Mantan Kades koruptor gendut, makanan mewah.
+    ACTION: Kades mengunyah dengan rakus dan tertawa (*slow motion*). Warga miskin di luar jeruji menatap kaget dan marah. SFX: Jumpscare Hit, Suara mengunyah keras (Chomp!).
+    NARASI: "Warga desa miskin tak sengaja mengintip ke dalam sel penjara bambu tempat Mantan Kades koruptor dikurung!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium shot.
+    ENVIRONMENT: DUSK. Luar sel penjara.
+    SUBJECT: Hansip penjaga penjara yang disuap (bawa tongkat) menghadang warga.
+    ACTION: Hansip buru-buru menutup celah jeruji dengan tikar jerami. Ia menunjukkan piring berisi singkong busuk ke warga.
+    NARASI: "Betapa terkejutnya mereka melihat si Kades tertawa bahagia menikmati paha angsa panggang di atas kasur sutra! Namun saat diprotes, Hansip penjaga penjara berbohong dan menutupi sel itu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan & Medium Two-Shot (Pacing Anti-Drop Detik 5-15).
+    ENVIRONMENT: DUSK.
+    SUBJECT: Ki Udin berjalan tenang menembus kerumunan warga. Di tangannya ada sebuah toples bambu.
+    ACTION: Hansip marah menunjuk Ki Udin. Ki Udin tersenyum cerdik. SFX: JENG! <break time="1.0s"/>
+    NARASI: "Hansip berkilah bahwa Kades hanya makan singkong basi dan tidur di atas jerami gatal. Warga hampir percaya, sampai Ki Udin datang membawa sekantong semut merah besar!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close-up Makro Forensik.
+    ENVIRONMENT: DUSK. Tanah depan sel.
+    SUBJECT: Toples bambu dibuka, ratusan semut merah keluar.
+    ACTION: Semut merah merayap cepat melewati piring singkong basi milik Hansip tanpa menyentuhnya sama sekali.
+    NARASI: "'Manusia bisa disuap untuk berbohong, tapi hewan tidak!' ucap Ki Udin cerdik. Ia melepaskan semut-semut itu ke dalam jeruji penjara bambu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Action Shot.
+    ENVIRONMENT: DUSK. Dalam sel.
+    SUBJECT: Barisan semut merah menyerbu ke balik tikar penutup.
+    ACTION: Semut-semut itu menyeret keluar tulang sisa angsa panggang dan serpihan emas dari dalam sel!
+    NARASI: "Bukannya mengerubungi singkong basi, semut-semut itu langsung menyeret keluar sisa tulang angsa panggang dan remah roti manis!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium shot.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Mantan Kades di dalam sel.
+    ACTION: Kades melompat-lompat menepuk pantatnya yang digigit ribuan semut merah. Bantal sutranya robek.
+    NARASI: "Mantan Kades menjerit kesakitan karena kasur sutranya kini penuh gigitan semut merah!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Wide shot.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Hansip kaget ketahuan, uang suapan jatuh dari sakunya. Warga marah besar.
+    ACTION: Warga mendobrak masuk, merampas semua kasur mewah dan makanan Kades.
+    NARASI: "Terbongkarlah akal busuk si Kades yang diam-diam menyuap Hansip untuk merenovasi sel penjaranya menjadi kamar VIP!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Action & Reaksi.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Hansip ditendang masuk ke dalam sel bergabung dengan Kades.
+    ACTION: Pintu dikunci. Keduanya digigit semut dan garuk-garuk gatal komikal. SFX: Slip, Thud, Suara garuk-garuk lucu.
+    NARASI: "Warga yang marah langsung merampas fasilitas mewah itu dan menjebloskan Hansip korup ke dalam sel yang sama!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Medium shot Ki Udin.
+    ENVIRONMENT: DUSK.
+    SUBJECT: Ki Udin bersandar di jeruji bambu, membuang singkong basi ke dalam sel.
+    ACTION: Ki Udin tersenyum puas ke arah kamera. Hard cut ke hitam.
+    NARASI: "Sekali lagi, keadilan tegak berkat kecerdikan Ki Udin!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Warga desa miskin tak sengaja mengintip ke dalam sel penjara bambu tempat Mantan Kades koruptor dikurung!
+Betapa terkejutnya mereka melihat si Kades tertawa bahagia menikmati paha angsa panggang di atas kasur sutra!
+Namun saat diprotes, Hansip penjaga penjara berbohong dan menutupi sel itu.
+Hansip berkilah bahwa Kades hanya makan singkong basi dan tidur di atas jerami gatal.
+<break time="1.0s"/>
+
+Warga hampir percaya, sampai Ki Udin datang membawa sekantong semut merah besar!
+"Manusia bisa disuap untuk berbohong, tapi hewan tidak!" ucap Ki Udin cerdik.
+Ia melepaskan semut-semut itu ke dalam jeruji penjara bambu.
+Bukannya mengerubungi singkong basi, semut-semut itu langsung menyeret keluar sisa tulang angsa panggang dan remah roti manis!
+<break time="1.0s"/>
+
+Mantan Kades menjerit kesakitan karena kasur sutranya kini penuh gigitan semut merah!
+Terbongkarlah akal busuk si Kades yang diam-diam menyuap Hansip untuk merenovasi sel penjaranya menjadi kamar mewah!
+Warga yang marah langsung merampas semua fasilitas mewah itu dan menjebloskan Hansip korup ke dalam sel yang sama!
+Keadilan tegak berkat kecerdikan Ki Udin!
+
+# [bgmStyle]
+Skor komedi sindiran sosial. Awal musik lambat dan miris saat warga miskin melihat, lalu mendadak riuh (Jumpscare hit). Saat Ki Udin melepas semut, musik gamelan berubah jadi ritme detektif mengendap-endap (Sneaky Comedy). Saat semut menarik tulang angsa terdengar SFX "TA-DAA!" kemenangan. Diakhiri suara garuk-garuk gatal, teriakan panik Kades/Hansip (Slapstick Yells) dan tawa puas warga.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'Mantan Kades koruptor', 'menikmati paha angsa', 'kasur sutra', 'menyuap Hansip', 'semut merah besar', 'hewan tidak bisa disuap', 'menjerit kesakitan', 'kamar mewah', 'menjebloskan Hansip'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Mantan Kades Koruptor (ROLE_02)",
+        "description": "Fat greedy ex-village head, 50s, wearing dirty grey prisoner shirt but sitting on luxurious silk pillows. Smug face turning into panicking itchy face. ANTAGONIS LICIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Hansip Korup (ROLE_03)",
+        "description": "Corrupt village guard, 40s, wearing green Hansip uniform. Holding a stick and a plate of rotten cassava. Lying sweaty face. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA PENJARA: Pencahayaan sore hari (Dusk lighting) yang remang-remang menyorot kontras antara jeruji bambu reyot dengan selimut sutra merah mewah di dalamnya. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

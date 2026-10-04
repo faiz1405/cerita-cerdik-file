@@ -1,0 +1,49 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK - HEMAT TOKEN AI)
+Episode Afiliasi: Cerita Cerdik Eps 40 (Membongkar Brankas Rahasia Perbendaharaan Keraton)
+Produk Rekomendasi: Buku Binder Nabung Keuangan 100 Amplop / Dompet Disiplin Anggaran (Budget Binder Savings Organizer)
+Format: 9:16 Vertical Video (Shopee Video / TikTok / Reels)
+Durasi: 12 Detik Utuh
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK)
+-------------------------------------------------------------------
+- Detik 00 - 03 (AI Video Hook):
+  Visual: Ki Udin versi claymation duduk di meja kayu pondoknya membuka dompet kain tradisional yang kempis kosong melompong, menggaruk-garuk blangkonnya dengan ekspresi bingung lucu ke mana perginya uang belanja. Ki Udin lalu melotot kaget menatap kamera, tersenyum licik, dan mengacungkan jempol merekomendasikan solusi rahasia.
+  Audio/SFX: Suara dompet ditiup keluar angin debu (fyuuuh!), dramatic sting kaget (jreeeng!), pop sound (plop!).
+  Teks Layar: "GAJI BARU TURUN TAPI TIBA-TIBA LUDES GAK JELAS?!"
+
+- Detik 03 - 08 (B-Roll Realistis Produk Seller Shopee):
+  Visual: Video nyata estetis (footage seller/unboxing) seseorang memasukkan lembaran uang rupiah rapi ke dalam kantong-kantong zipper binder transparan bertuliskan label pos pengeluaran (Belanja Dapur, Listrik, Tabungan Darurat, Dana Liburan). Terlihat buku binder kulit pastel anti-air yang sangat rapi dan praktis dibawa bepergian.
+  Audio/SFX: BGM upbeat ceria, suara geser resleting zipper memuaskan (ziiip!), denting koin renyah.
+  Teks Layar: "Binder Disiplin Anggaran! Keuangan Rapi & Anti-Boncos!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Visual: Panah animasi bergerak menunjuk ke pojok kiri bawah (ikon Keranjang Oranye Shopee Video), memperlihatkan harga promo flash sale sangat terjangkau (Cuma Rp20 ribuan / Rp30 ribuan).
+  Audio/SFX: Cash register ding (cling!), suara VO persuasif ceria dan meyakinkan.
+  Teks Layar: "Cuma 20 Ribuan! Checkout di Keranjang Oranye Sekarang 👇"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 1X GENERATE)
+Target Engine: Google Veo 3.1 / Text-to-Video
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Inside a cozy rustic wooden village cottage under warm ambient lamplight, Ki Udin clay figure with short white clay hair and striped lurik shirt sits at a wooden table holding open an empty flat fabric pouch, blowing a tiny comical cloud of dust from inside it with wide baffled eyes. Suddenly realizing the camera is watching, Ki Udin gasps with an exaggerated comical expression, then quickly breaks into a brilliant triumphant smile and gives an enthusiastic thumbs-up. Smooth stop-motion clay animation, warm rustic cottage interior with woven bamboo walls and clay teapot in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, 3d CGI cartoon, photorealistic, real human skin, modern clothes, studio void, plain white background, blank backdrop, dark, gloomy, low resolution, blurry, subtitles]
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) BAHASA INDONESIA (12 DETIK)
+-------------------------------------------------------------------
+"Baru gajian tapi uang belanja langsung ludes gak berbekas? Atur pakai Buku Binder Nabung ini! Tiap pengeluaran ada pos amplopnya, anti-bocor dan disiplin nabung. Cuma 20 ribuan, klik keranjang oranye sekarang!"
+
+===================================================================
+[4] KRITERIA PRODUK & METADATA AFFILIATE
+-------------------------------------------------------------------
+- Kategori Produk: Alat Tulis & Perlengkapan Kantor / Binder Keuangan & Dompet Anggaran
+- Target Harga: Rp20.000 – Rp45.000 (Sangat terjangkau, pemicu belanja impulsif wanita/ibu rumah tangga)
+- Syarat Toko: Star+ / Shopee Mall, Rating 4.8+, Terjual > 50.000 unit
+- Potensi Komisi: Komisi Ekstra Shopee Affiliate (10% – 15%)

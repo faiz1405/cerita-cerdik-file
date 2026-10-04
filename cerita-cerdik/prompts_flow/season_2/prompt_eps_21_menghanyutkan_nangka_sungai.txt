@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 21 (SEASON 2 PREMIERE)
+Judul Episode: Menghanyutkan Nangka Raksasa di Sungai (Eps 21 / S2E01)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menghanyutkan Nangka Raksasa di Sungai
+- Clicky Video Headline: DISURUH GENDONG NANGKA 30 KG SEJAUH 5 KM?! AKAL NANGKA BERENANG KI UDIN BIKIN PAK LURAH PUSING TUJUH KELILING!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Menghanyutkan Nangka Raksasa di Sungai (Eps 21)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a sun-drenched tropical jackfruit orchard, an arrogant chubby village chief (Pak Lurah) clay figure in traditional brown beskap and blangkon rests lazily in a bamboo hammock, pointing aggressively at a gigantic spiky green jackfruit hanging from a tree, shouting loudly in Javanese accent: "Gendongen nongko gedhe iki limang kilometer mulih dewekan!" with clear authentic Javanese spoken dialogue audio. Standing beneath the tree, Ki Udin looks at the massive heavy fruit with a clever knowing smirk. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm natural morning sunlight, lush tropical green fruit trees and banana groves in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. Beside a sparkling clear tropical river surrounded by lush green bamboo groves, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt kneels on the riverbank gently pushing a colossal spiky green jackfruit into the bubbling water currents, winking with a cheerful playful grin. In the background at a distance, a chubby village head in a brown beskap stands on his porch clutching his spinning head in utter bewilderment with dropped jaw, while curious village neighbors laugh heartily. Radiant tropical daylight, glistening river water, vibrant green foliage, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Standing confidently by a picturesque clear riverbank with bamboo trees, gently gesturing toward the river, warm cheerful wise facial expression, warm morning sunlight, lush tropical landscape in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH (Chubby Lazy Village Chief) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, middle-aged village chief in a traditional dark brown Javanese beskap jacket, gold pocket watch chain, batik jarik skirt, and brown blangkon. Hilarious dizzy bewildered expression with wide rolling eyes and mouth open in shock, clutching his forehead with one hand, standing on the wooden porch of a traditional rustic Javanese village house (Rumah Limasan), warm daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, middle-aged village chief in a traditional dark brown Javanese beskap jacket, gold pocket watch chain, batik jarik skirt, and brown blangkon. Hilarious dizzy bewildered expression with wide rolling eyes and mouth open in shock, clutching his forehead with one hand, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. NANGKA RAKSASA DI SUNGAI (Colossal Jackfruit in River Prop) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A colossal, ripe yellowish-green spiky jackfruit claymation model floating peacefully on the surface of a sparkling clear river current with white water splashes, beside lush green mossy riverbank rocks and bamboo foliage, warm sun reflections on water, full river background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A colossal, ripe yellowish-green spiky jackfruit claymation model with intricate clay texture, isolated full fruit prop on a solid plain white background, soft studio lighting, 8k resolution.

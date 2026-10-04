@@ -1,0 +1,101 @@
+[theme]
+Kecerdikan Membela Rakyat Miskin & Pelajaran Bagi Saudagar Kikir / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat melepaskan ketidakadilan rakyat miskin yang dituntut bayaran aroma masakan oleh saudagar kikir.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. Outside a traditional Javanese food stall, a poor woodcutter clay figure in tattered clothes sits on a wooden bench eating cold rice, taking deep breaths of delicious curry aroma wafting from the kitchen. Suddenly, an angry rich greedy merchant clay figure aggressively grabs his collar, demanding payment for smelling the food. CapCut Effect: Slow Zoom-in towards the greedy merchant dragging the woodcutter, use Claymation filter. Audio: Upbeat traditional gamelan BGM, angry shouting SFX. VO: "Suatu hari di pasar desa, seorang pencari kayu miskin duduk beristirahat sambil memakan bekal nasi dinginnya di depan warung makan milik seorang saudagar yang sangat kikir."
+
+Shot 2 (35-70s): Inside the grand royal palace pendopo, the greedy merchant clay figure points angrily at the poor woodcutter in front of Sultan Prabu's golden throne, demanding gold coins as compensation. CapCut Effect: Soft Blur background with slow Zoom-in as the merchant argues before Sultan Prabu. Audio: Dramatic court marimba music, angry shouting SFX. VO: "Saudagar kikir yang serakah itu dengan tega menyeret sang pencari kayu ke hadapan Sultan Prabu, menuntut bayaran sekantong uang emas."
+
+Shot 3 (70-115s): Ki Udin clay figure with short white hair wearing a blangkon and lurik shirt steps forward holding a heavy pouch of golden coins. He shakes the pouch vigorously right next to the greedy merchant's ear, producing loud clinking sounds. CapCut Effect: Warm Fade In transition, add aura shimmer effect around Ki Udin's gold pouch. Audio: Upbeat acoustic guitar BGM, loud coin clinking SFX (klincing-klincing). VO: "Melihat ketidakadilan itu, Ki Udin yang berambut putih melangkah santai ke depan pendopo. Beliau mengeluarkan sekantong uang emas milik kerajaan, lalu mengguncang-guncangkannya keras-keras tepat di telinga saudagar kikir."
+
+Shot 4 (115-150s): Ki Udin smiles mischiefly, while Sultan Prabu clay figure laughs heartily on his throne holding his belly, and the greedy merchant stands frozen in red-faced embarrassment without words. CapCut Effect: Gentle Slow Zoom-out, funny Glitch/Shake effect when Sultan laughs, warm Fade Out at the end. Audio: Loud coin clinking SFX, belly laugh SFX, cheerful gamelan ending. VO: "Dengan senyum polos yang penuh akal, Ki Udin berkata tegas: 'Wahai Saudagar Kikir! Suara denting uang emas ini adalah bayaran yang paling pas untuk bau masakanmu!' Sultan Prabu pun tertawa terbahak-bahak mendengar kebenaran itu."
+
+[videoNarration]
+Suatu hari di pasar desa, seorang pencari kayu miskin duduk beristirahat sambil memakan bekal nasi dinginnya di depan warung makan milik seorang saudagar yang sangat kikir. Karena nasinya terasa tawar, pencari kayu itu memejamkan mata sambil menghirup dalam-dalam aroma gulai kambing yang harum semerbak berhembus dari dapur warung. Namun mendadak, saudagar kikir keluar sambil berkacak pinggang dan marah besar! Beliau menuduh pencari kayu telah mencuri aroma masakannya tanpa izin dan menuntut bayaran uang emas yang sangat mahal. Karena pencari kayu tidak punya uang, saudagar kikir dengan tega menyeretnya ke hadapan Sultan Prabu di pendopo keraton.
+Di hadapan Sultan Prabu, saudagar kikir berkata dengan berapi-api, 'Gusti Sultan! Pria miskin ini telah menikmati aroma gulai kambing lezat dari warung hamba sampai perutnya kenyang! Hamba menuntut bayaran sekantong uang emas atas aroma masakan yang sudah ia nikmati!' Sultan Prabu terperanjat heran mendengarnya. Pencari kayu miskin menangis ketakutan karena tidak sanggup membayar ganti rugi yang tak masuk akal itu. Seluruh ruangan pendopo keraton mendadak hening dan tegang menunggu keputusan Sultan.
+Melihat ketidakadilan itu, Ki Udin yang berambut putih dan penuh akal melangkah maju dengan tenang. Beliau meminjam sekantong uang emas dari bendahara istana, lalu berjalan menghampiri saudagar kikir. Tanpa mengucap sepatah kata pun, Ki Udin menggenggam kantong uang emas itu dan mengguncang-guncangkannya keras-keras tepat di samping telinga saudagar kikir. Suara dentingan koin emas 'klincing... klincing... klincing...' terdengar sangat nyaring bergema di seluruh pendopo keraton. Saudagar kikir kebingungan dan bertanya, 'Apa yang sedang kamu lakukan, Ki Udin?'
+Dengan senyum polos yang penuh akal, Ki Udin menjawab dengan lantang: 'Wahai Saudagar Kikir! Pencari kayu ini hanya menikmati bau masakanmu tanpa memakannya. Maka dari itu, hamba telah membayarmu dengan suara denting uang ini tanpa memberikan uangnya kepadamu! Bau masakan sudah dibayar lunas dengan bunyi uangnya!' Mendengar jawaban luar biasa cerdik itu, Sultan Prabu dan seluruh rakyat tertawa terbahak-bahak sampai memegang perut mereka. Sementara saudagar kikir langsung melongo tertunduk malu dengan wajah merah padam karena tak bisa membantah logikanya sendiri!
+
+[bgmStyle]
+(1) 0-35s: Upbeat traditional gamelan BGM, angry shouting SFX.
+(2) 35-70s: Dramatic court marimba music, angry shouting SFX.
+(3) 70-115s: Upbeat acoustic guitar BGM, loud coin clinking SFX (klincing-klincing).
+(4) 115-150s: Loud coin clinking SFX, belly laugh SFX, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, memegang kantong uang emas menggoyangkannya di telinga saudagar kikir, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Saudagar Kikir",
+"description": "Pria kaya pedagang warung gemuk serakah berwajah merah padam kebingungan terdiam malu, gaya claymation.",
+"id": "ROLE_03"
+},
+{
+"name": "Pencari Kayu Miskin",
+"description": "Rakyat desa miskin berbaju lusuh terharu tersenyum lega, gaya claymation.",
+"id": "ROLE_04"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 15
+Judul Episode: Rahasia Tongkat Pemanjang Pencuri Emas (Eps 15)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Rahasia Tongkat Pemanjang Pencuri Emas
+- Clicky Video Headline: EMAS KERAJAAN DICURI?! TRIK TONGKAT AJAIB KI UDIN BIKIN MALINGNYA BONGKAR AIB SENDIRI!
+- Single Video Title: Cerita Cerdik Ki Udin - Rahasia Tongkat Pemanjang Pencuri Emas (Eps 15)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a grand royal palace courtyard (Pelataran Keraton), an authoritative commander of the palace guards clay figure in traditional armor points aggressively at an empty open golden treasure chest, shouting loudly in Javanese accent: "Sopo sing nyolong emas keraton? Maju kabeh gowo tongkatmu!" with clear authentic Javanese spoken dialogue audio. Next to him, several anxious palace soldiers in a neat row hold up identical wooden sticks, with one soldier in the center sweating profusely and trembling with wide bulging eyes. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved teak wooden palace gates in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. Inside a grand traditional Javanese royal palace hall (Pendopo Keraton), Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt stands in front with a wide playful grin, pointing his finger at a nervous palace guard who holds up a comically short cut wooden stick. In the background, Sultan Prabu on his lavish carved golden throne laughs hysterically holding his belly, while an open golden treasure chest with glittering jewels sits on the marble floor. Warm lantern illumination, rich carved teak wooden pillars, ultra-high depth of field, full environmental background, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bundle of smooth wooden sticks in one hand, standing confidently inside a traditional carved royal palace courtyard, warm cheerful wise facial expression, warm morning sunlight, rich teak architecture in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bundle of smooth wooden sticks in one hand, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PRAJURIT PENASARAN / NERVIOUS ROYAL GUARD ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A young Javanese palace guard in traditional red and gold court soldier uniform, batik sash, and cloth headband. Holding a comically short cut wooden stick in both hands, sweating with a hilarious guilty panicked expression, wide bulging eyes, standing in the palace courtyard near carved pillars, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A young Javanese palace guard in traditional red and gold court soldier uniform, batik sash, and cloth headband. Holding a comically short cut wooden stick in both hands, sweating with a hilarious guilty panicked expression, wide bulging eyes, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. PETI EMAS KERAJAAN (Royal Golden Treasure Chest) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A lavish antique wooden treasure chest with heavy ornate golden brass latches and intricate carved floral patterns, standing open on a polished palace floor, filled with overflowing glittering golden coins, rubies, and emeralds, warm candlelight reflections, full palace interior background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A lavish antique wooden treasure chest with heavy ornate golden brass latches and intricate carved floral patterns, standing open, filled with overflowing glittering golden coins, rubies, and emeralds, isolated full object on a solid plain white background, soft studio lighting, 8k resolution.

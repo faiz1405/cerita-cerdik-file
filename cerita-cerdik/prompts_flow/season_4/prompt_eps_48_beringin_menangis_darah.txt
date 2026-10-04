@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Misteri Beringin Menangis Darah (Eps 48)
+- Clicky Video Headline: POHON BERINGIN MENANGIS DARAH?! DETEKTIF KI UDIN BONGKAR PENIPUAN TENGKULAK LICIK!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Detektif Desa: Beringin Berdarah (Eps 48)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: extreme close-up of a massive, ancient banyan tree trunk with dark wrinkled bark. From a crack in the wooden bark, thick, dark red liquid resembling blood is slowly dripping down continuously. The camera slowly zooms out starting at 0.0s to reveal terrified Javanese villagers in the background. The villagers, wearing traditional woven caping hats and earthy clothes, are trembling, pointing at the dripping blood, and kneeling in extreme fear of the supernatural curse. In the middle of the crowd, a greedy middleman (Tengkulak Licik) wearing a bright green silk Javanese shirt is waving his hands frantically, acting terrified but secretly smiling. He shouts instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Iki mesthi kutukan balak!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Fluid clay stop-motion animation, dramatic dusky sunset lighting casting long shadows, mysterious eerie atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, bright sunny lighting, clean bark, no liquid, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground beside a giant banyan tree trunk dripping with thick red liquid, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is pointing analytically at a hidden bamboo tube tucked inside the tree roots! In the comical background, the greedy middleman (Tengkulak Licik) wearing a bright green silk shirt is caught red-handed, his face frozen in extreme shock and sweat, holding a piece of paper (land deed), ready to run away in panic. Terrified villagers are holding wooden brooms angrily. Radiant cinematic dusky sunset lighting, rich clay stop-motion textures, cinematic depth of field, full environmental mystery setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry, real blood, gore]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Ki Udin Meneliti Getah (Tangan Kosong)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Ki Udin, elderly Javanese wise peasant detective, 58 years old, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Crouching down slightly, raising one finger close to his nose as if smelling something, empty hands, holding no objects, holding nothing, no props. Calm serious intelligent analyzing face, unblemished clean face.
+
+[Prompt Option B: Tengkulak Licik Kaget (Panik Lari)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Greedy middleman, 45 years old, wearing bright green silk Javanese shirt, dark batik pants. Pose caught red-handed, body turned slightly preparing to run away comically, hands raised up in shock, empty hands, holding no objects, holding nothing, no props. Sweaty terrified face, eyes wide open in fear, guilty expression, clean face.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, mystery detective atmosphere, dusk sunset lighting...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, real blood, gore, injury]`

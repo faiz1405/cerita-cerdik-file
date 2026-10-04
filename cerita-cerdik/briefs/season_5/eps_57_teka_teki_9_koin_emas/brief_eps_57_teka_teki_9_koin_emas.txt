@@ -1,0 +1,137 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tema Teka-Teki Logika (Minggu). Rentenir menantang ayah miskin mencari 1 koin emas palsu (yang lebih ringan) dari total 9 koin, HANYA dengan 2 KALI menimbang menggunakan neraca. Jika gagal, anaknya disita. Ki Udin menyelesaikan masalah dengan logika pembagian 3 kelompok.
+
+# [purpose]
+Memancing audiens berdebat dan menahan layar (*Hold Rate*) untuk memecahkan teka-teki logika matematika klasik. Menggunakan FLSR Framework & Dopamine Pacing.
+
+# [audience]
+Masyarakat Indonesia 18-45 tahun (Audiens yang menyukai teka-teki logika, trik cerdas, dan karma instan).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Sec Hook - Cortisol Spike*).
+    ENVIRONMENT: DAY. Teras rumah pedesaan, terang, ada meja kayu.
+    SUBJECT: Rentenir Serakah (jas hitam, kalung emas besar, kumis tebal), Ayah Miskin (baju lusuh, menangis memeluk anaknya).
+    ACTION: Rentenir melempar sekantong koin ke meja hingga berhamburan. Rentenir menunjuk marah. Ayah miskin menangis ketakutan. SFX: Jumpscare Gong, Koin Jatuh Berhamburan (Cling!).
+    NARASI: "Rentenir kejam melempar sembilan koin emas ke meja! Ia mengancam menyita anak seorang ayah miskin jika ayah itu tak bisa menebak teka-tekinya!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Tension Building*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Meja kayu dengan 9 koin emas dan sebuah timbangan dacin (neraca timbangan kuno 2 piringan). 
+    ACTION: Rentenir tersenyum licik. Ki Udin muncul mendekati meja dengan senyum tenang.
+    NARASI: "Tantangannya: Dari sembilan koin itu, ada satu koin palsu yang lebih ringan! Ayah itu harus menemukannya HANYA dengan dua kali menimbang! Tentu saja itu mustahil!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Close Up Timbangan (*Solution / Logic Shift*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Tangan Ki Udin membagi 9 koin menjadi tiga kelompok: A (3 koin), B (3 koin), dan C (3 koin).
+    ACTION: Ki Udin menaruh kelompok A di piringan kiri, dan B di kanan. Timbangan seimbang sempurna! SFX: Timbangan bergerak (Creak), Bunyi koin (Clink).
+    NARASI: "Melihat kelicikan itu, Ki Udin segera membagi koin menjadi tiga kelompok! Masing-masing berisi tiga koin. Ia menimbang kelompok A dan B. Ternyata beratnya sama!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Close Up Timbangan 2 (*The Aha! Moment / Dopamine Hit*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Ki Udin mengambil 2 koin dari kelompok C. 
+    ACTION: Ki Udin menaruh 1 koin di kiri, 1 di kanan. Timbangan langsung miring sebelah karena koin palsu lebih ringan.
+    NARASI: "Karena A dan B sama berat, koin palsu pasti ada di kelompok C! Untuk timbangan kedua, Ki Udin cukup menimbang dua koin dari kelompok C. Koin yang timbangannya naik ke atas, itulah yang palsu!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Wide Shot (*Reward & Payoff*).
+    ENVIRONMENT: DAY.
+    SUBJECT: Rentenir marah menghentakkan kaki. Ayah miskin bersujud sukur memeluk Ki Udin.
+    ACTION: Rentenir ngamuk dan pergi karena kalah taruhan. Ayah miskin tersenyum lega. SFX: Tawa kecil, Suara kesal (Argh!).
+    NARASI: "Jika timbangan kedua seimbang, berarti koin ketiga yang tidak ditimbanglah yang palsu! Rentenir itu melongo kalah telak, dan anak si ayah miskin akhirnya selamat!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Rentenir kejam melempar sembilan koin emas ke meja! Ia mengancam menyita anak seorang ayah miskin jika ayah itu tak bisa menebak teka-tekinya!
+Tantangannya: Dari sembilan koin itu, ada satu koin palsu yang lebih ringan! 
+<break time="1.0s"/>
+
+Ayah itu harus menemukannya HANYA dengan dua kali memakai timbangan neraca! 
+Tentu saja ia menangis karena menebak satu dari sembilan koin dengan dua kali timbang terasa mustahil!
+<break time="1.0s"/>
+
+Melihat kelicikan itu, Ki Udin segera turun tangan! Ia membagi sembilan koin itu menjadi tiga kelompok!
+Masing-masing kelompok berisi tiga koin. Pada timbangan pertama, ia menimbang kelompok A dan B. Ternyata beratnya sama!
+<break time="1.0s"/>
+
+Karena A dan B sama berat, koin palsu sudah pasti berada di kelompok C! 
+Untuk timbangan kedua, Ki Udin mengambil dua koin dari kelompok C lalu menimbangnya secara berhadap-hadapan. 
+<break time="1.0s"/>
+
+Koin yang piringan timbangannya naik ke atas, itulah koin yang palsu!
+Tapi jika timbangannya seimbang, berarti koin ketiga yang tersisalah yang palsu! 
+Rentenir licik itu melongo kalah telak, dan anak si miskin akhirnya selamat!
+
+# [bgmStyle]
+Diawali dengan musik tegang/misteri saat teka-teki diberikan (Cortisol phase). Berubah menjadi musik detektif jenaka (Pizzicato Strings) saat Ki Udin membagi koin (Tension Building). Memuncak menjadi nada *grand* bahagia saat logika terpecahkan (Dopamine phase).
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and shiny gold highlights on key phrases: 'sembilan koin emas', 'menyita anak', 'koin palsu yang lebih ringan', 'dua kali memakai timbangan', 'membagi sembilan koin', 'beratnya sama', 'kelompok C', 'naik ke atas', 'melongo kalah telak'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt. Calm smart expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Rentenir (ROLE_02)",
+        "description": "Wealthy greedy Javanese merchant moneylender, wearing modern-traditional black suit, thick gold chain necklace, thick mustache. Arrogant angry expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Ayah Miskin (ROLE_03)",
+        "description": "Poor thin Javanese father, 40s, wearing faded torn clothes, crying desperately. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan lingkungan dibuat dalam gaya stop-motion claymation bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA: Teras rumah desa terang, koin emas, neraca kuno klasik (dacin). DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

@@ -1,0 +1,157 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Detektif Desa (Test Ombak 3). Desa diteror hantu bola api (Banaspati) setiap tengah malam, membuat warga ketakutan dan mengunci diri di rumah. Ki Udin menginvestigasi dan menemukan bola api itu selalu mengarah ke kandang sapi. Terbongkar bahwa itu hanyalah trik maling sapi yang menyalurkan gas rawa/fosfor lewat pipa bambu rahasia agar warga takut keluar rumah. Maling tertangkap basah.
+
+# [purpose]
+Mitos vs Fakta (Fisika Gas Alam). Thumb-stop horor bola api Banaspati di malam hari, namun dipecahkan dengan penjelasan ilmiah gas metana/fosfor dan motif pencurian yang sangat logis. 
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Penggemar misteri kearifan lokal dan konspirasi kriminal).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up bola api biru kemerahan melayang lambat menembus kegelapan malam desa. Kamera pan ke bawah memperlihatkan warga desa berlarian panik masuk ke dalam rumah. TEXT OVERLAY BOLD: "TEROR HANTU BANASPATI?! / DETEKTIF KI UDIN BONGKAR TRIK MALING!".
+    ENVIRONMENT: NIGHT. Jalanan desa gelap gulita, rembulan tertutup awan.
+    SUBJECT: Bola api terbang, warga desa.
+    ACTION: Warga lari terbirit-birit, mengunci pintu. Bola api melayang mulus. SFX: Jumpscare hit, Suara api menyala (Woosh), Jeritan panik.
+    NARASI: "Setiap tengah malam, desa mendadak diteror oleh penampakan bola api terbang yang melayang di udara!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium shot.
+    ENVIRONMENT: NIGHT. Dalam rumah warga.
+    SUBJECT: Warga desa berpelukan ketakutan di sudut ruangan gelap.
+    ACTION: Warga mengintip dari celah jendela dengan gemetar.
+    NARASI: "Warga desa ketakutan luar biasa, mengira itu adalah hantu Banaspati kutukan yang mencari mangsa. Karena panik, seluruh warga mengunci diri rapat-rapat di dalam rumah dan tak berani keluar malam."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan & Medium Close-Up (Pacing Anti-Drop Detik 5-15).
+    ENVIRONMENT: NIGHT. Balik pohon beringin.
+    SUBJECT: Ki Udin bersembunyi sambil membawa jaring ikan yang basah. Matanya memicing tajam ala detektif.
+    ACTION: Ki Udin mengamati pergerakan api. SFX: JENG! <break time="1.0s"/>
+    NARASI: "Namun Ki Udin merasa ada yang janggal. Ia memutuskan mengintip dari balik pohon saat bola api itu muncul."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Wide shot dari sudut pandang Ki Udin (POV).
+    ENVIRONMENT: NIGHT. Jalan menuju kandang.
+    SUBJECT: Bola api bergerak pelan mengarah ke satu tempat: kandang sapi desa.
+    ACTION: Kamera fokus mengikuti arah bola api.
+    NARASI: "Benar saja! Bola api itu selalu sengaja muncul di jalanan yang mengarah ke kandang sapi milik warga desa!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Action Shot.
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Ki Udin melompat keluar dari balik pohon.
+    ACTION: Ia melemparkan jaring ikan basahnya menutupi bola api tersebut. Apinya langsung padam!
+    NARASI: "Dengan berani, Ki Udin menangkap bola api itu menggunakan jaring yang basah!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Close-up Makro.
+    ENVIRONMENT: NIGHT. Tanah.
+    SUBJECT: Ujung jaring yang menutupi sebatang pipa bambu rahasia yang tertanam di semak-semak.
+    ACTION: Ki Udin membongkar semak-semak, memperlihatkan pipa bambu itu.
+    NARASI: "Ternyata itu bukanlah hantu! Bola api itu berasal dari pipa bambu panjang yang menyemburkan gas rawa fosfor yang dibakar!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Tracking Shot.
+    ENVIRONMENT: NIGHT. Kandang Sapi.
+    SUBJECT: Komplotan Maling Sapi berpakaian hitam sedang sibuk menuntun sapi keluar kandang.
+    ACTION: Ki Udin mengikuti ujung pipa bambu dan memergoki pencuri itu. Wajah pencuri kaget (*Freeze frame* 1 detik).
+    NARASI: "Ki Udin mengikuti arah pipa bambu itu dan menemukan komplotan maling sapi sedang beraksi di ujung jalan! Para maling sengaja menakuti warga dengan trik bola api agar bebas mencuri sapi tanpa ketahuan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Action & Reaksi.
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Ki Udin berteriak memanggil warga. Ratusan warga keluar membawa obor dan sapu.
+    ACTION: Para maling lari kocar-kacir, bertabrakan satu sama lain secara komikal. SFX: Slip, Thud, Suara bel.
+    NARASI: "Warga yang mendengar teriakan Ki Udin langsung keluar dan mengepung komplotan maling licik itu! Para pencuri pun tertangkap basah dan lari terbirit-birit ketakutan diamuk massa!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Wide shot warga.
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Ki Udin berdiri gagah di depan kandang sapi, warga bersorak gembira.
+    ACTION: Ki Udin menepuk-nepuk sapi sambil tersenyum. Hard cut ke hitam.
+    NARASI: "Akhirnya, teror hantu bola api berhasil dibongkar oleh ilmu sains dan kecerdasan detektif Ki Udin!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Setiap tengah malam, desa mendadak diteror oleh penampakan bola api terbang yang melayang di udara!
+Warga desa ketakutan luar biasa, mengira itu adalah hantu Banaspati kutukan yang mencari mangsa.
+Karena panik, seluruh warga mengunci diri rapat-rapat di dalam rumah dan tak berani keluar malam.
+Namun Ki Udin merasa ada yang janggal. Ia memutuskan mengintip dari balik pohon saat bola api itu muncul.
+<break time="1.0s"/>
+
+Benar saja! Bola api itu selalu sengaja muncul di jalanan yang mengarah ke kandang sapi milik warga desa!
+Dengan berani, Ki Udin menangkap bola api itu menggunakan jaring yang basah!
+Ternyata itu bukanlah hantu! Bola api itu berasal dari pipa bambu panjang yang menyemburkan gas rawa fosfor yang dibakar!
+Ki Udin mengikuti arah pipa bambu itu dan menemukan komplotan maling sapi sedang beraksi di ujung jalan!
+<break time="1.0s"/>
+
+Para maling sengaja menakuti warga dengan trik bola api agar bebas mencuri sapi tanpa ketahuan!
+Warga yang mendengar teriakan Ki Udin langsung keluar dan mengepung komplotan maling licik itu!
+Para pencuri pun tertangkap basah dan lari terbirit-birit ketakutan diamuk massa!
+Akhirnya, teror hantu bola api berhasil dibongkar oleh ilmu sains dan kecerdasan detektif Ki Udin!
+
+# [bgmStyle]
+Skor misteri berbalut kearifan lokal. Awal sangat horor dan mencekam (Jumpscare hit, string merinding ala horor pedesaan). Saat Ki Udin mengintip, instrumen gamelan misterius mengendap-endap (*Sneaky*). Saat jaring dilempar terdengar nada biola naik cepat mendebarkan. Saat pencuri kepergok terdengar SFX "Record Scratch" (musik berhenti kaget). Diakhiri suara lari komikal (*Fast cartoon running*) dan sorak sorai kemenangan warga.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'bola api terbang', 'hantu Banaspati kutukan', 'mengunci diri rapat-rapat', 'menangkap bola api', 'pipa bambu panjang', 'gas rawa fosfor', 'maling sapi', 'lari terbirit-birit', 'ilmu sains'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Maling Sapi (ROLE_02)",
+        "description": "Two sneaky thieves, 30s, wearing black ninja-like clothing with black sarongs covering their faces. Carrying ropes. Panic and coward expressions. ANTAGONIS SLAPSTICK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA MISTERI MALAM: Pencahayaan malam (Night lighting) yang gelap dengan highlight warna biru bulan (moonlight) dan oranye terang dari bola api. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

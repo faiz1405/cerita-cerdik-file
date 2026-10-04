@@ -1,0 +1,29 @@
+===================================================================
+EPS 05: Ayam Jantan Bertelur (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Ayam Jantan Bertelur 🐓🥚
+- Clicky Headline: "Dijebak Disuruh Bertelur, Pria Cerdik Ini Malah Berkokok Mengaku Ayam Jantan! 🐓🤣"
+- Caption Teks: Dijebak disuruh bertelur, Ki Udin malah berkokok mengaku jadi ayam jantan! 🐓🤣 Cuma Ki Udin yang bisa balik mengelabuhi para pejabat licik pakai logika konyol yang bikin Sultan ngakak terpingkal-pingkal. Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot inside a grand Javanese royal palace pendopo. Ki Udin clay figure, a clever Javanese man with short white hair wearing a blangkon, sarong, and lurik shirt, actively flaps his elbows up and down like rooster wings and opens his mouth wide crowing like a proud rooster. In the background, Sultan Prabu clay figure on his golden throne laughs hysterically holding his belly. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair proudly flapping his elbows like a rooster crowing heartily. On the right, several funny chubby court ministers clay figures squatting on the floor with chicken eggs, looking at Ki Udin in total embarrassment with red faces. In the background, Sultan Prabu laughing happily on his throne. Soft clay modeling textures, bright sunny palace vibes, highly detailed 9:16 aspect ratio.

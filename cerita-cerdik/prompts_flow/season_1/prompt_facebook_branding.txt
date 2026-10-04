@@ -1,0 +1,36 @@
+===================================================================
+PROMPT BRANDING FACEBOOK PAGE: CERITA CERDIK
+Asset Targets: Profile Picture (1:1) & Cover Banner (16:9)
+AI Tool Target: Google AI Flow (Imagen 3 / Midjourney / DALL-E 3)
+===================================================================
+
+[1] PROFILE PICTURE PROMPT (FOTO PROFIL 1:1 - CIRCULAR SAFE)
+-------------------------------------------------------------------
+Aspect Ratio: 1:1 (Square)
+Style: Cute comical claymation style, plasticine clay art texture, vibrant colors.
+
+Prompt:
+An eye-catching 1:1 square profile icon in cute comical claymation style. A friendly, clever Javanese man clay figure named Ki Udin with a cheerful winking expression, wearing a traditional brown blangkon hat and a neat striped lurik shirt made of sculpted clay. He is holding a small glowing clay lantern in one hand with a clever smile. Warm golden sunburst background, clean circular-safe composition, soft plasticine clay textures, bright, iconic, highly detailed mascot.
+
+[Negative Prompt]
+[3d render, photorealistic, realistic human, dark lighting, scary, sharp digital edges, messy background, low quality, blurry, drawing, crayon]
+
+
+[2] COVER BANNER PROMPT (SAMPUL FACEBOOK PAGE 16:9)
+-------------------------------------------------------------------
+Aspect Ratio: 16:9 (Landscape)
+Style: Cute comical claymation style, plasticine clay art texture, vibrant colors.
+
+Prompt:
+A wide 16:9 horizontal Facebook Page cover banner in cute comical claymation style. On the left, Ki Udin, a clever Javanese man clay figure wearing a blangkon and lurik shirt, warmly waving his hand next to a traditional wooden pendopo house made of clay. In the center and right, a scenic sunny Javanese village landscape made of sculpted clay with rolling green clay hills, tall coconut palms, and a cheerful blue sky with fluffy white clay clouds. Warm golden sunbeams, ample empty space for page title text, soft plasticine clay textures, cozy, inviting, highly detailed fairytale aesthetic.
+
+[Negative Prompt]
+[3d render, photorealistic, dark lighting, scary, text, watermarks, cluttered, sharp digital edges, low quality, blurry, drawing, crayon]
+
+
+[3] PANDUAN NAMA & DESKRIPSI HALAMAN FACEBOOK (PAGE INFO)
+-------------------------------------------------------------------
+- Nama Halaman FB: Cerita Cerdik Nusantara ✨
+- Kategori: Halaman Hiburan / Dongeng / Kreator Video
+- Bio Singkat (101 Karakter):
+  "Kisah cerdik & dongeng rakyat Nusantara yang menghibur. 🍃"

@@ -1,0 +1,91 @@
+[theme]
+Kecerdikan Menyelesaikan Tugas Mustahil Sultan / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat menyelesaikan tantangan tak masuk akal sang Sultan.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. Inside a grand Javanese royal palace pendopo made of clay, Sultan Prabu clay figure wearing a royal crown and batik robe sits on a golden throne, challenging Ki Udin clay figure who bows respectfully. CapCut Effect: Slow Zoom-in towards Sultan Prabu on the throne, use Claymation filter. Audio: Grand traditional gamelan BGM, royal fanfare SFX. VO: "Kabar tentang kecerdikan Ki Udin mengelabuhi Pak Lurah serakah akhirnya terdengar sampai ke telinga Sultan Prabu di Keraton."
+
+Shot 2 (35-70s): Ki Udin sitting happily at his bamboo house eating baked sweet potatoes, then carefully sealing a clear glass bottle with a cork stopper. CapCut Effect: Soft Blur background with slow Zoom-in as Ki Udin seals the bottle. Audio: Upbeat marimba music, funny bubbling SFX. VO: "Warga desa yang mendengar perintah Sultan langsung merasa cemas. Manusia mana yang sanggup menangkap angin yang tidak berwujud?"
+
+Shot 3 (70-115s): Ki Udin hands over the sealed glass bottle to Sultan Prabu in front of royal guards. Sultan Prabu inspects the bottle curiously with a big smile. CapCut Effect: Warm Fade In transition, add shimmer effect to the glass bottle. Audio: Upbeat curious acoustic guitar BGM, suspenseful drumroll SFX. VO: "Di hadapan Sultan dan para pengawal istana, Ki Udin menyerahkan botol kaca misterius itu dengan penuh rasa hormat."
+
+Shot 4 (115-150s): Sultan Prabu opens the cork stopper, smells it, and suddenly coughs and waves his hand in disgust with a funny red face, while Ki Udin smiles innocently. CapCut Effect: Gentle Slow Zoom-out, funny Glitch/Shake effect when Sultan coughs, warm Fade Out at the end. Audio: Comical coughing SFX, funny trombone wah-wah, cheerful gamelan ending. VO: "Tanpa rasa curiga, Sultan Prabu membuka penyumbat gabus tersebut dan meletakkannya di dekat hidungnya untuk merasakan embusan angin."
+
+[videoNarration]
+Kabar tentang kecerdikan Ki Udin mengelabuhi Pak Lurah serakah akhirnya terdengar sampai ke telinga Sultan Prabu di Keraton. Sang Sultan yang merasa penasaran ingin menguji sejauh mana akal cerdik Ki Udin, memanggilnya ke pendopo kerajaan. Dengan tersenyum penuh wibawa, Sultan memberikan sebuah tantangan yang sangat mustahil: Ki Udin harus mampu menangkap angin dan memasukkannya ke dalam botol kaca dalam waktu tiga hari. Jika gagal, Ki Udin akan dihukum menguras kolam istana.
+Warga desa yang mendengar perintah Sultan langsung merasa cemas. Manusia mana yang sanggup menangkap angin yang tidak berwujud? Namun Ki Udin hanya tersenyum tenang dan pulang ke rumahnya. Selama dua hari, Ki Udin makan makanan berbumbu pekat seperti nangka muda dan ubi bakar. Pada hari ketiga, Ki Udin dengan tenang menyiapkan sebuah botol kaca bening yang disumbat sangat rapat menggunakan gabus kayu.
+Di hadapan Sultan dan para pengawal istana, Ki Udin menyerahkan botol kaca misterius itu dengan penuh rasa hormat. Sultan Prabu tertawa heran dan bertanya, 'Apakah kamu benar-benar berhasil memasukkan angin ke dalam botol ini, Ki Udin?' Ki Udin membungkuk dan menjawab, 'Benar Gusti Sultan, angin itu sudah hamba tangkap dan hamba kunci rapat di dalam botol. Silakan Gusti buka sumbatnya untuk membuktikannya sendiri.'
+Tanpa rasa curiga, Sultan Prabu membuka penyumbat gabus tersebut dan meletakkannya di dekat hidungnya untuk merasakan embusan angin. Namun dalam sekejap, wajah Sultan berubah merah padam dan terbatuk-batuk hebat karena mencium bau busuk yang sangat menyengat! Dengan polos Ki Udin berkata, 'Mohon ampun Gusti, itulah angin kentut yang berhasil hamba tangkap dan tahan di dalam perut hamba selama tiga hari.' Seluruh pengawal terpingkal-pingkal dalam hati, dan Sultan pun terpaksa mengakui kecerdikan Ki Udin sambil memberikan hadiah kantong emas!
+
+[bgmStyle]
+(1) 0-35s: Grand traditional gamelan BGM, royal fanfare SFX.
+(2) 35-70s: Upbeat marimba music, funny bubbling SFX.
+(3) 70-115s: Upbeat curious acoustic guitar BGM, suspenseful drumroll SFX.
+(4) 115-150s: Comical coughing SFX, funny trombone wah-wah, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, tersenyum polos penuh akal, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa dengan mahkota emas, jubah batik mewah, terbatuk lucu memegang hidung, gaya claymation.",
+"id": "ROLE_02"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 27 (SEASON 2 EPISODE 7)
+Judul Episode: Memetik Kelapa Muda Tanpa Menyentuh Tanah (Eps 27 / S2E07)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Memetik Kelapa Muda Tanpa Menyentuh Tanah
+- Clicky Video Headline: DISURUH PETIK KELAPA GAK BOLEH NYENTUH TANAH?! AKAL KOCAK KI UDIN BIKIN PAK LURAH CUMA PAKE KOLOR KEPALANYA KETUTUPAN SARUNG!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Memetik Kelapa Muda Tanpa Menyentuh Tanah (Eps 27)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Under bright scorching midday sun in a rustic Javanese village coconut plantation, a chubby village chief (Pak Lurah) in an emerald green beskap and striped boxer shorts stands comically stumbling around as a brown silk sarong is yanked upwards, completely enveloping his head like a hood, shouting loudly in panicked Javanese accent: "Waduh peteng ndedet! Sopo sing mateni lampu awan-awan ngene?!" with clear authentic Javanese spoken dialogue audio. High above on the palm trunk, Ki Udin grins wittily holding a long rope. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm natural daylight, tall tropical palm trees and sandy plantation ground in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a sunlit tropical village coconut plantation, Pak Lurah chubby landlord clay figure stands clumsily in comical boxer shorts with his brown silk sarong completely tangled over his head and face, blindly bumping into a palm trunk. Sliding gracefully down the tall palm tree, Ki Udin clay figure with short white hair in a striped lurik shirt and batik blangkon holds a large bunch of golden young coconuts in one hand and a carved bamboo straw in the other, smiling cheerfully with a witty expression. Cheering village farmers and women with market baskets laughing heartily in the background. Radiant afternoon sunlight, sparkling coconut water splashes, vibrant clay textures, rich palm leaf details, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a coconut-harvesting machete and a coir rope, standing cheerfully beside a tall palm tree with a warm wise smirk, bright midday sunbeams, lush tropical coconut plantation background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a golden young coconut with a bamboo straw, standing pose with a cheerful witty expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH RAKUS (Chubby Greedy Village Chief) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing an emerald green beskap, striped boxer shorts, and his brown silk sarong clumsily wrapped over his head blinding his eyes. Comical blind stumbling pose with outstretched hands in a sandy coconut grove, warm daylight, full environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing an emerald green beskap, striped boxer shorts, and his brown silk sarong clumsily wrapped over his head blinding his eyes. Comical blind stumbling pose with outstretched hands, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. PETANI DESA (Laughing Village Farmer) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A cheerful middle-aged Javanese village farmer wearing a woven conical straw hat (caping), brown peasant clothes, holding a farm hoe, laughing boisterously while pointing forward with his hand, standing in a sunlit plantation pathway, full background, no plain white background, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A cheerful middle-aged Javanese village farmer wearing a woven conical straw hat (caping), brown peasant clothes, laughing boisterously with wide smile, isolated full body on a solid plain white background, soft studio lighting, 8k resolution.

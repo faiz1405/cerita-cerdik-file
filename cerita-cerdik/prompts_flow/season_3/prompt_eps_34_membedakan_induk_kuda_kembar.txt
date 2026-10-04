@@ -1,0 +1,77 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 34 (SEASON 3 EPISODE 4)
+Judul Episode: Membedakan Induk Kuda dan Anak Kuda Kembar Identik (Eps 34 / S3E04)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Tema Utama: Emotional Family Logic & Status Flip - Naluri Kasih Sayang Ibu
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membedakan Induk Kuda dan Anak Kuda Kembar Identik
+- Clicky Video Headline: DUTA ASING PAMER DUA KUDA KEMBAR IDENTIK NANTANG KERATON?! AKAL CERDIK RUMPUT SEGAR KI UDIN BIKIN DUTA SOMBONG NANGIS BERLUTUT KAGUM!
+- Single Video Title: Cerita Cerdik Ki Udin Season 3 - Induk Kuda Kembar Identik (Eps 34)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. In the grand stone courtyard of a sunlit Javanese royal palace framed by carved teakwood pillars, a tall pompous foreign ambassador in extravagant gold-trimmed armor and purple silk sash smugly grips the reins of two towering sleek black war mares, pointing his armored arm forward, shouting loudly in thick authentic Javanese accent: "Nek ora iso mbedakno endi babon endi anake, keraton iki tak anggep bodho kabeh!" with clear authentic Javanese spoken dialogue audio. Before the anxious royal court ministers, Ki Udin steps forward gracefully in his humble striped lurik shirt with a calm wise smirk, raising his open hand to accept the bet. Fluid clay stop-motion character animation, comical expressive sneer, gentle slow camera zoom-in, 3-second looping video motion, warm morning tropical courtyard lighting, royal keraton banners and guards holding flags in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the sunny cobblestone courtyard of a grand Javanese royal keraton, two magnificent identical black clay war mares stand side by side before a lush bundle of dew-dropped green elephant grass; the mother horse on the left gently nudges the tender grass with her soft muzzle toward the other mare with tender maternal care, bathed in a gentle warm golden halo of light. In the foreground, Ki Udin clay figure with short white clay hair in a striped lurik shirt and golden royal sash smiles with radiant wisdom, pointing gracefully at the mother horse. Beside him, Sultan Prabu wearing a golden royal crown smiles with deep touched pride, while an arrogant foreign ambassador in purple silk robes and feathered helmet clutches his forehead in comical utter shock and defeat. Ministers in batik blangkons clap joyfully. Radiant morning tropical sunlight, rich clay textures, fluttering royal flags, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/kotoran, ekspresi ekspresif dan hidup)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Penasihat Cerdik Keraton) ---
+Option A (Pede & Senyum Bijak - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, holding grass, horse, tools, background, room, scenery, palace, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Berpikir Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden royal silk sash. Standing pose with a cheerful witty expression, one hand touching his chin in thoughtful amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, grass, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. DUTA RANAJAYA (Foreign Pompous Ambassador - CLEAN FACE / TANPA NODA) ---
+Option A (Sombong Berkacak Pinggang - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A tall athletic foreign nobleman with a clean sharp face, trimmed black mustache, and an ornate purple feathered helmet. Wearing an extravagant purple velvet armor robe with gold embroidery, gold pauldrons, and royal purple boots. Comical arrogant haughty sneer with hands placed firmly on his hips, empty hands, holding no objects, holding no horse reins, holding no weapons, no props, completely clean skin, immaculate royal attire, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, horse reins, sword, spear, shield, dirty face, stains, background, room, palace, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Malu Tertunduk Berlutut - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A tall foreign nobleman in purple velvet armored robes and feathered helmet. Kneeling respectfully on one knee with head bowed in deep humble defeat and admiration, hands clasped together politely in homage, empty hands, holding no objects, holding no weapons, no props, completely clean skin without dirt or tears, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding weapons, props, background, floor, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. SULTAN PRABU (Raja Adil & Penuh Haru) ---
+Option A (Tegas & Berwibawa - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A majestic noble Javanese King with a regal upright posture, wearing a magnificent golden keraton crown, royal black and gold velvet bespoke attire, golden armlets, and a traditional batik royal dodot. Calm authoritative and noble facial expression, empty hands resting regally at his sides, holding no objects, holding no scepter, holding no weapons, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, soft royal studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding scepter, weapons, sword, background, throne, throne hall, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Tersenyum Bangga & Terharu - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A majestic noble Javanese King wearing a golden crown and royal velvet attire. Warm touched broad smile with respectful nodding approval, right hand placed gently over his chest with genuine warmth, empty hands, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding weapons, props, background, throne, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+- Frasa Pengunci Style (Wajib di Awal Setiap Shot & Prompt Video):
+  `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional grand Javanese royal palace setting`
+- Negative Constraints (Anti-Orang Asli & Anti-3D CGI):
+  `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]`
+- Karakter Manusia Saja: Pada bagian [characters], HANYA boleh diisi oleh karakter manusia hidup (Ki Udin, Duta Ranajaya, Sultan Prabu).

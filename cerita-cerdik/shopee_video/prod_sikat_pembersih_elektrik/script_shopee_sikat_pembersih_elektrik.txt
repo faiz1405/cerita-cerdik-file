@@ -1,0 +1,115 @@
+===================================================================
+SHOPEE VIDEO AFFILIATE (100% GOOGLE VEO FLOW)
+Produk: Sikat Pembersih Elektrik Putar Wireless (Electric Spin Scrubber)
+Target Platform: Shopee Video (In-App Shopee)
+Format Video: 9:16 Vertical Video
+Target Durasi Total: 9 - 10 Detik (3 Klip x 3 Detik Google Veo)
+Total Konsumsi Token: 3x Generate Google Veo (Full Claymation Aset Asli)
+Kisaran Harga Rekomendasi: Rp95.000 - Rp165.000
+Estimasi Komisi: Rp15.000 - Rp25.000 / transaksi (Label Komisi Ekstra)
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO 9-10 DETIK (FULL GOOGLE VEO)
+-------------------------------------------------------------------
+- 00:00 - 00:03 (Klip 1): [HOOK MASALAH - TEXT-TO-VIDEO VEO]
+  * Visual: Pak Lurah tambun memegangi pinggangnya yang encok sambil membungkuk memegang sikat lantai manual kecil di lantai kamar mandi basah.
+  * Teks Layar: "NYIKAT KAMAR MANDI MASIH SAMPAI ENCOK?!"
+  * Voice Over (VO): "Hari gini nyikat lantai kamar mandi masih sampai encok kayak Pak Lurah?"
+
+- 00:03 - 00:06 (Klip 2): [SOLUSI PRODUK - IMAGE-TO-VIDEO VEO (UPLOAD FOTO PRODUK ASLI)]
+  * Input Aset: Upload 1 foto produk asli sikat elektrik putar dari toko Shopee.
+  * Visual: Ki Udin berdiri tegak tersenyum santai memegang tongkat sikat elektrik tersebut; kepala sikat berputar kencang membersihkan busa sabun dan kerak lantai hingga kinclong seketika!
+  * Teks Layar: "Pakai Sikat Putar Elektrik! Berdiri Santai Kerak Rontok!"
+  * Voice Over (VO): "Tinggal tempel sikat putar elektrik ini sambil berdiri santai, kerak membandel rontok seketika!"
+
+- 00:06 - 00:09 (Klip 3): [NEURO-CTA KERANJANG ORANYE - TEXT-TO-VIDEO VEO]
+  * Visual: Ki Udin tersenyum cerdik mengedipkan mata sambil tangannya menunjuk tegas ke arah pojok kiri bawah (lokasi tombol Keranjang Oranye Shopee).
+  * Teks Layar: "KLIK KERANJANG ORANYE SEBELUM PROMO HABIS! 👇"
+  * Voice Over (VO): "Yuk bebas dari encok! Langsung klik keranjang oranye di bawah mumpung lagi promo diskon!"
+
+===================================================================
+[2] 3 PROMPT GOOGLE VEO 3.1 (FULL VEO WORKFLOW)
+Target Engine: Google AI Flow / Google Veo 3.1
+Rasio: 9:16 Vertical
+Durasi per Klip: 3 Detik Looping Motion
+-------------------------------------------------------------------
+
+--- KLIP 1: HOOK MASALAH (Text-to-Video) ---
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a traditional rustic village washroom, a chubby village chief (Pak Lurah) in green silk beskap painfully clutches his lower back with a grimacing face, holding a tiny wooden scrub brush while stooping down over soapy wet stone floor, shouting in exaggerated groaning Indonesian accent: "Aduh pinggangku mau patah! Pegal banget nyikat kamar mandi begini!" with clear authentic Indonesian spoken dialogue audio. Fluid claymation character animation, slow camera tracking, 3-second looping video motion, warm natural daylight, soapy stone tiles in background, full environmental depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background, no blank studio backdrop.
+
+[Negative Prompt Klip 1]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, javanese speech, javanese dialogue, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+
+--- KLIP 2: DEMO SOLUSI PRODUK (Image-to-Video / Starting Frame Reference) ---
+Petunjuk: Upload 1 foto produk sikat pembersih elektrik dari Shopee sebagai 'Reference Image / Start Frame' di Google Flow / Veo!
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. An elderly clever Javanese man with short white clay hair (Ki Udin) wearing a striped lurik shirt and batik blangkon stands upright comfortably, holding the uploaded long cordless electric spin scrubber. The motorized brush head spins rapidly with powerful circular rotation against wet soapy bathroom floor tiles, instantly wiping away yellow stains and black grime with clean soapy foam splashing smoothly, leaving glossy sparkling clean floor. Ki Udin smiles happily with effortless relaxed posture, speaking cheerfully in clear authentic Indonesian spoken dialogue audio: "Tinggal berdiri santai, kerak membandel langsung rontok seketika!" Fluid claymation character animation with natural lip-sync speaking motion, smooth camera tracking pan, 3-second video motion, warm natural daylight, rustic bathroom background, full environmental depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background, no studio void.
+
+[Negative Prompt Klip 2]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothes, studio void, plain white background, blank backdrop, dark lighting, low quality, blurry, warped product, broken handle, javanese speech, javanese dialogue, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+
+--- KLIP 3: NEURO-CTA KERANJANG ORANYE (Text-to-Video) ---
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Medium close-up shot of Ki Udin with short white clay hair wearing a brown batik blangkon and striped lurik shirt. He smiles with a witty charming grin and gives a friendly encouraging wink, while pointing his right index finger decisively down toward the bottom-left corner of the screen where the shopping cart button is located. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm morning sunlight, cheerful rustic village background, full environmental depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background, no blank studio backdrop.
+
+[Negative Prompt Klip 3]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, deformed fingers, extra fingers, low quality, blurry]
+
+===================================================================
+[3] 3 VERSI CAPTION THREADS & INSTAGRAM (ORGANIK & ANTI-SALESY)
+-------------------------------------------------------------------
+
+--- VERSI 1: STORYTELLING (Curhat Pengalaman Pribadi) ---
+Dulu tiap hari Minggu jadwal bebersih kamar mandi, gue sama pasangan pasti ada aja dramanya. Saling lempar giliran karena sama-sama malas jongkok lama nyikat lantai berkerak sampai punggung encok.
+
+Tangan lecet kena sabun karbol keras, dengkul linu, tapi keraknya masih ada aja yang nempel membandel.
+
+Sampai kemarin nyerah dan nyoba sikat putar elektrik wireless harga 100 ribuan ini. Sumpah, ini definisi barang perubah hidup.
+
+Ada tongkat panjangnya jadi tinggal berdiri santai, kepalanya mutar sendiri kencang banget. Kerak kuning di nat keramik sama wastafel rontok cuma dalam 5 menit tanpa perlu keluar tenaga otot sama sekali.
+
+Nyesel banget baru tahu sekarang, dari dulu harusnya gak perlu capek-capek nyiksa badan.
+
+Link toko yang gue beli ada di reply pertama ya kalau mau cek 👇
+
+--- VERSI 2: EDUKASI (Alasan Kenapa Ini Penting) ---
+Tahu gak kenapa kerak di lantai kamar mandi susah banget hilang padahal udah disikat sekuat tenaga pakai sabun mahal?
+
+Karena kalsium dari sabun dan mineral air itu mengeras masuk ke pori-pori nat semen. Tenaga tangan manusia pas nyikat cuma menghasilkan gesekan sekitar 30-40 RPM, dan tangan kita pasti cepat capek.
+
+Sementara kerak semen butuh putaran konstan di atas 300 RPM buat memecah endapan mineralnya. 
+
+Makanya pakai sikat elektrik jauh lebih masuk akal. Mesinnya mutar otomatis konstan dengan torsi kuat, jadi kerak terangkat bersih tanpa kita harus keluar tenaga fisik sampai pegal linu. Sabun pembersihnya pun jadi hemat banget.
+
+Harganya terjangkau banget di bawah 150 ribu, link tokonya gue spill di reply bawah ya 👇
+
+--- VERSI 3: LISTICLE (Ringkas & Penuh Nilai Praktis) ---
+3 alasan kenapa sikat putar elektrik wireless ini wajib ada di setiap rumah:
+
+1. Bebas encok & sakit pinggang: Dilengkapi tongkat teleskopik panjang, jadi bisa bersihin lantai, bak mandi, sampai sudut plafon tinggi sambil berdiri tegak tanpa jongkok.
+2. Dapat 3-5 kepala sikat berbeda: Ada sikat sudut lancip buat celah nat sempit, sikat bulat buat kloset/wastafel, dan sikat datar buat lantai keramik.
+3. Hemat waktu 80%: Bersihin seluruh kamar mandi yang tadinya makan waktu 45 menit ngos-ngosan, sekarang beres dalam 10 menit bersih kinclong.
+
+Definisi investasi kecil 100 ribuan yang bikin akhir pekan gak habis buat cape bebersih rumah.
+
+Link toko yang original dan lagi diskon gue taro di reply pertama ya 👇
+
+===================================================================
+[4] PANDUAN EKSEKUSI DI CAPCUT & SHOPEE VIDEO
+-------------------------------------------------------------------
+1. Di Google Veo, generate 3 klip di atas:
+   - Klip 1: Text-to-Video (Pak Lurah encok).
+   - Klip 2: Image-to-Video (Upload foto produk sikat Shopee -> Ki Udin pakai sikat mutar).
+   - Klip 3: Text-to-Video (Ki Udin tunjuk keranjang oranye).
+2. Di CapCut:
+   - Masukkan Klip 1 (0-3s) -> Klip 2 (3-6s) -> Klip 3 (6-9s).
+   - Total durasi pas 9-10 detik! Tambahkan VO Bahasa Indonesia santai dan teks layar.
+3. Buka Aplikasi Shopee:
+   - Masuk menu "Video" -> Klik (+) Buat Video -> Upload video 9 detik hasil CapCut.
+   - Klik "Tambah Produk" -> Pilih produk Sikat Pembersih Elektrik Putar (pilih yang ada logo "Komisi Ekstra" dan harga Rp95.000 - Rp150.000).
+   - Tulis Caption Shopee Video:
+     "Gak jaman lagi bebersih kamar mandi sampai encok dan pegal kayak Pak Lurah! Cuma berdiri santai kerak langsung rontok. Cek keranjang oranye mumpung lagi diskon gratis ongkir! 🧼✨ #ShopeeVideo #RacunShopee #SikatElektrik #AlatPembersihKamarMandi #RumahTangga #CeritaCerdik"
+   - Klik Posting. Keranjang oranye akan langsung aktif di layar video!

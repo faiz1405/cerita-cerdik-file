@@ -1,0 +1,50 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK - HEMAT TOKEN AI)
+Episode Afiliasi: Cerita Cerdik Eps 36 (Menentukan Pangkal dan Ujung Batang Kayu Bundar)
+Produk Rekomendasi: Alat Pengukur Kontur Profil Sudut Kayu Presisi (Contour Gauge Duplicator)
+Format: 9:16 Vertical Video (Shopee Video / TikTok / Reels)
+Durasi: 12 Detik Utuh
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK)
+-------------------------------------------------------------------
+- Detik 00 - 03 (AI Video Hook):
+  Visual: Ki Udin versi claymation menggaruk-garuk blangkonnya kebingungan memegang meteran yang meleset saat mengukur lekukan batang kayu silinder di atas meja kerja, lalu Ki Udin menatap kamera sambil tersenyum cerdik dan mengedipkan mata memberi kode.
+  Audio/SFX: Suara garuk kepala (krik-krik!), pop sound (plop!).
+  Teks Layar: "UKUR SUDUT & LEKUKAN KAYU SERING SALAH POTONG?!"
+
+- Detik 03 - 08 (B-Roll Realistis Produk Seller Shopee):
+  Visual: Video nyata (footage seller/unboxing) tangan menekan alat pengukur kontur plastik oranye ke sudut pipa dan tiang kayu melengkung, jarum-jarum presisi langsung membentuk profil lekukan yang sama persis, lalu digariskan ke papan keramik/kayu dan dipotong pas rapi tanpa celah.
+  Audio/SFX: BGM upbeat ceria, suara klik pengunci kontur (klik!).
+  Teks Layar: "Tinggal Tekan Langsung Pas! Anti Miring & Presisi!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Visual: Panah animasi bergerak menunjuk ke pojok kiri bawah (ikon Keranjang Oranye Shopee Video), memperlihatkan harga promo flash sale (Rp20 ribuan).
+  Audio/SFX: Cash register ding (cling!), suara VO persuasif ceria.
+  Teks Layar: "Cuma 20 Ribuan! Borong di Keranjang Oranye 👇"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 1X GENERATE)
+Target Engine: Google Veo 3.1 / Text-to-Video
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Inside a cozy rustic traditional Javanese woodcraft workshop, Ki Udin clay figure with short white clay hair and striped lurik shirt scratches his batik blangkon in comical confusion looking at an uneven curved wooden cylinder log on a workbench, then quickly looks directly at the camera with an amused clever wink and points his finger forward. Smooth clay stop-motion motion, comical expressive eye-roll to bright cheerful wink, warm morning carpentry shop light, wooden planks and sawdust in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, 3d CGI cartoon, photorealistic, real human skin, modern clothes, studio void, plain white background, blank backdrop, dark, gloomy, low resolution, blurry, subtitles]
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) BAHASA INDONESIA (12 DETIK)
+-------------------------------------------------------------------
+"Mau potong kayu, pipa, atau keramik sudut yang melengkung tapi sering miring dan gak pas? Pakai alat pengukur kontur presisi ini! Tinggal tempel, bentuk lekukannya langsung kejiplak sempurna! Murah banget cuma dua puluh ribuan, yuk checkout di keranjang oranye sekarang!"
+
+===================================================================
+[4] KRITERIA PEMILIHAN PRODUK SHOPEE AFFILIATE
+-------------------------------------------------------------------
+- Kategori Produk: Pertukangan / Alat Ukur & Penguji / Penggaris & Alat Gambar Kontur
+- Kata Kunci Pencarian Shopee: "Alat Pengukur Kontur Profil Kayu / Contour Gauge Duplicator Tool Presisi"
+- Kisaran Harga Jual: Rp25.000 – Rp45.000 (Harga sangat terjangkau, cocok impulse buy pertukangan)
+- Syarat Toko: Wajib Star Seller+ / Shopee Mall, rating bintang > 4.8, terjual > 8.000 unit
+- Label Komisi: Wajib pilih yang berlabel "Komisi Ekstra" (10% - 15% per checkout)

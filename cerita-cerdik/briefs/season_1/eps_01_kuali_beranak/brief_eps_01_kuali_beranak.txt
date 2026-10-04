@@ -1,0 +1,91 @@
+[theme]
+Kecerdikan & Mengelabuhi Tuan Tanah Serakah / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik rakyat Nusantara yang penuh gelak tawa dan pesan moral tentang keserakahan.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. In a cozy traditional Javanese village in old times, Ki Udin, a clever Javanese villager clay figure wearing a sarung and blangkon, stands in front of a wooden pendopo house talking to a chubby, greedy village chief clay figure (Pak Lurah). CapCut Effect: Slow Zoom-in towards Ki Udin and Pak Lurah, use Claymation filter. Audio: Cheerful traditional Javanese gamelan BGM, bird chirping SFX. VO: "Di sebuah desa asri di Jawa pada era tempo doeloe, hiduplah seorang pria biasa yang terkenal sangat cerdik bernama Ki Udin."
+
+Shot 2 (35-70s): Ki Udin holds a tiny cute bronze pot like a baby, handing it over to Pak Lurah alongside a medium bronze pot. Pak Lurah laughs happily with wide eyes. CapCut Effect: Soft Blur background with slow Zoom-in as Pak Lurah receives the tiny pot. Audio: Playful marimba music, cute baby giggle SFX. VO: "Suatu hari, Ki Udin mendatangi rumah Pak Lurah dan meminjam sebuah kuali perunggu sedang untuk keperluan memasak di rumahnya."
+
+Shot 3 (70-115s): Ki Udin carries a huge, ornate bronze pot away from Pak Lurah's house while Pak Lurah waves greedily with big dollar eyes. Time-lapse effect showing days passing into weeks. CapCut Effect: Warm Fade In transition, add ticking clock effect as weeks pass. Audio: Upbeat curious acoustic guitar BGM, ticking clock SFX. VO: "Melihat Pak Lurah yang masuk perangkap keserakahannya sendiri, seminggu kemudian Ki Udin kembali datang."
+
+Shot 4 (115-150s): Pak Lurah screams in anger in front of Ki Udin's simple bamboo house, while Ki Udin bows solemnly pretending to mourn. Pak Lurah is left speechlessly frozen with comical shocked face. CapCut Effect: Gentle Slow Zoom-out, warm Fade Out at the end. Audio: Funny trombone wah-wah SFX, cheerful gamelan ending. VO: "Dengan napas terengah-engah dan wajah merah padam, Pak Lurah mendatangi rumah Ki Udin dan menagih kualinya."
+
+[videoNarration]
+Di sebuah desa asri di Jawa pada era tempo doeloe, hiduplah seorang pria biasa yang terkenal sangat cerdik bernama Ki Udin. Di desa yang sama, tinggal pula seorang Pak Lurah yang sangat kaya raya namun terkenal memiliki sifat serakah dan pelit setengah mati. Pak Lurah suka sekali mengumpulkan barang-barang berharga dan peralatan perunggu mahal dari rakyatnya tanpa mau berbagi. Banyak warga desa yang merasa kesal, namun tidak ada satu pun yang berani melawan akal licik sang Lurah.
+Suatu hari, Ki Udin mendatangi rumah Pak Lurah dan meminjam sebuah kuali perunggu sedang untuk keperluan memasak di rumahnya. Dengan sedikit enggan, Pak Lurah meminjamkannya. Dua hari kemudian, Ki Udin mengembalikan kuali tersebut, namun anehnya dia juga membawa sebuah kuali perunggu kecil yang manis. Saat Pak Lurah bertanya heran, Ki Udin tersenyum polos dan berkata, 'Alhamdulillah Pak Lurah, saat di rumah saya kemarin, kuali panjenengan beranak dan melahirkan kuali kecil ini!' Pak Lurah yang matanya hijau melihat keuntungan langsung tertawa bahagia dan menerima kedua kuali itu tanpa ragu.
+Melihat Pak Lurah yang masuk perangkap keserakahannya sendiri, seminggu kemudian Ki Udin kembali datang. Kali ini, Ki Udin meminjam kuali perunggu raksasa termahal milik Pak Lurah yang bertatahkan ukiran indah. Tanpa pikir panjang, Pak Lurah langsung meminjamkannya sambil membayangkan akan mendapatkan anak kuali perunggu yang lebih banyak lagi. Namun, seminggu berlalu, dua minggu berlalu, Ki Udin tidak pernah muncul mengembalikan kuali mahal tersebut.
+Dengan napas terengah-engah dan wajah merah padam, Pak Lurah mendatangi rumah Ki Udin dan menagih kualinya. Ki Udin menunduk dengan raut wajah sangat berduka lalu berkata, 'Aduh Pak Lurah, mohon maaf yang sedalam-dalamnya. Kuali perunggu raksasa panjenengan kemarin sakit keras lalu meninggal dunia.' Pak Lurah berteriak histeris, 'Mana ada kuali bisa mati, dasar gila!' Ki Udin dengan tenang menjawab, 'Lho, kalau Pak Lurah percaya kuali bisa beranak dan melahirkan, kenapa Pak Lurah tidak percaya kalau kuali juga bisa sakit dan meninggal?' Pak Lurah pun terbungkam seribu bahasa dan pulang dengan gigit jari.
+
+[bgmStyle]
+(1) 0-35s: Cheerful traditional Javanese gamelan BGM, bird chirping SFX.
+(2) 35-70s: Playful marimba music, cute baby giggle SFX.
+(3) 70-115s: Upbeat curious acoustic guitar BGM, ticking clock SFX.
+(4) 115-150s: Funny trombone wah-wah SFX, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, tersenyum polos penuh akal, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Pak Lurah",
+"description": "Tuan tanah Jawa gemuk serakah memakai beskap mewah dan kumis tebal, ekspresi kaget konyol, gaya claymation.",
+"id": "ROLE_02"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

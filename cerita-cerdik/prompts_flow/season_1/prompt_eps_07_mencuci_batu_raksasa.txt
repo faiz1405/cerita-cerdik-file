@@ -1,0 +1,61 @@
+===================================================================
+EPS 07: Mencuci Batu Raksasa di Sungai (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Mencuci Batu Raksasa di Sungai 🧽🪨
+- Clicky Headline: "Disuruh Mencuci Batu Raksasa di Sungai, Pria Cerdik Ini Malah Nyikat Pintu Rumah Tuan Tanah di Tengah Malam! 🧽🤣"
+- Caption Teks: Disuruh mencuci batu raksasa di sungai, Ki Udin malah nyikat pintu rumah Tuan Tanah di tengah malam! 🧽🪨🤣 Cuma Ki Udin yang bisa balik mengelabuhi Tuan Tanah serakah pakai logika konyol yang bikin Sultan ngakak terpingkal-pingkal. Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot outside a wealthy landlord's wooden mansion under full moon light. Ki Udin clay figure, a clever Javanese man with short white hair wearing a blangkon, sarong, and lurik shirt, actively scrubs the front wooden door with a large brush and a soapy bucket, creating white soap suds everywhere. In the background, an angry greedy landlord clay figure in nightclothes opens the door in total shock with soap suds on his face. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair mischievously scrubbing a rich landlord's front door with soap bubbles under the full moon. On the right, an arrogant greedy landlord clay figure looking terrified and confused in nightclothes with soap suds on his cheeks. In the background, a giant muddy boulder sitting in a rushing river. Soft clay modeling textures, bright full moon night palace vibes, highly detailed 9:16 aspect ratio.
+
+
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+-------------------------------------------------------------------
+Tool Target: Gemini Chat / Google Imagen 3
+
+▶ OPTION A: IN-SCENE CHARACTER FRAME (RECOMMENDED FOR CAPCUT / SEEDANCE)
+(Gunakan prompt ini agar gambar karakter sudah langsung memiliki latar pemandangan alami desa/sungai dan TIDAK menghasilkan latar putih saat di-render di CapCut)
+
+• Karakter 1: Ki Udin (In-Scene Keyframe)
+Prompt:
+Full body character shot of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat, brown batik lurik shirt, and sarong. Friendly mischievous smile, standing in a lush rural Javanese village courtyard, surrounded by rustic bamboo huts, tropical banana trees, earthy dirt ground, warm natural cinematic daylight, full environmental background, highly detailed clay modeling, no plain white background, no blank studio backdrop, 8k resolution.
+
+• Karakter 2: Tuan Tanah Serakah (In-Scene Keyframe)
+Prompt:
+Full body character shot of a wealthy greedy landlord in comical claymation style, soft plasticine clay texture. A chubby arrogant middle-aged man wearing expensive silk Javanese robes and golden keris dagger. Angry greedy expression, standing on the wooden porch of his grand traditional Javanese mansion, outdoor daytime lighting, full rich environmental background, detailed clay textures, no plain white background, no studio void, 8k resolution.
+
+• Karakter 3: Sultan Prabu (In-Scene Keyframe)
+Prompt:
+Full body character shot of Sultan Prabu in comical claymation style, soft plasticine clay texture. A dignified Javanese King wearing a golden royal crown and majestic royal Javanese attire. Laughing happily with a warm expression, seated on a majestic carved wooden throne inside a traditional Javanese royal palace hall (Pendopo), warm ambient palace lanterns lighting, full royal interior background, no plain white background, no studio backdrop, 8k resolution.
+
+-------------------------------------------------------------------
+▶ OPTION B: ISOLATED CHARACTER SHEET (FOR CUTOUT / STICKERS ONLY)
+
+• Karakter 1: Ki Udin (Isolated)
+Prompt: Full body character design of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat, brown batik lurik shirt, and sarong. Friendly mischievous smile, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 2: Tuan Tanah Serakah (Isolated)
+Prompt: Full body character design of a wealthy greedy landlord in comical claymation style, soft plasticine clay texture. Chubby arrogant man in rich robes, isolated on a solid plain clean white background, 8k resolution.
+
+• Karakter 3: Sultan Prabu (Isolated)
+Prompt: Full body character design of Sultan Prabu in comical claymation style, dignified smiling King in royal crown, isolated on a solid plain clean white background, 8k resolution.

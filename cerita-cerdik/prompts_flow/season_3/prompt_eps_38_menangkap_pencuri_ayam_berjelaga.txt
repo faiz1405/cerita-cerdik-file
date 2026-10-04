@@ -1,0 +1,74 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 38 (SEASON 3 EPISODE 8)
+Judul Episode: Menangkap Pencuri Emas Pakai Ayam Jantan Berjelaga (Eps 38 / S3E08)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Tema Utama: Trik Detektif Psikologi Rasa Bersalah & Slapstick Pembongkaran Koruptor
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menangkap Pencuri Emas Pakai Ayam Jantan Berjelaga
+- Clicky Video Headline: PETI EMAS KERATON DIBOBOL MALING?! AKAL CERDIK AYAM BERJELAGA KI UDIN BIKIN MENTERI SOMBONG KERINGAT DINGIN KETAHUAN BELANGNYA!
+- Single Video Title: Cerita Cerdik Ki Udin Season 3 - Menangkap Pencuri Emas Pakai Ayam Berjelaga (Eps 38)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: inside the grand candlelit Javanese royal throne hall, an opulent treasure chest lies open and empty with broken iron chains on the marble floor. A corrupt chubby royal minister (Tumenggung Culas) in a green silk beskap with thick mustache points his finger frantically in pure panic, mouth wide open aggressively shouting instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Sumpah Gusti Sultan, dudu aku sing mbobol peti emas iki!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Beside the broken chest, Ki Udin steps forward immediately at second 0 raising a traditional round bamboo cage containing a majestic black rooster, smiling with a witty mysterious smirk while Sultan Prabu angrily slams his golden scepter. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, glowing candles and carved teakwood palace hall in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a majestic Javanese royal throne hall, ten royal court officials in colorful batik beskap uniforms stand in a dramatic row holding both open palms facing directly forward: nine honest officials display palms completely blackened with thick black charcoal soot, while in the exact center, Tumenggung Culas chubby royal minister stands frozen in horrified shock with both palms completely clean, white, and spotless! Comical beads of cold clay sweat pour down his terrified pale face, eyes bulging in utter panic. Beside him, Ki Udin clay figure with short white hair in a striped lurik shirt and golden royal sash smiles with brilliant triumphant wit, gently petting a proud black clay rooster perched beside him. In the background, Sultan Prabu in a regal golden crown roars in hearty belly laughter pointing at the guilty minister, beside an open chest overflowing with glittering gold coins recovered under the floor. Radiant royal candlelight, rich clay textures, ultra-high depth of field, full environmental palace setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/jelaga, efek noda arang hitam dan keringat dingin akan ditambahkan via CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Penasihat Cerdik Keraton) ---
+Option A (Pede & Senyum Kemenangan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, holding cage, rooster, tools, background, room, scenery, palace, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Mengamati Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden royal silk sash. Standing pose with a cheerful witty expression, one hand touching his chin in thoughtful amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, bird, cage, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. TUMENGGUNG CULAS (Corrupt Arrogant Minister - CLEAN SKIN / TANPA ARANG) ---
+Option A (Sombong Licik Menuduh - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese royal minister with a groomed black mustache and double chin, wearing an opulent emerald-green royal silk beskap with gold trim, batik jarik skirt, and dark velvet cap. Comical arrogant sneer pointing forward accusingly, empty hands, holding no objects, holding no gold, holding nothing, no props, completely clean spotless skin without any black soot or stains, immaculate royal clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, gold chest, soot, black charcoal, dirty hands, stains, background, room, throne, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Panik Gemetaran Ketakutan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby Javanese royal minister in green beskap. Comical utterly shocked panicked expression with wide bulging eyes and mouth open trembling in terror, flailing empty hands open in the air showing clean palms, empty hands, holding no objects, no props, completely clean dry clothing and dry skin, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, soot, dirt, stains, chains, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. SULTAN PRABU (Wise Regal King) ---
+Option A (Tertawa Puas Menegakkan Keadilan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A dignified middle-aged Javanese king with a well-groomed black mustache, wearing a radiant royal golden crown with jewel inlays, an opulent dark velvet royal beskap with intricate gold embroidery, royal golden belt sash, and traditional royal batik parang jarik skirt with elegant sandals. Standing with a hearty joyful belly-laugh expression, pointing his finger forward in amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding scepter, holding staff, holding props, background, throne, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Murka Berwibawa - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified Javanese king in a golden royal crown and dark velvet royal beskap. Standing upright with a stern, authoritative, commanding royal expression, eyebrow sharply furrowed in royal anger, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, scepter, background, throne, scenery, photorealistic, 3d CGI cartoon]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+===================================================================
+- Frasa Pengunci Wajib: Awali setiap prompt dengan "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting".
+- Batasan Ketat: [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void].

@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 18
+Judul Episode: Menjahit Batu Cadas yang Retak (Eps 18)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menjahit Batu Cadas yang Retak
+- Clicky Video Headline: DITANTANG JAHIT BATU CADAS YANG PECAH?! AKAL BENANG BATU KI UDIN BIKIN PENJAHIT SOMBONG MATI KUTU!
+- Single Video Title: Cerita Cerdik Ki Udin - Menjahit Batu Cadas yang Retak (Eps 18)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a sunlit traditional Javanese royal palace courtyard (Pelataran Keraton), an arrogant royal tailor clay figure in opulent blue silk robes holds a large pair of shiny golden tailor scissors, pointing aggressively at a massive split boulder cracked in half, shouting loudly in Javanese accent: "Jahiten watu cadas iki nganti rapet, yen ora iso kowe mung tukang ngapusi!" with clear authentic Javanese spoken dialogue audio. Next to him, Sultan Prabu watches intently from his golden throne while poor village farmers gasp in astonishment. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lighting, carved teak wooden palace gates and tropical palm trees in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a sunlit grand Javanese palace courtyard, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt stands holding a small stone pebble with a wide confident grin, pointing toward a colossal grey boulder cracked cleanly down the middle. Beside the rock, an arrogant royal tailor in blue silk robes stares in total disbelief with dropped jaw, bulging eyes, and sweating brow as his heavy golden scissors slip from his hand onto the ground. Sultan Prabu in background laughs heartily on his golden throne. Warm radiant daylight, carved teak pillars, soaring royal banners, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a small rough grey stone pebble in the palm of his hand, standing confidently in a palace courtyard, warm cheerful wise facial expression, warm morning sunlight, traditional carved teak architecture in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a small rough grey stone pebble in the palm of his hand, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PENJAHIT SOMBONG (Royal Tailor with Golden Scissors) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A proud, slender royal tailor in an opulent sapphire blue and gold silk traditional robe, measuring tape around his neck, and velvet cap. Holding a large pair of polished golden tailor scissors in both hands, shocked flabbergasted expression with wide bulging eyes and sweating brow, standing in the palace courtyard near carved pillars, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A proud, slender royal tailor in an opulent sapphire blue and gold silk traditional robe, measuring tape around his neck, and velvet cap. Holding a large pair of polished golden tailor scissors in both hands, shocked flabbergasted expression with wide bulging eyes and sweating brow, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. BATU CADAS RETAK (Giant Cracked Boulder Prop) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A colossal claymation boulder of rough grey sedimentary stone with a dramatic vertical crack split cleanly down the center, resting on the paved stone floor of a royal palace courtyard, warm morning sunlight and sharp shadow contrast, full palace courtyard background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A colossal claymation boulder of rough grey sedimentary stone with a dramatic vertical crack split cleanly down the center, isolated full prop on a solid plain white background, soft studio lighting, 8k resolution.

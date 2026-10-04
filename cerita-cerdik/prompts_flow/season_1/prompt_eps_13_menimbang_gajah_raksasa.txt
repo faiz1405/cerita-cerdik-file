@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 13
+Judul Episode: Menimbang Gajah Raksasa Tanpa Timbangan (Eps 13)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menimbang Gajah Raksasa Tanpa Timbangan
+- Clicky Video Headline: DITANTANG NIMBANG GAJAH RAKSASA TANPA TIMBANGAN?! AKAL PERAHU KI UDIN BIKIN UTUSAN KERAJAAN MATI KUTU!
+- Single Video Title: Cerita Cerdik Ki Udin - Menimbang Gajah Raksasa Tanpa Timbangan (Eps 13)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a grand sunlit Javanese royal palace courtyard (Pelataran Keraton), a colossal gray clay elephant with ornate golden headpiece and massive ivory tusks stomps its front foot with a deep reverberating roar. Next to the elephant, an arrogant royal ambassador clay figure in extravagant purple and gold silk robes steps forward aggressively, pointing haughtily at the royal throne, shouting loudly in Javanese accent: "Gajah iki abote pirang ton? Yen ora iso nimbang, pasrahno upetimu!" with clear authentic Javanese spoken dialogue audio. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved teak wooden palace gates and tropical palms in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. At a wide scenic tropical riverbank, a colossal clay elephant stands carefully inside a large rustic wooden boat, making water splash gently around the hull. In the foreground, Ki Udin clay figure with short white hair wearing a traditional blangkon, batik sarung, and striped lurik shirt kneels down with a wide mischievous grin, drawing a thick white chalk line on the boat's wooden waterline. Behind them, an arrogant royal ambassador in ornate silk robes gasps in utter shock with wide comical eyes, while Sultan Prabu on a royal riverside throne watches with an amused smile. Vibrant sunny daylight, lush green bamboo trees, clear rippling river water, rich carved details, ultra-high depth of field, full environmental background, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a piece of white chalk in hand, standing confidently on a wooden river dock near a large traditional barge boat, warm cheerful wise facial expression, warm morning sunlight, lush bamboo riverbank background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a piece of white chalk in hand, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. UTUSAN KERAJAAN (Visiting Court Minister) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A proud visiting court minister in an ornate purple and gold silk traditional vest, decorative sash, and traditional royal headdress. Surprised comical facial expression with hands on hips, standing pose in the royal palace courtyard with carved wooden pillars and stone floor in background, natural warm morning lighting, full environmental setting, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A proud visiting court minister in an ornate purple and gold silk traditional vest, decorative sash, and traditional royal headdress. Surprised comical facial expression with hands on hips, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. GAJAH RAKSASA KERATON (Colossal Royal Elephant) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body shot in comical claymation style, soft plasticine clay texture. A colossal chubby gray clay elephant wearing a royal golden headpiece, decorative batik saddle cloth, and long polished ivory tusks. Standing majestically with a curious gentle expression on a wooden barge boat floating in a sunny tropical river, lush palm trees and water ripples in background, full environmental setting, no plain white background, no studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body shot in comical claymation style, soft plasticine clay texture. A colossal chubby gray clay elephant wearing a royal golden headpiece, decorative batik saddle cloth, and long polished ivory tusks. Standing majestically with a curious gentle expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.

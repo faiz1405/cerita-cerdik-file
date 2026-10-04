@@ -1,0 +1,50 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK - HEMAT TOKEN AI)
+Episode Afiliasi: Cerita Cerdik Eps 32 (Membedakan Telur Matang dan Mentah)
+Produk Rekomendasi: Alat Perebus Telur Elektrik Otomatis (Electric Egg Cooker 7 Eggs)
+Format: 9:16 Vertical Video (Shopee Video / TikTok / Reels)
+Durasi: 12 Detik Utuh
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK)
+-------------------------------------------------------------------
+- Detik 00 - 03 (AI Video Hook):
+  Visual: Ki Udin versi claymation panik menatap panci tanah liat di atas tungku yang air rebusan telurnya meluap tumpah, lalu menatap kamera sambil mengedipkan mata cerdik dan tersenyum licik.
+  Audio/SFX: Suara air mendidih mendesis (cesss!), pop sound (plop!).
+  Teks Layar: "REBUS TELUR SERING PECAH & KEMATANGAN GAK PAS?!"
+
+- Detik 03 - 08 (B-Roll Realistis Produk Seller Shopee):
+  Visual: Video nyata (footage seller/unboxing) seseorang memasukkan 7 butir telur ke dalam alat egg boiler mini elektrik warna pastel, menuang sedikit air, menekan satu tombol, lalu tutup dibuka memperlihatkan telur rebus kuning mulus matang sempurna tanpa ada cangkang retak.
+  Audio/SFX: BGM upbeat ceria, suara klik tombol (cetek!).
+  Teks Layar: "Matang Sempurna Otomatis! Anti Retak & Cepat!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Visual: Panah animasi bergerak menunjuk ke pojok kiri bawah (ikon Keranjang Oranye Shopee Video), memperlihatkan harga promo kilat (Rp20 ribuan).
+  Audio/SFX: Cash register ding (cling!), suara VO persuasif ceria.
+  Teks Layar: "Cuma 20 Ribuan! Klik Keranjang Oranye Sekarang 👇"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 1X GENERATE)
+Target Engine: Google Veo 3.1 / Text-to-Video
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Inside a cozy rustic Javanese clay kitchen, Ki Udin clay figure with short white clay hair and striped lurik shirt looks comically alarmed at boiling water bubbling and hissing over an earthenware pot on a clay stove, then quickly looks directly at the camera with an amused clever wink and points his finger forward. Smooth clay stop-motion motion, comical expressive eye-roll to bright cheerful wink, warm kitchen morning illumination, bamboo baskets of fresh eggs in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, 3d CGI cartoon, photorealistic, real human skin, modern clothes, studio void, plain white background, blank backdrop, dark, gloomy, low resolution, blurry, subtitles]
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) BAHASA INDONESIA (12 DETIK)
+-------------------------------------------------------------------
+"Rebus telur di kompor sering retak atau kematangan gak rata? Pakai egg boiler elektrik otomatis ini! Sekali masak muat tujuh butir, matangnya pas, dan mati sendiri kalau udah matang! Murah banget cuma dua puluh ribuan, yuk checkout di keranjang oranye sekarang!"
+
+===================================================================
+[4] KRITERIA PEMILIHAN PRODUK SHOPEE AFFILIATE
+-------------------------------------------------------------------
+- Kategori Produk: Peralatan Dapur / Alat Memasak Khusus / Alat Perebus Telur
+- Kata Kunci Pencarian Shopee: "Alat Rebus Telur Elektrik Otomatis / Electric Egg Cooker Boiler"
+- Kisaran Harga Jual: Rp25.000 – Rp45.000 (Harga sangat ramah di kantong)
+- Syarat Toko: Wajib Star Seller+ / Shopee Mall, rating bintang > 4.7, terjual > 5.000 unit
+- Label Komisi: Wajib pilih yang berlabel "Komisi Ekstra" (10% - 15% per checkout)

@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 24 (SEASON 2 EPISODE 4)
+Judul Episode: Menyita Brankas Emas Saudagar Culas (Eps 24 / S2E04)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menyita Brankas Emas Saudagar Culas
+- Clicky Video Headline: BERSUMPAH GAK PUNYA EMAS & RELA HARTANYA DISITA?! AKAL CERDIK KI UDIN BIKIN SAUDAGAR CULAS BONGKAR BRANKASNYA SENDIRI!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Menyita Brankas Emas Saudagar Culas (Eps 24)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a sunlit traditional Javanese village pendopo hall, an arrogant chubby tax-collector landlord (Saudagar Karta) wearing an opulent gold-embroidered red silk beskap kneels dramatically on the ground with fake tears, raising his hand shouting loudly in Javanese accent: "Demi langit bumi, omahku wis kosong mlompong! Nek ono emas haram, sitaen kabeh kanggo wong mlarat!" with clear authentic Javanese spoken dialogue audio. Behind him in the crowd, Ki Udin smiles with a calm witty smirk. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm natural daylight, rustic teakwood pillar background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. Inside a luxurious Javanese mansion with shattered floor tiles, a gigantic antique iron safe is cracked wide open, bursting with thousands of glowing gold coins, silver bars, and diamond necklaces. Beside the pit, Saudagar Karta clay figure in torn silk nightclothes clutches his bald head in horrified panic with dropped jaw and bulging eyes. Standing calmly next to him, Ki Udin clay figure with short white hair in a striped lurik shirt, batik blangkon, and sarung holds a glowing paper scroll of justice with a witty triumphant smile. Surrounding windows filled with dozens of cheering village farmers. Radiant morning sunlight, dazzling golden coin reflections, vibrant clay textures, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bamboo slit-drum stick and a legal royal scroll, standing with a calm, triumphant, wise smirk, warm morning sunlight, traditional village courtyard background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bamboo slit-drum stick, standing pose with a witty wise expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. SAUDAGAR KARTA CULAS (Greedy Tax-Collector Landlord) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A wealthy chubby middle-aged corrupt landlord with a mustache, wearing a disheveled crimson and gold embroidered Javanese beskap, gold rings, and velvet cap. Hilarious horrified shocked expression with wide bulging eyes and open mouth, holding an iron crowbar beside broken floor tiles, warm daylight, rich mansion interior background, full depth, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A wealthy chubby middle-aged corrupt landlord with a mustache, wearing a disheveled crimson and gold embroidered Javanese beskap, gold rings, and velvet cap. Hilarious horrified shocked expression with wide bulging eyes and open mouth, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. BRANKAS EMAS BAWAH TANAH (Buried Golden Treasure Safe Prop) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+An antique heavy iron safe chest nestled in a dugout pit beneath broken marble floor tiles, overflowing with dazzling stacks of golden coins, silver ingots, and antique gemstone necklaces glittering under rays of sunlight with dust motes in the air, rich mansion interior setting, full background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A miniature claymation model of an open antique iron treasure safe overflowing with sparkling gold coins and gems, isolated full prop on a solid plain white background, soft studio lighting, 8k resolution.

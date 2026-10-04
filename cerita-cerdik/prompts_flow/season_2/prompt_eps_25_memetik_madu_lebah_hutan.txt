@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 25 (SEASON 2 EPISODE 5)
+Judul Episode: Memetik Madu di Sarang Lebah Hutan (Eps 25 / S2E05)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Memetik Madu di Sarang Lebah Hutan
+- Clicky Video Headline: MAU MARUK MAKAN MADU GRATIS TANPA MODAL?! AKAL CERDIK KI UDIN BIKIN PAK LURAH DIKEJAR RATUSAN LEBAH SAMPAI NYEBUR EMPANG!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Memetik Madu di Sarang Lebah Hutan (Eps 25)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a sun-drenched rustic Javanese village pathway beside muddy rice paddies, a chubby village chief (Pak Lurah) in a brown batik beskap and disheveled velvet cap sprints in comical terror with wide bulging eyes and gaping mouth, furiously waving his sarong as a furious swarm of honeybees buzzes around his honey-stained head, shouting loudly in Javanese accent: "Tulung! Tulung! Tawone ngamuk ngoyak aku!" with clear authentic Javanese spoken dialogue audio. Fluid claymation character animation, gentle slow camera tracking pan, 3-second looping video motion, warm natural daylight, lush greenery and distant wooden village huts in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a vibrant sunlit village forest edge, Pak Lurah chubby clay figure with bulging eyes and gaping mouth dives headfirst into a green muddy duck pond with water splashing high, ducks fluttering away, and a swarm of bees hovering above. Perched comfortably on a giant banyan tree branch above, Ki Udin clay figure with short white hair in a striped lurik shirt and batik blangkon holds a large bamboo container dripping with glowing golden honey, smiling cheerfully down at the crowd. Cheering village farmers holding cups below. Radiant morning sunlight, sparkling golden honey drops, vibrant clay textures, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a long bamboo pole and a bamboo honey container, standing comfortably on a mossy banyan tree branch with a warm cheerful wise smirk, sunbeams filtering through green leaves, full environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bamboo honey container dripping with golden honey, standing pose with a cheerful witty expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH RAKUS (Chubby Greedy Village Chief) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing a brown batik beskap, batik jarik skirt, and velvet cap smeared with sticky golden honey. Hilarious terrified panicked expression with wide bulging eyes and mouth open, running pose with waving hands, muddy rice field background, full depth, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing a brown batik beskap, batik jarik skirt, and velvet cap smeared with sticky golden honey. Hilarious terrified panicked running pose with wide bulging eyes, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SARANG LEBAH MADU HUTAN (Giant Forest Honeycomb Prop) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A large antique golden honeycomb hive hanging from a thick mossy tree branch in a tropical village forest, dripping with thick sparkling golden honey droplets glistening under warm morning sun rays, with a few cute claymation bees hovering around, full environmental forest setting, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A miniature claymation model of a golden honeycomb dripping with rich honey over a bamboo container, isolated full prop on a solid plain white background, soft studio lighting, 8k resolution.

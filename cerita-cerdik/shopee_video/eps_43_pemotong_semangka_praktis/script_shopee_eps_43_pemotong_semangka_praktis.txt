@@ -1,0 +1,35 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK) - EPS 43
+Produk: Pisau Pemotong Semangka Praktis Stainless Steel / Watermelon Slicer Windmill Cutter
+Target Komisi: Komisi Ekstra Shopee Affiliate (10-15%)
+Estimasi Harga Produk: Rp29.000 – Rp49.000 (Impulsive Buying Sweet Spot)
+Rating Toko: Star+ / Shopee Mall (Rating 4.8 / 5.0)
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK TOTAL)
+-------------------------------------------------------------------
+- Detik 00 - 03 (Hook Animasi AI - Masalah Karakter):
+  Animasi claymation stop-motion: Juragan Broto belepotan air semangka merah lengket, jemarinya tergelincir licin kesusahan mencungkil biji dan memotong semangka besar sambil mengaduh komikal!
+  VO: "Capek potong semangka belepotan air lengket kemana-mana kayak Juragan Broto?"
+
+- Detik 03 - 08 (B-Roll Real Footage Produk Seller Shopee - Solusi Praktis):
+  Footage nyata demonstrasi produk: Alat pemotong semangka stainless steel model kincir / slicer didorong sekali di atas buah semangka, langsung menghasilkan potongan dadu semangka rapi, bersih, tanpa basah tangan dan biji gampang dipisahkan dalam 3 detik!
+  VO: "Pakai alat pemotong semangka praktis ini! Sekali dorong, langsung terpotong dadu rapi tanpa kotor tangan!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Tangan memegang semangka potong segar yang siap santap, animasi panah berkedip merah mengarah ke keranjang kuning/oranye di pojok kiri bawah layar, muncul badge 'Diskon Flash Sale 50%'.
+  VO: "Mumpung lagi flash sale diskon lima puluh persen, klik keranjang oranye sekarang sebelum kehabisan!"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 3 DETIK HOOK)
+Target Engine: Google AI Flow / Google Veo 3.1
+Rasio: 9:16 Vertical
+Durasi: 3.5 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical 3-second looping clip in comical claymation stop-motion style. A chubby Javanese landlord (Juragan Broto) in a stained silk vest frantically struggles to slice a giant juicy red watermelon with clumsy clay hands on a rustic wooden table; sticky red juice splatters comically across his twirled mustache and cheeks, eyes bulging in funny frustration, comical exaggerated facial expression. Soft plasticine clay textures, warm tropical sunlight, traditional rustic wooden kitchen background, cinematic depth of field, no plain white background, no 3d CGI cartoon, no real human.
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) LENGKAP - 12 DETIK
+-------------------------------------------------------------------
+"Capek potong semangka belepotan air lengket kayak Juragan Broto? Pakai pemotong semangka kincir ini! Sekali dorong, semangka langsung terpotong dadu rapi tanpa kotor tangan! Mumpung lagi flash sale diskon lima puluh persen, klik keranjang oranye sekarang!"

@@ -1,0 +1,29 @@
+===================================================================
+HARI 3: Menghitung Bintang di Atas Pendopo (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menghitung Bintang di Atas Pendopo 🐴⭐
+- Clicky Headline: "Tantangan Menghitung Jumlah Bintang Dijawab Pakai Ekor Kuda?! 🐴🤣 Cuma Ki Udin yang Bisa!"
+- Caption Teks: Tantangan menghitung jumlah bintang di langit dijawab pakai ekor kuda?! 🐴⭐ Cuma Ki Udin yang bisa membungkam saudagar sombong dengan akal cerdik yang bikin ngakak. Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot in a sunny Javanese village square. Ki Udin clay figure, a clever Javanese man with short white hair wearing a blangkon hat, sarong, and lurik shirt, actively leads a brown horse clay figure while pointing smilingly at its bushy tail. In front of him, an arrogant wealthy merchant clay figure in rich robes stands with a comically shocked face, shaking his hands in disbelief. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with white hair standing proudly next to a brown horse, pointing at the horse's bushy tail with a calm, clever smile. On the right, a comical wealthy merchant clay figure holding a bag of glowing gemstones, staring in total shock and fear with wide eyes. Soft clay modeling textures, bright sunny village square vibes, highly detailed 9:16 aspect ratio.

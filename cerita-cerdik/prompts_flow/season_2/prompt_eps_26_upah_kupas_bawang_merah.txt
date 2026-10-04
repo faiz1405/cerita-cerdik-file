@@ -1,0 +1,60 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 26 (SEASON 2 EPISODE 6)
+Judul Episode: Upah 700 Keping Emas Kupas Bawang (Eps 26 / S2E06)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Upah 700 Keping Emas Kupas Bawang
+- Clicky Video Headline: LAPOR KE SULTAN UPAH KUPAS BAWANG 700 EMAS?! AKAL CERDIK KI UDIN BIKIN PAK LURAH KUPAS 10 BAKUL BAWANG SAMPAI NANGIS!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Upah 700 Keping Emas Kupas Bawang (Eps 26)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. In a sunlit traditional Javanese village square, a chubby arrogant village chief (Pak Lurah) in an emerald green silk beskap squats helplessly on a low wooden stool, frantically peeling raw red shallots with bare trembling hands as onion skins fly, with swollen red teary eyes and tears streaming down his cheeks, shouting loudly in weepy Javanese accent: "Aduh biyung! Pedih Gusti! Mripatku kobong gara-gara brambang iki!" with clear authentic Javanese spoken dialogue audio. Behind him, Sultan Prabu and Ki Udin stand with laughing amused expressions. Fluid claymation character animation, gentle slow camera tracking pan, 3-second looping video motion, warm natural daylight, rustic village market square and baskets of red onions in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a bustling village market square, Pak Lurah chubby landlord clay figure squats awkwardly on a small wooden stool surrounded by ten overflowing giant bamboo baskets of raw purple-red shallots, wiping his red puffy eyes while weeping comical waterfalls of tears, holding a peeled onion in his hand. Standing proudly beside him, Ki Udin clay figure with short white hair in a striped lurik shirt and batik blangkon holds a large royal scroll, pointing with a witty victorious smile toward Sultan Prabu in regal golden robes who laughs heartily. Cheering village market traders and laughing farmers surrounding the square. Radiant morning sunlight, vibrant clay textures, rich vegetable market details, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a wooden cart handle beside big woven baskets of red onions, standing cheerfully with a calm triumphant wise smirk, warm morning sunlight, bustling traditional market background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a wooden cart handle, standing pose with a cheerful witty expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH PEMBUAL (Chubby Boastful Village Chief) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing an emerald green silk beskap, batik jarik skirt, and velvet cap. Hilarious weeping face with puffy swollen red eyes, tears streaming down his cheeks, holding a small knife and a peeled red onion, squatting on a wooden stool beside baskets of shallots, warm daylight, full environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing an emerald green silk beskap, batik jarik skirt, and velvet cap. Hilarious weeping face with puffy swollen red eyes, holding a peeled red onion, squatting pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Wise Regal King) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified wise Javanese king wearing an ornate gold-embroidered royal crown, dark velvet royal beskap with golden sash, and batik keraton skirt. Laughing heartily with hand on his waist holding a royal wooden staff, standing in front of a grand teakwood pavilion, warm sunlight, royal banners in background, full environmental setting, no plain white background, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified wise Javanese king wearing an ornate gold-embroidered royal crown, dark velvet royal beskap with golden sash, and batik keraton skirt. Laughing heartily with a warm regal expression, isolated full body on a solid plain white background, soft studio lighting, 8k resolution.

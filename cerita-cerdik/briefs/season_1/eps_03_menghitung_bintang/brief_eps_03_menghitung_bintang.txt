@@ -1,0 +1,91 @@
+[theme]
+Menjawab Tantangan Saudagar Sombong / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat membungkam saudagar sombong di hadapan warga desa.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. In a sunny Javanese village square in front of a wooden pendopo, a wealthy arrogant merchant clay figure in rich robes loudly shows a bag of glowing gemstones to a group of anxious villagers clay figures. CapCut Effect: Slow Zoom-in towards the arrogant merchant and gemstones, use Claymation filter. Audio: Upbeat traditional gamelan BGM, crowd murmuring SFX. VO: "Keberhasilan Ki Udin menyelesaikan tantangan Sultan Prabu membuat namanya semakin harum di seluruh pelosok negeri."
+
+Shot 2 (35-70s): Ki Udin clay figure with white hair smiling calmly, walking into the village square while leading a brown male horse clay figure by a rope. The arrogant merchant laughs mockingly pointing at Ki Udin. CapCut Effect: Soft Blur background with slow Zoom-in as Ki Udin leads the horse. Audio: Playful marimba music, horse neighing SFX. VO: "Para warga dan pejabat desa langsung terdiam dan saling pandang dengan cemas. Tidak ada satu pun manusia di bumi yang pernah berhasil menghitung jumlah bintang."
+
+Shot 3 (70-115s): Ki Udin clay figure with white hair points proudly at the horse's bushy tail while talking to the merchant and Sultan Prabu. The merchant looks shocked and confused. CapCut Effect: Warm Fade In transition, add shimmer effect to the horse tail. Audio: Upbeat curious acoustic guitar BGM, dramatic drumroll SFX. VO: "Dengan suara yang lantang, Ki Udin berkata, 'Hamba tahu jawabannya. Jumlah bintang yang menghiasi langit malam tepat sama dengan jumlah helai bulu di ekor kuda ini!'"
+
+Shot 4 (115-150s): Ki Udin hands iron tweezers to the arrogant merchant. The horse raises its back leg ready to kick, making the merchant shake in fear and run away dropping his gems. CapCut Effect: Gentle Slow Zoom-out, funny Glitch/Shake effect when horse kicks, warm Fade Out at the end. Audio: Funny horse neigh & kick SFX, funny trombone wah-wah, cheerful gamelan ending. VO: "Ki Udin menjawab dengan tenang sambil menyerahkan sepasang penjepit besi, 'Sangat mudah, panjenengan tinggal mencabut bulu ekor kuda ini satu per satu.'"
+
+[videoNarration]
+Keberhasilan Ki Udin menyelesaikan tantangan Sultan Prabu membuat namanya semakin harum di seluruh pelosok negeri. Namun di suatu sore yang cerah, datanglah seorang saudagar kaya nan sombong dari negeri seberang ke alun-alun keraton. Dengan gaya yang tinggi hati, saudagar itu memamerkan sekantong batu permata berkilauan dan menantang seluruh rakyat desa: barang siapa yang sanggup menghitung jumlah pasti bintang di langit malam, maka batu permata itu akan menjadi miliknya. Namun jika salah, kepalanya akan dicukur gundul.
+Para warga dan pejabat desa langsung terdiam dan saling pandang dengan cemas. Tidak ada satu pun manusia di bumi yang pernah berhasil menghitung jumlah bintang yang bertaburan di angkasa. Saat saudagar sombong itu tertawa terbahak-bahak meremehkan rakyat, Ki Udin berjalan santai ke tengah alun-alun sambil menuntun seekor kuda jantan milik warga. Dengan tersenyum tenang, Ki Udin membungkuk di hadapan saudagar dan Sultan Prabu.
+Dengan suara yang lantang, Ki Udin berkata, 'Hamba tahu jawabannya. Jumlah bintang yang menghiasi langit malam tepat sama dengan jumlah helai bulu yang ada di ekor kuda jantan ini!' Saudagar sombong itu terkejut lalu berteriak marah, 'Omong kosong! Bagaimana bisa kamu membuktikan bahwa jumlah bulu ekor kuda ini sama dengan jumlah bintang di langit?'
+Ki Udin menjawab dengan tenang sambil menyerahkan sepasang penjepit besi, 'Sangat mudah, panjenengan tinggal mencabut bulu ekor kuda ini satu per satu sambil menghitungnya. Nanti kita cocokkan dengan bintang di langit. Tapi ingat, kalau hitungan panjenengan kurang atau lebih satu helai saja, panjenengan yang harus dicukur gundul!' Melihat kuda jantan itu mulai mengibaskan kakinya siap menendang, sang saudagar langsung gemetar ketakutan dan menyerahkan permatanya sambil kabur ketakutan!
+
+[bgmStyle]
+(1) 0-35s: Upbeat traditional gamelan BGM, crowd murmuring SFX.
+(2) 35-70s: Playful marimba music, horse neighing SFX.
+(3) 70-115s: Upbeat curious acoustic guitar BGM, dramatic drumroll SFX.
+(4) 115-150s: Funny horse neigh & kick SFX, funny trombone wah-wah, cheerful gamelan ending.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, tersenyum polos sambil menuntun kuda, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Saudagar Sombong",
+"description": "Pria kaya berbadan kurus dengan jubah mewah bermotif emas dan jenggot panjang, ekspresi kaget ketakutan, gaya claymation.",
+"id": "ROLE_02"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

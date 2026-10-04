@@ -1,0 +1,74 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 36 (SEASON 3 EPISODE 6)
+Judul Episode: Menentukan Pangkal dan Ujung Batang Kayu Bundar (Eps 36 / S3E06)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Tema Utama: Fisika Kerapatan Serat Kayu & Slapstick Status Flip Mahaguru
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menentukan Pangkal dan Ujung Batang Kayu Bundar
+- Clicky Video Headline: NANTANG KERATON PAKE BATANG KAYU BUNDAR MULUS?! AKAL CERDIK KOLAM TERATAI KI UDIN BIKIN MAHAGURU SOMBONG NYUNGSEP KE KOLAM KODOK!
+- Single Video Title: Cerita Cerdik Ki Udin Season 3 - Pangkal Batang Kayu Bundar (Eps 36)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: a tall arrogant Javanese scholar in an opulent navy-blue beskap and tall conical headdress is already holding a giant seamless smooth cylindrical wooden log firmly across his chest, mouth wide open aggressively shouting instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Sopo sing iso mbedakno bongkot lan pucuk kayu iki tanpa dipotong, jupuk kabeh peti emasku!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. He thrusts the smooth wooden log forward boastfully beside an open glittering chest of gold coins, while Ki Udin beside him smiles calmly with a witty confident smirk. Fluid stop-motion clay animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, sunlit royal stone pavilion and lotus pond in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a lush Javanese royal palace garden beside a serene green lotus pond, Ki Udin clay figure with short white clay hair in a striped lurik shirt and royal golden sash smiles with radiant witty confidence, pointing at a giant smooth cylindrical wooden log floating tilted in the clear water creating gentle ripples, with its heavier tree base end dipping deeper beneath the surface. In the background, Sultan Prabu in a golden crown laughs heartily with joy beside an open wooden chest overflowing with shiny gold coins, while an arrogant tall scholar in a navy blue beskap and tall conical cap comically tumbles headfirst into the shallow lotus pond—huge clay water splash with pink water lilies flying into the air, and a green clay frog perched amusingly on his forehead! Court ministers in batik blangkons slap their knees in roaring laughter. Radiant tropical morning sunlight, rich clay textures, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/lumpur/air, efek basah kuyup dan daun teratai akan ditambahkan via CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Penasihat Cerdik Keraton) ---
+Option A (Pede & Senyum Kemenangan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, holding wood, log, tools, background, room, scenery, garden, pond, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Berpikir Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden royal silk sash. Standing pose with a cheerful witty expression, one hand touching his chin in thoughtful amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, wood, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. MAHAGURU DRAJAT (Arrogant Royal Scholar - CLEAN FACE / TANPA AIR & LUMPUR) ---
+Option A (Sombong Berkacak Pinggang - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A tall thin middle-aged Javanese scholar with a clean sharp face, trimmed mustache, wearing an extravagant tall conical batik cap (peci kerucut tinggi). Wearing an opulent navy-blue bespoke robe with intricate gold embroidery and a dark batik jarik. Comical arrogant haughty sneer with hands placed firmly on his hips, empty hands, holding no objects, holding no wood, holding nothing, no props, completely clean skin without any water or mud stains, immaculate royal scholar clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, wood log, wet clothes, mud, pond, dirty face, water splash, lotus leaf, frog, background, room, garden, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Panik Terpeleset Oleng - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A tall Javanese scholar with a clean face and tall conical cap slightly tilted. Wearing an opulent navy-blue beskap. Comical shocked panicked expression with wide bulging eyes and mouth open in a yelp, flailing empty hands in the air trying to keep balance, empty hands, holding no objects, no props, completely clean dry clothing and dry skin without mud or water, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, wet, mud, dirty face, stains, lotus, frog, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. SULTAN PRABU (Wise Generous King) ---
+Option A (Tertawa Bahagia - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A dignified middle-aged Javanese king with a well-groomed black mustache, wearing a radiant royal golden crown with jewel inlays, an opulent dark velvet royal beskap with intricate gold embroidery, royal golden belt sash, and traditional royal batik parang jarik skirt with elegant sandals. Standing with a hearty joyful belly-laugh expression, hands relaxed at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding staff, holding props, background, throne, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Penasaran Berwibawa - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified Javanese king in a golden royal crown and dark velvet royal beskap. Standing upright with an intrigued, majestic expression, eyebrow raised with royal dignity, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, background, throne, scenery, photorealistic, 3d CGI cartoon]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+===================================================================
+- Frasa Pengunci Wajib: Awali setiap prompt dengan "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace garden setting".
+- Batasan Ketat: [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void].

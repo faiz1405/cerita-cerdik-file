@@ -1,0 +1,91 @@
+[theme]
+Mengajar Kerendahan Hati & Perjuangan Rakyat / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan cerita humor cerdik Ki Udin saat memberi pelajaran kerendahan hati kepada Sultan yang sedang menyamar di pasar desa.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, warm plasticine clay texture. In a busy traditional Javanese village market square, Sultan Prabu disguised in simple peasant clothes challenges Ki Udin, a clever Javanese man with short white hair wearing a blangkon and lurik shirt. CapCut Effect: Slow Zoom-in towards Ki Udin and Sultan Prabu, use Claymation filter. Audio: Upbeat traditional gamelan BGM, market crowd noise SFX. VO: "Suatu hari, Sultan Prabu yang penasaran ingin menguji kejujuran dan keberanian Ki Udin, menyamar menjadi seorang pria desa biasa dengan pakaian kusam dan luaran tambalan."
+
+Shot 2 (35-70s): Ki Udin clay figure with white hair loudly auctions the disguised Sultan Prabu in front of curious market vendors and villagers. Sultan looks comically shocked and embarrassed. CapCut Effect: Soft Blur background with slow Zoom-in as Ki Udin auctions Sultan. Audio: Playful marimba music, crowd laughing SFX. VO: "Ki Udin lalu menuntun Sultan Prabu ke tengah kerumunan pasar desa yang sangat riuh dan dipenuhi pedagang sayur."
+
+Shot 3 (70-115s): Disguised Sultan Prabu sweating heavily while lifting a heavy wooden pestle to pound rice in a big mortar, looking tired but determined under the hot sun. CapCut Effect: Warm Fade In transition, add sweat drop animation. Audio: Upbeat acoustic guitar BGM, rhythmic wooden pounding SFX. VO: "Seorang pemilik penggilingan beras desa yang dermawan akhirnya menyewa Sultan seharga lima keping perunggu untuk menumbuk tiga karung padi raksasa."
+
+Shot 4 (115-150s): Ki Udin clay figure with white hair hands a fresh coconut drink to Sultan Prabu, while Sultan warmly hugs Ki Udin with tears of gratitude. CapCut Effect: Gentle Slow Zoom-out, warm Fade Out at the end. Audio: Heartwarming gamelan melody, soft applause SFX. VO: "Sore harinya, saat matahari mulai meredup keemasan, Ki Udin datang ke penggilingan membawa sebotol air kelapa segar dan membayar lima keping perunggu untuk 'membeli kembali' sang Sultan."
+
+[videoNarration]
+Suatu hari, Sultan Prabu yang penasaran ingin menguji kejujuran dan keberanian Ki Udin, menyamar menjadi seorang pria desa biasa dengan pakaian kusam dan luaran tambalan. Tanpa mengikutsertakan para pengawal istana, Sultan mendatangi rumah bambu Ki Udin di ujung desa. Dengan tersenyum kaku, Sultan yang menyamar itu menantang Ki Udin dengan sebuah pertanyaan yang sangat aneh: 'Wahai Ki Udin, bisakah kamu membantuku menjual barang paling mahal dan paling berharga di pasar desa hari ini agar aku percaya akan kemampuan hebatmu?' Ki Udin yang berambut putih dan tajam penglihatannya seketika menyadari penyamaran sang Sultan. Namun bukannya panik, Ki Udin justru tersenyum polos dan menyanggupi tantangan tersebut.
+Ki Udin lalu menuntun Sultan Prabu ke tengah kerumunan pasar desa yang sangat riuh dan dipenuhi pedagang sayur. Dengan suara nyaring dan berkobar, Ki Udin berteriak melelang Sultan di hadapan para warga: 'Mari bapak-bapak dan ibu-ibu sekalian! Hari ini saya lelang seorang pekerja penumbuk padi baru yang sangat kuat! Badannya gemuk, tenaganya besar, tapi jalannya agak lambat. Siapa di antara warga desa yang mau menyewanya hari ini dengan harga murah?' Sultan Prabu yang kaget setengah mati tidak berani membuka mulutnya sama sekali, karena beliau sangat takut penyamarannya terbongkar di depan rakyatnya sendiri.
+Seorang pemilik penggilingan beras desa yang dermawan akhirnya menyewa Sultan seharga lima keping perunggu untuk menumbuk tiga karung padi raksasa. Selama seharian penuh di bawah terik matahari yang menyengat, Sultan Prabu yang selama ini terbiasa hidup mewah di dalam keraton harus mengangkat lesung kayu berat dan menumbuk padi sampai tangannya kapalan dan bajunya basah kuyup oleh keringat. Di tengah kelelahannya yang luar biasa, Sultan menyadari betapa beratnya perjuangan hidup dan cucuran keringat rakyat kecil yang selama ini hanya beliau lihat dari kejauhan di atas takhta.
+Sore harinya, saat matahari mulai meredup keemasan, Ki Udin datang ke penggilingan membawa sebotol air kelapa segar dan membayar lima keping perunggu kepada pemilik penggilingan untuk 'membeli kembali' sang Sultan. Sambil menyerahkan air kelapa, Ki Udin berbisik sangat pelan, 'Mohon ampun Gusti Sultan, sekarang panjenengan sudah merasakan sendiri betapa berharganya keringat rakyat kecil yang bekerja keras demi sesuap nasi setiap hari.' Sultan Prabu terdiam terharu dengan mata berkaca-kaca. Beliau merangkul Ki Udin dengan hangat dan memberikannya penghargaan tertinggi di seluruh kerajaan atas pelajaran hidup yang luar biasa!
+
+[bgmStyle]
+(1) 0-35s: Upbeat traditional gamelan BGM, market crowd noise SFX.
+(2) 35-70s: Playful marimba music, crowd laughing SFX.
+(3) 70-115s: Upbeat acoustic guitar BGM, rhythmic wooden pounding SFX.
+(4) 115-150s: Heartwarming gamelan melody, soft applause SFX.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah anak, warna kuning cerah dengan outline cokelat tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik berbaju lurik, blangkon, dan sarung, tersenyum polos penuh akal, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa menyamar memakai baju desa kusam, menumbuk lesung padi dengan wajah lelah terharu, gaya claymation.",
+"id": "ROLE_02"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 19
+Judul Episode: Mengajari Kuda Membaca Kitab (Eps 19)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Mengajari Kuda Membaca Kitab
+- Clicky Video Headline: DITANTANG NGAJARIN KUDA BACA KITAB TARUHAN NYAWA?! AKAL RUMPUT KI UDIN BIKIN PATIH SOMBONG DISINDIR HABIS-HABISAN!
+- Single Video Title: Cerita Cerdik Ki Udin - Mengajari Kuda Membaca Kitab (Eps 19)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a grand Javanese royal palace hall (Pendopo Keraton), an arrogant chubby royal minister (Patih) clay figure in opulent purple and gold court vest aggressively points at a thick leather-bound book on a wooden stand and a brown horse, shouting loudly in Javanese accent: "Wulangen jaran iki moco kitab! Yen ora iso, sirahmu sing dadi taruhane!" with clear authentic Javanese spoken dialogue audio. Next to the table, the brown horse blinks curiously and extends its long pink tongue to flip a book page, while Sultan Prabu on his golden throne watches intently. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved teak wooden palace pillars in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. Inside a grand traditional Javanese palace hall, a handsome brown horse with shiny clay coat stands in front of a low carved wooden table, cleverly turning the pages of an ancient thick open book with its tongue, munching on fresh green grass blades tucked inside. Standing beside the horse, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt winks with a proud playful smile. In the background, a chubby royal minister in purple silk stares in utter shock with dropped jaw and red blushing cheeks, while Sultan Prabu laughs heartily on his golden throne holding his belly. Warm lantern illumination, rich carved teak wooden pillars, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bunch of fresh green grass in one hand and a carved wooden bookstand, standing confidently inside a royal palace courtyard, warm cheerful wise facial expression, warm morning sunlight, rich teak architecture in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a bunch of fresh green grass in one hand and a carved wooden bookstand, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PATIH SOMBONG (Chubby Royal Minister) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, proud royal minister in an opulent purple and gold traditional court vest, embroidered batik jarik skirt, and traditional royal headdress. Flabbergasted humiliated expression with wide bulging eyes, red blushing cheeks, and trembling open mouth, standing in the palace courtyard near carved pillars, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, proud royal minister in an opulent purple and gold traditional court vest, embroidered batik jarik skirt, and traditional royal headdress. Flabbergasted humiliated expression with wide bulging eyes, red blushing cheeks, and trembling open mouth, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. KUDA PINTAR & KITAB KUNO (Intelligent Horse & Ancient Book Prop) ---
+Option A (In-Scene Animal & Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A handsome brown claymation horse with friendly expressive round eyes, extending its tongue to turn a page of a massive open leather-bound ancient book resting on a carved teak bookstand, with green blades of grass tucked between parchment pages, inside a sunlit royal library hall, warm ambient lighting, full interior background, no plain white background, 8k resolution.
+
+Option B (Isolated Animal & Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A handsome brown claymation horse with friendly expressive round eyes, extending its tongue to turn a page of a massive open leather-bound ancient book resting on a wooden bookstand, isolated full asset pair on a solid plain white background, soft studio lighting, 8k resolution.

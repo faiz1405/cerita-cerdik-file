@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Mengeluarkan Bola Kayu Pusaka Dari Pipa Batu (Eps 45)
+- Clicky Video Headline: BOLA PUSAKA TERJEBAK DI LUBANG BATU?! SAUDAGAR MARAH BESAR TAPI AKAL LICIKNYA DIHANCURKAN LOGIKA FISIKA KI UDIN!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Eksperimen Fisika Bola Kayu (Eps 45)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: in a dusty traditional Javanese village yard under bright tropical daylight, an extremely greedy fat merchant (Saudagar Sombong) with a thick curled mustache, shiny bald head, and purple silk Javanese beskap shirt stares sadistically into the camera with bulging angry eyes. He violently grabs the collar of a skinny frail elderly beggar, shaking him aggressively, while raising a giant iron sledgehammer into the air (SWOOSH!). He shouts instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Balekno bal pusaka ku nang njero watu saiki!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Behind them stands a tall ancient stone pipe monument. Beside them at second 0, Ki Udin steps forward fluidly in his signature striped earth-toned lurik shirt and brown batik blangkon, holding a wooden bucket of water with a confident calm smirk. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, rustic bamboo fences in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground in a vibrant tropical village yard, Ki Udin the clever elderly clay figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt smiles with triumphant wit, pouring splashing clear water from a wooden bucket into a narrow ancient stone pipe! Magically, a glowing red wooden ball is floating to the top edge of the stone pipe on the water surface. In the comical background, the fat arrogant merchant (Saudagar Sombong) with a bald head and purple silk shirt is falling backward mid-air in shock, having clumsily stepped on a giant pile of wet brown cow dung! His face is a hilariously exaggerated portrait of shock with his mouth wide open. A skinny frail elderly beggar and a crowd of Javanese farmers wearing woven bamboo caping hats cheer and roar with hearty belly laughter. Radiant morning tropical sunlight, rich clay stop-motion textures, cinematic depth of field, full environmental rural village setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry, blood, gore]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Ki Udin Menuang (Tangan Kosong)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Ki Udin, elderly Javanese wise peasant, 58 years old, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Hands positioned as if holding a bucket but holding NO OBJECTS, empty hands, no props. Calm mischievous confident smile, unblemished clean face.
+
+[Prompt Option B: Saudagar Sombong Syok Tersandung]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Fat arrogant merchant, 45 years old, thick curled mustache, shiny bald head, purple silk Javanese beskap shirt, dark green batik pants. Hands raised flailing in panic and loss of balance, falling backward, empty hands, holding no objects, holding nothing, no props. Shocked exaggerated panicking face, mouth wide open screaming, clean face, immaculate clothes without mud.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no blood, no injury]`

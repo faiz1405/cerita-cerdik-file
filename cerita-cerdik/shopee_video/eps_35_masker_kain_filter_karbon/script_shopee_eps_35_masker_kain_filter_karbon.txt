@@ -1,0 +1,50 @@
+===================================================================
+SHOPEE VIDEO MICRO-SKIT SCRIPT (10-15 DETIK - HEMAT TOKEN AI)
+Episode Afiliasi: Cerita Cerdik Eps 35 (Menjebak Saudagar Penimbun Masker Kain Saat Hujan Abu Vulkanik)
+Produk Rekomendasi: Masker Kain 4 Lapis Filter Karbon Aktif Anti-Debu & Abu Vulkanik
+Format: 9:16 Vertical Video (Shopee Video / TikTok / Reels)
+Durasi: 12 Detik Utuh
+===================================================================
+
+[1] STRUKTUR TIMELINE VIDEO (12 DETIK)
+-------------------------------------------------------------------
+- Detik 00 - 03 (AI Video Hook):
+  Visual: Ki Udin versi claymation terbatuk-batuk kecil mengibaskan tangannya menghalau butiran debu abu kelabu di udara teras rumah desa, lalu Ki Udin menatap kamera sambil tersenyum cerdik dan mengedipkan mata memberi kode.
+  Audio/SFX: Suara batuk kecil (uhuk!), deru desau angin debu (wuuush!), pop sound (plop!).
+  Teks Layar: "DEBU JALANAN & ABU VULKANIK BIKIN TENGGOROKAN SAKIT?!"
+
+- Detik 03 - 08 (B-Roll Realistis Produk Seller Shopee):
+  Visual: Video nyata (footage seller/unboxing) tangan memasukkan lembaran filter karbon aktif PM2.5 ke dalam lapisan dalam masker kain katun lembut warna gelap, memperlihatkan jahitan 3D yang menutup rapat hidung dan dagu tanpa bikin sesak bernafas, serta tali telinga elastis yang nyaman seharian.
+  Audio/SFX: BGM upbeat ceria, suara tarikan tali elastis (cepet!).
+  Teks Layar: "4 Lapis Filter Karbon! Bebas Debu & Adem Bernafas!"
+
+- Detik 08 - 12 (Neuro-CTA Keranjang Oranye):
+  Visual: Panah animasi bergerak menunjuk ke pojok kiri bawah (ikon Keranjang Oranye Shopee Video), memperlihatkan harga promo flash sale (Rp10 ribuan per paket).
+  Audio/SFX: Cash register ding (cling!), suara VO persuasif ceria.
+  Teks Layar: "Cuma 10 Ribuan! Amankan Stok di Keranjang Oranye 👇"
+
+===================================================================
+[2] PROMPT TUNGGAL GOOGLE VEO 3.1 (HEMAT TOKEN AI - 1X GENERATE)
+Target Engine: Google Veo 3.1 / Text-to-Video
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Inside a cozy rustic traditional Javanese village veranda, Ki Udin clay figure with short white clay hair and striped lurik shirt coughs lightly into his sleeve as faint gray dust particles drift in the air, then quickly looks directly at the camera with an amused clever wink and points his finger forward. Smooth clay stop-motion motion, comical expressive eye-roll to bright cheerful wink, warm morning tropical light, clay pots and bamboo porch in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, 3d CGI cartoon, photorealistic, real human skin, modern clothes, studio void, plain white background, blank backdrop, dark, gloomy, low resolution, blurry, subtitles]
+
+===================================================================
+[3] NASKAH VOICE OVER (VO) BAHASA INDONESIA (12 DETIK)
+-------------------------------------------------------------------
+"Keluar rumah sering batuk karena debu jalanan atau abu vulkanik? Pakai masker kain empat lapis filter karbon aktif ini! Jahitan 3D pas di wajah, gak bikin engap, dan bisa dicuci berulang kali! Promo murah cuma sepuluh ribuan, yuk checkout di keranjang oranye sekarang!"
+
+===================================================================
+[4] KRITERIA PEMILIHAN PRODUK SHOPEE AFFILIATE
+-------------------------------------------------------------------
+- Kategori Produk: Kesehatan / Perlengkapan Medis / Masker Medis & Masker Kain
+- Kata Kunci Pencarian Shopee: "Masker Kain 4 Lapis Filter Karbon PM2.5 / Masker Anti Polusi Debu Cuci Ulang"
+- Kisaran Harga Jual: Rp12.000 – Rp25.000 (Harga sangat terjangkau, cocok impulse buy massal)
+- Syarat Toko: Wajib Star Seller+ / Shopee Mall, rating bintang > 4.8, terjual > 10.000 unit
+- Label Komisi: Wajib pilih yang berlabel "Komisi Ekstra" (10% - 15% per checkout)

@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 14
+Judul Episode: Membangun Istana di Atas Awan (Eps 14)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membangun Istana di Atas Awan
+- Clicky Video Headline: DITANTANG BANGUN ISTANA DI ATAS AWAN?! AKAL LAYANG-LAYANG KI UDIN BIKIN PEJABAT SOMBONG PANIK KETAKUTAN!
+- Single Video Title: Cerita Cerdik Ki Udin - Membangun Istana di Atas Awan (Eps 14)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a grand sunlit Javanese royal palace courtyard (Pelataran Keraton), an arrogant chubby royal minister (Patih) clay figure in opulent purple and gold court attire points aggressively upward toward the swirling fluffy white clouds in the sky, shouting loudly in Javanese accent: "Endi istanamu ing awang-awang? Yen ora iso, pasrahno bondhomu!" with clear authentic Javanese spoken dialogue audio. Next to him, poor village farmers cry in distress while Sultan Prabu on his royal throne watches intently. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved teak wooden palace gates and tropical palm trees in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a wide sunlit grassy village field, Ki Udin clay figure with short white hair wearing a traditional blangkon, batik sarung, and striped lurik shirt stands holding a thick spool of hemp rope with a wide confident grin. Above in the azure sky, a colossal colorful diamond-shaped kite decorated with glowing brass bells soars through fluffy white clouds, with a towering bamboo ladder leading high into the sky. Nearby, a chubby royal minister in purple and gold attire gasps in utter panic with dropped jaw, holding a clay brick, while Sultan Prabu on his throne laughs heartily. Vibrant daytime lighting, lush tropical palm trees, billowing white clouds, ultra-high depth of field, full environmental background, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a wooden spool of kite string in hand, standing confidently in a wide open green meadow under a breezy cloudy sky, warm cheerful wise facial expression, warm morning sunlight, lush tropical trees in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a wooden spool of kite string in hand, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PATIH SOMBONG (Chubby Royal Minister) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, proud royal minister in an opulent purple and gold traditional court vest, embroidered batik jarik skirt, and traditional royal headdress. Flabbergasted surprised expression with wide bulging eyes and trembling open mouth, holding a red clay brick in hand, standing in the royal palace courtyard near carved teak pillars, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, proud royal minister in an opulent purple and gold traditional court vest, embroidered batik jarik skirt, and traditional royal headdress. Flabbergasted surprised expression with wide bulging eyes and trembling open mouth, holding a red clay brick in hand, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. LAYANG-LAYANG RAKSASA ISTANA AWAN (Giant Cloud Kite Asset) ---
+Option A (In-Scene Kite Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+High-angle shot in comical claymation style, soft plasticine clay texture. A colossal traditional diamond-shaped kite made of vibrant patterned silk fabric, adorned with shiny brass bells and a small decorative wooden puppet holding a miniature hammer. Soaring majestically through fluffy white clouds in a bright blue sky, warm radiant sunlight, full atmospheric background, no plain white background, no studio backdrop, 8k resolution.
+
+Option B (Isolated Kite Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full view shot in comical claymation style, soft plasticine clay texture. A colossal traditional diamond-shaped kite made of vibrant patterned silk fabric, adorned with shiny brass bells and a small decorative wooden puppet holding a miniature hammer. Isolated full asset on a solid plain white background, soft studio lighting, 8k resolution.

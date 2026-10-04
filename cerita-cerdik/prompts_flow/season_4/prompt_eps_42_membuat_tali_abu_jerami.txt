@@ -1,0 +1,75 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 42 (SEASON 4 EPISODE 2)
+Judul Episode: Membuat Tali Tambang dari Abu Jerami Padi (Eps 42 / S4E02)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation - Tier-1 High Granularity)
+Tema Utama: Tantangan Fisika Mustahil (David vs Goliath) & Slapstick Debu Arang Hitam
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membuat Tali Tambang dari Abu Jerami Padi (Eps 42)
+- Clicky Video Headline: NANTANG BIKIN TALI DARI ABU JERAMI BUAT GUSUR SAWAH?! AKAL CERDIK KI UDIN BIKIN JURAGAN SOMBONG MANDI ABU JELAGA CEMONG BADUT ARANG!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Membuat Tali dari Abu Jerami (Eps 42)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: beside a dry cracked rice paddy field under blazing sunlight, an arrogant chubby Javanese village landlord (Juragan Broto) with a twirled black mustache and gold-trimmed brown lurik vest kicks a mound of dry golden straw with his leather sandal, sending straw dust flying straight toward the camera, mouth wide open aggressively shouting instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Gawekno tambang seko awu jerami iki saiki, nek ora desamu tak gusur!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Right beside the straw mound at second 0, Ki Udin steps forward in his signature striped earth-toned lurik shirt and brown batik blangkon, picking up a handful of straw with a calm mischievous smirk, boldly accepting the impossible challenge before nervous village farmers. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, banana trees and village thatched huts in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground beside a traditional village hall, Ki Udin elderly clay figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt holds out a long polished teakwood plank supporting a magnificent, intact thick braided rope made entirely of jet-black solid ash, smiling with brilliant triumphant wit! In the comical background, Juragan Broto the chubby landlord jumps backward in utter terror and coughing agony: a cloud of black charcoal dust has just exploded over him, leaving his entire face, twirled mustache, and silk vest completely covered in thick black soot like a clown, while his headcloth flies off! Cheerful Javanese farmers wearing woven bamboo caping hats and water buffaloes in the background roar with hearty belly laughter. Radiant morning tropical sunlight, rich clay stop-motion textures, cinematic depth of field, full environmental village setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/abu/arang, efek abu hitam dan papan kayu jati dianimasikan terpisah di CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Desa Cerdik - Versi Lurik Sederhana Desa) ---
+Option A (Pede & Senyum Kemenangan - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung with sandals. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, straw, ash, rope, plank, tools, background, room, scenery, palace, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Berpikir & Mengamati Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung. Standing pose with a cheerful witty expression, one hand touching his chin in thoughtful amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, straw, ash, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. JURAGAN BROTO (Arrogant Wealthy Landlord - CLEAN SKIN / TANPA ABU / TANPA NODA) ---
+*(Catatan: Karakter Juragan Broto telah tersedia di `cerita-cerdik/character/season4/juragan_broto_transparent.png`)*
+Option A (Sombong Menunjuk Mengancam - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese village landlord with a protruding round belly, twirled black mustache, wearing an ornate brown and golden silk lurik vest over white undershirt, brown batik jarik skirt, and polished dark headcloth. Comical arrogant sneering expression pointing his finger forward aggressively, empty hands, holding no objects, holding no staff, holding nothing, no props, completely clean spotless skin without any soot, ash, or stains, immaculate traditional clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, staff, ash, soot, black dust, stains, background, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Panik Terbatuk Kaget - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby Javanese landlord in silk lurik vest. Comical utterly shocked panicked coughing expression with bulging eyes, hands waving in front of his face in defensive dismay, empty hands, holding no objects, no props, completely clean dry clothing and dry skin, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, ash, smoke, fire, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. PETANI TUA (Pak Sastro - Petani Desa Bersahaja) ---
+Option A (Takut Cemas Memegang Caping - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A humble elderly Javanese farmer with wrinkled kind face, wearing an authentic woven bamboo caping hat, faded earth-brown short-sleeved work shirt, rolled-up dark batik work trousers, barefoot. Standing with a worried, anxious posture, empty hands, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding sickle, holding hoe, tools, background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Bersorak Gembira Tertawa Lepas - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A humble elderly Javanese farmer in woven bamboo caping hat and faded brown shirt. Standing upright with a hearty joyful laugh, hands raised in an enthusiastic cheering gesture, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding tools, background, field, scenery, photorealistic, 3d CGI cartoon]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+===================================================================
+- Frasa Pengunci Wajib: Awali setiap prompt dengan "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting".
+- Batasan Ketat: [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void].

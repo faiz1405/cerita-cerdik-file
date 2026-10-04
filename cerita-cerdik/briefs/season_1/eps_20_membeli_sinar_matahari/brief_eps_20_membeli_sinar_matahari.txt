@@ -1,0 +1,106 @@
+[theme]
+Menghancurkan Pajak Tirani Juragan Garam Kikir / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin membeli hak sinar matahari di atas ladang garam juragan kikir, membungkam tirani pajak jemuran yang memeras rakyat miskin.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Under a scorching tropical sun at coastal salt pans, an arrogant chubby salt landlord (Juragan Garam) in rich orange and gold robes snatches gold and silver coins from weeping poor villagers who are drying sea salt and salted fish on bamboo mats. The cruel landlord claims that all sunlight shining on the village belongs to him, demanding heavy sun-drying taxes from poor farmers. CapCut Effect: Dramatic Slow Zoom-in on the shimmering white salt piles and the greedy landlord's cruel smirk, Claymation filter. Audio: Blazing summer cicadas SFX, greedy coin jingling SFX, weeping villagers sobbing SFX, arrogant shouting SFX. Coastal village salt evaporation ponds background, thatched huts, coconut palm trees, bright harsh daylight, full environmental depth, no plain white background, no blank backdrop. VO: "Seorang juragan garam yang sangat kikir dan tamak memungut pajak mahal kepada warga miskin yang menjemur garam di bawah terik matahari, mengklaim bahwa seluruh sinar matahari di desanya adalah milik pribadinya!"
+
+Shot 2 (35-70s): Poor farmers cry in despair as they cannot afford the sun tax. Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon steps forward holding an official parchment deed stamped with Sultan Prabu's royal gold wax seal. Ki Udin cheerfully pays 50 gold coins to the greedy landlord, legally buying all ownership rights to the sunlight shining over the landlord's vast salt fields! CapCut Effect: Soft Blur background with gentle Slow Zoom-in on the glowing royal seal deed and Ki Udin's knowing smile. Audio: Cheerful acoustic gamelan melody, clinking gold coins SFX, curious whispers. Sunlit coastal village background, salt ponds, warm bright sky, full environmental setting, no studio void, no white background. VO: "Melihat kezaliman itu, Ki Udin datang membawa surat perjanjian resmi bertempel segel emas Sultan Prabu untuk membeli seluruh hak sinar matahari di atas ladang garam sang juragan seharga lima puluh keping emas."
+
+Shot 3 (70-115s): Next morning at peak noon heat, Ki Udin and village youths erect giant poles and stretch a massive black canvas canopy directly over the landlord's salt crystallization ponds, completely blocking every ray of sunlight! The landlord's saltwater turns cold and murky, unable to evaporate. The furious landlord yells in panic, but Ki Udin calmly presents the legal deed, demanding a sun-rental fee of 100 gold coins per hour if the landlord wants sunlight on his ponds! The landlord collapses to his knees in tears, sweating profusely with dropped jaw. CapCut Effect: Dynamic camera pan under the dark shadow of the giant black tarp, dramatic Zoom-in on the landlord's weeping panicked face. Audio: Wind flapping heavy canvas SFX, dramatic boom SFX, comical panic shouting SFX, gasping crowd laughter. Coastal salt pans half in deep shadow and half in blinding sun, cheering villagers, full depth, no plain white background. VO: "Keesokan harinya saat matahari terik membakar, Ki Udin membentangkan terpal hitam raksasa menutupi ladang garam sang juragan hingga tidak bisa kering, lalu menuntut uang sewa sinar matahari seratus emas per jam!"
+
+Shot 4 (115-150s): Weeping hysterically in total financial ruin, the greedy landlord bows to the ground, tearing up all tax ledgers and returning all extorted money to the cheering villagers in front of Sultan Prabu. Sultan Prabu bursts into roaring belly laughter holding his stomach on his golden throne, rewarding Ki Udin with a golden royal medal as the entire village celebrates happily under the bright sunshine. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheerful village celebration cheers. Coastal village square, glistening white salt, sunny blue sky, full depth. VO: "Menangis panik rugi besar, sang juragan akhirnya bersujud memohon ampun dan membatalkan seluruh pajak jemuran warga diiringi tawa terbahak-bahak Sultan Prabu yang memuji kejeniusan Ki Udin!"
+
+[videoNarration]
+Di sebuah desa pesisir pantai yang terik, hiduplah seorang juragan garam kaya raya yang terkenal sangat kikir, serakah, dan tidak berperikemanusiaan. Karena merasa tanah desa dan garis pantai adalah miliknya, sang juragan garam membuat peraturan sepihak yang sangat kejam: ia mengklaim bahwa seluruh sinar matahari yang menyinari desa itu adalah milik pribadinya, sehingga setiap warga miskin yang menjemur tambak garam, mengeringkan ikan asin, atau menjemur pakaian basah diwajibkan membayar pajak jemur matahari yang sangat mahal! Jika warga tidak mampu membayar, hasil panen garam mereka akan disita paksa. Seluruh rakyat jelata pun menangis histeris karena terancam kelaparan.
+
+Mendengar jeritan rakyat kecil, Ki Udin yang berambut putih dan penuh akal mendatangi sang juragan garam sambil membawa sekantong koin emas dan selembar surat perjanjian resmi yang telah disahkan oleh Sultan Prabu. Dengan senyum ramah, Ki Udin menawarkan diri untuk membeli seluruh hak milik atas 'sinar matahari yang jatuh di atas tanah dan kolam garam sang juragan' seharga lima puluh keping emas tunai. Karena merasa Ki Udin sangat bodoh membeli sinar matahari yang gratis dari alam, sang juragan yang tamak langsung menyambar uang emas itu dan menandatangani surat perjanjian jual beli tersebut dengan penuh tawa mengejek!
+
+Keesokan harinya tepat saat matahari siang bersinar sangat terik dan menyengat, sang juragan garam bersiap memanen tambak garamnya yang luas. Namun betapa terkejutnya sang juragan ketika Ki Udin bersama para pemuda desa datang membawa tiang-tiang bambu tinggi dan membentangkan terpal kain hitam raksasa tepat di atas seluruh kolam garam milik sang juragan! Seketika itu juga, ladang garam sang juragan menjadi gelap gulita tertutup bayangan hitam pekat, sehingga air lautnya tidak bisa menguap dan garamnya gagal terbentuk sama sekali.
+
+Sang juragan langsung menjerit histeris dan memaki Ki Udin dengan penuh amarah: 'Hai Ki Udin gila! Buka terpal hitam ini sekarang juga! Garamku tidak bisa kering kalau tidak ada sinar matahari!' Namun Ki Udin dengan santai menunjukkan surat perjanjian bermaterai emas: 'Mohon maaf Tuan Juragan! Sinar matahari di atas ladang ini sudah sah menjadi milik saya karena sudah saya beli kemarin. Jika Tuan ingin sinar matahari saya menyinari garam Tuan, silakan bayar uang sewa sinar matahari sebesar seratus keping emas setiap jam!'
+
+Mendengar jebakan yang luar biasa telak itu, sang juragan garam langsung ambruk bersujud di atas tanah berpasir, menangis tersedu-sedu memohon ampun, membatalkan seluruh pajak jemuran warga desa untuk selamanya, dan mengembalikan seluruh uang rakyat yang telah ia peras! Seketika itu juga, Sultan Prabu tertawa terbahak-bahak memegangi perutnya di atas takhta emas, lalu menyematkan lencana kehormatan kepada Ki Udin atas kecerdikannya yang membebaskan rakyat jelata dari jeratan tirani!
+
+[bgmStyle]
+(1) 0-35s: Blazing summer cicadas SFX, greedy coin jingling SFX, weeping villagers sobbing SFX, arrogant shouting SFX.
+(2) 35-70s: Cheerful acoustic gamelan melody, clinking gold coins SFX, curious whispers.
+(3) 70-115s: Wind flapping heavy canvas SFX, dramatic boom SFX, comical panic shouting SFX, gasping crowd laughter.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheerful village celebration cheers.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik memegang surat segel emas dan tali terpal hitam tersenyum santai penuh kemenangan di ladang garam, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Juragan Garam Kikir",
+"description": "Pria juragan kaya bertubuh tambun berpakaian oranye emas menangis tersedu-sedu bersujud memohon ampun di bawah bayangan terpal hitam, gaya claymation.",
+"id": "ROLE_03"
+},
+{
+"name": "Tambak Garam & Terpal Hitam",
+"description": "Kolam tambak garam kristal putih di tepi pantai dengan terpal kain hitam raksasa membentang di atasnya menutupi sinar matahari, gaya claymation.",
+"id": "ROLE_04"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

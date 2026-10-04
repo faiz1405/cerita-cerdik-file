@@ -1,0 +1,63 @@
+===================================================================
+EPS 09: Membeli Bayangan Pohon Beringin (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & Instagram Reels - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membeli Bayangan Pohon Beringin (Pajak Berteduh) 🌳🐐
+- Clicky Headline: "Numpang Berteduh Ditarik PAJAK Koin, Pria Cerdik Ini Malah Beli Bayangan Pohonnya & Bawa Kambing ke Kamar Tuan Tanah! 🌳🐐🤣"
+- Caption Teks FB: Numpang berteduh di bawah pohon ditarik PAJAK koin, Ki Udin langsung beli bayangan pohonnya sampai Tuan Tanah nangis kejer! 🌳🐐🤣 Cuma Ki Udin yang berani bawa kambing nongkrong di kamar mewah Tuan Tanah demi ngebales aturan pajak konyol! Tulis pendapat kalian di kolom komentar! 👇
+- Caption Teks IG: Numpang berteduh di bawah pohon ditarik PAJAK koin, Ki Udin langsung beli bayangan pohonnya sampai Tuan Tanah nangis kejer! 🌳🐐🤣 Cuma Ki Udin yang berani bawa kambing nongkrong di kamar mewah Tuan Tanah kikir demi belain rakyat miskin dari pajak konyol! 📌 Klik [ IKUTI / FOLLOW ] di profil @ceritacerdik!
+
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a luxurious traditional Javanese wooden bedroom, golden afternoon sunlight streams through open doors casting a long tree shadow. Ki Udin clay figure with short white hair in a lurik shirt sits comfortably on a fancy silk carpet eating boiled cassava, next to a cute clay goat actively chewing grass. In the background, an angry greedy landlord clay figure in nightclothes holding a wooden tax stick opens his bedroom door in complete shock and horror, pointing furiously with comedic eye-popping expressions. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm vibrant clay aesthetic, rich detailed bedroom interior background, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay modeling textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair cheerfully holding a bamboo purchase scroll while sitting beside a cute brown goat on a luxurious Persian carpet. On the right, an arrogant greedy landlord clay figure looking terrified and screaming in panic inside his grand wooden bedroom as the giant banyan tree's shadow covers the floor. In the upper background, a huge lush green banyan tree under bright tropical afternoon sky. Rich clay textures, warm golden hour lighting, cinematic depth of field, highly detailed 9:16 vertical aspect ratio, no studio void.
+
+
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+-------------------------------------------------------------------
+Tool Target: Gemini Chat / Google Imagen 3
+
+▶ OPTION A: IN-SCENE CHARACTER FRAME (RECOMMENDED FOR CAPCUT / SEEDANCE)
+(Gunakan prompt ini agar gambar karakter sudah langsung memiliki latar pemandangan alami desa/kamar dan TIDAK menghasilkan latar putih saat di-render di CapCut)
+
+• Karakter 1: Ki Udin (In-Scene Keyframe)
+Prompt:
+Full body character shot of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat, brown batik lurik shirt, and sarong. Friendly mischievous smile, sitting comfortably beside a cute clay goat under the cool shadow of a massive leafy banyan tree in a traditional Javanese village road, warm natural afternoon sunlight, full rich environmental background, lush tropical trees and rustic dirt paths, no plain white background, no studio void, 8k resolution.
+
+• Karakter 2: Tuan Tanah Kikir (In-Scene Keyframe)
+Prompt:
+Full body character shot of a wealthy greedy landlord in comical claymation style, soft plasticine clay texture. A chubby arrogant middle-aged man wearing expensive silk Javanese robes and a golden keris dagger. Angry shouting expression, holding a wooden stick while standing in front of his grand wooden Javanese mansion porch under bright hot daytime sun, full detailed village background, no plain white background, no blank studio backdrop, 8k resolution.
+
+• Karakter 3: Sultan Prabu (In-Scene Keyframe)
+Prompt:
+Full body character shot of Sultan Prabu in comical claymation style, soft plasticine clay texture. A dignified Javanese King wearing a golden royal crown and majestic royal Javanese attire. Laughing happily with a hearty expression, seated on a majestic carved wooden throne inside a traditional Javanese royal palace hall (Pendopo), warm ambient palace lanterns lighting, full royal interior background, no plain white background, no studio backdrop, 8k resolution.
+
+-------------------------------------------------------------------
+▶ OPTION B: ISOLATED CHARACTER SHEET (FOR CUTOUT / STICKERS ONLY)
+
+• Karakter 1: Ki Udin (Isolated)
+Prompt: Full body character design of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat, brown batik lurik shirt, and sarong. Friendly mischievous smile, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 2: Tuan Tanah Kikir (Isolated)
+Prompt: Full body character design of a wealthy greedy landlord in comical claymation style, soft plasticine clay texture. Chubby arrogant man holding a wooden stick, isolated on a solid plain clean white background, 8k resolution.
+
+• Karakter 3: Sultan Prabu (Isolated)
+Prompt: Full body character design of Sultan Prabu in comical claymation style, dignified smiling King in royal crown, isolated on a solid plain clean white background, 8k resolution.

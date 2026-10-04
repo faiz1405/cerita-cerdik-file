@@ -1,0 +1,77 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 35 (SEASON 3 EPISODE 5)
+Judul Episode: Menjebak Saudagar Penimbun Masker Kain Saat Hujan Abu Vulkanik (Eps 35 / S3E05)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Tema Utama: Moral Justice & Penimbun Bencana - Jebakan Serbuk Abu Vulkanik
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menjebak Saudagar Penimbun Masker Kain Saat Hujan Abu Vulkanik
+- Clicky Video Headline: TIMBUN MASKER KAIN PAS HUJAN ABU VULKANIK?! AKAL CERDIK WEDANG JAHE KI UDIN BIKIN SAUDAGAR CULAS SESAK NAPAS NGEMIS DI GUDANGNYA SENDIRI!
+- Single Video Title: Cerita Cerdik Ki Udin Season 3 - Penimbun Masker Abu Vulkanik (Eps 35)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Under an overcast gloomy sky filled with softly falling gray volcanic ash flakes over a traditional rustic Javanese village, an arrogant chubby cloth merchant in an emerald-green batik beskap stands on a wooden platform hoarding towering bundles of cloth masks, pointing aggressively, shouting loudly in thick authentic Javanese accent: "Kabeh kain tutup irung iki nggonku! Nek kepingin slamet soko awu, tuku nganggo koin emas!" with clear authentic Javanese spoken dialogue audio. Before the coughing village mothers and children, Ki Udin steps forward in his humble striped lurik shirt with a brilliant playful smirk, raising his open hand gracefully to accept the challenge. Fluid clay stop-motion character animation, comical expressive sneer, gentle slow camera zoom-in, 3-second looping video motion, warm morning diffused lighting through ash mist, bamboo village huts dusted with fine gray clay ash in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a rustic Javanese mountain village square with fine gray volcanic ash dusting the thatched bamboo roofs and banana palms, Ki Udin clay figure with short white clay hair in a striped lurik shirt and royal golden sash smiles with triumphant witty confidence, holding up a steaming rustic earthenware cup of golden herbal ginger brew. Beside him, an arrogant chubby cloth merchant in an emerald-green batik beskap and askew blangkon chokes comically, clutching his chest with wide bulging eyes and mouth agape, as a comical puff of gray dust swirls around his feet. In the background, smiling village mothers in batik kebayas and cheerful children wearing clean colorful cloth face masks point and laugh in celebration. Golden warm morning sunlight breaking through dramatic soft gray volcanic ash clouds, rich clay textures, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa noda/debu/abu, efek cemong abu vulkanik akan ditambahkan via CapCut)*
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Penasihat Cerdik Keraton) ---
+Option A (Pede & Senyum Cerdik - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Standing upright with a calm wise triumphant smirk, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, holding cup, jug, tools, background, room, scenery, village, floor, wall, shadows, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Pose Berpikir Cerdik - Solid Plain White Background):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden royal silk sash. Standing pose with a cheerful witty expression, one hand touching his chin in thoughtful amusement, empty hands, holding no objects, holding nothing, no props, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding items, props, cup, jug, complex background, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+--- 2. JURAGAN TEJO PENIMBUN KAIN (Chubby Corrupt Textile Merchant - CLEAN FACE / TANPA ABU) ---
+Option A (Sombong & Tamak - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese cloth merchant with a clean fair face, curled black mustache, and a brown batik blangkon. Wearing an opulent emerald-green batik beskap, gold necklace chains, gemstone rings, and dark brown batik jarik. Comical arrogant sneering expression with hands placed firmly on his hips, empty hands, holding no objects, holding no cloth, holding no money bag, holding nothing, no props, completely clean skin without any ash or dust stains, immaculate luxurious clothing, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, cloth, money bag, mask, dirty face, ash stains, dust, messy clothes, background, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Panik & Sesak Napas Memohon - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A chubby middle-aged Javanese merchant with a clean fair face and thick curled mustache, blangkon slightly askew. Wearing an emerald-green batik beskap. Comical panicked gasping expression with wide bulging eyes and trembling open mouth, empty hands raised forward pleading helplessly without holding anything, no props, completely clean face without dirt or ash stains, isolated full body on a clean transparent background, clean alpha cutout edges, studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding props, dirty face, ash, dust, stains, background, scenery, photorealistic, 3d CGI cartoon]
+
+--- 3. IBU WARGA DESA (Humble Village Mother - CLEAN FACE) ---
+Option A (Tersenyum Bersyukur & Lega - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A humble warm-hearted Javanese village mother with a gentle caring face, hair tied in a neat traditional bun (sanggul). Wearing a rustic earthy brown patterned kebaya and dark batik wrap skirt with simple sandals. Standing pose with a warm relieved smile and hands clasped politely in front of her waist, empty hands, holding no objects, holding nothing, no props, completely clean face, isolated full body on a clean transparent background, no background scenery, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding baby, holding mask, holding props, background, village, room, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+Option B (Cemas & Khawatir - Transparent Background Cutout):
+Full body character cutout in comical claymation style, soft plasticine clay texture. A humble Javanese village mother with a neat bun hair, wearing a brown kebaya and batik jarik. Comical worried facial expression with furrowed brow and slightly parted lips, hands held close to her chest in concern, empty hands, holding no objects, holding nothing, no props, completely clean face without dust or soot, isolated full body on a clean transparent background, clean alpha cutout edges, soft studio lighting, 8k resolution.
+[Negative Prompt: holding objects, holding baby, props, background, village, scenery, photorealistic, 3d CGI cartoon, modern clothes]
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+- Frasa Pengunci Style (Wajib di Awal Setiap Shot & Prompt Video):
+  `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting`
+- Negative Constraints (Anti-Orang Asli & Anti-3D CGI):
+  `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]`
+- Karakter Manusia Saja: Pada bagian [characters], HANYA boleh diisi oleh karakter manusia hidup (Ki Udin, Juragan Tejo Penimbun Kain, Ibu Warga Desa).

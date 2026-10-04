@@ -1,0 +1,67 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 20 (SEASON 1 FINALE)
+Judul Episode: Membeli Sinar Matahari (Eps 20)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membeli Sinar Matahari
+- Clicky Video Headline: JURAGAN PELIT NARIK PAJAK JEMUR MATAHARI?! AKAL TERPAL HITAM KI UDIN BIKIN JURAGAN GARAM NANGIS BERSUJUD!
+- Single Video Title: Cerita Cerdik Ki Udin - Membeli Sinar Matahari (Eps 20 - Season 1 Finale)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Under a blazing tropical sun at a coastal salt pond village, an arrogant chubby salt landlord clay figure in opulent orange and gold silk robes grabs coins from poor weeping villagers drying salt, shouting loudly in Javanese accent: "Srengenge ing desa iki duwekku, bayar pajekmu saiki!" with clear authentic Javanese spoken dialogue audio. Behind him, sparkling white crystalline salt piles shimmer under intense sunlight while palm trees sway. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm radiant summer daylight, coastal thatched huts in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In a sun-drenched coastal salt village, Ki Udin clay figure with short white hair wearing a blangkon, batik sarung, and striped lurik shirt stands holding an official golden wax-sealed parchment deed with a wide triumphant grin. High above a vast field of white sea-salt evaporation ponds, a colossal black fabric sunshade canopy is stretched across tall bamboo poles, casting a dramatic pitch-black shadow over the ponds. Standing beside the darkened salt pools, a chubby salt landlord in orange silk robes weeps hysterically on his knees with dropped jaw and bulging eyes, clutching his head in utter despair. In the bright sunny background, Sultan Prabu on his throne laughs heartily holding his belly. Sparkling white salt crystals, radiant blue tropical sky, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding an official golden wax-sealed parchment royal deed in one hand, standing confidently beside coastal salt pools under bright sunny skies, warm cheerful wise facial expression, warm morning sunlight, thatched huts and coconut palms in background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding an official golden wax-sealed parchment royal deed in one hand, standing confidently with a warm cheerful wise facial expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. JURAGAN GARAM KIKIR (Chubby Salt Landlord) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, wealthy middle-aged coastal landlord in an opulent orange and gold silk traditional vest, embroidered batik jarik skirt, and ornate headcloth. Weeping panicked expression with streaming clay tears, wide bulging eyes, and trembling open mouth, kneeling on the sandy ground near white salt piles, warm natural daylight, rich environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby, wealthy middle-aged coastal landlord in an opulent orange and gold silk traditional vest, embroidered batik jarik skirt, and ornate headcloth. Weeping panicked expression with streaming clay tears, wide bulging eyes, and trembling open mouth, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Raja Keraton Jawa) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, inside a grand traditional carved teak wooden palace hall (Pendopo Keraton), warm lantern illumination, rich environmental background, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A dignified, jovial Javanese king in majestic golden royal keraton robes, elaborate golden crown (mahkota), and batik jarik. Sitting on a lavish carved golden wooden throne, laughing heartily holding his belly with tears of joy, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 4. TAMBAK GARAM & TERPAL HITAM (Salt Pans & Sunshade Canopy Asset) ---
+Option A (In-Scene Prop Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+A wide shot in comical claymation style, soft plasticine clay texture. Multiple rectangular clay salt evaporation ponds filled with glistening white sea salt crystals, with a giant black fabric canopy hoisted high on tall bamboo poles casting a sharp dark shadow over the ponds, beside a sunny tropical sandy beach with palm trees and ocean waves, full coastal background, no plain white background, 8k resolution.
+
+Option B (Isolated Prop Sheet - OPTIONAL FOR CUTOUT / STICKER):
+A miniature claymation model of rectangular sea salt ponds with white salt crystals and a hoisted black canvas tarp canopy, isolated full prop on a solid plain white background, soft studio lighting, 8k resolution.

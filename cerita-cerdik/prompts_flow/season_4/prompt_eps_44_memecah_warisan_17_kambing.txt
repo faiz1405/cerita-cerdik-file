@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Memecah Warisan 17 Kambing Anak Yatim Tanpa Disembelih (Eps 44)
+- Clicky Video Headline: Niat Rampas 17 Kambing Warisan Anak Yatim, Rentenir Serakah Kena Jebakan Matematika Tingkat Dewa Ki Udin!
+- Single Video Title: Cerita Cerdik Ki Udin Season 4 - Warisan 17 Kambing (Eps 44)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: in a dusty rural village yard under bright tropical daylight, an extremely greedy skinny village moneylender (Rentenir Sengkuni) with cross-eyes and shiny gold teeth laughs wickedly wide open while violently swinging a heavy iron chain toward the camera. He stares sadistically into the camera with bulging angry eyes, aggressively shouting instantly from frame 1 at 0.0 seconds in loud authentic Javanese accent: "Warisane ora iso dibagi! Kabeh wedhus iki tak sita saiki!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 0 seconds. Behind him, 17 claymation goats are tied up. Beside him at second 0, Ki Udin steps forward fluidly in his signature striped earth-toned lurik shirt and brown batik blangkon, holding a goat's rope with a highly confident mischievous smirk, boldly challenging the villain. Fluid clay stop-motion animation, instant continuous Javanese speech from 0.0s to 3s, comical exaggerated mouth movements, rustic bamboo fences and thatched huts in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[delayed speech, silence in the beginning, late dialogue, character mouth closed at start, slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground in a vibrant tropical village yard, Ki Udin the clever elderly clay figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt smiles with triumphant wit, pointing to a blackboard showing "18 / 2 = 9" in chalk! In the comical background, the skinny greedy moneylender (Rentenir Sengkuni) with a purple silk shirt is flying mid-air, having just been violently but comically headbutted on his buttocks by a giant angry male goat! The moneylender is crashing into a puddle of thick black mud, his face and luxurious clothes splattered with comically exaggerated black mud stains like a muddy buffalo. Three joyful young orphan boys and a crowd of Javanese farmers wearing woven bamboo caping hats cheer and roar with hearty belly laughter around the herd of 17 fluffy goats. Radiant morning tropical sunlight, rich clay stop-motion textures, cinematic depth of field, full environmental rural village setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry, blood, gore]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut. Wajah karakter dibuat BERSIH tanpa lumpur, efek lumpur dan tandukan dianimasikan terpisah di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Ki Udin Pemenang]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Ki Udin, elderly Javanese wise peasant, 58 years old, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Hands relaxed naturally at sides, holding no objects, holding nothing, no props. Calm mischievous confident smile, unblemished clean face.
+
+[Prompt Option B: Rentenir Sengkuni Panik]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Skinny arrogant village moneylender, 45 years old, slightly cross-eyed, gaudy purple silk shirt, black peci hat, black trousers. Hands raised in panic, empty hands, holding no objects, holding nothing, no props. Shocked exaggerated panicking face, mouth wide open screaming, clean face, immaculate clothes without mud.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no blood, no injury]`

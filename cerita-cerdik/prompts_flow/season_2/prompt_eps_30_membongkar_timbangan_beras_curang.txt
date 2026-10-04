@@ -1,0 +1,69 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 30 (SEASON 2 EPISODE 10 - GRAND FINALE!)
+Judul Episode: Membongkar Timbangan Beras Curang (Eps 30 / S2E10)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Membongkar Timbangan Beras Curang (Grand Finale Season 2)
+- Clicky Video Headline: SUNAT BERAS PETANI PAKAI TIMBANGAN PALSU?! AKAL CERDIK KI UDIN BONGKAR BATU TIMBEL DI KAKI SULTAN!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Membongkar Timbangan Beras Curang (Grand Finale Eps 30)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Inside a sunlit grand Javanese village pendopo pavilion, a heavy black lead counterweight bounces clattering onto the stone floor right before the golden embroidered royal shoes of Sultan Prabu. On the wooden table, a proud fat white rooster crows triumphantly. A chubby corrupt village chief (Pak Lurah) in a green silk beskap falls to his knees trembling in terror, sweating profusely and bowing to the ground, shouting in terrified Javanese accent: "Ampun Gusti Sultan! Nyuwun pangapunten, kulo khilaf Gusti!" with clear authentic Javanese spoken dialogue audio. Beside the table, Ki Udin smiles calmly with dignified posture. Fluid claymation character animation, dramatic slow camera zoom-in, 3-second looping video motion, warm royal daylight, stacks of burlap rice sacks and royal palace banners in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching grand finale claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a bustling village square pendopo, Ki Udin clay figure with short white hair in a striped lurik shirt proudly wears a ceremonial golden silk scarf around his neck, holding a magnificent fat white rooster with a bright red comb. Standing beside him, Sultan Prabu in majestic royal velvet robes and glittering golden keraton crown smiles warmly with approval, his hand resting on a royal staff. On the stone floor below, a rigged bronze balance scale is broken open, exposing a heavy iron lead weight. Pak Lurah chubby corrupt chief kneels in comical disgrace with guards holding his arms. Cheering village farmers tossing bamboo conical hats into the air amidst towering stacks of golden grain and white rice sacks. Radiant golden celebratory sunlight, vibrant clay textures, rich royal banners, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih - Penasihat Keraton) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, batik sarung with sandals, and an elegant royal golden silk sash draped over his shoulder. Holding a handsome white rooster under his arm, standing proudly with a triumphant wise smirk, warm celebratory sunlight, traditional village pendopo background with burlap rice sacks, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and golden silk sash. Holding a white rooster, standing pose with a cheerful victorious smile, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH CULAS (Chubby Corrupt Village Chief) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing an emerald green silk beskap and crumpled batik jarik skirt. Hilarious pale panicked face, kneeling down on a stone floor with hands begging for mercy before royal guards, broken bronze scale beside him, warm daylight, full environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief with a thick mustache, wearing an emerald green silk beskap and crumpled batik jarik skirt. Terrified pleading expression, kneeling pose on his knees with trembling hands together, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. SULTAN PRABU (Wise Majestic King) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A tall dignified Javanese monarch wearing an ornate gold royal crown, deep burgundy velvet royal beskap with gold embroidery, and royal batik keraton skirt. Stern commanding expression holding a carved wooden royal staff, standing in front of royal keraton banners, warm sunlight, full environmental setting, no plain white background, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A tall dignified Javanese monarch wearing an ornate gold royal crown, deep burgundy velvet royal beskap with gold embroidery, and royal batik keraton skirt. Stern commanding pose with hand on royal sash, isolated full body on a solid plain white background, soft studio lighting, 8k resolution.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+- Frasa Pengunci Style (Wajib di Awal Setiap Shot & Prompt Video):
+  `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting`
+- Negative Constraints (Anti-Orang Asli & Anti-3D CGI):
+  `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]`
+- Karakter Manusia Saja: Daftar karakter hanya boleh diisi oleh karakter manusia hidup (Ki Udin, Pak Lurah Culas, Sultan Prabu).

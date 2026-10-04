@@ -1,0 +1,99 @@
+[theme]
+Membongkar Pencuri Licik dengan Jebakan Psikologi / Cerita Cerdik.
+
+[purpose]
+Menghibur audiens keluarga dan dewasa dengan kecerdikan Ki Udin mengungkap pencuri emas kerajaan menggunakan trik tongkat kayu ajaib yang memancing pencuri memotong tongkatnya sendiri.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[videoContent]
+Shot 1 (0-35s): Comical claymation folk art style, soft plasticine clay texture, 9:16 vertical ratio. Inside a grand Javanese royal palace hall (Pendopo Keraton), an empty open golden treasure chest sits on the floor while royal guards and ministers argue and point fingers furiously. Sultan Prabu looks distressed on his golden throne as innocent poor palace servants tremble in fear of being wrongfully imprisoned. CapCut Effect: Dramatic Slow Zoom-in on the empty treasure chest and anxious servants, Claymation filter. Audio: Tense royal gamelan suspense music, angry shouting SFX, gasping crowd SFX. Rich traditional Javanese palace hall setting, carved wooden pillars, warm ambient lanterns, full environmental depth, no plain white background, no blank backdrop. VO: "Sekantong koin emas dan permata milik perbendaharaan keraton mendadak hilang dicuri, membuat seluruh prajurit saling tuduh dan para pelayan miskin terancam dipenjarakan secara sepihak."
+
+Shot 2 (35-70s): Ki Udin clay figure with short white hair in a striped lurik shirt and blangkon steps forward calmly holding a bundle of identical wooden sticks. Ki Udin hands one stick to each suspect, announcing with a confident smile that these magical truth sticks will miraculously grow two inches longer tonight specifically in the hands of the real thief. CapCut Effect: Soft Blur background with gentle Slow Zoom-in on the bundle of wooden sticks and Ki Udin's mysterious smile. Audio: Mysterious marimba melody, wooden stick clicking SFX, curious whispers SFX. Palace hall courtyard background, warm evening lanterns, traditional Javanese architecture, full depth, no studio void, no white background. VO: "Ki Udin melangkah maju menengahi dan membagikan tongkat kayu berukuran sama kepada seluruh tersangka, mengumumkan bahwa tongkat pusaka ini akan tumbuh memanjang dua jari secara ajaib di tangan si pencuri asli."
+
+Shot 3 (70-115s): In a dark rustic wooden bedroom lit by a flickering candle, the real thief clay figure in guard attire sweats profusely with wide bulging eyes. Panicking that his stick will grow by morning, he secretly takes a sharp knife and saws off two inches from the tip of his wooden stick, chuckling with nervous relief. CapCut Effect: Dynamic Zoom-in on the knife sawing the wood and flying clay sawdust, dramatic shadow effect. Audio: Tense heartbeat SFX, rapid wood-cutting sawing SFX (srek-srek), nervous gulping SFX. Dark rustic wooden room interior, candlelight, shadowy claymation atmosphere, full environmental setting, no plain white background. VO: "Di tengah malam yang sunyi, si pencuri asli yang panik dan ketakutan mengendap-endap memotong tongkat kayunya sepanjang dua jari dengan pisau agar besok pagi panjangnya terlihat normal."
+
+Shot 4 (115-150s): Next morning at the grand royal palace hall, all suspects stand in line holding up their wooden sticks before Sultan Prabu. The thief's stick is comically the shortest of all! Ki Udin points playfully at the thief, who collapses to his knees trembling and confessing, while Sultan Prabu bursts into roaring belly laughter holding his stomach. CapCut Effect: Gentle Slow Zoom-out, hilarious shake effect when Sultan laughs, warm golden sunset Fade Out. Audio: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd SFX. Grand royal palace Pendopo background, warm golden lighting, cheering guards, full depth. VO: "Keesokan paginya saat semua tongkat diacungkan, tongkat si pencuri justru paling pendek sendiri, membuatnya sujud mengaku bersalah sementara Sultan Prabu tertawa terbahak-bahak memuji kejeniusan Ki Udin!"
+
+[videoNarration]
+Suatu hari, suasana keraton mendadak geger dan tegang luar biasa ketika sekantong koin emas dan permata langka milik perbendaharaan istana mendadak hilang dari peti penyimpanan. Para menteri, juru kunci, dan prajurit pengawal istana saling lempar tuduhan dengan penuh amarah. Bahkan, beberapa orang pelayan dan pembantu miskin yang sedang menyapu lantai keraton hendak langsung dijebloskan ke dalam penjara bawah tanah secara sepihak. Sultan Prabu tampak sangat gundah di atas takhtanya karena tidak ada satu pun bukti atau saksi mata yang bisa menunjukkan siapa dalang di balik pencurian besar itu.
+
+Melihat rakyat kecil tak bersalah hendak menjadi korban fitnah, Ki Udin yang berambut putih dan penuh akal melangkah maju menghadap Sultan Prabu. Sambil membawa seikat tongkat kayu jati kecil yang telah dipotong dengan panjang yang persis sama, Ki Udin membagikan satu tongkat kepada setiap orang yang berada di keraton. Dengan suara lantang dan penuh wibawa, Ki Udin mengumumkan: 'Wahai hadirin sekalian! Ini bukanlah tongkat kayu biasa, melainkan Tongkat Pusaka Kejujuran. Nanti malam, tongkat milik orang yang tidak bersalah tidak akan berubah sedikit pun, namun tongkat milik si pencuri asli akan tumbuh memanjang dua ruas jari secara ajaib sebelum fajar menyingsing!'
+
+Mendengar pengumuman itu, si pencuri asli yang merupakan salah seorang prajurit keraton langsung dilanda kepanikan yang teramat sangat. Di tengah malam yang gelap gulita dan sepi, sang prajurit pencuri tidak bisa memejamkan matanya sama sekali. Keringat dingin mengucur deras di dahinya karena ia sangat takut tongkatnya akan bertambah panjang di pagi hari. Karena merasa sangat pintar, si pencuri mengambil sebilah pisau kecil lalu menggergaji ujung tongkat kayunya sepanjang dua ruas jari. 'Haha! Kalau malam ini tongkatku memanjang dua jari, besok pagi ukurannya akan pas sama persis dengan tongkat yang lainnya!' bisik si pencuri sambil tersenyum puas.
+
+Keesokan paginya di hadapan Sultan Prabu dan ratusan rakyat yang berkumpul di pendopo, Ki Udin meminta semua orang berbaris lurus dan mengacungkan tongkat kayu mereka ke depan. Seluruh tongkat tampak berukuran sama persis, kecuali satu tongkat milik si pencuri yang terlihat sangat pendek dan terpotong kasar! Ki Udin langsung menunjuk si pencuri sambil tersenyum santai: 'Gusti Sultan, tongkat kayu tentu tidak bisa tumbuh memanjang, tetapi rasa bersalah si pencuri telah memaksanya memotong tongkatnya sendiri!' Sang pencuri seketika gemetar hebat, ambruk bersujud di lantai, dan mengembalikan seluruh koin emas keraton. Seketika itu juga, Sultan Prabu tertawa terbahak-bahak memegangi perutnya hingga mahkotanya bergoyang, lalu menghadiahi Ki Udin sekantong keping emas atas trik psikologinya yang luar biasa jenius!
+
+[bgmStyle]
+(1) 0-35s: Tense royal gamelan suspense music, angry shouting SFX, gasping crowd SFX.
+(2) 35-70s: Mysterious marimba melody, wooden stick clicking SFX, curious whispers SFX.
+(3) 70-115s: Tense heartbeat SFX, rapid wood-cutting sawing SFX (srek-srek), nervous gulping SFX.
+(4) 115-150s: Boisterous belly laughter SFX, triumphant gamelan melody ending, cheering crowd SFX.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font bulat jenaka ramah keluarga, warna kuning emas dengan outline cokelat kayu tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria desa Jawa berambut putih cerdik memegang seikat tongkat kayu tersenyum santai penuh akal di pendopo keraton, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Sultan Prabu",
+"description": "Raja Keraton Jawa di atas takhta emas tertawa terbahak-bahak memegang perut dengan riang gembira, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Prajurit Pencuri",
+"description": "Pria prajurit istana berwajah pucat berkeringat dingin mengacungkan tongkat kayu pendek terpotong bersujud gemetar ketakutan, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

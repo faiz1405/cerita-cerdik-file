@@ -1,0 +1,64 @@
+===================================================================
+EPS 11: Memindahkan Pendopo Raksasa ke Atas Bukit (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & Instagram Reels - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+Framework: FLSR Winning Content & Neuromarketing Director (System 1 Retention)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Memindahkan Pendopo Raksasa ke Atas Bukit 🏛️⛰️
+- Clicky Headline: "Ditantang Pejabat Sombong Pindahin Pendopo Raksasa ke Puncak Bukit, Ki Udin Malah Balik Ngerjain di Depan Sultan! 🏛️⛰️🤣"
+- Caption Teks FB: Ditantang pejabat sombong buat PINDAHIN pendopo kayu raksasa ke puncak bukit, Ki Udin malah suruh pejabatnya angkat duluan ke pundaknya! 🏛️⛰️🤣 Cuma Ki Udin yang bisa bungkam pejabat licik pakai jebakan kata yang bikin Sultan ngakak terpingkal-pingkal! Tulis pendapat kalian di kolom komentar! 👇
+- Caption Teks IG: Ditantang pejabat sombong buat PINDAHIN pendopo kayu raksasa ke puncak bukit, Ki Udin malah suruh pejabatnya angkat duluan ke pundaknya! 🏛️⛰️🤣 Cuma Ki Udin yang berani permaluin Patih licik pakai jebakan logika cerdik di depan Sultan! 📌 Klik [ IKUTI / FOLLOW ] di profil @ceritacerdik!
+
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Outside a grand traditional Javanese royal palace, a massive ornate carved teak wood pavilion (Pendopo) stands majestically. Ki Udin clay figure with short white hair and a traditional blangkon hat stands ready with thick ropes and a woven shoulder sash, winking with a calm mischievous smile. Next to him, a chubby arrogant royal minister (Patih) clay figure points aggressively, shouting loudly in Javanese accent: "Pindahno pendopo iki neng puncak bukit saiki!". Clear authentic Javanese spoken dialogue audio, fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm royal ambient lanterns lighting, rich carved wooden palace courtyard background, tropical foliage, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[english speech, english dialogue, western accent, english audio, subtitles, text overlay, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay modeling textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with short white hair and blangkon hat proudly holding a thick rope on his shoulder with a confident witty smile. On the right, a chubby arrogant royal minister (Patih) clay figure looking pale and sweating in panic, jaw dropped wide open in utter disbelief. In the background, a majestic giant carved teak wooden Javanese Pendopo building under bright sunlight, and Sultan Prabu laughing heartily on his royal throne. Rich clay textures, warm natural lighting, cinematic depth of field, highly detailed 9:16 vertical aspect ratio, no studio void.
+
+
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+-------------------------------------------------------------------
+Tool Target: Gemini Chat / Google Imagen 3
+
+▶ OPTION A: IN-SCENE CHARACTER FRAME (RECOMMENDED FOR CAPCUT / SEEDANCE)
+(Gunakan prompt ini agar gambar karakter sudah langsung memiliki latar pemandangan alami keraton/perkampungan dan TIDAK menghasilkan latar putih saat di-render di CapCut)
+
+• Karakter 1: Ki Udin (In-Scene Keyframe)
+Prompt:
+Full body character shot of Ki Udin in comical claymation style, soft plasticine clay texture. A wise clever elderly Javanese man with short white hair, wearing a traditional blangkon hat, brown striped lurik shirt, and sarung, holding a thick coconut hemp rope and shoulder sash. Friendly mischievous smile, standing gracefully inside a majestic traditional Javanese royal palace courtyard in front of a giant carved teak wood Pendopo, warm morning sunlight, lush tropical palace garden background, full rich royal setting, no plain white background, no studio void, 8k resolution.
+
+• Karakter 2: Patih Sombong (In-Scene Keyframe)
+Prompt:
+Full body character shot of an arrogant royal minister (Patih) in comical claymation style, soft plasticine clay texture. A chubby proud middle-aged royal official with a curled mustache, wearing opulent purple and golden Javanese royal silk attire with an elaborate blangkon. Shocked pale expression with popped-out bulging eyes and dropped jaw, pointing his finger clumsily, standing in the palace courtyard near massive carved wooden pillars, warm natural daytime lighting, full rich environmental interior background, no plain white background, no blank studio backdrop, 8k resolution.
+
+• Karakter 3: Sultan Prabu (In-Scene Keyframe)
+Prompt:
+Full body character shot of Sultan Prabu in comical claymation style, soft plasticine clay texture. A dignified Javanese King wearing a golden royal crown and majestic royal Javanese attire. Laughing happily with a hearty expression holding his stomach, seated on a majestic carved wooden throne inside a traditional Javanese royal palace hall (Pendopo), warm ambient palace lanterns lighting, full royal interior background, no plain white background, no studio backdrop, 8k resolution.
+
+-------------------------------------------------------------------
+▶ OPTION B: ISOLATED CHARACTER SHEET (FOR CUTOUT / STICKERS ONLY)
+
+• Karakter 1: Ki Udin (Isolated)
+Prompt: Full body character design of Ki Udin in comical claymation style, soft plasticine clay texture. Wise elderly Javanese man with white hair carrying a rope on his shoulder, smiling wittily, isolated on a solid plain clean white background, high quality clay model asset, 8k resolution.
+
+• Karakter 2: Patih Sombong (Isolated)
+Prompt: Full body character design of a chubby arrogant royal minister in comical claymation style, soft plasticine clay texture. Panicked shocked minister in purple gold royal attire, isolated on a solid plain clean white background, 8k resolution.
+
+• Karakter 3: Sultan Prabu (Isolated)
+Prompt: Full body character design of Sultan Prabu in comical claymation style, dignified laughing King in golden crown, isolated on a solid plain clean white background, 8k resolution.

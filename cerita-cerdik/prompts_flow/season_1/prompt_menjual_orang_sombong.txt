@@ -1,0 +1,29 @@
+===================================================================
+HARI 4: Menjual Orang Paling Sombong di Pasar Desa (Adaptasi Abu Nawas)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menjual Orang Paling Sombong 🌾🤣
+- Clicky Headline: "Raja Menyamar Jadi Rakyat, Malah Dilelang Pria Cerdik Ini Buat Numbuk Padi Seharian! 🌾🤣"
+- Caption Teks: Raja menyamar jadi rakyat, malah dilelang pria cerdik ini buat numbuk padi seharian! 🌾🤣 Cuma Ki Udin yang berani ngasih pelajaran kerendahan hati ke Sultan pakai cara konyol tapi bikin terharu. Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot in a crowded traditional Javanese market square. Ki Udin clay figure, a clever Javanese man with short white hair wearing a blangkon and lurik shirt, actively shouts while pointing at Sultan Prabu clay figure who is disguised in simple peasant clothes. Sultan Prabu stands awkwardly with a funny shocked face, sweating and bowing in embarrassment. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure with white hair smiling cleverly as he auctions off his companion. On the right, a comical Javanese Sultan clay figure in simple peasant clothes holding a heavy wooden pestle to pound rice, sweating profusely with a comically tired face. Soft clay modeling textures, bright sunny village market vibes, highly detailed 9:16 aspect ratio.

@@ -1,0 +1,127 @@
+[theme]
+Membeli Asap dan Panas Pembakaran Lahan Pakai 1 Koin / Cerita Cerdik Season 3.
+
+[purpose]
+Menghibur pemirsa keluarga Indonesia dengan aksi kecerdikan hukum kontrak Ki Udin membungkam juragan tanah culas yang membakar lahan sembarangan dan merusak jemuran warga desa, menjebak kesombongan juragan hingga terbatuk di rumah mewahnya dan mandi air comberan demi memadamkan apinya sendiri.
+
+[audience]
+Anak-anak, remaja, dewasa, dan keluarga Indonesia di Facebook, Instagram & TikTok.
+
+[visualMaterial]
+[
+"aigc"
+]
+
+[duration]
+150
+
+[mediaType]
+clip
+
+[ratio]
+9:16
+
+[platform]
+Tiktok
+
+[outline]
+Shot 1 (0-35s): In a dusty village clearing under a sky choked with dark grey smoke, an arrogant wealthy landowner proudly watches his illegal brush fire spread, ruining the villagers' drying rice and fish, rudely boasting that smoke belongs to the sky; before the 10th second, Ki Udin steps forward with a calm playful smirk, holding an official seal paper and a copper coin.
+Shot 2 (35-70s): Before angry village women and onlookers, Ki Udin politely offers to legally purchase all the smoke and heat from the fire for a single copper coin; blinded by greed for free money, the laughing merchant eagerly signs the contract and snatches the coin.
+Shot 3 (70-115s): As thick smoke drifts directly into the merchant's luxurious open-air pendopo house, Ki Udin announces that since the smoke is now his legal property, the merchant is storing it without permission and must pay 100 gold coins for storage rent or extinguish the fire immediately; the merchant chokes on smoke in sudden panic.
+Shot 4 (115-150s): Desperate to avoid the massive fine, the coughing merchant grabs a bucket of foul ditch water, rushes to douse the fire, and slips face-first into the muddy puddle, soaking his expensive batik sarong as laughing village mothers celebrate Ki Udin's witty victory.
+
+[videoContent]
+Shot 1 (0-35s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 9:16 vertical ratio. Under an overcast sky choked with billowing dark grey claymation smoke, an arrogant chubby landowner (Juragan Tejo) wearing an opulent emerald batik beskap, velvet blangkon, and heavy gold rings stands with his hands on his hips near a blazing dry grass fire, laughing wickedly as black soot drifts over thatched bamboo village huts, ruining mats of drying paddy rice and salted fish of protesting village mothers. Before the 10th second, Ki Udin steps forward in his humble striped lurik shirt and golden sash with a calm playful smirk, holding an official royal seal paper in one hand and a gleaming copper coin in the other to accept the challenge. CapCut Effect: Comical Snap Zoom-in on the merchant's mocking laugh and the drifting grey smoke, Slow Zoom on Ki Udin's confident smiling eyes, Claymation filter. Audio: Crackling brush fire SFX (kretek-kretek!), coughing village women sounds (uhuk-uhuk!), merchant's arrogant roar, deep village gong drone (duuung!). Village border clearing background, bamboo fences, drying racks covered in soot, full environmental depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background, no blank backdrop. VO: "Juragan tanah culas nekat membakar lahan ilalang hingga asapnya merusak jemuran padi dan ikan asin warga desa, namun sebelum sepuluh detik Ki Udin langsung maju membungkamnya membawa kertas segel dan sekeping koin tembaga!"
+
+Shot 2 (35-70s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 9:16 vertical ratio. In front of the gathering villagers and curious onlookers, Ki Udin holds up the shiny copper coin and formally offers to purchase all the rising smoke, ash, and heat from the blaze. Juragan Tejo rubs his hands with insatiable greed, laughing mockingly at what he perceives as peasant foolishness, and quickly scribbles his signature on the royal seal paper, snatching the copper coin with a smug grin. Village women watch in tense suspense. CapCut Effect: Soft Blur background with comical Slow Zoom-in on the contract signing and the gleaming copper coin, followed by a tracking pan to Ki Udin's mischievous wink. Audio: Whimsical village gamelan flute, ink scratching SFX (srek-srek!), coin clink (kling!), merchant's greedy chuckle (hahaha!), crowd curious murmurs. Village road background, lush banana trees, smoke haze in distance, full environmental setting, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no studio void, no white background. VO: "Merasa untung dapat uang cuma-cuma, sang juragan serakah tertawa terbahak-bahak dan langsung menandatangani surat segel resmi jual-beli asap seharga satu koin tembaga!"
+
+Shot 3 (70-115s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 9:16 vertical ratio. As soon as the contract is sealed, the wind shifts, blowing thick billowing grey smoke and ash straight into Juragan Tejo's nearby open-air pendopo mansion with carved teak pillars! Ki Udin points authoritatively at the smoke entering the mansion, loudly announcing that the smoke is now his legal property, and because the merchant is harboring it without a permit, he must pay an emergency storage fine of one hundred gold coins or extinguish the fire at once! Juragan Tejo clutches his throat, coughing violently with wide bulging eyes as his precious silk curtains blacken with soot. CapCut Effect: Dynamic camera pan tracking the smoke entering the carved wooden pendopo, dramatic shock lightning flash, extreme close-up on the merchant's flabbergasted coughing face, comical screen shake. Audio: Whooshing wind SFX, intense coughing and wheezing sounds (uhuk-uhuk-hosh!), dramatic brass sting (jreeeng!), unanimous crowd gasps. Luxurious wooden pendopo interior background, swirling smoke curls, blackening silk drapes, full depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no plain white background. VO: "Begitu asap masuk mengotori pendopo mewahnya, Ki Udin mengumumkan bahwa sang juragan telah menampung asap miliknya tanpa izin dan wajib membayar denda sewa seratus koin emas atau padamkan apinya sekarang juga!"
+
+Shot 4 (115-150s): Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 9:16 vertical ratio. Terrified of losing one hundred gold coins, the frantic merchant grabs a wooden bucket of foul, muddy drainage water from the nearest ditch and sprints to splash it onto the fire. Clumsily tripping over a tree root, he splashes the murky water everywhere and tumbles headfirst into the muddy comberan puddle—GUBRAK! He sits up drenched in foul black mud and soot, his curled mustache dripping dirty water, while the fire is completely snuffed out. Village mothers and children cheer and clap with roaring laughter, while Ki Udin bows gracefully with a warm victorious smile under the golden sunset. CapCut Effect: Gentle Slow Zoom-out, hilarious bounce shake on the massive comberan splash, glorious golden tropical village sunset Fade Out. Audio: Mud splash SFX (plung-byuuur!), merchant's comical whimper (waduh-waduh!), hearty cheer of village women and children's laughter, victorious gamelan fanfare, resonant gong. Muddy village ditch clearing background, extinguished smoking embers, joyous villagers, smiling Ki Udin, full depth, no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no studio void. VO: "Panik kena denda emas, sang juragan terburu-buru menyiram api pakai air comberan sampai terpeleset nyungsep ke lumpur bau, disambut gelak tawa warga desa atas kecerdikan Ki Udin!"
+
+[videoNarration]
+Siang itu di perbatasan desa, udara mendadak pekat dan menyesakkan dada. Kepulan asap hitam tebal membubung tinggi ke angkasa, menutupi sinar matahari dan meniupkan abu arang panas ke seluruh pekarangan rumah warga.
+
+Rupanya, Juragan Tejo yang terkenal kikir dan sombong sengaja membakar lahan ilalang keringnya secara serampangan untuk memperluas kebun kelapanya. Asap tebal bercampur jelaga itu terbang langsung ke arah pemukiman, mengotori jemuran padi dan merusak ratusan ikan asin yang sedang dijemur oleh ibu-ibu warga desa.
+
+Melihat mata pencaharian mereka rusak, para ibu desa dan warga datang berbondong-bondong memprotes. Namun sambil berdiri pongah di depan kobaran api dengan beskap sutra mewahnya, Juragan Tejo tertawa terbahak-bahak meremehkan: "Heh orang-orang udik! Jangan banyak bacot! Ini tanahku, apiku, dan pohon-pohon ini milikku! Kalau apiku menghasilkan asap tebal dan angin meniupnya ke jemuran kalian, itu urusan angin dan langit! Siapa yang bisa melarang asap terbang di udara, hah?!"
+
+Mendengar ucapan yang begitu angkuh, warga desa hanya bisa mengelus dada menahan amarah karena juragan itu kebal hukum.
+
+Namun belum sampai sepuluh detik kejengkelan warga memuncak, Ki Udin yang mengenakan baju lurik bergaris langsung melangkah tenang menerobos kerumunan sambil memegang selembar kertas segel resmi dan sekeping koin tembaga mengilap: "Wahai Juragan Tejo yang terhormat, jika asap dan hawa panas dari lahan ini memang benar milikmu dan bukan urusan siapa-siapa, apakah kamu sudi menjual seluruh asap dan panas dari apimu itu kepadaku seharga satu koin tembaga ini?"
+
+Juragan Tejo terbelalak kaget lalu tertawa terbahak-bahak sampai perut buncitnya berguncang: "Hahaha! Dasar orang tua gila! Asap yang sudah terbang mau kamu beli?! Tentu saja aku mau uang gratis! Sini koinnya, aku tanda tangani surat segelmu sekarang juga!"
+
+Tanpa ragu sedikit pun, Juragan Tejo langsung menandatangani kertas segel resmi itu dan merampas koin tembaga dari tangan Ki Udin dengan penuh ketamakan.
+
+Begitu tinta tanda tangan mengering, senyum ramah Ki Udin seketika berubah menjadi senyum licik kemenangan! Ki Udin mengangkat kertas segel itu tinggi-tinggi di hadapan seluruh warga, lalu mengarahkan telunjuknya tepat ke pendopo rumah mewah Juragan Tejo yang berdiri megah tak jauh dari perapian: "Wahai Juragan Tejo dan seluruh warga desa, saksikanlah! Berdasarkan surat segel resmi ini, detik ini juga SELURUH ASAP, ABU, DAN HAWA PANAS dari pembakaran lahan ini telah resmi menjadi MILIK SAH AKU, KI UDIN!"
+
+Juragan Tejo mengernyit bingung: "Lalu kenapa kalau itu milikmu, hah?!"
+
+Ki Udin berseru lantang: "Perhatikanlah pendopomu! Angin sedang berhembus kencang meniup seluruh asap hitam, abu jelaga, dan hawa panasku masuk memenuhi ruang tamu mewahmu! Asap milikku menempel di tirai sutramu, mengotori guci keramikmu, dan mengendap di kamar tidurmu! Kamu telah menampung dan menyimpan barang milikku di dalam rumahmu tanpa izin! Sesuai aturan hukum, kamu wajib membayar uang sewa penampungan asap sebesar seratus koin emas, atau padamkan apiku detik ini juga!"
+
+Mendengar kata seratus koin emas, mata Juragan Tejo seketika melotot horor! Belum sempat ia membantah, kepulan asap tebal yang terperangkap di dalam pendoponya mulai menyesakkan dadanya sendiri—UHUK! UHUK! HOSH! Matanya perih berair, napasnya tercekat, dan tirai sutra mahalnya mulai menghitam kena jelaga!
+
+Panik membayangkan harus membayar denda seratus koin emas, sang juragan menjerit histeris: "Waduh tobaat! Tolooong! Jangan denda aku seratus emas! Aku padamkan apinya sekarang!"
+
+Saking panik dan tergesa-gesa mencari air terdekat, sang juragan menyambar ember kayu lalu menciduk air comberan parit yang hitam pekat dan berbau busuk! Sambil berlari tergopoh-gopoh menyiramkan air comberan ke kobaran api, kakinya tersangkut akar dan—GUBRAK!
+
+Juragan Tejo terpeleset jungkir balik dan nyungsep masuk ke parit comberan berlumpur! Ia merangkak keluar dengan sarung sutra basah kuyup berbau comberan dan wajah cemong belepotan lumpur hitam, sementara apinya padam total!
+
+Ibu-ibu desa dan seluruh warga seketika meledak dalam sorak tawa bahagia! Logika kontrak satu koin Ki Udin pun kembali membungkam kesombongan dan menyelamatkan hak rakyat kecil tanpa pertumpahan darah!
+
+[bgmStyle]
+(1) 0-35s: Crackling brush fire SFX (kretek-kretek!), coughing village women sounds (uhuk-uhuk!), merchant's arrogant roar, deep village gong drone (duuung!).
+(2) 35-70s: Whimsical village gamelan flute, ink scratching SFX (srek-srek!), coin clink (kling!), merchant's greedy chuckle (hahaha!), crowd curious murmurs.
+(3) 70-115s: Whooshing wind SFX, intense coughing and wheezing sounds (uhuk-uhuk-hosh!), dramatic brass sting (jreeeng!), unanimous crowd gasps.
+(4) 115-150s: Mud splash SFX (plung-byuuur!), merchant's comical whimper (waduh-waduh!), hearty cheer of village women and children's laughter, victorious gamelan fanfare, resonant gong.
+
+[bgmId]
+
+[subtitleInfo]
+{
+"subtitleId": "",
+"subtitlePrompt": "Font tegas tradisional Jawa, warna kuning emas menyala dengan outline abu-abu jelaga tebal, posisi lower-center"
+}
+
+[characters]
+[
+{
+"name": "Ki Udin",
+"description": "Pria tua Jawa berambut putih cerdik mengenakan baju lurik bergaris memegang kertas segel dan koin tembaga tersenyum licik menang, gaya claymation.",
+"id": "ROLE_01"
+},
+{
+"name": "Juragan Tejo",
+"description": "Saudagar tanah tambun memakai beskap hijau dan sarung batik basah kuyup belepotan lumpur comberan hitam dengan wajah cemong memohon ampun, gaya claymation.",
+"id": "ROLE_02"
+},
+{
+"name": "Ibu Warga Desa",
+"description": "Ibu desa sederhana mengenakan kebaya lurik memegang tampah ikan asin tersenyum gembira menertawakan kesialan juragan, gaya claymation.",
+"id": "ROLE_03"
+}
+]
+
+[materialReferences]
+
+[ttsList]
+[
+{
+"id": "",
+"speed": 0.88
+}
+]
+
+[digitalHumanList]
+
+[styleList]
+[
+{
+"styleValue": "Claymation"
+}
+]
+
+[referenceNodeIds]
+
+[rawReferences]

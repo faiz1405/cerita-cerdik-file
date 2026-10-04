@@ -1,0 +1,48 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Misteri Sel Mewah Koruptor (Eps 51)
+- Clicky Video Headline: SEL MEWAH KORUPTOR?! KI UDIN BONGKAR KEBOHONGAN HANSIP!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Keadilan Desa: Sel Mewah (Eps 51)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: extreme close-up viewed through dirty bamboo prison bars. Inside the tight bamboo cell, a fat greedy ex-village head wearing a dirty grey prisoner shirt is sitting comfortably on luxurious red silk pillows. He is laughing greedily and taking a huge bite out of a giant roasted turkey leg. The camera quickly zooms out starting at 0.0s to reveal poor Javanese villagers outside the bamboo cell looking through the gaps in extreme shock and anger. At exactly second 2.0, the angry villagers shout loudly in authentic Javanese accent: "Wah, Kades enak-enakan!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 2 seconds. Fluid clay stop-motion animation, dramatic dusky sunset lighting casting strong contrasts between the dark dirty bamboo bars and the luxurious bright red silk inside, tense angry atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, bright sunny lighting, daylight, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text, modern prison, steel bars]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground next to a bamboo prison cell, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is holding a bamboo jar, releasing giant red ants! The red ants are carrying a roasted duck bone out of the bamboo cell! In the comical background inside the cell, a fat corrupt ex-village head wearing a grey prisoner shirt is jumping in panic, scratching his itchy body, sitting on torn luxurious silk pillows. A corrupt village guard (Hansip) is sweating nervously outside. Angry villagers are holding wooden brooms in the distance. Radiant cinematic dusk lighting, rich clay stop-motion textures, cinematic depth of field, full environmental mystery setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, modern prison, steel bars]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Ki Udin Senyum Cerdik (Tangan Kosong)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Ki Udin, elderly Javanese wise peasant detective, 58 years old, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Crouching down slightly, pointing one finger firmly forward, empty hands, holding no objects, holding nothing, no props. Sharp intelligent analyzing face, smiling cunningly, unblemished clean face.
+
+[Prompt Option B: Kades Koruptor Gatal Panik]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. Fat greedy ex-village head, 50 years old, wearing dirty grey prisoner shirt. Pose jumping in extreme panic, scratching his belly and back comically as if bitten by ants, empty hands, holding no objects, holding nothing, no props. Sweaty terrified itchy face, wide open eyes, clean face.
+
+[Prompt Option C: Hansip Keringat Dingin]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A corrupt village guard (Hansip), 40 years old, wearing classic green Indonesian Hansip uniform. Pose standing nervously, wiping sweat from his forehead, looking guilty and terrified, empty hands, holding no objects, holding nothing, no props.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, mystery detective atmosphere, dusky sunset lighting, bamboo prison cell...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, modern prison, steel bars]`

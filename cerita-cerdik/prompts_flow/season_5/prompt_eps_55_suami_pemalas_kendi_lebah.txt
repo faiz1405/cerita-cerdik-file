@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Suami KDRT Tertipu Kendi Emas Gaib (Eps 55)
+- Clicky Video Headline: SUAMI PEMALAS RAMPAS UANG ISTRI! KARMA KENDI GAIB!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Karma Instan Suami Pemalas (Eps 55)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: inside a dark gloomy rustic village hut, a lazy cruel javanese husband with messy hair and an unkempt mustache angrily slams his hand on a wooden dining table. He forcefully snatches a tin can full of coins from the table. His poor crying wife is standing 1 meter away from him weeping bitterly. Gold and silver coins scatter on the table. At exactly second 1.5, the cruel husband shouts loudly in authentic Javanese accent: "Duitku endi!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Fluid clay stop-motion animation, dramatic dark interior lighting casting harsh shadows, tense emotional atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text, modern interior, modern kitchen]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground at night under a banana tree, a lazy cruel javanese husband is running in extreme panic because his head is completely stuck inside a large clay jug (kendi). A massive swarm of giant angry forest bees is flying out of the broken bottom of the jug and stinging his body. He is waving his hands frantically. In the background, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is pointing at him and laughing out loud alongside the poor village wife. Radiant cinematic moonlight lighting, rich clay stop-motion textures, cinematic depth of field, full environmental rustic village night setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, modern glass jar, plastic bucket, modern house]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Suami Pemalas]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A lazy cruel javanese husband, 40 years old, messy unkempt hair, thick messy mustache, wearing a dirty loose grey shirt and dark pants. Pose standing with arms crossed, angry arrogant expression, empty hands, holding no objects, holding nothing, no props. Clean face.
+
+[Prompt Karakter 2: Istri Malang]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A poor sad javanese housewife, 35 years old, messy tied hair, wearing a faded brown traditional kebaya. Pose kneeling or standing slightly hunched, crying expression, sad eyes, empty hands, holding no objects, holding nothing, no props. Clean face with tear marks.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, dark moonlight lighting, banana tree...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, modern glass jar, plastic bucket]`

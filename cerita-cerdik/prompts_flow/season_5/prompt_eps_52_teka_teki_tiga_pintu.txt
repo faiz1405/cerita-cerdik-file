@@ -1,0 +1,45 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Teka-Teki Tiga Pintu Pembohong (Eps 52)
+- Clicky Video Headline: TEBAK PINTU MANA? 99% WARGA GAGAL!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Tes Logika: Tiga Pintu Gudang (Eps 52)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Immediate opening at second 0.0: Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay texture, 4k resolution. Opening directly from the very first frame at second 0 without any silent intro or delay: a wealthy arrogant village merchant wearing a luxurious shiny gold javanese shirt and golden blangkon is laughing mockingly and pointing his finger towards three giant wooden barn doors in the background. Each wooden door has a rustic wooden sign with text on it. The camera slowly zooms out starting at 0.0s to reveal terrified poor Javanese villagers behind the merchant, holding their heads in panic and confusion. At exactly second 2.0, the arrogant merchant shouts loudly in authentic Javanese accent: "Tebak sing bener!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 2 seconds. Fluid clay stop-motion animation, dramatic bright daylight lighting casting sharp shadows, tense confusing atmosphere, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, gloomy, dark, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text, modern doors, metal doors]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Hilarious comical claymation story poster, soft plasticine clay texture, 8k resolution. In the foreground, Ki Udin the clever elderly clay detective figure with short white clay hair, brown batik blangkon, and striped earthy lurik shirt is smiling brilliantly and doing a strong flying kick to break open a giant wooden barn door (Door number two)! From inside the broken door, a clumsy village thief wearing a black shirt and black mask falls down comically onto a pile of rice sacks. In the background, a wealthy arrogant merchant wearing a gold javanese shirt is fainting and falling backwards, looking extremely pale and shocked. Confused villagers are watching. Radiant cinematic daylight, rich clay stop-motion textures, cinematic depth of field, full environmental village setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, gloomy, low resolution, blurry, modern doors, metal doors]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: Seluruh aset karakter menggunakan latar belakang transparan / clean alpha cutout. Karakter TIDAK MEMEGANG OBJEK/PROPERTI APAPUN (tangan kosong / no props) agar fleksibel dianimasikan di CapCut)*
+-------------------------------------------------------------------
+[Prompt Option A: Saudagar Pingsan Kaku]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wealthy arrogant village merchant, 50 years old, wearing luxurious shiny gold javanese shirt and golden blangkon. Pose falling backwards fainting comically like a stiff wooden board, empty hands, holding no objects, holding nothing, no props. Pale shocked face, eyes rolled back, clean face.
+
+[Prompt Option B: Maling Terjungkal]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A clumsy village thief, 30 years old, wearing simple black shirt, black pants, and a black cloth mask covering his mouth and nose. Pose falling down comically upside down, empty hands, holding no objects, holding nothing, no props. Wide open shocked eyes, clean face.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (NEGATIVE CONSTRAINTS)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, bright daylight lighting, giant wooden barn doors...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, modern doors, metal doors]`

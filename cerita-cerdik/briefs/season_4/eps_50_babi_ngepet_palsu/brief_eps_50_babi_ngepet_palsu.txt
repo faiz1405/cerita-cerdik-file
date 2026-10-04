@@ -1,0 +1,157 @@
+# [theme]
+Kisah kecerdikan rakyat jelata Nusantara claymation POV KI UDIN — Detektif Desa (Test Ombak 4 / Final). Warga menangkap babi hutan dan menuduhnya sebagai Babi Ngepet karena banyak uang hilang. Saat babi mau diamuk massa, Ki Udin membuktikan itu babi biasa. Ia malah menemukan jejak sepatu bot berlumpur di jendela rumah korban pencurian. Terbongkarlah bahwa maling aslinya adalah Hansip desa yang sengaja menyebar hoaks babi ngepet untuk menutupi kejahatannya.
+
+# [purpose]
+Mitos vs Fakta (Kriminal). Membongkar takhayul klasik Indonesia (Babi Ngepet) menggunakan logika forensik sederhana (jejak sepatu). Thumb-stop tinggi di 3 detik pertama dengan visual babi yang dikepung warga marah.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (Penggemar mitos urban, cerita pesugihan, dan komedi investigasi).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+155
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme close-up wajah babi hutan yang ketakutan, dikelilingi kaki-kaki warga yang membawa obor terang. Kamera zoom out memperlihatkan warga mengepung babi malang itu di tengah desa. TEXT OVERLAY BOLD: "TANGKAP BABI NGEPET?! / KI UDIN BONGKAR MALING ASLINYA!".
+    ENVIRONMENT: NIGHT. Halaman desa malam hari diterangi cahaya obor jingga (firelight).
+    SUBJECT: Babi hutan kecil, kerumunan warga desa.
+    ACTION: Warga mengayunkan sapu dan obor dengan marah. Babi meringkuk ketakutan. SFX: Jumpscare Hit, Suara dengusan babi, Teriakan massa.
+    NARASI: "Warga desa gempar! Seekor babi hutan tertangkap di tengah malam dan dituduh sebagai siluman Babi Ngepet!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium shot.
+    ENVIRONMENT: NIGHT. Halaman desa.
+    SUBJECT: Hansip desa (berseragam hijau hansip) berteriak memprovokasi warga, namun matanya melirik licik.
+    ACTION: Hansip menunjuk-nunjuk babi itu sambil menghitung uang di tangannya secara diam-diam.
+    NARASI: "Belakangan ini banyak uang warga yang hilang misterius, sehingga babi ini langsung dijadikan kambing hitam. Warga yang marah sudah siap memukuli babi malang itu beramai-ramai."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Whip pan & Medium Two-Shot (Pacing Anti-Drop Detik 5-15).
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Ki Udin berjalan tenang menembus kerumunan warga yang emosi. 
+    ACTION: Ki Udin merentangkan tangan, menghentikan ayunan sapu warga. Ia berjongkok memeriksa babi itu. SFX: JENG! <break time="1.0s"/>
+    NARASI: "Namun, Ki Udin sang detektif desa datang dan menghentikan mereka. Ia meneliti babi itu dan tertawa kecil. 'Ini cuma babi hutan biasa yang tersesat cari makan!'"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Tracking Shot.
+    ENVIRONMENT: NIGHT. Depan rumah korban.
+    SUBJECT: Ki Udin membawa obor, diikuti warga dan Hansip desa yang mulai panik.
+    ACTION: Ki Udin berjalan menuju jendela rumah warga yang uangnya hilang.
+    NARASI: "Ki Udin lalu mengajak warga mengecek jendela rumah korban yang baru saja kecurian uang malam itu."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Close-up Makro Forensik.
+    ENVIRONMENT: NIGHT. Dinding bawah jendela.
+    SUBJECT: Jejak tanah berbentuk cetakan sol sepatu bot bergerigi tebal.
+    ACTION: Jari Ki Udin menunjuk jejak lumpur sepatu tersebut, membandingkannya dengan tanah.
+    NARASI: "Di sana, Ki Udin menunjuk sebuah jejak kaki berlumpur yang tercetak jelas di bawah jendela."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium shot.
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Ki Udin berdiri sambil memegang dagunya.
+    ACTION: Ki Udin menatap tajam ke arah kaki warga satu per satu dengan sinis.
+    NARASI: "Sejak kapan siluman babi ngepet memakai sepatu bot bergerigi ukuran empat puluh, Tuan-tuan? tanya Ki Udin tajam."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Close-up Kaki ke Wajah (Tilt Up).
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Sepatu bot hijau bergerigi milik Hansip desa yang penuh lumpur basah.
+    ACTION: Kamera bergerak ke atas (Tilt up) memperlihatkan wajah Hansip yang pucat pasi dan berkeringat dingin.
+    NARASI: "Warga pun terdiam. Semua mata kini tertuju pada Hansip desa yang dari tadi berkeringat dingin karena memakai sepatu bot yang sama!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Action & Reaksi.
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Hansip membuang uang curiannya dan lari pontang-panting. Babi hutan tersenyum dan lari ke arah hutan.
+    ACTION: Hansip dikejar massa yang marah. SFX: Slip (Wiuu~), Thud, Oink oink (suara babi gembira).
+    NARASI: "Ternyata sang Hansip sengaja mencuri uang warga dan menyebar isu babi ngepet agar ia tidak dicurigai! Hansip licik itu akhirnya ditangkap oleh warga."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 9**: Medium shot Ki Udin.
+    ENVIRONMENT: NIGHT.
+    SUBJECT: Ki Udin melambaikan tangan ke arah babi hutan yang kembali ke alam.
+    ACTION: Ki Udin tersenyum cerdik sambil menepuk tangannya yang kotor. Hard cut ke hitam.
+    NARASI: "Babi hutan yang tak bersalah pun dilepaskan, dan takhayul pesugihan berhasil dipatahkan oleh logika tajam Ki Udin!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Warga desa gempar! Seekor babi hutan tertangkap di tengah malam dan dituduh sebagai siluman Babi Ngepet!
+Belakangan ini banyak uang warga yang hilang misterius, sehingga babi ini langsung dijadikan kambing hitam.
+Warga yang marah sudah siap memukuli babi malang itu beramai-ramai.
+Namun, Ki Udin sang detektif desa datang dan menghentikan mereka.
+<break time="1.0s"/>
+
+Ia meneliti babi itu dan tertawa kecil. "Ini cuma babi hutan biasa yang tersesat cari makan!"
+Ki Udin lalu mengajak warga mengecek jendela rumah korban yang baru saja kecurian uang.
+Di sana, Ki Udin menunjuk sebuah jejak kaki berlumpur yang tercetak jelas di bawah jendela.
+"Sejak kapan siluman babi ngepet memakai sepatu bot bergerigi ukuran empat puluh, Tuan-tuan?" tanya Ki Udin tajam.
+<break time="1.0s"/>
+
+Warga pun terdiam. Semua mata kini tertuju pada Hansip desa yang dari tadi berkeringat dingin karena memakai sepatu bot yang sama!
+Ternyata sang Hansip sengaja mencuri uang warga dan menyebar isu babi ngepet agar ia tidak dicurigai!
+Hansip licik itu akhirnya ditangkap oleh warga yang marah!
+Babi hutan yang tak bersalah pun dilepaskan, dan takhayul pesugihan berhasil dipatahkan oleh logika tajam Ki Udin!
+
+# [bgmStyle]
+Skor misteri berbalut kearifan lokal. Awal sangat heboh (Jumpscare hit, ketukan kendang cepat dan riuh). Saat Ki Udin memeriksa babi, musik gamelan berubah santai dan cerdik (Sneaky Comedy). Saat Ki Udin menunjuk jejak sepatu terdengar SFX "TA-DAA!" atau gong penemuan. Saat Hansip ketahuan terdengar SFX "Record Scratch" (musik berhenti kaget). Diakhiri suara kejar-kejaran komikal kartun (Fast cartoon running).
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'siluman Babi Ngepet', 'dijadikan kambing hitam', 'memukuli babi malang', 'babi hutan biasa', 'kecurian uang', 'sepatu bot bergerigi', 'Hansip desa', 'menyebar isu', 'takhayul pesugihan', 'logika tajam'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Elderly Javanese wise peasant detective, 58, short white clay hair, traditional brown batik blangkon, earth-toned striped lurik shirt, dark batik sarung. Calm analytical expression. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Hansip Licik (ROLE_02)",
+        "description": "Corrupt village guard, 40s, wearing classic green Indonesian Hansip uniform and heavy muddy boots. Carrying a wooden baton. Panicking, sweating nervously. ANTAGONIS KOCAK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.1
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan perabot dibuat dalam gaya stop-motion claymation tradisional bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI. TEMA MISTERI MALAM: Pencahayaan malam (Night lighting) yang diterangi oleh banyak cahaya obor api jingga (firelight) yang menciptakan bayangan dramatis. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

@@ -1,0 +1,69 @@
+===================================================================
+PROMPT FLOW AI VIDEO & ASSETS GENERATOR - EPS 29 (SEASON 2 EPISODE 9)
+Judul Episode: Mencukur Jenggot Pak Lurah (Eps 29 / S2E09)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Mencukur Jenggot Pak Lurah
+- Clicky Video Headline: DISURUH CUKUR JENGGOT GAK BOLEH PERIH SEDIKIT PUN?! AKAL KOCAK KI UDIN BIKIN KUMIS PAK LURAH TINGGAL SEBELAH!
+- Single Video Title: Cerita Cerdik Ki Udin Season 2 - Mencukur Jenggot Pak Lurah (Eps 29)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Video-to-Video / Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. On a sunlit carved wooden porch of a traditional Javanese village pavilion, a chubby vain village chief (Pak Lurah) in a blue silk beskap holds a polished round bronze mirror, his eyes bulging comically in horror as he stares at his reflection: his left mustache and cheek are completely shaved bald and smooth, while his right mustache is thick, bushy, and wild, shouting loudly in panicked Javanese accent: "Waduh tobil cilaka! Kumisku kok mung kari separo ngene, Ki Udin?!" with clear authentic Javanese spoken dialogue audio. Behind the wooden chair, Ki Udin smiles wittily holding a fluffy shaving foam brush. Fluid claymation character animation, gentle slow camera zoom-in, 3-second looping video motion, warm morning sunlight, rustic teakwood porch railing and flying soap bubbles in background, full environmental depth, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, plain white background, studio void, blank backdrop, dark lighting, scary, sharp edges, low quality, blurry, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Eye-catching comical claymation story poster, soft plasticine clay texture, 8k resolution. In the center of a rustic village pendopo porch, Pak Lurah chubby landlord clay figure sits in a carved wooden chair looking into a shiny round bronze mirror with wide hysterical cartoon eyes, clutching his cheeks: his left cheek and mustache are cleanly shaved and bare, while his right cheek has a wild unruly black mustache sticking out sideways. Standing behind him, Ki Udin clay figure with short white hair in a striped lurik shirt and batik blangkon holds a wooden shaving bowl full of fluffy white soap foam, smiling with a polite innocent grin. Passing village women with market baskets and farmers laughing and pointing in the sunlit background. Radiant morning sunlight, floating soap bubbles, rich teakwood textures, ultra-high depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, scary, dark, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (IN-SCENE & ISOLATED)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+-------------------------------------------------------------------
+
+--- 1. KI UDIN (Pria Cerdik Berambut Putih) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a carved wooden shaving bowl with fluffy white lather and a bronze razor, standing beside a wooden chair with a calm polite smirk, warm morning sunlight, village porch background, full environmental setting, no plain white background, no blank studio backdrop, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A clever elderly Javanese man with short white clay hair, wearing a traditional brown batik blangkon, earth-toned striped lurik shirt, and batik sarung with sandals. Holding a wooden shaving bowl and brush, standing pose with a cheerful witty expression, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 2. PAK LURAH KUMIS BELANG (Chubby Vain Village Chief) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief wearing a royal blue silk beskap and batik jarik skirt. Hilarious shocked face with wide bulging eyes, staring into a round bronze mirror, his left mustache is cleanly shaved while his right mustache is thick and bristly, sitting in an ornate wooden chair, warm daylight, full environmental background, no plain white background, no studio void, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A chubby middle-aged village chief wearing a royal blue silk beskap and batik jarik skirt. Hilarious shocked expression with comical lopsided half-shaved mustache, holding a mirror in one hand and touching his bald cheek with the other, standing pose, isolated full body on a solid plain white background, even studio lighting, 8k resolution.
+
+--- 3. WARGA PASAR (Village Market Women & Men) ---
+Option A (In-Scene Character Frame - RECOMMENDED FOR CAPCUT / SEEDANCE):
+Full body character shot in comical claymation style, soft plasticine clay texture. A group of two friendly Javanese village villagers (a woman carrying a woven basket of herbs and a farmer in a conical hat). Laughing heartily pointing forward, standing in a sunlit village square, rustic village huts in background, warm sunlight, full environmental setting, no plain white background, 8k resolution.
+
+Option B (Isolated Character Sheet - OPTIONAL FOR CUTOUT / STICKER):
+Full body character shot in comical claymation style, soft plasticine clay texture. A friendly Javanese village woman carrying a woven market basket of fresh vegetables. Cheerful laughing pose holding her waist, isolated full body on a solid plain white background, soft studio lighting, 8k resolution.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+- Frasa Pengunci Style (Wajib di Awal Setiap Shot & Prompt Video):
+  `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting`
+- Negative Constraints (Anti-Orang Asli & Anti-3D CGI):
+  `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]`
+- Karakter Manusia Saja: Daftar karakter hanya boleh diisi oleh karakter manusia hidup (Ki Udin, Pak Lurah Kumis Belang, Warga Pasar).

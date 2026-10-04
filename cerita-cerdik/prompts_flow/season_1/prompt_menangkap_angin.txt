@@ -1,0 +1,29 @@
+===================================================================
+HARI 2: Menangkap Angin Dalam Botol (Adaptasi Abu Nawas Nusantara)
+Niche: Dongeng & Cerita Cerdik (Facebook Reels & TikTok - Claymation Style 9:16)
+Tool Workflow: 100% Google AI Flow (Veo 3.1 & Imagen 3)
+===================================================================
+
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menangkap Angin Dalam Botol 💨🍾
+- Clicky Headline: "Sultan Minta Ditangkapkan Angin, Pria Cerdik Ini Malah Kasih Botol Isi Kentut! 💨🤣"
+- Caption Teks: Sultan minta ditangkapkan angin, pria cerdik ini malah kasih botol isi kentut! 💨🤣 Cuma Ki Udin yang bisa menyelesaikan tugas mustahil Sultan dengan akal yang sangat konyol tapi masuk akal. Tulis pendapat kalian di kolom komentar! 👇
+
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION 9:16 VERTICAL - DYNAMIC ANIMATION)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Veo 3.1 / Luma / Kling AI Video)
+
+Prompt (Gerakan Aktif Sinematik):
+Dynamic 9:16 vertical video clip in comical claymation style, soft plasticine clay art texture, 4k resolution. Slow camera zoom-in shot inside a Javanese palace made of clay. Sultan Prabu clay figure on his golden throne actively covers his nose with his hand, coughing violently and shaking his head with a funny red face. In front of him, Ki Udin clay figure smiles innocently, bowing his body while holding an open clear glass bottle. Fluid claymation character animation, natural body movement, 3-second looping video motion, vibrant colorful clay fairytale aesthetic.
+
+[Negative Prompt]
+[static image, frozen frame, no movement, still picture, 3d render, photorealistic, modern clothing, dark lighting, scary, sharp edges, low quality, blurry, horizontal, drawing, crayon]
+
+
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER 9:16 VERTICAL)
+-------------------------------------------------------------------
+Tool Target: Google AI Flow (Google Imagen 3 / Flow Image)
+
+Prompt (High Contrast Eye-Catching Vertical Thumbnail):
+An eye-catching 9:16 vertical thumbnail in cute comical claymation style, vibrant clay art textures. High contrast humorous scene tailored for vertical mobile screens: On the left, Ki Udin clay figure bowing politely with a calm, clever smile. On the right, a comical Javanese Sultan clay figure sitting on his throne, waving his hand frantically and coughing with tears in his eyes after smelling a clear glass bottle. Soft clay modeling textures, bright sunny palace vibes, highly detailed 9:16 aspect ratio.
