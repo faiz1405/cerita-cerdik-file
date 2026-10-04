@@ -1,0 +1,161 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Tantangan Mustahil & Uno Reverse). Juragan Broto sudah menjual sumur kepada Mbok Darmi, tetapi menagih bayaran setiap ember karena mengaku "yang kujual sumurnya, airnya tetap milikku". Ki Udin membalik klaim itu: jika airnya milik juragan, juragan wajib membayar sewa tempat atau mengangkat seluruh airnya keluar dari sumur sebelum matahari terbenam. Juragan menimba seharian sampai ambruk, sumur tetap penuh, lalu ia tergelincir di genangan air buangannya sendiri.
+
+# [purpose]
+Memancing rasa geram (ketidakadilan pada janda miskin yang kehausan di musim kemarau) lalu melepaskannya lewat kepuasan melihat juragan serakah kalah oleh klaimnya sendiri dan dipermalukan secara slapstick. Benda konkret sehari-hari (sumur, ember timba) agar langsung relate bagi penonton pedesaan Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, dan kehidupan desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Juragan Broto menendang ember kayu Mbok Darmi di bibir sumur hingga air tumpah berhamburan. TEXT OVERLAY BOLD: "BELI SUMUR, AIRNYA BAYAR?!".
+    ENVIRONMENT: DAY. Halaman belakang rumah desa saat kemarau, tanah retak kering, sumur batu tua dengan kerekan kayu, cahaya siang terik dan bayangan keras.
+    SUBJECT: Juragan Broto (kemeja sutera merah marun mengkilap, kalung emas besar, kumis tebal melintang, perut buncit), Mbok Darmi (kebaya pudar, kain jarik, rambut disanggul).
+    ACTION: Juragan menendang ember hingga air muncrat ke tanah, lalu menunjuk Mbok Darmi sambil berteriak garang. Mbok Darmi terduduk kaget memeluk tali timba.
+    NARASI: "Juragan Broto menendang ember Mbok Darmi sampai airnya tumpah ke tanah! "Sumur ini memang sudah kujual padamu, tapi airnya tetap milikku! Mau menimba? Bayar satu keping perak setiap ember!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Sad Empathy*).
+    ENVIRONMENT: DAY. Halaman yang sama, antrean warga desa membawa ember dan kendi kosong.
+    SUBJECT: Mbok Darmi menangis di samping sumur. Warga desa berwajah lesu kehausan. Ki Udin di balik pohon.
+    ACTION: Mbok Darmi menutup wajah dengan ujung selendang. Kamera pan ke antrean warga yang memegang ember kosong, lalu berhenti di balik pohon: Ki Udin mengintip sambil tersenyum licik (muncul sebelum detik ke-10).
+    NARASI: "Mbok Darmi menangis tersedu. Seluruh tabungan hasil jualan jamunya bertahun-tahun sudah habis untuk membeli sumur itu, dan kini warga desa yang kehausan di musim kemarau pun dipaksa membayar setiap tetes air."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Medium Close Up (*The Uno Reverse Setup*).
+    ENVIRONMENT: DAY. Bibir sumur batu.
+    SUBJECT: Ki Udin melangkah masuk dari sisi kiri, Juragan Broto berkacak pinggang di depan sumur.
+    ACTION: Ki Udin menepuk bibir sumur dengan tenang sambil tersenyum licik, menatap juragan dari bawah ke atas.
+    NARASI: "Ki Udin melangkah maju, menepuk bibir sumur sambil tersenyum licik. "Baik, Juragan. Kalau airnya milikmu, berarti airmu sedang menumpang di sumur milik Mbok Darmi, bukan?""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Two Shot Kontras (*The Challenge Flip*).
+    ENVIRONMENT: DAY. Warga mulai berkerumun di belakang Ki Udin.
+    SUBJECT: Ki Udin mengangkat dua jari, Juragan Broto melotot kaget, warga bersorak.
+    ACTION: Ki Udin menunjuk matahari lalu menunjuk sumur. Mulut juragan menganga, kumisnya bergetar.
+    NARASI: ""Maka mulai hari ini, kau wajib membayar sewa tempat sepuluh keping emas setiap hari. Kalau tidak mau, angkat semua airmu keluar dari sumur ini sebelum matahari terbenam!" Warga langsung bersorak riuh. Juragan Broto malah tertawa sombong, "Gampang! Sebelum magrib, sumur ini akan kering kerontang!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium Action (*Tension & Comedy Build*).
+    ENVIRONMENT: DAY. Siang terik, parit kecil di samping sumur.
+    SUBJECT: Juragan Broto menimba sendiri dengan kerekan kayu, kemeja suteranya basah keringat.
+    ACTION: Juragan menyingsingkan lengan baju, menarik tali timba dengan wajah gengsi, membuang ember demi ember ke parit. Montase cepat jumlah ember bertambah.
+    NARASI: "Juragan Broto melotot gengsi. Tak sudi membayar sewa, ia menyingsingkan lengan baju suteranya dan mulai menimba sendiri. Satu ember, dua ember, puluhan ember air ia buang ke parit dengan napas terengah-engah, sementara warga menghitung keras-keras setiap ember yang dibuang."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Top-Down Shot ke Dalam Sumur lalu Wide (*The Aha! Moment*).
+    ENVIRONMENT: AFTERNOON. Cahaya jingga sore, bayangan memanjang.
+    SUBJECT: Permukaan air di dasar sumur, Juragan Broto kelelahan, Ki Udin duduk santai di bawah pohon.
+    ACTION: Air di dasar sumur naik kembali ke tingkat semula setiap kali ember terangkat (gelembung mata air). Juragan terengah dengan tangan lecet. Ki Udin menyeruput kopi dari gelas bambu.
+    NARASI: "Namun sumur itu tak pernah kering! Setiap ember diangkat, mata air di dasarnya langsung mengisi kembali. Sang juragan lupa, air sumur desa berasal dari mata air bawah tanah yang terus mengalir tanpa henti. Matahari makin condong, perut buncit sang juragan naik turun, tangannya lecet, sementara Ki Udin santai menyeruput kopi di bawah pohon."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Shot (*Defeat & Resolution*).
+    ENVIRONMENT: SUNSET. Langit merah jingga, siluet pohon kelapa.
+    SUBJECT: Juragan Broto ambruk bersandar di sumur yang masih penuh air, Ki Udin dan Mbok Darmi berdiri di depannya.
+    ACTION: Juragan mengangkat kedua tangan menyerah, menyerahkan kantong emas kepada Mbok Darmi.
+    NARASI: "Saat matahari terbenam, Juragan Broto ambruk di samping sumur yang masih penuh. "Sudah, sudah! Airnya milik Mbok Darmi!" Ia menyerahkan sekantong emas sewa hari itu dan bersumpah tak akan menagih seember pun lagi. Warga memeluk Mbok Darmi dengan haru."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Payoff (*Karma Instan*).
+    ENVIRONMENT: SUNSET. Tanah becek penuh genangan air buangan, kubangan lumpur di tepi parit, warga berkerumun.
+    SUBJECT: Juragan Broto terpeleset, warga tertawa, Mbok Darmi membagikan air.
+    ACTION: Juragan menginjak genangan, kakinya terangkat tinggi, meluncur jauh dan tercebur ke kubangan lumpur. Kepalanya muncul tertutup ember bocor yang meneteskan air. Mbok Darmi menuangkan air ke kendi-kendi warga sambil tersenyum.
+    NARASI: "Tapi saat hendak pergi, kakinya menginjak genangan air yang ia buang sendiri seharian. Juragan Broto terpeleset, meluncur jauh, dan tercebur ke kubangan lumpur. BYUUR! Kepalanya muncul tertutup ember bocor. Warga tertawa terbahak-bahak, sementara Mbok Darmi membagikan air sumur gratis untuk seluruh warga desa, dan Ki Udin mengangkat gelas kopinya dengan senyum puas!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Juragan Broto menendang ember Mbok Darmi sampai airnya tumpah ke tanah! "Sumur ini memang sudah kujual padamu, tapi airnya tetap milikku! Mau menimba? Bayar satu keping perak setiap ember!"
+<break time="1.0s"/>
+
+Mbok Darmi menangis tersedu. Seluruh tabungan hasil jualan jamunya bertahun-tahun sudah habis untuk membeli sumur itu, dan kini warga desa yang kehausan di musim kemarau pun dipaksa membayar setiap tetes air.
+<break time="1.0s"/>
+
+Ki Udin melangkah maju, menepuk bibir sumur sambil tersenyum licik. "Baik, Juragan. Kalau airnya milikmu, berarti airmu sedang menumpang di sumur milik Mbok Darmi, bukan?"
+<break time="1.0s"/>
+
+"Maka mulai hari ini, kau wajib membayar sewa tempat sepuluh keping emas setiap hari. Kalau tidak mau, angkat semua airmu keluar dari sumur ini sebelum matahari terbenam!" Warga langsung bersorak riuh. Juragan Broto malah tertawa sombong, "Gampang! Sebelum magrib, sumur ini akan kering kerontang!"
+<break time="1.0s"/>
+
+Juragan Broto melotot gengsi. Tak sudi membayar sewa, ia menyingsingkan lengan baju suteranya dan mulai menimba sendiri. Satu ember, dua ember, puluhan ember air ia buang ke parit dengan napas terengah-engah, sementara warga menghitung keras-keras setiap ember yang dibuang.
+<break time="1.0s"/>
+
+Namun sumur itu tak pernah kering! Setiap ember diangkat, mata air di dasarnya langsung mengisi kembali. Sang juragan lupa, air sumur desa berasal dari mata air bawah tanah yang terus mengalir tanpa henti. Matahari makin condong, perut buncit sang juragan naik turun, tangannya lecet, sementara Ki Udin santai menyeruput kopi di bawah pohon.
+<break time="1.0s"/>
+
+Saat matahari terbenam, Juragan Broto ambruk di samping sumur yang masih penuh. "Sudah, sudah! Airnya milik Mbok Darmi!" Ia menyerahkan sekantong emas sewa hari itu dan bersumpah tak akan menagih seember pun lagi. Warga memeluk Mbok Darmi dengan haru.
+<break time="1.0s"/>
+
+Tapi saat hendak pergi, kakinya menginjak genangan air yang ia buang sendiri seharian. Juragan Broto terpeleset, meluncur jauh, dan tercebur ke kubangan lumpur. BYUUR! Kepalanya muncul tertutup ember bocor. Warga tertawa terbahak-bahak, sementara Mbok Darmi membagikan air sumur gratis untuk seluruh warga desa, dan Ki Udin mengangkat gelas kopinya dengan senyum puas!
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat ember ditendang dan Mbok Darmi menangis. Berubah menjadi musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin membalik klaim juragan. Tempo makin cepat dan konyol saat montase juragan menimba seharian, lalu diakhiri musik komedi slapstick riang saat juragan tercebur lumpur.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'airnya tetap milikku', 'satu keping perak setiap ember', 'tabungan hasil jualan jamunya', 'airmu sedang menumpang', 'sewa tempat sepuluh keping emas', 'angkat semua airmu keluar', 'sumur itu tak pernah kering', 'Airnya milik Mbok Darmi', 'tercebur ke kubangan lumpur', 'air sumur gratis'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Fat greedy Javanese merchant, 50, thick mustache, smug arrogant grin, shiny maroon silk shirt, large gold necklace, black peci hat, big belly. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Mbok Darmi (ROLE_03)",
+        "description": "Javanese village woman, 50, faded simple kebaya and jarik skirt, traditional hair bun, innocent and weary expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "ATURAN KONTINUITAS VISUAL CLAYMATION JAWA PEDESAAN: Seluruh karakter dan lingkungan dibuat dalam gaya stop-motion claymation bernuansa lempung lembut (soft plasticine clay texture) beresolusi 4K. KONTINUITAS BUSANA TERKUNCI MATI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Juragan Broto selalu kemeja sutera merah marun, kalung emas, peci hitam; Mbok Darmi selalu kebaya pudar dan jarik. LATAR: halaman belakang rumah desa saat kemarau, tanah retak, sumur batu tua dengan kerekan dan ember kayu (BUKAN ember plastik). REGISTER CAHAYA: siang terik (Shot 1-5), sore jingga (Shot 6), senja merah (Shot 7-8). MODERASI SLAPSTICK: jatuh dan tercebur lumpur bersifat komedi tanpa luka atau darah; noda lumpur ditambahkan lewat overlay. DILARANG menggunakan text card penutup."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

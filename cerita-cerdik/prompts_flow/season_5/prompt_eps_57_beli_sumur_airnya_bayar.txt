@@ -1,0 +1,60 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Beli Sumur, Airnya Bayar (Eps 57)
+- Clicky Video Headline: SUMUR DIBELI, AIRNYA DITAGIH! / KI UDIN BALIK LOGIKA JURAGAN!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Beli Sumur, Airnya Bayar & Juragan Nyebur Lumpur (Eps 57)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In a dry sun-baked Javanese village backyard with cracked earth and an old stone well with a wooden pulley, a fat greedy Javanese merchant with a thick mustache, shiny maroon silk shirt, large gold necklace and black peci hat violently kicks a wooden bucket off the edge of the well, water splashing across the cracked ground. A 50-year-old Javanese village woman in a faded kebaya, jarik skirt and traditional hair bun falls back in shock, clutching the well rope. At exactly second 1.5, the merchant points at her and shouts loudly in authentic Javanese accent: "Banyune kuwi duwekku!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Fluid clay stop-motion animation, harsh midday sunlight casting hard shadows, tense dramatic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, plastic bucket, modern faucet, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster at sunset: in the foreground a fat greedy Javanese merchant in a shiny maroon silk shirt and gold necklace sits exhausted in a muddy puddle, a leaking wooden bucket stuck upside down on his head with water dripping down his thick mustache. Behind him an old stone well is still overflowing with water, dozens of empty wooden buckets scattered around. On the right, Ki Udin, a wise elderly Javanese villager with grey hair at the temples, grey mustache, brown batik blangkon head wrap and brown striped lurik shirt, calmly raises a bamboo cup of coffee with a sly smile, while a Javanese village woman in a faded kebaya happily pours water into villagers' clay jugs. Warm orange sunset lighting, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, plastic bucket, modern faucet, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti. Ki Udin & Juragan Broto sudah punya aset: pakai `character/season3/ki-udin.png` dan `character/season4/juragan-broto.png`. Mbok Darmi BELUM punya aset - generate di bawah, lalu simpan ke `character/season5/mbok-darmi.png`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Mbok Darmi - Option A (Menangis/Terpuruk)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 50-year-old Javanese village woman, wearing a faded simple kebaya and jarik skirt, traditional hair bun, kneeling slightly hunched, weary crying expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Mbok Darmi - Option B (Lega/Bahagia)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 50-year-old Javanese village woman, wearing a faded simple kebaya and jarik skirt, traditional hair bun, standing upright with a warm relieved smile, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Juragan Broto - Option B (Kelelahan/Panik) - opsional bila aset lama kurang ekspresif]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 50-year-old fat greedy Javanese merchant, thick mustache, shiny maroon silk shirt with sleeves rolled up, large gold necklace, black peci hat, big belly, exhausted panting expression with sweat drops, empty hands, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, dry season backyard, old stone well with wooden pulley and wooden buckets...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no plastic bucket, no modern faucet]`
+Catatan: Noda lumpur pada juragan (Shot 8) ditambahkan lewat overlay CapCut, bukan di base render.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + DUAK! (ember ditendang) + BYAR! (air tumpah). Dialog Jawa "Banyune kuwi duwekku!" di 1.5s.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Reveal Ki Udin (Shot 2, sebelum 10s): Record Scratch kecil saat kamera berhenti di wajah Ki Udin.
+- Montase Menimba (Shot 5): Derit kerekan (KRIET!) + BYUR berulang mengikuti ritme speed ramp.
+- Aha! Moment (Shot 6): Gelembung air (BLUP BLUP) + magical ding.
+- Punchline & Slapstick (Shot 8): Slip! → BYUUR! → Thud → tetesan ember (TES TES) → Crowd Laughing.

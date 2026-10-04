@@ -1,0 +1,156 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Tantangan Mustahil & Uno Reverse). Pak Lurah Mulyo memaksa Ki Udin untuk menangkap hidup-hidup macan ganas yang ada di dalam lukisan kaca pusaka miliknya. Ki Udin menyanggupi dengan membawa tali, namun ia membalik logika dengan meminta Pak Lurah mengusir dulu macannya keluar dari lukisan agar bisa diikat. Pak Lurah yang kesal dan gengsi mencoba menggebrak-gebrak lukisan itu, yang akhirnya membuat tangannya sendiri kesakitan dan terjepit bingkai.
+
+# [purpose]
+Memancing rasa kesal terhadap arogansi pejabat desa yang sok berkuasa, lalu melepaskannya lewat kepuasan melihat sang pejabat terjebak oleh kebodohannya sendiri dan dipermalukan secara slapstick. Benda konkret sehari-hari digabung dengan benda pusaka agar sesuai dengan latar desa dan menghibur audiens. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, dan kehidupan desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Pak Lurah Mulyo tertawa sombong menunjuk lukisan kaca macan yang matanya menyala. TEXT OVERLAY BOLD: "TANGKAP MACAN DI LUKISAN?!".
+    ENVIRONMENT: DAY. Pendopo keraton/balai desa yang megah dengan ukiran kayu jati, cahaya terang dari luar.
+    SUBJECT: Pak Lurah Mulyo (seragam safari kuno, peci hitam tinggi, wajah sombong licik), Ki Udin (baju surjan cokelat, blangkon).
+    ACTION: Pak Lurah menunjuk lukisan kaca macan dengan gaya pongah, lalu melotot ke arah Ki Udin yang duduk tenang.
+    NARASI: "Di tengah pendopo megah, Pak Lurah tertawa pongah menunjuk lukisan kaca bergambar macan buas. "Hei Udin! Kalau kau memang benar-benar sakti, tangkap macan di lukisan ini hidup-hidup! Kalau kau gagal, seluruh kebunmu kusita!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*The Impossible Challenge*).
+    ENVIRONMENT: DAY. Pendopo balai desa.
+    SUBJECT: Warga desa berkerumun berbisik cemas. Lukisan macan terlihat sangat garang.
+    ACTION: Warga desa ketakutan melihat lukisan itu. Kamera pan menyorot lukisan macan, lalu berhenti pada Ki Udin yang tersenyum tipis (muncul sebelum detik ke-10).
+    NARASI: "Mendengar hal itu, warga desa langsung berbisik cemas. Syarat dari sang pejabat benar-benar sangat tidak masuk akal! Mana mungkin manusia bisa menangkap macan dari sebuah lukisan? Namun, Ki Udin hanya tersenyum tipis dan mengangguk pelan menerima tantangannya."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Medium Close Up (*The Uno Reverse Setup*).
+    ENVIRONMENT: DAY. Di depan lukisan kaca.
+    SUBJECT: Ki Udin mengeluarkan gulungan tambang besar, Pak Lurah bersedekap meremehkan.
+    ACTION: Ki Udin dengan santai membentangkan tambang, berpose siap menerkam, lalu menatap tajam ke arah Pak Lurah.
+    NARASI: "Keesokan paginya, Ki Udin datang membawa gulungan tambang besar yang tebal. Ia berdiri tegak di depan lukisan, memasang kuda-kuda kokoh, lalu bersiap dengan posisi menerkam. "Saya sudah siap menangkapnya, Pak Lurah! Talinya juga sudah kuat!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Two Shot Kontras (*The Challenge Flip*).
+    ENVIRONMENT: DAY. Warga merangsek maju penasaran.
+    SUBJECT: Ki Udin mengacungkan tambang, Pak Lurah bingung.
+    ACTION: Ki Udin menyodorkan tongkat kecil ke Pak Lurah. Mulut Pak Lurah menganga kaget.
+    NARASI: "Namun Ki Udin malah menyodorkan tongkat bambu kepada sang pejabat. "Tapi Pak Lurah, macan ini harus keluar dulu! Tolong Pak Lurah usir macannya keluar dari lukisan, barulah saya yang langsung mengikatnya!" Warga sontak menahan tawa, wajah Pak Lurah seketika memerah."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium Action (*Tension & Comedy Build*).
+    ENVIRONMENT: DAY. Di depan lukisan kaca.
+    SUBJECT: Pak Lurah Mulyo yang gengsi dan marah, Ki Udin yang bersiap siaga.
+    ACTION: Pak Lurah dengan marah menggebrak-gebrak pinggiran lukisan, berteriak-teriak menyuruh macan keluar, sementara Ki Udin terus memanas-manasinya.
+    NARASI: "Karena gengsi ditonton banyak warga, Pak Lurah terpaksa mengambil tongkat itu dan menggebrak-gebrak bingkai lukisan. "Hush! Keluar kau macan! Keluar!" teriaknya panik. Ki Udin dengan wajah polos terus memanas-manasi, "Ayo Pak Lurah, pukul lebih keras lagi! Macannya belum bangun!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Close Up (*The Aha! Moment*).
+    ENVIRONMENT: DAY. Tangan Pak Lurah dan pinggiran lukisan.
+    SUBJECT: Tangan Pak Lurah memerah. Wajah Pak Lurah menahan sakit.
+    ACTION: Pak Lurah memukul terlalu keras, jarinya terjepit celah ukiran kayu jati lukisan. Ia meringis kesakitan.
+    NARASI: "Tentu saja macan di dalam kaca itu takkan pernah bisa keluar! Pak Lurah yang semakin emosi memukul lukisan itu dengan sangat keras. Namun bukannya macan yang melompat, malah jarinya sendiri yang meleset dan terjepit parah di celah ukiran kayu jati yang keras!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Shot (*Defeat & Resolution*).
+    ENVIRONMENT: DAY. Pendopo desa.
+    SUBJECT: Pak Lurah kesakitan memegang tangannya, Ki Udin menggeleng pura-pura kecewa.
+    ACTION: Pak Lurah berteriak ampun, menarik tangannya yang merah. Ki Udin menggulung kembali tambangnya.
+    NARASI: ""Aduuuh! Ampuuun! Tanganku!" jerit Pak Lurah kesakitan sambil meniup-niup jarinya yang bengkak kemerahan. Melihat itu, Ki Udin santai menggulung kembali tambangnya. "Sayang sekali Pak Lurah, macannya terlalu penakut untuk keluar dari sana. Berarti kebun saya dipastikan aman ya!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Payoff (*Karma Instan*).
+    ENVIRONMENT: DAY. Pintu keluar pendopo.
+    SUBJECT: Pak Lurah berjalan mundur menahan malu, tersandung kendi air.
+    ACTION: Pak Lurah melangkah mundur menutupi wajahnya, menginjak kendi, terpeleset jatuh menimpa gong gamelan di sudut pendopo. GONG! Warga tertawa.
+    NARASI: "Menahan malu yang luar biasa di depan warga, Pak Lurah perlahan berjalan mundur untuk segera kabur. Saking paniknya, ia tersandung kendi air, terpeleset jatuh, dan menabrak gong gamelan keraton. GONG! Warga desa pun tertawa terbahak-bahak melihat pejabat sombong itu terkena karmanya sendiri!"
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Di tengah pendopo megah, Pak Lurah tertawa pongah menunjuk lukisan kaca bergambar macan buas. "Hei Udin! Kalau kau memang benar-benar sakti, tangkap macan di lukisan ini hidup-hidup! Kalau kau gagal, seluruh kebunmu kusita!"
+<break time="1.0s"/>
+
+Mendengar hal itu, warga desa langsung berbisik cemas. Syarat dari sang pejabat benar-benar sangat tidak masuk akal! Mana mungkin manusia bisa menangkap macan dari sebuah lukisan? Namun, Ki Udin hanya tersenyum tipis dan mengangguk pelan menerima tantangannya.
+<break time="1.0s"/>
+
+Keesokan paginya, Ki Udin datang membawa gulungan tambang besar yang tebal. Ia berdiri tegak di depan lukisan, memasang kuda-kuda kokoh, lalu bersiap dengan posisi menerkam. "Saya sudah siap menangkapnya, Pak Lurah! Talinya juga sudah kuat!"
+<break time="1.0s"/>
+
+Namun Ki Udin malah menyodorkan tongkat bambu kepada sang pejabat. "Tapi Pak Lurah, macan ini harus keluar dulu! Tolong Pak Lurah usir macannya keluar dari lukisan, barulah saya yang langsung mengikatnya!" Warga sontak menahan tawa, wajah Pak Lurah seketika memerah.
+<break time="1.0s"/>
+
+Karena gengsi ditonton banyak warga, Pak Lurah terpaksa mengambil tongkat itu dan menggebrak-gebrak bingkai lukisan. "Hush! Keluar kau macan! Keluar!" teriaknya panik. Ki Udin dengan wajah polos terus memanas-manasi, "Ayo Pak Lurah, pukul lebih keras lagi! Macannya belum bangun!"
+<break time="1.0s"/>
+
+Tentu saja macan di dalam kaca itu takkan pernah bisa keluar! Pak Lurah yang semakin emosi memukul lukisan itu dengan sangat keras. Namun bukannya macan yang melompat, malah jarinya sendiri yang meleset dan terjepit parah di celah ukiran kayu jati yang keras!
+<break time="1.0s"/>
+
+"Aduuuh! Ampuuun! Tanganku!" jerit Pak Lurah kesakitan sambil meniup-niup jarinya yang bengkak kemerahan. Melihat itu, Ki Udin santai menggulung kembali tambangnya. "Sayang sekali Pak Lurah, macannya terlalu penakut untuk keluar dari sana. Berarti kebun saya dipastikan aman ya!"
+<break time="1.0s"/>
+
+Menahan malu yang luar biasa di depan warga, Pak Lurah perlahan berjalan mundur untuk segera kabur. Saking paniknya, ia tersandung kendi air, terpeleset jatuh, dan menabrak gong gamelan keraton. GONG! Warga desa pun tertawa terbahak-bahak melihat pejabat sombong itu terkena karmanya sendiri!
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + auman) saat Pak Lurah menantang. Berubah menjadi musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin membalik logika. Tempo makin cepat saat Pak Lurah menggebrak lukisan, lalu diakhiri musik komedi riang saat ia menabrak gong gamelan.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'tangkap macan', 'lukisan ini hidup-hidup', 'kebunmu kusita', 'tambang besar', 'macan ini harus keluar dulu', 'usir macannya keluar', 'Macannya belum bangun', 'jarinya sendiri yang meleset', 'kebun saya aman ya', 'menabrak gong gamelan'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Pak Lurah Mulyo (ROLE_02)",
+        "description": "Corrupt village chief, 55, wearing vintage khaki safari uniform, tall black peci hat, arrogant strict expression, clean face. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, large Javanese pendopo hall with teak wood carvings. Focus on expressive character faces and physical slapstick comedy. Maintain lighting continuity. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

@@ -1,0 +1,56 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menangkap Macan di Lukisan (Eps 58)
+- Clicky Video Headline: TANGKAP MACAN DI LUKISAN?! / PEJABAT SOMBONG KENA JEBAK KI UDIN!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Menangkap Macan di Lukisan & Pak Lurah Kejepit (Eps 58)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In a grand traditional Javanese pendopo hall with intricate teak wood carvings, a 55-year-old corrupt village chief wearing a vintage khaki safari uniform and tall black peci hat is laughing arrogantly while pointing at a large, terrifying glass painting of a fierce tiger with glowing eyes. A 60-year-old wise Javanese grandfather in a brown striped surjan shirt and blangkon hat sits calmly nearby. At exactly second 1.5, the village chief glares and shouts loudly in authentic Javanese accent: "Cekel macan kuwi urip-urip!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Fluid clay stop-motion animation, bright daylight, tense dramatic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster inside a grand pendopo hall: in the foreground, a 55-year-old corrupt village chief in a khaki safari uniform and black peci hat is screaming in pain, his fingers painfully stuck in the carved wooden frame of a large glass tiger painting. On the right, Ki Udin, a wise elderly Javanese villager with a grey mustache, brown blangkon head wrap and brown striped lurik shirt, is calmly holding a thick lasso rope, smiling innocently and gesturing towards the painting. Rich clay textures, cinematic depth of field, full environmental setting, teak wood architecture, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti. Ki Udin sudah punya aset: pakai `character/season3/ki-udin.png`. Pak Lurah Mulyo BELUM punya aset - generate di bawah, lalu simpan ke `character/season5/pak-lurah.png`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Pak Lurah Mulyo - Option A (Sombong/Memerintah)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 55-year-old corrupt Javanese village chief, wearing a vintage khaki safari uniform and tall black peci hat, standing upright with an arrogant strict expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Pak Lurah Mulyo - Option B (Kesakitan/Panik)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 55-year-old corrupt Javanese village chief, wearing a vintage khaki safari uniform and tall black peci hat, slightly hunched with a panicking and painful wincing expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, large Javanese pendopo hall with teak wood carvings...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]`
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare + Auman Macan tepat di 0.0s. Dialog Jawa "Cekel macan kuwi urip-urip!" di 1.5s.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Reveal Ki Udin (Shot 2, sebelum 10s): Record Scratch kecil saat kamera berhenti di wajah Ki Udin.
+- Montase (Shot 5): Thud keras berulang saat lukisan digebrak.
+- Aha! Moment (Shot 6): CRACK kayu + Boing komedi saat jari terjepit.
+- Punchline & Slapstick (Shot 8): Slip! → Crash → GONG beresonansi keras → Crowd Laughing.
