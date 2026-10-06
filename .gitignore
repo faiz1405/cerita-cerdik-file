@@ -1,0 +1,6 @@
+# Video hasil render (besar, >100MB per file - simpan di luar git)
+cerita-cerdik/output/
+
+# Junction lokal Claude Code ke .agents/skills (sumber asli ada di .agents/skills)
+.claude/skills/
+.claude/settings.local.json
