@@ -1,0 +1,166 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Jebakan Kontrak & Uno Reverse). Tuan Tanah Buncit memaksa membeli rumah bambu Ki Udin seharga sepuluh keping perak untuk dijadikan gudang padi. Ki Udin setuju dengan satu syarat: sebuah paku di tiang tengah tetap miliknya dan boleh ia rawat kapan saja. Setiap hari Ki Udin "merawat" pakunya dengan menggantung ikan asin, terasi, lalu mengikat kambing, sampai gudang tak bisa dipakai dan tuan tanah menyerah mengembalikan rumah.
+
+# [purpose]
+Memancing rasa geram pada tuan tanah serakah yang merampas rumah rakyat kecil dengan harga tak masuk akal, lalu melepaskannya lewat kepuasan melihat sang tuan tanah terjebak oleh kontrak yang ia tandatangani sendiri karena serakah. Benda konkret sehari-hari (paku, ikan asin, terasi, kambing) agar langsung relate dan lucu bagi penonton desa Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, dan kehidupan desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Tuan Tanah Buncit membanting kantong koin kecil ke lantai tanah rumah bambu. TEXT OVERLAY BOLD: "JUAL RUMAH, KECUALI SATU PAKU?!".
+    ENVIRONMENT: DAY. Rumah bambu sederhana beratap rumbia di tepi sawah, siang terik, bayangan keras.
+    SUBJECT: Tuan Tanah Buncit (badan gemuk, rambut hitam klimis, beskap merah bermotif emas, celana batik cokelat), Ki Udin (blangkon batik cokelat, kumis abu-abu, baju lurik cokelat).
+    ACTION: Tuan tanah membanting kantong koin hingga debu mengepul, lalu menunjuk rumah dengan congkak. Ki Udin berdiri tenang di ambang pintu.
+    NARASI: "Tuan Tanah Buncit membanting kantong koin kecil di depan rumah bambu Ki Udin sambil tertawa congkak! "Rumahmu kubeli sepuluh keping perak! Mulai besok tempat ini jadi gudang padiku. Mau tidak mau, kau harus angkat kaki dari sini!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Injustice & Sly Reaction*).
+    ENVIRONMENT: DAY. Halaman rumah, warga desa berkerumun di pagar bambu.
+    SUBJECT: Warga desa terbelalak, Ki Udin mengelus kumis.
+    ACTION: Kamera pan dari wajah warga yang kaget ke wajah Ki Udin yang mengelus kumis sambil tersenyum licik (muncul sebelum detik ke-10).
+    NARASI: "Warga desa terbelalak. Sepuluh keping perak bahkan tak cukup untuk membeli atap rumbianya! Rumah itu satu-satunya tempat tinggal Ki Udin. Tapi Ki Udin justru mengelus kumisnya dan tersenyum licik. "Baik, Tuan. Rumah ini kujual, tapi ada satu syarat kecil saja.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Close Up ke Paku lalu Medium Shot (*The Contract Trap*).
+    ENVIRONMENT: DAY. Bagian dalam rumah bambu, tiang kayu tengah dengan satu paku besar berkarat.
+    SUBJECT: Ki Udin menunjuk paku, Tuan Tanah tertawa, Pak Lurah sebagai saksi memegang surat perjanjian.
+    ACTION: Close up paku besar di tiang. Tuan tanah tertawa terbahak-bahak lalu membubuhkan cap jempol di surat perjanjian disaksikan warga.
+    NARASI: ""Paku di tiang tengah ini tetap milikku, dan aku boleh merawatnya kapan saja." Tuan tanah tertawa terbahak-bahak, menganggap Ki Udin kakek pikun. Demi rumah semurah itu, ia langsung membubuhkan cap jempol di surat perjanjian, disaksikan Pak Lurah dan seluruh warga."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Medium Shot (*Uno Reverse Begins*).
+    ENVIRONMENT: MORNING. Rumah bambu kini berisi tumpukan karung padi, cahaya pagi masuk dari celah dinding.
+    SUBJECT: Ki Udin menggantung seikat ikan asin di paku, Tuan Tanah menutup hidung.
+    ACTION: Ki Udin dengan santai menggantung ikan asin di pakunya. Tuan tanah datang marah, Ki Udin menunjuk surat perjanjian.
+    NARASI: "Keesokan paginya, Ki Udin datang membawa seikat ikan asin dan menggantungnya di paku itu. Bau amisnya langsung memenuhi gudang. Tuan tanah berteriak marah, tapi Ki Udin hanya menunjuk surat perjanjian. "Aku sedang merawat pakuku, Tuan. Sesuai perjanjian.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Wide Shot (*Escalation 1 - Terasi*).
+    ENVIRONMENT: DAY. Gudang penuh karung padi, lalat beterbangan, uap bau berwarna hijau samar (efek komedi).
+    SUBJECT: Bongkahan terasi besar tergantung di paku, pekerja gudang kabur menutup hidung, Tuan Tanah pucat.
+    ACTION: Ki Udin menggantung bongkahan terasi. Lalat berdatangan. Pekerja berlarian keluar sambil menutup hidung.
+    NARASI: "Hari kedua, Ki Udin datang lagi dengan senyum ramah dan menggantung sebongkah terasi besar. Bau busuknya menyebar ke seluruh gudang! Lalat berdatangan, karung padi ikut bau terasi, dan para pekerja tuan tanah kabur sambil menutup hidung rapat-rapat."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Action (*Escalation 2 - Kambing*).
+    ENVIRONMENT: NIGHT. Gudang diterangi lampu minyak, bayangan bergoyang.
+    SUBJECT: Kambing jantan terikat di paku, Tuan Tanah berbaring di atas karung padi dengan mata merah.
+    ACTION: Kambing mengembik keras, menggigiti karung padi, padi berhamburan. Tuan tanah menutup telinga dengan bantal.
+    NARASI: "Hari ketiga, Ki Udin mengikat seekor kambing jantan di paku itu. Semalaman kambing mengembik keras dan menggigiti karung padi sampai berhamburan. Tuan tanah tak bisa tidur sekejap pun, matanya merah, perut buncitnya naik turun menahan marah."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Two Shot (*Defeat & Resolution*).
+    ENVIRONMENT: MORNING. Halaman rumah, warga berkerumun.
+    SUBJECT: Tuan Tanah menyerahkan surat perjanjian yang dirobek, Ki Udin mengembalikan sepuluh keping perak.
+    ACTION: Tuan tanah merobek surat perjanjian dengan frustrasi. Ki Udin tersenyum mengembalikan kantong koin kecil.
+    NARASI: "Pagi harinya, tuan tanah keluar dengan wajah kusut dan rambut klimisnya berantakan. "Ambil kembali rumahmu! Asal bawa pergi pakumu!" Di depan seluruh warga, ia merobek surat perjanjian itu, sementara Ki Udin tersenyum mengembalikan sepuluh keping perak miliknya."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Payoff (*Karma Instan*).
+    ENVIRONMENT: MORNING. Halaman rumah dekat empang lele berlumpur, warga tertawa.
+    SUBJECT: Kambing menyeruduk Tuan Tanah, Tuan Tanah tercebur empang, Ki Udin menggantung bunga melati di paku.
+    ACTION: Kambing menyeruduk pantat tuan tanah, ia terlempar dan tercebur empang lele, muncul dengan ikan asin menempel di kepala. Ki Udin menggantung untaian melati di pakunya.
+    NARASI: "Tapi saat berbalik pergi, kambing itu menyeruduk pantatnya! Tuan Tanah Buncit terlempar dan tercebur ke empang lele. BYUUR! Ia muncul megap-megap dengan ikan asin menempel di kepala, warga tertawa, dan Ki Udin menggantung melati wangi di pakunya."
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Tuan Tanah Buncit membanting kantong koin kecil di depan rumah bambu Ki Udin sambil tertawa congkak! "Rumahmu kubeli sepuluh keping perak! Mulai besok tempat ini jadi gudang padiku. Mau tidak mau, kau harus angkat kaki dari sini!"
+<break time="1.0s"/>
+
+Warga desa terbelalak. Sepuluh keping perak bahkan tak cukup untuk membeli atap rumbianya! Rumah itu satu-satunya tempat tinggal Ki Udin. Tapi Ki Udin justru mengelus kumisnya dan tersenyum licik. "Baik, Tuan. Rumah ini kujual, tapi ada satu syarat kecil saja."
+<break time="1.0s"/>
+
+"Paku di tiang tengah ini tetap milikku, dan aku boleh merawatnya kapan saja." Tuan tanah tertawa terbahak-bahak, menganggap Ki Udin kakek pikun. Demi rumah semurah itu, ia langsung membubuhkan cap jempol di surat perjanjian, disaksikan Pak Lurah dan seluruh warga.
+<break time="1.0s"/>
+
+Keesokan paginya, Ki Udin datang membawa seikat ikan asin dan menggantungnya di paku itu. Bau amisnya langsung memenuhi gudang. Tuan tanah berteriak marah, tapi Ki Udin hanya menunjuk surat perjanjian. "Aku sedang merawat pakuku, Tuan. Sesuai perjanjian."
+<break time="1.0s"/>
+
+Hari kedua, Ki Udin datang lagi dengan senyum ramah dan menggantung sebongkah terasi besar. Bau busuknya menyebar ke seluruh gudang! Lalat berdatangan, karung padi ikut bau terasi, dan para pekerja tuan tanah kabur sambil menutup hidung rapat-rapat.
+<break time="1.0s"/>
+
+Hari ketiga, Ki Udin mengikat seekor kambing jantan di paku itu. Semalaman kambing mengembik keras dan menggigiti karung padi sampai berhamburan. Tuan tanah tak bisa tidur sekejap pun, matanya merah, perut buncitnya naik turun menahan marah.
+<break time="1.0s"/>
+
+Pagi harinya, tuan tanah keluar dengan wajah kusut dan rambut klimisnya berantakan. "Ambil kembali rumahmu! Asal bawa pergi pakumu!" Di depan seluruh warga, ia merobek surat perjanjian itu, sementara Ki Udin tersenyum mengembalikan sepuluh keping perak miliknya.
+<break time="1.0s"/>
+
+Tapi saat berbalik pergi, kambing itu menyeruduk pantatnya! Tuan Tanah Buncit terlempar dan tercebur ke empang lele. BYUUR! Ia muncul megap-megap dengan ikan asin menempel di kepala, warga tertawa, dan Ki Udin menggantung melati wangi di pakunya.
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat kantong koin dibanting. Berubah menjadi musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin mengajukan syarat paku. Tempo makin konyol dan cepat di tiap eskalasi (ikan asin, terasi, kambing), lalu diakhiri musik komedi slapstick riang saat tuan tanah tercebur empang.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'sepuluh keping perak', 'satu syarat kecil', 'Paku di tiang tengah ini tetap milikku', 'cap jempol', 'Aku sedang merawat pakuku', 'sebongkah terasi besar', 'kambing jantan', 'Ambil kembali rumahmu', 'tercebur ke empang lele', 'melati wangi'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Tuan Tanah Buncit (ROLE_02)",
+        "description": "Fat greedy Javanese landlord, 50, short slicked black hair, clean-shaven round face, red beskap jacket with gold floral motifs and gold buttons, brown batik trousers, barefoot, big belly. Smug arrogant expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Pak Lurah Mulyo (ROLE_03)",
+        "description": "Village chief, 55, vintage khaki safari uniform, tall black peci hat, strict expression, clean face. Appears as contract witness. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Kambing Jantan (ROLE_04)",
+        "description": "Stubborn male village goat, brown-white fur, small curved horns, mischievous eyes. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: rumah bambu beratap rumbia di tepi sawah yang berubah menjadi gudang karung padi, satu paku besar berkarat di tiang kayu tengah (paku SELALU terlihat di tiang yang sama), empang lele berlumpur di halaman. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Tuan Tanah Buncit selalu beskap merah bermotif emas, celana batik cokelat, rambut hitam klimis tanpa kumis; Pak Lurah selalu safari khaki dan peci hitam tinggi. REGISTER CAHAYA: siang terik (Shot 1-3), pagi (Shot 4, 7-8), siang (Shot 5), malam lampu minyak (Shot 6). MODERASI SLAPSTICK: seruduk kambing dan tercebur empang bersifat komedi tanpa luka atau darah; bau digambarkan dengan uap hijau samar dan lalat kartun, noda lumpur lewat overlay. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

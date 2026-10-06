@@ -22,6 +22,8 @@ Menahan malu yang luar biasa di depan warga, Pak Lurah perlahan berjalan mundur 
 
 ## B. RINCIAN VISUAL & AUDIO PER SHOT
 
+**Catatan BGM (Backsound):** Gunakan 1 *track* BGM utuh bernuansa *Sneaky Comedy* / komedi jenaka (tempo lambat di awal, lalu makin cepat di pertengahan). Putar BGM ini dari awal hingga akhir video. Pastikan (MUTE) semua suara bawaan klip video AI, agar hanya BGM dan SFX di bawah ini yang terdengar menonjol.
+
 - **Shot 1**: 
   - *Visual*: Pak Lurah tertawa sombong menunjuk lukisan macan. Ki Udin duduk tenang.
   - *Audio*: SFX Auman macan + Jumpscare Gong di awal klip.

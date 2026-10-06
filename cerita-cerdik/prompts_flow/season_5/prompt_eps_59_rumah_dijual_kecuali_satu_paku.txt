@@ -1,0 +1,60 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Rumah Dijual, Kecuali Satu Paku (Eps 59)
+- Clicky Video Headline: RUMAH DIBELI 10 PERAK! / KI UDIN CUMA MINTA SATU PAKU!
+- Single Video Title: Cerita Cerdik Ki Udin Season 5 - Rumah Dijual Kecuali Satu Paku & Tuan Tanah Nyebur Empang (Eps 59)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In front of a simple bamboo house with a thatched palm-leaf roof beside green rice fields, a fat greedy Javanese landlord with short slicked black hair, clean-shaven round face, red beskap jacket with gold floral motifs, brown batik trousers and bare feet violently slams a small coin pouch onto the dirt ground, dust bursting up. A wise elderly Javanese villager with grey hair at the temples, grey mustache, brown batik blangkon head wrap and brown striped lurik shirt stands calmly in the doorway. At exactly second 1.5, the landlord points at the house and shouts loudly in authentic Javanese accent: "Omahmu tak tuku sepuluh perak!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Fluid clay stop-motion animation, harsh midday sunlight casting hard shadows, tense comedic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, modern house, concrete wall, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster inside a bamboo house turned rice warehouse: a single huge rusty nail on the central wooden pillar is the bright focal point, with a bunch of salted fish, a big block of shrimp paste with comic green stink waves, and a mischievous brown-white goat tied to it. In the foreground a fat greedy Javanese landlord in a red beskap with gold motifs pinches his nose with teary bulging eyes, rice sacks torn and spilling around him, cartoon flies buzzing. On the right, Ki Udin, a wise elderly Javanese villager with grey hair at the temples, grey mustache, brown batik blangkon head wrap and brown striped lurik shirt, points at the nail with a calm sly smile holding up a signed contract with a thumbprint. Warm morning light through bamboo wall gaps, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, modern house, plastic, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Tuan Tanah Buncit `character/season4/tuan_tanah_buncit.png`, Pak Lurah `character/season5/pak-lurah.png`. Kambing BELUM punya aset - generate di bawah, simpan ke `character/season5/kambing_jantan.png`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Kambing Jantan - Option A (Iseng/Menyeruduk)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A stubborn male Javanese village goat with brown and white fur, small curved horns and a short beard, head lowered ready to headbutt, mischievous grinning eyes, holding nothing, no props, no rope. Clean fur, immaculate.
+
+[Prompt Karakter 2: Tuan Tanah Buncit - Option B (Menutup Hidung/Kesal)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A fat greedy Javanese landlord, 50, short slicked black hair, clean-shaven round face, red beskap jacket with gold floral motifs and gold buttons, brown batik trousers, barefoot, big belly, disgusted expression with puffed cheeks and squinting teary eyes, one hand pinching his nose, other hand relaxed at side, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Tuan Tanah Buncit - Option B (Kurang Tidur/Kusut) - untuk Shot 7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese landlord in red beskap with gold motifs and brown batik trousers, messy disheveled black hair, droopy tired red eyes with dark circles, slumped shoulders, exhausted defeated expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, bamboo house with thatched roof turned rice warehouse, single big rusty nail on the central wooden pillar...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no modern house, no plastic]`
+Catatan: Paku harus selalu di tiang yang sama di setiap shot (Shot 3-6, 8). Bau digambarkan dengan uap hijau samar & lalat kartun lewat overlay CapCut; noda lumpur di Shot 8 juga lewat overlay, bukan di base render.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + BRUK! (kantong koin dibanting) + gemerincing koin. Dialog Jawa "Omahmu tak tuku sepuluh perak!" di 1.5s.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (Shot 2, sebelum 10s): Record Scratch kecil.
+- Jebakan Kontrak (Shot 3): "Ting!" pada paku + stempel (DUK!).
+- Eskalasi (Shot 4-6): dengung lalat makin keras tiap hari, "Hoek!" di Shot 5, "Mbeeek!" + karung robek (SREEK!) di Shot 6.
+- Punchline & Slapstick (Shot 8): Seruduk (DUG!) → Slip! → BYUUR! → Thud → Crowd Laughing.
