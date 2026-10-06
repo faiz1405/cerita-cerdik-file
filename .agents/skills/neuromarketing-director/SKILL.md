@@ -23,7 +23,7 @@ Setiap brief/naskah video WAJIB menerapkan **5 Pilar Neuro-Retention**:
 * **Auditory Anchor:** Efek suara kejutan (*Record Scratch, Dramatic Boom, SFX Boing*) tepat pada detik 0.5 - 1.5.
 
 ### B. Dopamine & Cortisol Pacing Arc (Shot-by-Shot Emotional Arc)
-Struktur video 150 detik (6 Shot / 4 Shot) WAJIB mengikuti kurva gelombang neuro-kimia otak:
+Struktur video WAJIB mengikuti kurva gelombang neuro-kimia otak. Angka detik di bawah adalah contoh untuk video ~150-180 detik; durasi & jumlah shot yang berlaku ikut `.agents/AGENTS.md` (bagian "Durasi Default" dan "Kunci Durasi & Volume Naskah") - skalakan tiap fase secara proporsional:
 
 1. **Shot 1 (0-30s) - Cortisol & Curiosity Spark:**
    - Mengenalkan masalah/tantangan tak masuk akal dari antagonis.
@@ -52,7 +52,7 @@ Saat menyusun prompt AI Image/Video (Google Veo, Imagen 3, Claymation style), gu
 
 1. **Focal Point Contrast:** Pastikan objek utama (misal: Ki Udin atau botol kentut/kuali) berada di titik sepertiga (*Rule of Thirds*) dengan pencahayaan paling terang.
 2. **Micro-Expression Prompts:** Cantumkan kata kunci ekspresi spesifik pada prompt AI:
-   - Ki Udin: `"calm mischievous smile, white hair, traditional lurik shirt, innocent eyes, claymation style"`
+   - Ki Udin (sesuai aset `character/season3/ki-udin.png`): `"calm mischievous smile, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals, innocent eyes, claymation style"`
    - Antagonis: `"exaggerated shocked face, wide opened eyes, greedy expression, red cheeks, claymation style"`
 3. **Color Neuro-Psychology:**
    - Warna Lurik/Cokelat/Krem Ki Udin = Kehangatan, kejujuran, merakyat.

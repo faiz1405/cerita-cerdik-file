@@ -9,9 +9,9 @@ Skill ini dirancang untuk merancang struktur narasi dan pacing video pendek (Tik
 
 ---
 
-## 1. FLSR Structural Mapping (Durasi 150-180 Detik / 6 Shot)
+## 1. FLSR Structural Mapping
 
-Setiap brief CapCut atau naskah cerita WAJIB dipetakan ke dalam 4 fase FLSR:
+Setiap brief CapCut atau naskah cerita WAJIB dipetakan ke dalam 4 fase FLSR. Angka detik & shot di bawah adalah contoh untuk video ~150-180 detik / 6 shot; durasi & jumlah shot yang berlaku ikut `.agents/AGENTS.md` (bagian "Durasi Default" dan "Kunci Durasi & Volume Naskah") - skalakan tiap fase secara proporsional:
 
 ```
 Shot 1 (0-30s)   →  [ F ] FIRST 3 SECONDS & PATTERN INTERRUPT
