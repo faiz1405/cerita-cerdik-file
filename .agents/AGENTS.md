@@ -81,22 +81,8 @@ Setiap episode WAJIB dibuatkan satu file terpisah di `prompts_flow/season_X/prom
 
 ---
 
-## 5. Shopee Video Micro-Skit Flow (Hemat Token AI - 10-15 Detik)
 
-Untuk monetisasi Shopee Affiliate melalui Shopee Video / TikTok Video pendek:
-1. **Lokasi Penyimpanan**: Di dalam folder `cerita-cerdik/shopee_video/` buat subfolder per produk (contoh: `shopee_video/eps_31_timbangan_dapur/`, `shopee_video/eps_32_alat_telur_praktis/`, `shopee_video/eps_33_brankas_buku_rahasia/`).
-2. **Isi Berkas**: File `script_shopee_eps_XX_[nama_produk].txt` yang berisi:
-   - **Struktur Timeline Video 10-15 Detik**:
-     - Detik 00-03: Hook AI (Masalah karakter animasi Ki Udin/keluarga).
-     - Detik 03-08: B-roll footage produk nyata seller Shopee (demonstrasi solusi praktis).
-     - Detik 08-12: Neuro-CTA Keranjang Oranye (harga diskon flash sale & panah keranjang).
-   - **Prompt Tunggal Google Veo 3.1**: Hanya butuh 1x generate AI durasi 3-4 detik agar sangat hemat token.
-   - **Naskah Voice Over (VO)**: Bahasa Indonesia santai, persuasif, dan solutif (durasi 12 detik).
-   - **Kriteria Produk Shopee**: Label Komisi Ekstra (10-15%), Star Seller+ / Shopee Mall, rating > 4.7, harga terjangkau (Rp20.000 – Rp100.000) untuk memicu pembelian impulsif.
-
----
-
-## 6. Strategi Konten & Algoritma Berbasis Data (Data-Backed Strategy)
+## 5. Strategi Konten & Algoritma Berbasis Data (Data-Backed Strategy)
 
 Berdasarkan data performa audit empiris (Winning Videos: S1 Eps 18 Batu Cadas [87k views / 78.6k reach / 77.8% Thumb-stop], S1 Eps 11 Pendopo [64k views / 834h watch time], S3 Eps 32 Telur Matang Mentah [47k reach / 58.16s Avg Watch Time / 55.1% Female / 98% Rekomendasi], S2 Eps 27 Kelapa Muda [46.5k views / 459h watch time / 70.9% Thumb-stop], S1 Eps 15 Tongkat Emas [48k views], S1 Eps 17 Kuda 1 Perak & Kucing 100 Emas [48k views], S1 Eps 16 Bebek Panggang [43k views], S2 Eps 24 Brankas Emas [21.8k views / 40.74s Avg Watch Time / 31.7% 1-Min Hold]):
 
@@ -131,18 +117,15 @@ Berdasarkan data performa audit empiris (Winning Videos: S1 Eps 18 Batu Cadas [8
 6. **Pemicu Komentar Polarisasi (Polarization Neuro-CTA - WAJIB)**:
    - Dilarang menggunakan pertanyaan umum membosankan.
    - WAJIB gunakan **Pertanyaan Dilema 2 Kubu / Pilihan 1 vs 2** yang memicu perdebatan moral atau opini terbelah di kolom komentar (contoh: *"Kalian tim sita seluruh hartanya (Ketik 1) atau tim kurung penjara seumur hidup (Ketik 2)? Tulis pilihan kalian di bawah! 👇"*).
-7. **Jadwal Rotasi Tema Mingguan (Mencegah Ad Fatigue)**:
-   - **Senin**: TIPE C (Keadilan/Hukuman Pejabat Koruptor/Rentenir). Tujuan: Memancing schadenfreude dan emosi pelepasan stres awal pekan.
-   - **Selasa**: TIPE A (Logika Sains & Fisika Mustahil). Tujuan: Menantang akal sehat.
-   - **Rabu**: TEMA KELUARGA (Selingkuh/KDRT/Pelakor/Mertua). Tujuan: Trigger emosi ekstrem (Female Audience 25-34) agar shareability meledak di tengah minggu.
-   - **Kamis**: TIPE B (Visual Dopamine Makanan & Dapur). Tujuan: Tontonan santai membuat lapar.
-   - **Jumat**: MISTERI & MITOS (Detektif Desa vs Takhayul). Tujuan: Horor/misteri lokal yang diselesaikan dengan logika untuk menyambut malam Sabtu.
-   - **Sabtu**: ADAPTASI ISU VIRAL MODERN (Slapstick/Investasi Bodong). Tujuan: Relatable dengan tren berita terkini.
-   - **Minggu**: TEKA-TEKI LOGIKA. Tujuan: Memancing audiens berdebat di komentar saat liburan santai.
+7. **Komposisi Tema Mingguan (Porsi, Bukan Jadwal per Hari)**:
+   - **5 dari 7 slot = Formula Pemenang**: Tipe A (tantangan fisik mustahil) atau Tipe B (dapur/makanan) yang lolos 4 saringan skill `idea-hunter` — tantangan mustahil terbayang dalam 1 kalimat, benda konkret sehari-hari, antagonis kalah oleh syaratnya sendiri (Uno Reverse), solusi paham tanpa penjelasan.
+   - **1-2 dari 7 slot = Slot Eksperimen**: tema berisiko (misteri/mitos, isu viral terkini, teka-teki logika/matematika, konflik keluarga). WAJIB tulis hipotesisnya di kolom `catatan` tracker sebelum posting (contoh: `[TES] misteri dipecahkan dengan tantangan fisik`) dan evaluasi lewat skill `meta-analytics-ingest`.
+   - **Hari tayang tidak dikunci ke tema.** Jika ingin menguji pengaruh hari, jadikan eksperimen terpisah (format & tema dikunci, hanya hari yang berubah).
+   - **Dasar data (FB, 7 Agu – 1 Okt 2026)**: jadwal per hari lama hanya pernah dijalankan pada ±4 episode (Eps 52, 54-56), bersamaan dengan tes durasi pendek & jam posting sehingga efeknya tak bisa dipisahkan; sementara tema yang diwajibkannya konsisten lemah — misteri Eps 47-50 (4-7k), isu viral oplosan/koruptor (5-7k), teka-teki tiga pintu (2k), keluarga/KDRT Eps 55 (2k) — dibanding formula pemenang (14 video ber-reach ≥40k, rata-rata thumb-stop 74%). Tinjau ulang porsi ini setiap Monthly Macro-Audit.
 
 ---
 
-## 7. Aturan Ritme Audit Analytics (THS Analytics Flow)
+## 6. Aturan Ritme Audit Analytics (THS Analytics Flow)
 
 Jadwal dan siklus evaluasi performa konten serial Cerita Cerdik menggunakan `/ths-content-evaluator` dari ekspor CSV Meta / TikTok:
 1. **Weekly Micro-Audit (4x per Bulan)**:
@@ -153,3 +136,20 @@ Jadwal dan siklus evaluasi performa konten serial Cerita Cerdik menggunakan `/th
    - Dilakukan pada hari ke-30 setelah siklus bulanan selesai.
    - Fokus: Mendiagnostik *Shareability Rate*, *Growth Pattern*, dan *Winning Topics*.
    - Hasil: Menentukan arah tema cerita utama Season berikutnya.
+3. **Langkah teknis setiap audit**: ekspor CSV video dari Meta Business Suite, lalu ikuti skill `meta-analytics-ingest` (`.agents/skills/meta-analytics-ingest/SKILL.md`) untuk mengisi tracker sebelum membuat diagnosis.
+
+---
+
+## 7. Alur Kerja Episode Baru (Berlaku untuk Semua Agent: Claude Code, Codex, Antigravity)
+
+Setiap kali pengguna meminta "eps selanjutnya" / episode baru, jalankan urutan ini. Jika platform tidak memuat skill otomatis, **baca file `SKILL.md` yang disebut secara langsung** sebelum melanjutkan.
+
+1. **Cek posisi terakhir**: baca `cerita-cerdik/episode_tracker.csv` untuk nomor episode terakhir & season aktif. Nomor baru = terakhir + 1. Jalankan `git status`; jika ada perubahan episode sebelumnya yang belum di-commit, beri tahu pengguna dulu (mencegah bentrok antar-platform).
+2. **Ide**: ikuti skill `idea-hunter` (`.agents/skills/idea-hunter/SKILL.md`) → sajikan 5 alternatif + hook 3 detik → **berhenti dan tunggu pengguna memilih**. Jangan menulis brief sebelum ada pilihan.
+3. **Tulis 3 file** sesuai §2-§4: `briefs/season_X/eps_XX_[slug]/brief_eps_XX_[slug].txt`, `hasil_brief_eps_XX_[slug].txt` (wajib memuat bagian `RINCIAN VISUAL & AUDIO PER SHOT`), dan `prompts_flow/season_X/prompt_eps_XX_[slug].txt` (6 bagian lengkap). Rujukan format terbaru: episode terakhir yang lolos validator.
+4. **Validasi** sampai `[PASSED]`:
+   `powershell -ExecutionPolicy Bypass -File cerita-cerdik\tools\validate_brief.ps1 -Eps XX`
+5. **Perbarui tracker**: `powershell -ExecutionPolicy Bypass -File cerita-cerdik\tools\build_tracker.ps1`
+6. **Setelah video dirender** oleh pengguna: pastikan tersimpan sebagai `cerita-cerdik/output/epsXX.mp4`, jalankan ulang `build_tracker.ps1` (durasi asli terisi otomatis).
+7. **Commit** perubahan episode (tanpa file video) agar platform lain melihat keadaan terbaru.
+8. **Setelah tayang**: catat jam posting & tanda eksperimen (`[TES] ...`) di kolom `catatan`; metrik diisi saat audit mingguan (§6).
