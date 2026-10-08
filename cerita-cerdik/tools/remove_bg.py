@@ -1,0 +1,15 @@
+import sys
+from rembg import remove
+from PIL import Image
+
+input_path = sys.argv[1]
+output_path = sys.argv[2]
+
+try:
+    print(f"Processing: {input_path}")
+    input_image = Image.open(input_path)
+    output_image = remove(input_image)
+    output_image.save(output_path)
+    print(f"Successfully saved to: {output_path}")
+except Exception as e:
+    print(f"Error: {e}")

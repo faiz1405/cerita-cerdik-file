@@ -1,0 +1,64 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Makan Pakai Centong Dua Meter (Eps 61)
+- Clicky Video Headline: MAKAN PAKAI SENDOK 2 METER! / SIKU NGGAK BOLEH DITEKUK?!
+- Single Video Title: Cerita Cerdik Ki Udin Season 6 - Makan Pakai Centong Dua Meter & Pak Lurah Nyungsep di Tumpeng (Eps 61)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In the yard of a newly built wooden village hall, a long table covered with banana leaves holds a tall yellow rice cone (tumpeng), a whole roasted chicken, a pot of vegetable soup and a bowl of red chili sambal, hungry villagers seated on both sides. A stern Javanese village chief with short grey hair, thick grey mustache, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets and brown leather belt violently slams a plain bamboo ladle two meters long onto the table, plates rattling. A skinny barefoot village boy in a faded striped shirt swallows hard staring at the chicken. At exactly second 1.5, the chief raises his finger and shouts loudly in authentic Javanese accent: "Mangan nganggo centong iki, sikut ora entuk ditekuk!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Among the villagers, a wise elderly Javanese man with grey mustache, brown batik blangkon and brown striped lurik shirt strokes his mustache with a sly smile. Fluid clay stop-motion animation, warm harsh midday sunlight, appetizing glossy clay food, tense comedic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, metal spoon, plastic tableware, modern building, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster of a long banana-leaf feast table in front of a wooden village hall, villagers on both sides feeding each other across the table with very long two-meter bamboo ladles that cross over the table like a bridge, a mother in brown kebaya and an old grandpa feeding each other and laughing, a skinny village boy chewing happily with sparkling eyes. Ki Udin, a wise elderly Javanese villager with grey mustache, brown batik blangkon and brown striped lurik shirt, holds his long ladle with a perfectly straight arm and a calm sly smile. In the foreground a stern village chief with thick grey mustache, tall black peci tilted sideways and khaki safari uniform sits squashed on top of a collapsed yellow rice cone, grains of yellow rice on his peci and mustache, cartoon red teary eyes from chili, mouth wide open. Bright warm midday light, appetizing glossy clay food, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, metal spoons, plastic tableware, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - centong bambu dianimasikan terpisah di CapCut. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Pak Lurah Mulyo `character/season5/pak-lurah.png` (pose berdiri tegas - untuk Shot 1-2), Mbok Darmi `character/season3/ibu_warga_desa_transparent.png`. Pose baru di bawah simpan ke `character/season6/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Pak Lurah Mulyo - Option A (Tertawa Sombong) - untuk Shot 3]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A stingy proud Javanese village chief, 55, short grey hair, thick grey mustache, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets, brown leather belt, khaki trousers, barefoot, head tilted back laughing loudly with mouth wide open, smug arrogant expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Pak Lurah Mulyo - Option B (Melotot Marah, Peci Miring) - untuk Shot 6]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same Javanese village chief with thick grey mustache, khaki safari uniform and brown leather belt, tall black peci tilted sideways, bulging furious eyes, red puffed cheeks, panicking angry expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Pak Lurah Mulyo - Option B (Malu, Membuka Mulut Minta Disuapi) - untuk Shot 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same Javanese village chief with thick grey mustache, tall black peci and khaki safari uniform, sitting on the ground with legs stretched forward, deeply embarrassed red face, cartoon teary eyes, mouth opened wide waiting to be fed, empty hands, hands resting on his knees, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Thole - Option A (Mengunyah Bahagia) - untuk Shot 4, 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A skinny Javanese village boy, 8, short cropped black hair, big sparkling happy eyes, puffed chewing cheeks, faded brown striped lurik shirt, brown shorts, barefoot, standing with a joyful grin, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, yard of a new wooden village hall, long banana-leaf feast table with yellow rice cone tumpeng, whole roasted chicken, vegetable soup and red chili sambal, plain two-meter bamboo ladles...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no metal spoons, no plastic tableware]`
+Catatan: Centong bambu SELALU dua meter dan selalu dipegang di ujung gagang dengan siku lurus - jangan sampai terlihat pendek seperti sendok biasa. Tumpeng menyusut bertahap dari Shot 4 sampai Shot 7. Sambal di mata Lurah hanya mata merah berair kartun tanpa luka; nasi kuning dan noda sambal di Shot 7-8 lewat overlay CapCut, bukan di base render.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + PRAK! (centong dibanting) + piring bergetar. Dialog Jawa "Mangan nganggo centong iki, sikut ora entuk ditekuk!" di 1.5s.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (cutaway sekitar 8s): Record Scratch kecil.
+- Percobaan Gagal (Shot 3): "Wuuush" nasi terbang, CIPRAT! kuah, tawa sombong Lurah.
+- Uno Reverse & Pesta (Shot 4-5): "Ting!" saat centong sampai ke mulut Thole, lalu gamelan ceria dan tawa warga.
+- Punchline (Shot 6): Record Scratch saat "Curang!", "ting ting ting" checklist aturan.
+- Slapstick (Shot 7-8): Perut keroncongan → CIPRAT! sambal → "Pedeees!" → Slip! → BRUK! → Thud → Crowd Laughing.

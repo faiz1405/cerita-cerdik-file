@@ -1,0 +1,161 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Tantangan Mustahil & Uno Reverse). Juragan Broto memonopoli penyeberangan sungai dan menepis nenek tua yang tak punya ongkos. Di depan warga ia sesumbar: siapa pun yang sanggup sampai seberang tanpa bayar dan tanpa basah, perahunya gratis selamanya. Ki Udin memancing gengsi Broto agar membuktikan dua puluh perahunya dengan menjajarkannya dari tepi ke tepi, lalu menyeberang di atasnya sambil "menghitung" bersama seluruh warga.
+
+# [purpose]
+Memancing rasa geram pada juragan serakah yang menindas nenek tua miskin, lalu melepaskannya lewat kepuasan melihat sang juragan kalah oleh sesumbar dan gengsinya sendiri. Benda konkret sehari-hari (perahu kayu, sungai, bakul sayur, eceng gondok) agar langsung relate dan lucu bagi penonton desa Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, dan kehidupan desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Juragan Broto menepis tangan nenek tua dari perahunya sambil tertawa memamerkan gigi emas. TEXT OVERLAY BOLD: "NYEBERANG? BAYAR EMAS DULU!".
+    ENVIRONMENT: DAY. Dermaga bambu di tepi sungai cokelat desa, pasar ramai terlihat di seberang, siang terik.
+    SUBJECT: Juragan Broto (gemuk, kumis hitam melintang tebal, blangkon batik cokelat, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang), Nenek Tua (rambut sanggul abu-abu, kebaya cokelat, jarik batik), Ki Udin di antara warga.
+    ACTION: Nenek hendak naik perahu, Broto menepis tangannya, bakul sayur nenek terguling di tepi sungai berlumpur. Broto tertawa lebar memamerkan gigi emas. Potong cepat ke Ki Udin yang mengelus kumis.
+    NARASI: "Juragan Broto menepis tangan nenek tua dari perahunya, memamerkan gigi emas! "Tak punya emas, jangan harap menyeberang! Kalau sanggup sampai seberang tanpa bayar dan tanpa basah, perahuku gratis selamanya!" Warga terdiam. Hanya Ki Udin yang tersenyum licik sambil mengelus kumis."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Pancingan Gengsi*).
+    ENVIRONMENT: DAY. Dermaga bambu dengan lima perahu kayu tertambat, sisa perahu tidak terlihat di tikungan sungai.
+    SUBJECT: Ki Udin menunjuk perahu di dermaga, Juragan Broto berwajah merah padam.
+    ACTION: Ki Udin menghitung dengan jari ke lima perahu sambil mengangkat alis. Wajah Broto memerah, asap kartun keluar dari telinga, ia menepuk dada.
+    NARASI: "Ki Udin menatap deretan perahu di dermaga lalu menghitung. "Perahu Juragan cuma lima, kan? Kudengar orang menyebutmu juragan kecil." Wajah Broto merah padam. "Lima?! Aku punya dua puluh perahu! Paling banyak se-kabupaten!" Ki Udin mengangkat bahu. "Buktikan, biar kuhitung sendiri.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Two Shot lalu Wide Shot (*Jebakan Taruhan*).
+    ENVIRONMENT: DAY. Tepi sungai, anak buah Broto mendayung perahu-perahu dari tikungan sungai.
+    SUBJECT: Ki Udin menunjuk ke tepi seberang, Juragan Broto membusungkan dada, anak buah Broto mengikat perahu.
+    ACTION: Ki Udin merentangkan tangan dari tepi sini ke tepi seberang. Broto tersanjung, lalu menunjuk-nunjuk memerintah anak buahnya mengikat perahu satu per satu dengan tali tambang.
+    NARASI: ""Kalau benar dua puluh, aku bayar ongkos menyeberang dua kali lipat seumur hidup. Jajarkan saja dari tepi sini sampai seberang, biar warga dua desa melihat kehebatanmu." Mabuk pujian, Broto langsung menyuruh anak buahnya mengikat dua puluh perahu sambung-menyambung dengan tambang."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: High Angle Wide Shot (*Jembatan Perahu Terbentuk*).
+    ENVIRONMENT: DAY. Dua puluh perahu kayu berjajar rapat melintang sungai dari tepi ke tepi, warga berkerumun di kedua tepi.
+    SUBJECT: Juragan Broto berdiri di perahu pertama, warga cemas, Ki Udin tenang.
+    ACTION: Kamera turun dari atas memperlihatkan jembatan perahu. Broto membusungkan perut buncit dan menunjuk Ki Udin dengan congkak. Warga saling berpandangan cemas.
+    NARASI: "Siang itu, sungai kecil berubah menjadi jembatan perahu yang panjang. Broto berdiri di perahu pertama sambil membusungkan perut buncitnya. "Hitung, Kakek! Setelah itu siapkan uangmu, seumur hidup kau bayar dua kali lipat!" Warga menahan napas, diam-diam kasihan pada Ki Udin."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Tracking Shot (*Uno Reverse Dimulai*).
+    ENVIRONMENT: DAY. Di atas jembatan perahu, air sungai cokelat beriak di bawah.
+    SUBJECT: Ki Udin melompat dari perahu ke perahu, nenek tua dan para pedagang sayur berbaris di belakangnya membawa bakul.
+    ACTION: Ki Udin melangkah ringan sambil menghitung dengan jari, angka besar muncul di atas tiap perahu. Ia melambai ke warga, warga ikut berbaris menyeberang membawa bakul dagangan.
+    NARASI: "Ki Udin melangkah ke perahu pertama. "Satu... dua... tiga..." Ia melompat dari perahu ke perahu sambil menghitung. Ki Udin melambai ke warga. "Ayo, bantu aku menghitung!" Nenek tua dan para pedagang sayur ikut berbaris di belakangnya, membawa bakul dagangan mereka."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Low Angle Medium Shot (*Sampai Seberang*).
+    ENVIRONMENT: DAY. Tepi seberang sungai dekat pasar, tanah kering berumput.
+    SUBJECT: Ki Udin mendarat dengan kaki kering, warga bersorak, Juragan Broto melongo di perahu pertama jauh di belakang.
+    ACTION: Ki Udin melompat ke tanah kering, menunjuk kedua kakinya yang tetap kering. Warga mendarat sambil bersorak. Potong ke wajah Broto yang melongo, gigi emasnya berkilau lalu senyumnya runtuh.
+    NARASI: ""...Sembilan belas, dua puluh!" Ki Udin melompat ke tepi seberang, kedua kakinya tetap kering. "Benar, Juragan, dua puluh! Dan aku sudah sampai seberang, tanpa bayar, tanpa basah." Seluruh warga ikut mendarat sambil bersorak gembira. Senyum gigi emas Broto langsung lenyap."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Shot Reverse Shot (*Punchline Dua Kali Gratis*).
+    ENVIRONMENT: DAY. Tepi seberang sungai, warga berkerumun di belakang Ki Udin.
+    SUBJECT: Juragan Broto berteriak dari jembatan perahu, Ki Udin tersenyum santai.
+    ACTION: Broto menghentakkan kaki dan menunjuk marah. Ki Udin mengangkat dua jari, lalu membentuk angka nol dengan jari. Warga tertawa terpingkal-pingkal.
+    NARASI: ""Curang! Kau menginjak perahuku, dan kau kalah taruhan! Bayar dua kali lipat!" teriak Broto. Ki Udin tersenyum. "Tentu, Juragan. Tapi tadi Juragan sendiri berjanji di depan warga, perahumu gratis selamanya. Dua kali lipat dari gratis... tetap gratis." Warga tertawa terpingkal-pingkal."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Slapstick Payoff (*Karma Instan*).
+    ENVIRONMENT: DAY. Tengah sungai cokelat, eceng gondok mengapung, pasar ramai di tepi seberang.
+    SUBJECT: Juragan Broto mengangkang di dua perahu yang menjauh, nenek tua tersenyum di lapak pasar.
+    ACTION: Broto berlari di atas jembatan perahu, tali ikatan lepas, kakinya mengangkang makin lebar di dua perahu lalu tercebur. Ia muncul megap-megap berkalung eceng gondok. Potong ke nenek tua tersenyum menjajakan sayur.
+    NARASI: "Broto mengamuk, berlari kencang di atas jembatan perahu mengejar Ki Udin. Tapi tali ikatannya tiba-tiba lepas! Kakinya mengangkang di dua perahu yang makin menjauh... BYUUR! Ia muncul megap-megap berkalung eceng gondok, sementara nenek tua tersenyum menjajakan sayurnya di pasar seberang."
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Juragan Broto menepis tangan nenek tua dari perahunya, memamerkan gigi emas! "Tak punya emas, jangan harap menyeberang! Kalau sanggup sampai seberang tanpa bayar dan tanpa basah, perahuku gratis selamanya!" Warga terdiam. Hanya Ki Udin yang tersenyum licik sambil mengelus kumis.
+<break time="1.0s"/>
+
+Ki Udin menatap deretan perahu di dermaga lalu menghitung. "Perahu Juragan cuma lima, kan? Kudengar orang menyebutmu juragan kecil." Wajah Broto merah padam. "Lima?! Aku punya dua puluh perahu! Paling banyak se-kabupaten!" Ki Udin mengangkat bahu. "Buktikan, biar kuhitung sendiri."
+<break time="1.0s"/>
+
+"Kalau benar dua puluh, aku bayar ongkos menyeberang dua kali lipat seumur hidup. Jajarkan saja dari tepi sini sampai seberang, biar warga dua desa melihat kehebatanmu." Mabuk pujian, Broto langsung menyuruh anak buahnya mengikat dua puluh perahu sambung-menyambung dengan tambang.
+<break time="1.0s"/>
+
+Siang itu, sungai kecil berubah menjadi jembatan perahu yang panjang. Broto berdiri di perahu pertama sambil membusungkan perut buncitnya. "Hitung, Kakek! Setelah itu siapkan uangmu, seumur hidup kau bayar dua kali lipat!" Warga menahan napas, diam-diam kasihan pada Ki Udin.
+<break time="1.0s"/>
+
+Ki Udin melangkah ke perahu pertama. "Satu... dua... tiga..." Ia melompat dari perahu ke perahu sambil menghitung. Ki Udin melambai ke warga. "Ayo, bantu aku menghitung!" Nenek tua dan para pedagang sayur ikut berbaris di belakangnya, membawa bakul dagangan mereka.
+<break time="1.0s"/>
+
+"...Sembilan belas, dua puluh!" Ki Udin melompat ke tepi seberang, kedua kakinya tetap kering. "Benar, Juragan, dua puluh! Dan aku sudah sampai seberang, tanpa bayar, tanpa basah." Seluruh warga ikut mendarat sambil bersorak gembira. Senyum gigi emas Broto langsung lenyap.
+<break time="1.0s"/>
+
+"Curang! Kau menginjak perahuku, dan kau kalah taruhan! Bayar dua kali lipat!" teriak Broto. Ki Udin tersenyum. "Tentu, Juragan. Tapi tadi Juragan sendiri berjanji di depan warga, perahumu gratis selamanya. Dua kali lipat dari gratis... tetap gratis." Warga tertawa terpingkal-pingkal.
+<break time="1.0s"/>
+
+Broto mengamuk, berlari kencang di atas jembatan perahu mengejar Ki Udin. Tapi tali ikatannya tiba-tiba lepas! Kakinya mengangkang di dua perahu yang makin menjauh... BYUUR! Ia muncul megap-megap berkalung eceng gondok, sementara nenek tua tersenyum menjajakan sayurnya di pasar seberang.
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat Broto menepis tangan nenek. Berubah menjadi musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin memancing gengsi Broto. Tempo naik ringan dan riang saat Ki Udin menghitung sambil melompat dari perahu ke perahu, berhenti mendadak (record scratch) di "dua kali lipat dari gratis", lalu ditutup musik komedi slapstick riang saat Broto tercebur.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'jangan harap menyeberang', 'tanpa bayar dan tanpa basah', 'gratis selamanya', 'juragan kecil', 'dua puluh perahu', 'dua kali lipat', 'jembatan perahu', 'kakinya kering', 'tetap gratis', 'BYUUR', 'eceng gondok'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. Always dry, never wet. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Fat greedy Javanese boat-ferry owner, 50, thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly. Smug arrogant grin. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Nenek Tua (ROLE_03)",
+        "description": "Poor elderly Javanese grandmother vegetable seller, 70, grey hair in a traditional bun, faded brown kebaya, brown batik jarik skirt, barefoot. Gentle weary face. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: sungai cokelat sempit di desa Jawa dengan dermaga bambu di tepi sini dan pasar tradisional ramai di tepi seberang, eceng gondok mengapung, perahu kayu sederhana bercat pudar. KONTINUITAS PERAHU TERKUNCI: hanya lima perahu terlihat di dermaga pada Shot 1-2; Shot 3-8 tepat dua puluh perahu kayu yang sama, diikat tali tambang sambung-menyambung melintang dari tepi ke tepi. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik, dan SELALU KERING (tidak pernah basah); Juragan Broto selalu blangkon batik cokelat, kumis hitam melintang tebal, satu gigi emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang; Nenek Tua selalu sanggul abu-abu, kebaya cokelat pudar, jarik batik. REGISTER CAHAYA: siang terik hangat di semua shot dengan bayangan keras dan pantulan air berkilau. MODERASI SLAPSTICK: nenek hanya ditepis tangannya dan bakulnya terguling di tepi berlumpur, nenek tidak jatuh dan tidak masuk air; Broto tercebur sebagai komedi tanpa luka atau darah, noda lumpur lewat overlay. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no motorboat, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

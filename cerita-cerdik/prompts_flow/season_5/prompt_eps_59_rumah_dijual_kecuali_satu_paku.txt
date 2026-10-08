@@ -41,6 +41,12 @@ Isolated full body on a clean transparent background, clean alpha cutout edges, 
 [Prompt Karakter 3: Tuan Tanah Buncit - Option B (Kurang Tidur/Kusut) - untuk Shot 7]
 Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese landlord in red beskap with gold motifs and brown batik trousers, messy disheveled black hair, droopy tired red eyes with dark circles, slumped shoulders, exhausted defeated expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished.
 
+[Prompt Karakter 4: Pak Lurah Mulyo - Option A (Sombong/Memerintah)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 55-year-old corrupt Javanese village chief, wearing a vintage khaki safari uniform and tall black peci hat, standing upright with an arrogant strict expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 5: Pak Lurah Mulyo - Option B (Kesakitan/Panik)]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A 55-year-old corrupt Javanese village chief, wearing a vintage khaki safari uniform and tall black peci hat, slightly hunched with a panicking and painful wincing expression, empty hands, hands relaxed naturally at sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
 ===================================================================
 [5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
 -------------------------------------------------------------------

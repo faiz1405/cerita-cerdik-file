@@ -1,0 +1,166 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe B (Makanan & Uno Reverse). Pak Lurah Mulyo wajib menjamu warga yang seminggu kerja bakti membangun balai desa tanpa upah, tapi ia pelit. Di syukuran, ia mewajibkan semua orang makan memakai centong bambu sepanjang dua meter, dipegang di ujung, siku tak boleh ditekuk, berlaku untuk semua termasuk dirinya. Ki Udin membalik aturan itu: warga saling menyuapi orang di seberang meja. Tumpeng habis, Lurah yang gengsi mencoba makan sendiri dan berakhir disuapi bocah kecil.
+
+# [purpose]
+Memancing rasa geram pada pejabat pelit yang mengakali hak makan warga pekerja, lalu melepaskannya lewat kepuasan melihat sang lurah kalah oleh aturannya sendiri. Menghadirkan emosi gotong royong (ibu, anak, dan kakek saling menyuapi) dan visual makanan menggoda (tumpeng nasi kuning, ayam ingkung, sayur lodeh, sambal) agar relate dan hangat bagi keluarga Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, kuliner desa, dan kehangatan keluarga).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Pak Lurah membanting centong bambu dua meter ke meja syukuran di depan tumpeng. TEXT OVERLAY BOLD: "MAKAN PAKAI SENDOK 2 METER?!".
+    ENVIRONMENT: DAY. Halaman balai desa baru berdinding kayu, meja panjang beralas daun pisang penuh tumpeng nasi kuning, ayam ingkung, sayur lodeh, dan sambal, siang terik.
+    SUBJECT: Pak Lurah Mulyo (rambut dan kumis tebal abu-abu, peci hitam tinggi, seragam safari khaki lengan pendek, sabuk kulit cokelat), warga lapar di kedua sisi meja, Ki Udin di antara warga.
+    ACTION: Pak Lurah membanting centong bambu panjang ke meja hingga piring bergetar, lalu mengacungkan jari memberi aturan. Bocah kurus menelan ludah menatap ayam ingkung. Potong cepat ke Ki Udin yang mengelus kumis.
+    NARASI: "Pak Lurah Mulyo membanting centong bambu sepanjang dua meter di depan tumpeng syukuran! "Makan sepuasnya, tapi wajib pakai centong ini! Pegang di ujung, siku tak boleh ditekuk. Yang melanggar didenda sekarung beras! Aturan ini berlaku untuk semua, termasuk aku sendiri!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Injustice & Sly Reaction*).
+    ENVIRONMENT: DAY. Balai desa yang baru selesai dibangun, perkakas kerja bakti (cangkul, gergaji) tersandar di dinding.
+    SUBJECT: Warga desa lesu dan lapar, anak-anak menatap makanan, Ki Udin tersenyum.
+    ACTION: Kamera pan dari balai desa baru ke wajah warga yang lesu, anak-anak menelan ludah, lalu berhenti di Ki Udin yang mengelus kumis sambil tersenyum licik dan mengangguk.
+    NARASI: "Warga desa terdiam lapar. Seminggu penuh mereka kerja bakti membangun balai desa tanpa upah, dan syukuran inilah satu-satunya bayaran. Anak-anak menatap ayam ingkung sambil menelan ludah. Tapi Ki Udin justru mengelus kumisnya dan tersenyum licik. "Baik, Pak Lurah. Kami setuju.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Wide Shot (*Impossible Attempt*).
+    ENVIRONMENT: DAY. Meja panjang syukuran, nasi dan kuah beterbangan (efek komedi).
+    SUBJECT: Mbok Darmi (sanggul cokelat tua, kebaya cokelat, jarik batik parang), Pak Karto, warga lain, Pak Lurah tertawa.
+    ACTION: Mbok Darmi mengangkat centong panjang dengan siku lurus, nasi terlempar jauh ke belakang kepalanya. Kuah lodeh dari centong Pak Karto tumpah ke sarung tetangga. Pak Lurah tertawa sambil memeluk perut.
+    NARASI: "Warga mulai mencoba. Mbok Darmi mengangkat centong panjang berisi nasi, tapi nasinya malah terlempar jauh ke belakang kepalanya. Pak Karto menyendok sayur lodeh, kuahnya tumpah ke sarung tetangga. Pak Lurah tertawa terbahak-bahak sambil memeluk perutnya. "Silakan, silakan! Makan sepuasnya, Saudara-saudara!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Over The Shoulder lalu Close Up (*Uno Reverse Begins*).
+    ENVIRONMENT: DAY. Meja panjang syukuran, Ki Udin di satu sisi, Thole di sisi seberang.
+    SUBJECT: Ki Udin dengan centong panjang, Thole (bocah kurus 8 tahun, rambut cepak, baju lurik lusuh, celana pendek cokelat).
+    ACTION: Ki Udin menyendok sepotong ayam ingkung, menjulurkan centong lurus melintasi meja tepat ke mulut Thole. Close up siku Ki Udin yang tetap lurus. Thole mengunyah dengan mata berbinar.
+    NARASI: "Ki Udin berdiri dengan tenang. Ia menyendok sepotong ayam ingkung dengan centong panjangnya, lalu menjulurkannya lurus ke seberang meja, tepat ke mulut Thole, bocah kurus yang sejak tadi kelaparan. Siku Ki Udin tetap lurus. Thole mengunyah lahap dengan mata berbinar."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: High Angle Wide Shot (*Gotong Royong Feast*).
+    ENVIRONMENT: DAY. Meja panjang dilihat dari atas, warga berpasangan di dua sisi meja.
+    SUBJECT: Mbok Darmi, kakek warga, ibu-ibu, anak-anak, bapak-bapak saling menyuapi.
+    ACTION: Puluhan centong panjang bersilangan di atas meja seperti jembatan. Mbok Darmi dan kakek saling menyuapi. Tumpeng menyusut cepat (time-lapse). Semua tertawa bahagia.
+    NARASI: ""Ayo, suapi orang di depan kalian!" seru Ki Udin. Seketika warga berpasangan di dua sisi meja. Mbok Darmi menyuapi kakek di seberangnya, kakek itu menyuapi Mbok Darmi. Anak-anak, ibu-ibu, dan bapak-bapak saling menyuapi sambil tertawa. Tumpeng besar itu menyusut cepat."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Shot Reverse Shot (*Punchline Aturan*).
+    ENVIRONMENT: DAY. Ujung meja syukuran, warga di belakang Ki Udin.
+    SUBJECT: Pak Lurah melotot dengan peci miring, Ki Udin tersenyum santai.
+    ACTION: Pak Lurah menunjuk-nunjuk marah, pecinya miring. Ki Udin menghitung dengan jari: centong dua meter, dipegang di ujung, siku lurus. Warga bersorak sambil terus saling menyuapi.
+    NARASI: "Pak Lurah melotot, pecinya miring. "Curang! Kalian melanggar aturan!" Ki Udin tersenyum. "Aturan yang mana, Pak? Centongnya dua meter, dipegang di ujung, siku kami lurus semua. Pak Lurah tidak pernah bilang harus menyuapi diri sendiri." Warga bersorak, terus saling menyuapi."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Action (*Slapstick Karma*).
+    ENVIRONMENT: DAY. Meja syukuran yang hampir kosong, tinggal semangkuk sambal merah dan sisa tumpeng.
+    SUBJECT: Pak Lurah sendirian dengan centong panjang.
+    ACTION: Perut Lurah keroncongan. Ia mengayunkan centong tinggi-tinggi dengan siku lurus, sambal muncrat ke matanya (efek komedi), ia terhuyung lalu terjengkang menduduki sisa tumpeng.
+    NARASI: "Tinggal semangkuk sambal dan sisa tumpeng. Perut Pak Lurah keroncongan keras sekali. Karena gengsi, ia mencoba makan sendiri dengan centong panjangnya. Ia mengayunkannya tinggi-tinggi, tapi sambal merah malah muncrat ke matanya! Pak Lurah terhuyung, lalu terjengkang menduduki tumpeng itu. BRUK!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Two Shot (*Heartwarming Humiliation*).
+    ENVIRONMENT: DAY. Halaman balai desa, warga mengelilingi meja sambil tertawa.
+    SUBJECT: Pak Lurah duduk di atas tumpeng dengan nasi kuning di peci dan kumis, Thole menyodorkan centong panjang.
+    ACTION: Warga tertawa terpingkal-pingkal. Thole mendekat dan menyodorkan centong panjang berisi nasi dari seberang. Pak Lurah yang merah padam membuka mulut lebar-lebar. Freeze frame.
+    NARASI: "Nasi kuning menempel di peci dan kumisnya, matanya merah berair kepedasan. Warga tertawa terpingkal-pingkal. Lalu Thole kecil datang sambil membawa centong panjang berisi nasi. "Mau saya suapi, Pak Lurah?" Dengan wajah merah padam menahan malu, Pak Lurah membuka mulut lebar-lebar."
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Pak Lurah Mulyo membanting centong bambu sepanjang dua meter di depan tumpeng syukuran! "Makan sepuasnya, tapi wajib pakai centong ini! Pegang di ujung, siku tak boleh ditekuk. Yang melanggar didenda sekarung beras! Aturan ini berlaku untuk semua, termasuk aku sendiri!"
+<break time="1.0s"/>
+
+Warga desa terdiam lapar. Seminggu penuh mereka kerja bakti membangun balai desa tanpa upah, dan syukuran inilah satu-satunya bayaran. Anak-anak menatap ayam ingkung sambil menelan ludah. Tapi Ki Udin justru mengelus kumisnya dan tersenyum licik. "Baik, Pak Lurah. Kami setuju."
+<break time="1.0s"/>
+
+Warga mulai mencoba. Mbok Darmi mengangkat centong panjang berisi nasi, tapi nasinya malah terlempar jauh ke belakang kepalanya. Pak Karto menyendok sayur lodeh, kuahnya tumpah ke sarung tetangga. Pak Lurah tertawa terbahak-bahak sambil memeluk perutnya. "Silakan, silakan! Makan sepuasnya, Saudara-saudara!"
+<break time="1.0s"/>
+
+Ki Udin berdiri dengan tenang. Ia menyendok sepotong ayam ingkung dengan centong panjangnya, lalu menjulurkannya lurus ke seberang meja, tepat ke mulut Thole, bocah kurus yang sejak tadi kelaparan. Siku Ki Udin tetap lurus. Thole mengunyah lahap dengan mata berbinar.
+<break time="1.0s"/>
+
+"Ayo, suapi orang di depan kalian!" seru Ki Udin. Seketika warga berpasangan di dua sisi meja. Mbok Darmi menyuapi kakek di seberangnya, kakek itu menyuapi Mbok Darmi. Anak-anak, ibu-ibu, dan bapak-bapak saling menyuapi sambil tertawa. Tumpeng besar itu menyusut cepat.
+<break time="1.0s"/>
+
+Pak Lurah melotot, pecinya miring. "Curang! Kalian melanggar aturan!" Ki Udin tersenyum. "Aturan yang mana, Pak? Centongnya dua meter, dipegang di ujung, siku kami lurus semua. Pak Lurah tidak pernah bilang harus menyuapi diri sendiri." Warga bersorak, terus saling menyuapi.
+<break time="1.0s"/>
+
+Tinggal semangkuk sambal dan sisa tumpeng. Perut Pak Lurah keroncongan keras sekali. Karena gengsi, ia mencoba makan sendiri dengan centong panjangnya. Ia mengayunkannya tinggi-tinggi, tapi sambal merah malah muncrat ke matanya! Pak Lurah terhuyung, lalu terjengkang menduduki tumpeng itu. BRUK!
+<break time="1.0s"/>
+
+Nasi kuning menempel di peci dan kumisnya, matanya merah berair kepedasan. Warga tertawa terpingkal-pingkal. Lalu Thole kecil datang sambil membawa centong panjang berisi nasi. "Mau saya suapi, Pak Lurah?" Dengan wajah merah padam menahan malu, Pak Lurah membuka mulut lebar-lebar.
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat centong dibanting. Berubah menjadi musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin tersenyum dan warga gagal mencoba makan. Berubah hangat dan riang (gamelan ceria) saat warga saling menyuapi, berhenti mendadak (record scratch) saat Lurah protes, lalu ditutup musik komedi slapstick saat Lurah terjengkang menduduki tumpeng.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'centong bambu sepanjang dua meter', 'siku tak boleh ditekuk', 'termasuk aku sendiri', 'tanpa upah', 'terlempar jauh', 'siku Ki Udin tetap lurus', 'suapi orang di depan kalian', 'menyuapi diri sendiri', 'muncrat ke matanya', 'BRUK', 'Mau saya suapi, Pak Lurah?'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Pak Lurah Mulyo (ROLE_02)",
+        "description": "Stingy proud Javanese village chief, 55, short grey hair, thick grey mustache, stern frowning face, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets, brown leather belt, khaki trousers, barefoot. Arrogant strict expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Mbok Darmi (ROLE_03)",
+        "description": "Kind Javanese village mother, 50, dark brown hair in a traditional bun, round gentle face, brown kebaya, brown parang batik jarik skirt, simple sandals. Warm caring expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Thole (ROLE_04)",
+        "description": "Skinny Javanese village boy, 8, short cropped black hair, big hopeful eyes, faded brown striped lurik shirt, brown shorts, barefoot. Innocent hungry expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: halaman balai desa kayu yang baru selesai dibangun, satu meja panjang beralas daun pisang dengan warga duduk berhadapan di dua sisinya, tumpeng nasi kuning besar di tengah, ayam ingkung, sayur lodeh, dan semangkuk sambal merah. KONTINUITAS PROPERTI TERKUNCI: setiap orang memegang centong bambu polos sepanjang dua meter (lebih panjang dari lengan dua kali lipat), selalu dipegang di ujung gagang dengan siku lurus; tumpeng menyusut bertahap dari Shot 4 sampai Shot 7. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Pak Lurah Mulyo selalu rambut dan kumis tebal abu-abu, peci hitam tinggi, seragam safari khaki lengan pendek dengan dua saku dada, sabuk kulit cokelat, celana khaki, tanpa alas kaki; Mbok Darmi selalu sanggul cokelat tua, kebaya cokelat, jarik batik parang; Thole selalu rambut cepak, baju lurik lusuh, celana pendek cokelat. REGISTER CAHAYA: siang terik hangat di semua shot dengan bayangan lembut di bawah meja. MODERASI SLAPSTICK: nasi dan kuah yang beterbangan bersifat komedi; sambal ke mata Pak Lurah hanya membuat mata merah berair kartun tanpa luka; Lurah terjengkang menduduki tumpeng tanpa cedera; noda nasi dan sambal lewat overlay. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no metal spoons, no plastic tableware, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]
