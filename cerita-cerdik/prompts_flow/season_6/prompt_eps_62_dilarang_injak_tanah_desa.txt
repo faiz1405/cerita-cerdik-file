@@ -1,0 +1,64 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Dilarang Injak Tanah Desa (Eps 62)
+- Clicky Video Headline: DILARANG INJAK TANAH DESA! / KI UDIN DATANG NAIK GEROBAK TANAH?!
+- Single Video Title: Cerita Cerdik Ki Udin Season 6 - Dilarang Injak Tanah Desa & Pak Lurah Didorong ke Desa Sebelah (Eps 62)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In the dark brown dirt yard of a wooden Javanese village hall at golden late afternoon, with green rice fields and a bamboo village gate in the background and villagers crowding around, a greedy Javanese village chief with short grey hair, thick grey mustache, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets and brown leather belt violently stomps his bare foot on the ground, a puff of dust bursting up, and jabs his finger at the face of a wise elderly Javanese man with grey mustache, brown batik blangkon and brown striped lurik shirt. At exactly second 1.5, the chief points toward the village gate and shouts loudly in authentic Javanese accent: "Lungaa saka desaku! Sikilmu ora oleh ngidak lemah desa iki maneh!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Behind them a village widow in brown kebaya covers her mouth holding back tears, a skinny barefoot boy hugging her arm. The elderly man calmly strokes his mustache with a sly smile. Fluid clay stop-motion animation, warm orange sunset light with long shadows, tense comedic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, motor vehicle, modern building, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster in front of a wooden Javanese village hall on a bright morning: a two-wheeled wooden cart piled high with bright brick-red soil, contrasting sharply with the dark brown dirt yard, pulled by a skinny barefoot village boy in a faded striped lurik shirt grinning proudly. Standing triumphantly on top of the red soil is Ki Udin, a wise elderly Javanese villager with grey mustache, brown batik blangkon and brown striped lurik shirt, wearing a woven bamboo rice basket upside down over his head, peeking out through the weave with one sly eye, hands behind his back. In the foreground a greedy village chief with thick grey mustache, tall black peci tilted sideways and khaki safari uniform has jumped up from his wooden chair, eyes bulging, jaw dropped, pointing in shock. Villagers laugh and cheer behind, a widow in brown kebaya smiles with relief. Bright fresh morning light, blue sky, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, metal wheelbarrow, motor vehicle, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - gerobak, tanah merah, bakul, dan ayam jago dianimasikan terpisah di CapCut. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Pak Lurah Mulyo `character/season5/pak-lurah.png` (pose berdiri tegas - untuk Shot 1), Mbok Darmi `character/season3/ibu_warga_desa_transparent.png`, Mbok Darmi menangis `character/season5/nenek_menangis.png` (Shot 2), Thole `character/season6/thole.png`. Pose baru di bawah simpan ke `character/season6/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Ki Udin - Option A (Berdiri Menang, Tangan di Belakang) - untuk Shot 3-5]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals, standing tall and proud with chest out, calm sly triumphant smile, empty hands, hands clasped behind his back, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Pak Lurah Mulyo - Option B (Melotot Marah Menunjuk, Peci Miring) - untuk Shot 4-5]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A greedy Javanese village chief, 55, short grey hair, thick grey mustache, tall black peci tilted sideways, khaki short-sleeve safari uniform with two chest pockets, brown leather belt, khaki trousers, barefoot, bulging furious eyes, red puffed cheeks, mouth wide open shouting, one empty hand pointing forward, other hand relaxed at side, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Pak Lurah Mulyo - Option B (Terduduk Linglung) - untuk Shot 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same Javanese village chief with thick grey mustache, tall black peci tilted sideways and khaki safari uniform, sitting on the ground with legs stretched forward, dazed dizzy expression, cartoon swirly eyes, mouth hanging open, empty hands, hands resting limp on his knees, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Thole - Option A (Melambai Tertawa) - untuk Shot 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A skinny Javanese village boy, 8, short cropped black hair, big sparkling eyes, laughing with mouth wide open, faded brown striped lurik shirt, brown shorts, barefoot, one empty hand raised waving, other hand relaxed at side, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, wooden village hall with raised veranda and long bamboo bench, dark brown dirt yard, two-wheeled wooden cart piled with bright brick-red soil, green rice fields, bamboo village gate...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no motor vehicle, no metal wheelbarrow]`
+Catatan: Warna tanah adalah kunci logika cerita - tanah desa SELALU cokelat gelap, tanah gerobak SELALU merah bata. Kaki Ki Udin tidak boleh terlihat menyentuh tanah cokelat sejak Shot 3 (dari gerobak ia langsung melompat ke bangku bambu). Bakul nasi menutupi kepala Ki Udin sejak Shot 5 sampai akhir. Noda tanah merah di wajah dan kumis Lurah (Shot 6-8) lewat overlay CapCut, bukan di base render.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + DUG! (kaki menghentak) + debu. Dialog Jawa "Lungaa saka desaku! Sikilmu ora oleh ngidak lemah desa iki maneh!" di 1.5s.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (cutaway sekitar 8s): Record Scratch kecil.
+- Kedatangan Gerobak (Shot 3): Derit roda kayu (krieet krieet), "Hah?!" warga, kipas jatuh (plok).
+- Uno Reverse (Shot 4-5): Record Scratch saat "Kau melanggar!", "Ting!" tiap checklist larangan, "Pluk!" bakul dipasang, tawa tertahan warga.
+- Slapstick (Shot 6): Langkah berlari → "Hup!" → Slip! → BRUK! → Thud.
+- Punchline & Penutup (Shot 7-8): Record Scratch saat "Lho", derit roda cepat, Kukuruyuk ayam jago, Crowd Laughing.

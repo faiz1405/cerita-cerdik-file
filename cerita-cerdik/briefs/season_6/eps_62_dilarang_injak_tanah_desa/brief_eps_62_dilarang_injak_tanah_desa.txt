@@ -1,0 +1,166 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Larangan Mustahil & Uno Reverse). Pak Lurah Mulyo ingin merampas sawah Mbok Darmi untuk lumbung pribadinya. Ia mengusir Ki Udin, satu-satunya pembela Mbok Darmi, dan melarang kakinya menginjak tanah desa, sambil bertaruh: kalau Ki Udin bisa hadir di sidang tanpa menginjak tanah desa, sawah itu tak jadi disita. Ki Udin datang berdiri di atas gerobak penuh tanah merah dari desa sebelah, lalu menutup kepalanya dengan bakul saat dilarang menunjukkan muka. Lurah yang mengamuk malah nyungsep ke gerobak tanah desa sebelah dan kalah oleh larangannya sendiri.
+
+# [purpose]
+Memancing rasa geram pada pejabat yang merampas sawah janda miskin lewat larangan yang mustahil, lalu melepaskannya lewat kepuasan melihat sang lurah kalah dua kali oleh kata-katanya sendiri dan didorong warga keluar desa dengan gerobak. Menghadirkan emosi kasih sayang (Mbok Darmi, Thole) dan slapstick penurunan martabat antagonis agar relate bagi keluarga Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, keadilan untuk rakyat kecil, dan kehangatan keluarga desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Pak Lurah menunjuk wajah Ki Udin dan menghentakkan kaki ke tanah. TEXT OVERLAY BOLD: "DILARANG INJAK TANAH DESA?!".
+    ENVIRONMENT: LATE AFTERNOON. Halaman balai desa kayu, tanah halaman cokelat gelap, warga berkerumun, cahaya sore jingga.
+    SUBJECT: Pak Lurah Mulyo (rambut dan kumis tebal abu-abu, peci hitam tinggi, seragam safari khaki lengan pendek, sabuk kulit cokelat), Ki Udin, Mbok Darmi, warga desa.
+    ACTION: Pak Lurah menghentakkan kaki ke tanah hingga debu mengepul, menunjuk wajah Ki Udin, lalu menunjuk jalan keluar desa sambil tertawa puas. Potong cepat ke Ki Udin yang mengelus kumis.
+    NARASI: "Pak Lurah Mulyo mengusir Ki Udin di depan seluruh warga! "Pergi dari desaku! Kakimu dilarang menginjak tanah desa ini lagi! Kalau besok kau bisa hadir di sidang tanpa menginjak tanahku, sawah Mbok Darmi tak jadi kusita!" Ia tertawa sangat puas."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Injustice & Sly Reaction*).
+    ENVIRONMENT: LATE AFTERNOON. Pematang sawah hijau milik Mbok Darmi di belakang balai desa, jalan tanah menuju gapura desa.
+    SUBJECT: Mbok Darmi (sanggul cokelat tua, kebaya cokelat, jarik batik parang) menangis, Thole memeluk lengannya, Ki Udin berjalan pergi.
+    ACTION: Kamera pan dari sawah hijau ke Mbok Darmi yang menangis ditemani Thole, lalu mengikuti Ki Udin yang berjalan keluar desa, menoleh ke kamera, mengelus kumis, dan tersenyum licik.
+    NARASI: "Mbok Darmi menangis tersedu. Sawah itu satu-satunya peninggalan almarhum suaminya, tapi Pak Lurah ingin menjadikannya lumbung pribadi. Ki Udin satu-satunya pembelanya. Tapi sambil melangkah keluar desa, Ki Udin mengelus kumis dan tersenyum licik. "Baik, Pak Lurah. Sampai jumpa besok pagi.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Wide Shot lalu Low Angle (*The Impossible Arrival*).
+    ENVIRONMENT: MORNING. Halaman balai desa kayu, meja sidang di teras, warga duduk bersila, cahaya pagi cerah.
+    SUBJECT: Pak Lurah duduk santai di kursi kayu, Thole (bocah kurus 8 tahun, rambut cepak, baju lurik lusuh, celana pendek cokelat) menarik gerobak, Ki Udin berdiri di atas gerobak.
+    ACTION: Pak Lurah bersandar santai mengipas diri. Gerobak kayu dua roda penuh tanah merah bata masuk halaman ditarik Thole. Low angle: Ki Udin berdiri tegak di atas tumpukan tanah merah sambil melambaikan tangan. Warga ternganga.
+    NARASI: "Esok paginya, sidang dimulai di balai desa. Pak Lurah duduk santai menunggu sawah itu jatuh ke tangannya. Tiba-tiba terdengar derit roda. Thole menarik sebuah gerobak penuh tanah merah, dan di atas tanah itu, Ki Udin berdiri tegak sambil melambaikan tangan!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Shot Reverse Shot (*Uno Reverse Pertama*).
+    ENVIRONMENT: MORNING. Halaman balai desa, gerobak tanah merah berhenti di depan teras sidang.
+    SUBJECT: Pak Lurah berdiri melotot, Ki Udin di atas gerobak, Mbok Darmi dan warga.
+    ACTION: Pak Lurah melompat dari kursinya sambil menunjuk. Ki Udin menepuk tanah merah di gerobak lalu menunjuk ke arah desa sebelah. Warga bersorak, Mbok Darmi tersenyum lega.
+    NARASI: "Pak Lurah melompat berdiri. "Kau melanggar laranganku!" Ki Udin menepuk gerobaknya. "Saya tidak menginjak tanah desa Bapak. Tanah ini saya angkut segerobak dari desa sebelah. Jadi kaki saya berdiri di tanah desa sebelah, Pak." Warga bersorak, Mbok Darmi tersenyum lega."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Medium Close Up (*Uno Reverse Kedua*).
+    ENVIRONMENT: MORNING. Teras balai desa, warga menahan tawa di latar.
+    SUBJECT: Pak Lurah merah padam, Thole, Ki Udin dengan bakul nasi anyaman bambu menutupi kepala.
+    ACTION: Pak Lurah berteriak sambil menunjuk. Thole sigap menyodorkan bakul nasi bambu. Ki Udin menelungkupkan bakul ke kepalanya hingga wajahnya tertutup, lalu berdiri tenang dengan tangan di belakang punggung.
+    NARASI: "Wajah Pak Lurah merah padam. "Pergi! Jangan pernah tunjukkan mukamu di hadapanku lagi!" Thole sigap menyodorkan bakul nasi bambu. Ki Udin menelungkupkan bakul itu ke kepalanya. "Muka saya sudah tidak kelihatan, Pak. Sekarang, mari kita mulai sidang sawah Mbok Darmi.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Action (*Slapstick Karma*).
+    ENVIRONMENT: MORNING. Halaman balai desa, gerobak tanah merah, bangku bambu panjang di teras.
+    SUBJECT: Pak Lurah berlari, Ki Udin dengan bakul di kepala.
+    ACTION: Pak Lurah berlari kencang hendak mendorong Ki Udin. Ki Udin melompat lincah ke bangku bambu teras. Pak Lurah kehilangan pijakan, terpeleset, lalu terjun menyelam ke dalam gerobak. Wajahnya terbenam di tanah merah, kaki menendang-nendang di udara.
+    NARASI: "Pak Lurah mengamuk. Ia berlari kencang hendak mendorong Ki Udin dari gerobak. Ki Udin melompat lincah ke atas bangku bambu balai desa. Hup! Pak Lurah kehilangan pijakan, terpeleset, lalu terjun menyelam ke dalam gerobak. Wajahnya terbenam di tanah merah. BRUK!"
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Two Shot lalu Wide (*Punchline Larangan*).
+    ENVIRONMENT: MORNING. Halaman balai desa, jalan tanah menuju gapura desa.
+    SUBJECT: Ki Udin mengintip dari celah bakul, Pak Lurah tertelungkup di gerobak, warga.
+    ACTION: Ki Udin mengangkat sedikit bakul dan mengintip. Pak Lurah mengangkat wajah penuh tanah merah dengan bingung. Warga bersorak, lalu beramai-ramai mendorong gerobak berisi Pak Lurah menuju gapura desa.
+    NARASI: "Ki Udin mengintip dari celah bakul. "Lho, Pak Lurah sekarang tertelungkup di tanah desa sebelah. Berarti Bapak sudah keluar dari desa ini. Orang luar mana boleh menyita sawah warga kami?" Warga bersorak dan beramai-ramai mendorong gerobak itu menuju gapura desa."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Wide lalu Close Up (*Heartwarming Humiliation*).
+    ENVIRONMENT: MORNING. Gapura bambu batas desa, sawah hijau di kejauhan.
+    SUBJECT: Pak Lurah di gerobak, ayam jago, Thole, Mbok Darmi, Ki Udin.
+    ACTION: Gerobak berhenti di gapura. Pak Lurah terduduk linglung dengan peci miring dan kumis penuh tanah merah, ayam jago melompat ke atas pecinya. Mbok Darmi memeluk Thole lega. Thole melambaikan tangan sambil tertawa. Freeze frame.
+    NARASI: "Gerobak berhenti tepat di gapura desa sebelah. Pak Lurah terduduk dengan peci miring dan kumis penuh tanah merah. Seekor ayam jago melompat ke atas pecinya. Sawah Mbok Darmi selamat. Thole melambaikan tangan sambil tertawa. "Hati-hati di desa sebelah, Pak Lurah!""
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Pak Lurah Mulyo mengusir Ki Udin di depan seluruh warga! "Pergi dari desaku! Kakimu dilarang menginjak tanah desa ini lagi! Kalau besok kau bisa hadir di sidang tanpa menginjak tanahku, sawah Mbok Darmi tak jadi kusita!" Ia tertawa sangat puas.
+<break time="1.0s"/>
+
+Mbok Darmi menangis tersedu. Sawah itu satu-satunya peninggalan almarhum suaminya, tapi Pak Lurah ingin menjadikannya lumbung pribadi. Ki Udin satu-satunya pembelanya. Tapi sambil melangkah keluar desa, Ki Udin mengelus kumis dan tersenyum licik. "Baik, Pak Lurah. Sampai jumpa besok pagi."
+<break time="1.0s"/>
+
+Esok paginya, sidang dimulai di balai desa. Pak Lurah duduk santai menunggu sawah itu jatuh ke tangannya. Tiba-tiba terdengar derit roda. Thole menarik sebuah gerobak penuh tanah merah, dan di atas tanah itu, Ki Udin berdiri tegak sambil melambaikan tangan!
+<break time="1.0s"/>
+
+Pak Lurah melompat berdiri. "Kau melanggar laranganku!" Ki Udin menepuk gerobaknya. "Saya tidak menginjak tanah desa Bapak. Tanah ini saya angkut segerobak dari desa sebelah. Jadi kaki saya berdiri di tanah desa sebelah, Pak." Warga bersorak, Mbok Darmi tersenyum lega.
+<break time="1.0s"/>
+
+Wajah Pak Lurah merah padam. "Pergi! Jangan pernah tunjukkan mukamu di hadapanku lagi!" Thole sigap menyodorkan bakul nasi bambu. Ki Udin menelungkupkan bakul itu ke kepalanya. "Muka saya sudah tidak kelihatan, Pak. Sekarang, mari kita mulai sidang sawah Mbok Darmi."
+<break time="1.0s"/>
+
+Pak Lurah mengamuk. Ia berlari kencang hendak mendorong Ki Udin dari gerobak. Ki Udin melompat lincah ke atas bangku bambu balai desa. Hup! Pak Lurah kehilangan pijakan, terpeleset, lalu terjun menyelam ke dalam gerobak. Wajahnya terbenam di tanah merah. BRUK!
+<break time="1.0s"/>
+
+Ki Udin mengintip dari celah bakul. "Lho, Pak Lurah sekarang tertelungkup di tanah desa sebelah. Berarti Bapak sudah keluar dari desa ini. Orang luar mana boleh menyita sawah warga kami?" Warga bersorak dan beramai-ramai mendorong gerobak itu menuju gapura desa.
+<break time="1.0s"/>
+
+Gerobak berhenti tepat di gapura desa sebelah. Pak Lurah terduduk dengan peci miring dan kumis penuh tanah merah. Seekor ayam jago melompat ke atas pecinya. Sawah Mbok Darmi selamat. Thole melambaikan tangan sambil tertawa. "Hati-hati di desa sebelah, Pak Lurah!"
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat Pak Lurah mengusir Ki Udin. Berubah sendu singkat saat Mbok Darmi menangis, lalu musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin tersenyum licik. Musik naik penuh kejutan saat gerobak tanah datang, berhenti mendadak (record scratch) saat Lurah membentak, lalu ditutup musik komedi slapstick riang saat Lurah nyungsep dan didorong ke gapura desa.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'dilarang menginjak tanah desa', 'sawah Mbok Darmi tak jadi kusita', 'Sampai jumpa besok pagi', 'gerobak penuh tanah merah', 'tanah desa sebelah', 'Jangan pernah tunjukkan mukamu', 'Muka saya sudah tidak kelihatan', 'BRUK', 'Orang luar mana boleh menyita', 'Hati-hati di desa sebelah'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Pak Lurah Mulyo (ROLE_02)",
+        "description": "Greedy proud Javanese village chief, 55, short grey hair, thick grey mustache, stern frowning face, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets, brown leather belt, khaki trousers, barefoot. Arrogant strict expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Mbok Darmi (ROLE_03)",
+        "description": "Kind poor Javanese widow, 50, dark brown hair in a traditional bun, round gentle face, brown kebaya, brown parang batik jarik skirt, simple sandals. Weary hopeful expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Thole (ROLE_04)",
+        "description": "Skinny Javanese village boy, 8, short cropped black hair, big hopeful eyes, faded brown striped lurik shirt, brown shorts, barefoot. Innocent cheerful expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: halaman balai desa kayu dengan teras panggung, meja sidang dan bangku bambu panjang di teras, sawah hijau di belakang, jalan tanah menuju gapura bambu batas desa. KONTRAS WARNA TANAH TERKUNCI: tanah desa Pak Lurah selalu cokelat gelap keabu-abuan; tanah di dalam gerobak selalu merah bata menyala (tanah desa sebelah) agar penonton langsung membedakan keduanya. KONTINUITAS PROPERTI TERKUNCI: gerobak kayu dua roda dengan gagang tarik panjang, penuh tanah merah sampai menggunung, Ki Udin selalu berdiri di atas tanah merah itu dan kakinya TIDAK PERNAH menyentuh tanah cokelat dari Shot 3 sampai Shot 8 (ia pindah dari gerobak langsung ke bangku bambu); bakul nasi anyaman bambu cokelat muda menutupi kepala Ki Udin sejak Shot 5, dengan celah anyaman untuk mengintip. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Pak Lurah Mulyo selalu rambut dan kumis tebal abu-abu, peci hitam tinggi, seragam safari khaki lengan pendek dengan dua saku dada, sabuk kulit cokelat, celana khaki, tanpa alas kaki; Mbok Darmi selalu sanggul cokelat tua, kebaya cokelat, jarik batik parang; Thole selalu rambut cepak, baju lurik lusuh, celana pendek cokelat, tanpa alas kaki. REGISTER CAHAYA: Shot 1-2 sore jingga hangat dengan bayangan panjang; Shot 3-8 pagi cerah segar dengan langit biru. MODERASI SLAPSTICK: Pak Lurah terjun ke tanah merah yang empuk tanpa cedera, hanya wajah dan kumis belepotan tanah (noda lewat overlay); ayam jago hanya bertengger di peci tanpa mematuk wajah. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no motor vehicle, no metal wheelbarrow, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]
