@@ -1,0 +1,68 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Menanak Nasi Pakai Api Jauh (Eps 63)
+- Clicky Video Headline: MENGGIGIL SEMALAM, UPAHNYA DIBATALKAN! / KI UDIN MASAK NASI PAKAI API SEPULUH LANGKAH?!
+- Single Video Title: Cerita Cerdik Ki Udin Season 6 - Menanak Nasi Pakai Api Jauh & Juragan Broto Nyebur ke Kali (Eps 63)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. On the misty rocky bank of a calm greenish village river at cold blue dawn, with a small bamboo night-watch hut and a single burning bamboo torch tiny and far away on the opposite bank, a skinny elderly Javanese farmer with grey beard, woven bamboo caping hat, patched brown shirt and patched batik knee-length trousers crawls out of the chest-deep water, shivering and hugging himself. Beside him a fat greedy Javanese rice merchant with thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, gold-embroidered brown vest and brown batik sarong presses his black shoe down on a plain burlap sack of rice and points across the river at the distant torch. At exactly second 1.5, the merchant laughs showing his gold tooth and shouts loudly in authentic Javanese accent: "Ora ana beras kanggo kowe! Awakmu diangeti obor sebrang kali!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds. Partly hidden behind a banana tree clump, a wise elderly Javanese man with grey mustache, brown batik blangkon and brown striped lurik shirt calmly strokes his mustache with a sly smile. Fluid clay stop-motion animation, cold blue dawn light with a warm orange glint from the distant torch, thin mist over the water, tense comedic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, motor vehicle, modern building, kicking, violence, drowning, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster in the dirt yard of a wooden Javanese limasan house beside a calm village river in golden afternoon light: a shiny copper rice steamer pot hangs by a fiber rope from the top of a tall three-meter bamboo pole, while a tiny clay stove with a small fire burns ten steps away on the ground, a dotted line between them. Ki Udin, a wise elderly Javanese villager with grey mustache, brown batik blangkon and brown striped lurik shirt, sits relaxed on a low wooden stool fanning the distant fire with a woven bamboo fan, winking with a sly smile. In the foreground a fat greedy Javanese rice merchant with thick curled black mustache, gold front tooth, brown blangkon, white shirt and gold-embroidered brown vest clutches his growling big belly, sweating, droopy mustache, staring up at the pot with desperate hungry eyes. Villagers laugh behind a low bamboo fence, and far across the river a tiny bamboo night-watch hut with a torch is visible. Warm golden light, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, electric rice cooker, gas stove, metal pot on modern stove, motor vehicle, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - dandang, tiang bambu, tungku, kipas bambu, karung beras, dan obor dianimasikan terpisah di CapCut. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Juragan Broto `character/season4/juragan_broto_transparent.png` (pose menunjuk marah - untuk Shot 4 saat Broto meledak), Pak Karto `character/season4/petani-tua.png` (pose berdiri sedih - untuk Shot 2), Thole `character/season6/thole.png` (Shot 2 & 8). Pose baru di bawah simpan ke `character/season6/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Ki Udin - Option A (Berjongkok Menunjuk, Senyum Licik) - untuk Shot 5 & 7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals, squatting low on his heels, one empty hand pointing forward into the distance, other hand resting on his knee, calm sly teasing smile, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Juragan Broto - Option A (Tertawa Sombong Menunjuk Jauh) - untuk Shot 1]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A fat greedy Javanese rice merchant, 50, thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly, head thrown back laughing arrogantly showing his gold tooth, one empty hand pointing far into the distance, other hand on his hip, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Juragan Broto - Option B (Kelaparan Memegangi Perut) - untuk Shot 3-4]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese rice merchant with thick curled black mustache drooping limply, brown batik blangkon, white long-sleeve shirt, gold-embroidered brown vest, brown parang batik sarong and black shoes, hunched forward with both empty hands pressed on his big round belly, desperate hungry pleading eyes, mouth open in a groan, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Juragan Broto - Option B (Menggigil Kedinginan) - untuk Shot 7-8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese rice merchant with thick curled black mustache, brown batik blangkon, white long-sleeve shirt, gold-embroidered brown vest and brown parang batik sarong, hunched and hugging himself tightly with both empty arms, knees knocking together, teeth chattering, eyebrows raised in pitiful misery, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 5: Pak Karto - Option B (Menggigil Kedinginan) - untuk Shot 1-2]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A poor skinny elderly Javanese rice farmer, 65, grey beard and grey mustache, thick grey eyebrows, woven bamboo caping hat, faded brown short-sleeve shirt with patches over a white undershirt, patched brown batik knee-length trousers, barefoot, hunched and hugging himself with both empty arms, shivering, weary sad eyes, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, calm rocky village river, small bamboo night-watch hut with a single torch on the far bank, wooden limasan house with dirt yard and low bamboo fence, copper rice steamer pot hanging from a tall bamboo pole, small clay stove ten steps away...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no motor vehicle, no electric rice cooker, no gas stove]`
+Catatan: Jarak api adalah kunci logika cerita - tungku SELALU sepuluh langkah dari tiang bambu dan tidak pernah berada di bawah dandang dari Shot 3 sampai Shot 7; beras di dandang tetap putih tanpa uap sampai Shot 8. Obor gardu ronda di seberang kali selalu tampak kecil dan jauh agar perbandingan jarak di Shot 5 langsung terbaca. Kali di belakang rumah Ki Udin adalah kali yang sama tempat Pak Karto berendam, dangkal setinggi pinggang. Baju basah, butiran beras di blangkon, dan keringat Broto lewat overlay CapCut, bukan di base render.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + gigi gemeletuk + gemericik air. Dialog Jawa "Ora ana beras kanggo kowe! Awakmu diangeti obor sebrang kali!" di 1.5s, disusul tawa sombong Broto.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (cutaway sekitar 8s): Record Scratch kecil.
+- Dapur Mustahil (Shot 3): "Hah?!" Broto, kriet tiang bambu, kipas bambu (wus wus), api kecil berderak.
+- Kelaparan (Shot 4): Perut keroncongan (kruyuk) berulang, jangkrik sore, Record Scratch saat Broto meledak.
+- Uno Reverse (Shot 5): Record Scratch saat "Lho", "Ting!" saat checklist jarak muncul, tawa warga.
+- Slapstick (Shot 6): Bambu berderit panjang → Slip! → BYUR! → Thud (pantat menyentuh dasar kali) → beras berjatuhan (sreeek).
+- Punchline & Penutup (Shot 7-8): Gigi gemeletuk, Record Scratch saat "Sudah terasa hangat?", nasi mendidih (blub-blub), Crowd Laughing.

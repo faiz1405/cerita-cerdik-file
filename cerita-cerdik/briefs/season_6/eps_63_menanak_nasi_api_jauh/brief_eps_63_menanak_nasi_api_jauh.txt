@@ -1,0 +1,166 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe B (Dapur & Makanan / Uno Reverse). Juragan Broto membatalkan upah sekarung beras Pak Karto, kakek miskin yang kuat berendam semalaman di kali dingin, dengan dalih badannya dihangatkan obor gardu ronda di seberang kali. Ki Udin mengundang Broto makan nasi liwet, tapi dandangnya digantung tinggi di tiang bambu, sepuluh langkah dari tungku. Saat Broto protes nasi mustahil matang dengan api sejauh itu, Ki Udin membalikkan dalih Broto sendiri. Broto yang kelaparan nekat memanjat tiang, tercebur ke kali yang sama, lalu mengaku obor seberang kali tak menghangatkan apa pun.
+
+# [purpose]
+Memancing rasa geram pada juragan kaya yang mengingkari upah kakek miskin dengan dalih konyol, lalu melepaskannya lewat kepuasan melihat Broto kelaparan menunggu nasi yang tak kunjung matang dan merasakan sendiri dinginnya kali yang sama. Menghadirkan emosi kasih sayang keluarga (Pak Karto berjuang demi cucunya, Thole) dan visual dopamine nasi liwet mengepul di akhir agar relate bagi ibu-ibu dan keluarga Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, keadilan untuk rakyat kecil, masakan rumahan, dan kehangatan keluarga desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Juragan Broto menginjak karung beras upah sambil menunjuk obor di seberang kali. TEXT OVERLAY BOLD: "MENGGIGIL SEMALAM, UPAHNYA DIBATALKAN?!".
+    ENVIRONMENT: DAWN. Tepi kali desa berbatu yang berkabut tipis, air kali kehijauan, gardu ronda bambu di seberang kali dengan obor yang masih menyala kecil di kejauhan, cahaya fajar biru dingin bercampur kilau oranye obor.
+    SUBJECT: Juragan Broto (blangkon batik cokelat, kumis hitam tebal melengkung, satu gigi depan emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, perut buncit), Pak Karto (kakek kurus, caping bambu, janggut dan kumis abu-abu, kemeja cokelat lusuh bertambal, celana batik selutut bertambal, tanpa alas kaki), Ki Udin.
+    ACTION: Pak Karto merangkak keluar dari kali sambil menggigil memeluk diri. Juragan Broto menginjakkan sepatunya ke atas karung goni berisi beras, menunjuk obor di seberang kali, lalu tertawa memamerkan gigi emasnya. Potong cepat ke Ki Udin di balik rumpun pisang yang mengelus kumis dan tersenyum licik.
+    NARASI: "Juragan Broto membatalkan upah Pak Karto! Semalaman kakek miskin itu berendam di kali dingin demi sekarung beras sayembara. Tapi Broto menginjak karung itu sambil menunjuk obor gardu ronda di seberang kali. "Kau curang! Badanmu dihangatkan obor itu! Tak ada beras!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Family Injustice & Sly Invitation*).
+    ENVIRONMENT: MORNING. Gubuk bambu reyot Pak Karto dengan tungku tanah liat yang dingin dan periuk tanah liat kosong, lalu jalan tanah desa di depan gubuk.
+    SUBJECT: Pak Karto, Thole (bocah kurus 8 tahun, rambut cepak, baju lurik lusuh, celana pendek cokelat, tanpa alas kaki), Ki Udin, Juragan Broto.
+    ACTION: Pak Karto pulang sambil menggigil. Thole menatap periuk kosong sambil memegangi perutnya. Ki Udin mengelus kumis dan tersenyum licik, lalu menghampiri Broto di jalan desa dan membungkuk ramah mengundangnya. Broto mengusap perut buncitnya sambil menjilat bibir.
+    NARASI: "Pak Karto pulang menggigil. Di gubuknya, cucunya, Thole, menatap periuk kosong sambil memegangi perut. Ki Udin yang melihat semuanya mengelus kumis dan tersenyum licik. Ia menghampiri Broto. "Juragan, besok siang mampirlah ke rumah saya. Saya masakkan nasi liwet paling pulen.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Wide Shot lalu Tilt Up (*The Impossible Kitchen*).
+    ENVIRONMENT: NOON. Halaman tanah rumah limasan kayu Ki Udin di tepi kali, pagar bambu rendah, matahari siang terik.
+    SUBJECT: Juragan Broto, Ki Udin, dandang tembaga, tungku tanah liat.
+    ACTION: Broto masuk halaman sambil mengelus perut. Kamera tilt-up mengikuti tiang bambu setinggi tiga meter, di puncaknya dandang tembaga tergantung tali ijuk. Pan ke tungku tanah liat kecil yang menyala sepuluh langkah jauhnya. Broto melongo. Ki Udin duduk santai di dingklik mengipasi api tungku dengan kipas bambu.
+    NARASI: "Esok siangnya, Broto datang dengan perut keroncongan. Ia melongo. Dandang nasi Ki Udin tergantung tinggi di ujung tiang bambu, sedangkan tungku apinya menyala sepuluh langkah jauhnya! Ki Udin santai mengipasi apinya dengan kipas bambu. "Sabar, Juragan. Sebentar lagi nasinya matang.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Time-lapse Montage (*Kelaparan Menunggu*).
+    ENVIRONMENT: NOON TO LATE AFTERNOON. Halaman rumah Ki Udin, bayangan tiang bambu bergeser memanjang, langit berubah dari putih terik ke keemasan. Warga mulai berkumpul di balik pagar bambu.
+    SUBJECT: Juragan Broto, Ki Udin, warga desa.
+    ACTION: Time-lapse: Broto duduk, berdiri, mondar-mandir, memegangi perut yang berbunyi, kumisnya melorot lemas, keringat bercucuran. Close up beras di dalam dandang tetap putih tanpa uap. Broto akhirnya menghentakkan kaki dan menunjuk Ki Udin sambil berteriak.
+    NARASI: "Matahari bergeser dari siang ke sore. Perut Broto berbunyi kruyuk semakin keras, kumisnya lemas, keringatnya bercucuran. Beras di dalam dandang tetap putih dan dingin. Broto akhirnya meledak marah. "Kau gila, Udin?! Mana mungkin nasi bisa matang kalau apinya sejauh itu?!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Shot Reverse Shot (*Uno Reverse*).
+    ENVIRONMENT: LATE AFTERNOON. Halaman rumah Ki Udin, cahaya sore keemasan, warga di balik pagar bambu, kali berkilau di belakang rumah, gardu ronda terlihat kecil jauh di seberang kali.
+    SUBJECT: Ki Udin, Juragan Broto, warga desa, Pak Karto dan Thole ikut menonton.
+    ACTION: Ki Udin berhenti mengipas, menunjuk gardu ronda di seberang kali, lalu menunjuk tungkunya yang jauh lebih dekat. Warga tertawa terpingkal-pingkal. Broto terdiam, kumisnya bergetar, wajahnya merah padam.
+    NARASI: "Ki Udin berhenti mengipas dan tersenyum. "Lho, Juragan sendiri yang bilang, obor di seberang kali bisa menghangatkan Pak Karto di tengah kali. Api saya jauh lebih dekat. Masa tidak bisa menanak nasi?" Warga di pagar terpingkal-pingkal. Broto terdiam, kumisnya bergetar."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Action lalu Wide (*Slapstick Karma*).
+    ENVIRONMENT: LATE AFTERNOON. Halaman belakang rumah Ki Udin yang langsung berbatasan dengan kali dangkal setinggi pinggang.
+    SUBJECT: Juragan Broto, tiang bambu dengan dandang tembaga.
+    ACTION: Broto memeluk dan memanjat tiang bambu dengan susah payah. Tiang melengkung pelan seperti joran pancing ke arah kali. Tangan Broto tergelincir, ia jatuh terduduk ke kali dangkal dengan cipratan besar. Dandang di ujung tiang miring dan beras mentah menghujani kepalanya, lalu tiang kembali tegak.
+    NARASI: "Kelaparan dan malu, Broto nekat memanjat tiang bambu untuk merebut dandang. Tiang itu melengkung pelan ke arah kali di belakang rumah. Sret! Broto terlepas dan tercebur ke kali dingin tempat Pak Karto berendam. BYUR! Beras mentah dari dandang menghujani kepalanya."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Close Up (*Punchline Obor*).
+    ENVIRONMENT: DUSK. Kali di belakang rumah Ki Udin, langit senja jingga keunguan, obor gardu ronda di seberang kali baru dinyalakan dan berkelip kecil di kejauhan.
+    SUBJECT: Juragan Broto berendam sepinggang, Ki Udin berjongkok di tepi kali.
+    ACTION: Broto memeluk diri dengan gigi gemeletuk, butiran beras menempel di blangkonnya. Ki Udin berjongkok di tepi kali dan menunjuk obor di seberang. Broto menggeleng cepat, merapatkan kedua telapak tangan memohon ampun, lalu mengacungkan dua jari.
+    NARASI: "Senja turun. Obor gardu ronda di seberang kali mulai dinyalakan. Broto menggigil sampai giginya gemeletuk. Ki Udin berjongkok di tepi kali. "Bagaimana, Juragan? Sudah terasa hangat dari obor itu?" "Di... dingin sekali! Ampun, Udin! Upah Pak Karto kubayar dua karung!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Wide lalu Close Up (*Heartwarming Food Payoff*).
+    ENVIRONMENT: NIGHT. Halaman rumah Ki Udin, tungku tanah liat menyala, lampu teplok, tikar pandan digelar, dua karung goni beras di samping tikar.
+    SUBJECT: Ki Udin, Pak Karto, Thole, warga desa, Juragan Broto.
+    ACTION: Ki Udin meletakkan dandang tepat di atas tungku, uap nasi liwet mengepul harum. Pak Karto dan Thole makan lahap bersama warga di atas tikar. Broto meringkuk berselimut tikar di kejauhan, menatap uap nasi. Ki Udin mengedip ke kamera. Freeze frame.
+    NARASI: "Malamnya, Ki Udin menanak beras Broto dengan dandang tepat di atas tungku. Nasi liwet mengepul harum. Pak Karto dan Thole makan lahap bersama warga. Broto meringkuk berselimut tikar, hanya memandangi uap nasi dari jauh. "Silakan hangatkan diri dari jauh, Juragan.""
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Juragan Broto membatalkan upah Pak Karto! Semalaman kakek miskin itu berendam di kali dingin demi sekarung beras sayembara. Tapi Broto menginjak karung itu sambil menunjuk obor gardu ronda di seberang kali. "Kau curang! Badanmu dihangatkan obor itu! Tak ada beras!"
+<break time="1.0s"/>
+
+Pak Karto pulang menggigil. Di gubuknya, cucunya, Thole, menatap periuk kosong sambil memegangi perut. Ki Udin yang melihat semuanya mengelus kumis dan tersenyum licik. Ia menghampiri Broto. "Juragan, besok siang mampirlah ke rumah saya. Saya masakkan nasi liwet paling pulen."
+<break time="1.0s"/>
+
+Esok siangnya, Broto datang dengan perut keroncongan. Ia melongo. Dandang nasi Ki Udin tergantung tinggi di ujung tiang bambu, sedangkan tungku apinya menyala sepuluh langkah jauhnya! Ki Udin santai mengipasi apinya dengan kipas bambu. "Sabar, Juragan. Sebentar lagi nasinya matang."
+<break time="1.0s"/>
+
+Matahari bergeser dari siang ke sore. Perut Broto berbunyi kruyuk semakin keras, kumisnya lemas, keringatnya bercucuran. Beras di dalam dandang tetap putih dan dingin. Broto akhirnya meledak marah. "Kau gila, Udin?! Mana mungkin nasi bisa matang kalau apinya sejauh itu?!"
+<break time="1.0s"/>
+
+Ki Udin berhenti mengipas dan tersenyum. "Lho, Juragan sendiri yang bilang, obor di seberang kali bisa menghangatkan Pak Karto di tengah kali. Api saya jauh lebih dekat. Masa tidak bisa menanak nasi?" Warga di pagar terpingkal-pingkal. Broto terdiam, kumisnya bergetar.
+<break time="1.0s"/>
+
+Kelaparan dan malu, Broto nekat memanjat tiang bambu untuk merebut dandang. Tiang itu melengkung pelan ke arah kali di belakang rumah. Sret! Broto terlepas dan tercebur ke kali dingin tempat Pak Karto berendam. BYUR! Beras mentah dari dandang menghujani kepalanya.
+<break time="1.0s"/>
+
+Senja turun. Obor gardu ronda di seberang kali mulai dinyalakan. Broto menggigil sampai giginya gemeletuk. Ki Udin berjongkok di tepi kali. "Bagaimana, Juragan? Sudah terasa hangat dari obor itu?" "Di... dingin sekali! Ampun, Udin! Upah Pak Karto kubayar dua karung!"
+<break time="1.0s"/>
+
+Malamnya, Ki Udin menanak beras Broto dengan dandang tepat di atas tungku. Nasi liwet mengepul harum. Pak Karto dan Thole makan lahap bersama warga. Broto meringkuk berselimut tikar, hanya memandangi uap nasi dari jauh. "Silakan hangatkan diri dari jauh, Juragan."
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat Broto membatalkan upah di tepi kali berkabut. Berubah sendu singkat saat Thole menatap periuk kosong, lalu musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin tersenyum licik dan mengundang Broto. Musik menggantung penuh rasa penasaran saat dandang terlihat jauh dari tungku, berjalan cepat jenaka saat time-lapse kelaparan, berhenti mendadak (record scratch) saat Ki Udin membalik dalih Broto, lalu ditutup musik komedi slapstick riang saat Broto tercebur dan musik hangat saat nasi liwet mengepul.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'membatalkan upah', 'dihangatkan obor itu', 'nasi liwet paling pulen', 'sepuluh langkah jauhnya', 'Mana mungkin nasi bisa matang', 'Api saya jauh lebih dekat', 'BYUR', 'Sudah terasa hangat', 'kubayar dua karung', 'hangatkan diri dari jauh'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Fat greedy Javanese rice merchant, 50, thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly. Smug arrogant grin. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Pak Karto (ROLE_03)",
+        "description": "Poor skinny elderly Javanese rice farmer, 65, grey beard and grey mustache, thick grey eyebrows, woven bamboo caping hat, faded brown short-sleeve shirt with patches over a white undershirt, patched brown batik knee-length trousers, barefoot. Weary kind expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Thole (ROLE_04)",
+        "description": "Skinny Javanese village boy, 8, grandson of Pak Karto, short cropped black hair, big hopeful eyes, faded brown striped lurik shirt, brown shorts, barefoot. Innocent cheerful expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: kali desa berbatu yang tenang dengan air kehijauan; di seberang kali selalu terlihat gardu ronda bambu kecil dengan satu obor bambu; rumah limasan kayu Ki Udin berhalaman tanah di tepi kali yang sama, pagar bambu rendah, rumpun pisang; gubuk bambu reyot Pak Karto dengan tungku tanah liat dan periuk tanah liat. KONTINUITAS PROPERTI TERKUNCI: dandang tembaga tergantung tali ijuk di puncak tiang bambu setinggi tiga meter; tungku tanah liat kecil selalu berada SEPULUH LANGKAH dari tiang bambu dan TIDAK PERNAH berada di bawah dandang dari Shot 3 sampai Shot 7; beras di dalam dandang selalu putih mentah tanpa uap sampai Shot 8, baru di Shot 8 dandang diletakkan tepat di atas tungku dan mengepulkan uap nasi liwet; obor gardu ronda di seberang kali selalu tampak kecil dan jauh; karung goni beras polos tanpa tulisan; kipas anyaman bambu di tangan Ki Udin. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Juragan Broto selalu blangkon batik cokelat, kumis hitam tebal melengkung, satu gigi depan emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, perut buncit; Pak Karto selalu caping bambu, janggut dan kumis abu-abu, kemeja cokelat lusuh bertambal, celana batik selutut bertambal, tanpa alas kaki; Thole selalu rambut cepak, baju lurik lusuh, celana pendek cokelat, tanpa alas kaki. REGISTER CAHAYA: Shot 1 fajar biru dingin berkabut dengan kilau oranye obor; Shot 2 pagi pucat; Shot 3 siang terik putih; Shot 4 transisi siang ke sore keemasan dengan bayangan memanjang; Shot 5-6 sore keemasan; Shot 7 senja jingga keunguan dengan titik cahaya obor di seberang; Shot 8 malam hangat dari cahaya tungku dan lampu teplok. MODERASI SLAPSTICK: Pak Karto berendam aman setinggi dada dan hanya menggigil komedik; Broto tidak pernah menendang atau memukul Pak Karto, hanya menginjak karung beras; kali di belakang rumah dangkal setinggi pinggang, Broto jatuh terduduk tanpa cedera dan tidak tenggelam; baju basah dan butiran beras di kepala lewat overlay. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no motor vehicle, no electric rice cooker, no gas stove, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]
