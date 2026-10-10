@@ -1,0 +1,166 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Slapstick Status Flip / Uno Reverse). Juragan Broto menyiram Mbok Darmi, penjual pecel, dengan air cucian ikan asin di depan balai desa. Pak Lurah Mulyo malah memvonis menyiram orang dendanya cuma seperak, dan Broto melempar dua keping sekaligus untuk "siraman berikutnya". Ki Udin memakai siraman yang sudah dibayar itu untuk mengguyur Pak Lurah. Lalu warga desa ikut antre membawa ember dan sekeping perak sesuai vonis Lurah sendiri, sampai Broto berlutut membayar seratus keping emas untuk Mbok Darmi agar tidak disiram.
+
+# [purpose]
+Memancing rasa geram pada juragan kaya yang merendahkan penjual kecil dan lurah yang menjual keadilan dengan harga seperak, lalu melepaskannya lewat kepuasan melihat vonis murah itu berbalik mengguyur sang lurah dan juragan sendiri. Menghadirkan simpati pada Mbok Darmi dan slapstick penurunan martabat antagonis (basah kuyup, bau amis, dikejar kucing kampung) agar relate bagi keluarga Indonesia. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, keadilan untuk rakyat kecil, pedagang pasar, dan kehangatan warga desa).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Juragan Broto menyiramkan seember air cucian ikan asin ke Mbok Darmi, lalu Pak Lurah memvonis denda seperak. TEXT OVERLAY BOLD: "SIRAM ORANG CUMA DENDA SEPERAK?!".
+    ENVIRONMENT: MORNING. Halaman depan balai desa kayu yang ramai seperti pasar pagi, lapak pecel bambu Mbok Darmi di pinggir jalan tanah, andong kuda Broto terparkir di belakang, cahaya pagi cerah.
+    SUBJECT: Juragan Broto (blangkon batik cokelat, kumis hitam tebal melengkung, satu gigi depan emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, perut buncit), Pak Lurah Mulyo (rambut dan kumis tebal abu-abu, peci hitam tinggi, seragam safari khaki lengan pendek, sabuk kulit cokelat, tanpa alas kaki), Mbok Darmi (sanggul cokelat tua, kebaya cokelat, jarik batik parang), Ki Udin.
+    ACTION: BYUR! Broto mengayunkan ember kayu dan mengguyur Mbok Darmi beserta lapak pecelnya. Pak Lurah yang duduk di teras balai desa terkekeh, lalu Broto melempar dua keping perak ke meja Lurah sambil tertawa memamerkan gigi emas. Potong cepat ke Ki Udin di kerumunan yang mengelus kumis dan tersenyum licik.
+    NARASI: "BYUR! Juragan Broto menyiram Mbok Darmi, si penjual pecel, dengan air cucian ikan asin di depan balai desa! Pak Lurah malah terkekeh. "Menyiram orang dendanya cuma seperak!" Broto melempar dua keping perak. "Nih, sekalian bayar siraman berikutnya!" Keduanya tertawa terbahak-bahak."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot (*Injustice & Sly Reaction*).
+    ENVIRONMENT: MORNING. Lapak pecel bambu Mbok Darmi yang basah, tampah sayur dan pincuk daun pisang berantakan, warga berkerumun menutup hidung.
+    SUBJECT: Mbok Darmi basah dan menggigil, warga desa, Ki Udin.
+    ACTION: Mbok Darmi memeluk diri menahan tangis di depan pecelnya yang basah. Warga menutup hidung dan saling pandang. Ki Udin mengelus kumis, tersenyum licik, lalu mengangkat ember kayu milik Broto yang masih berisi setengah air keruh.
+    NARASI: "Mbok Darmi menggigil menahan tangis. Pecel dagangannya basah dan bau amis, hanya karena lapaknya menghalangi andong Broto. Warga hanya bisa menutup hidung, tak berani membela. Tapi Ki Udin mengelus kumis, tersenyum licik, lalu mengangkat ember sisa air cucian ikan asin."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Tracking Shot lalu Wide (*The Unexpected Splash*).
+    ENVIRONMENT: MORNING. Teras panggung balai desa kayu dengan meja sidang, dua keping perak di atas meja.
+    SUBJECT: Ki Udin membawa ember, Pak Lurah duduk mengipas diri, Broto tertawa di sampingnya, warga desa.
+    ACTION: Kamera mengikuti Ki Udin yang melangkah santai menaiki teras. Ia mengayunkan ember, BYUR! air keruh mengguyur Pak Lurah dari peci sampai kaki. Kipas Lurah terlepas. Warga ternganga. Broto tersedak tawanya sendiri.
+    NARASI: "Ki Udin melangkah santai ke teras balai desa, tempat Pak Lurah duduk mengipas diri. Tanpa banyak bicara, ia mengayunkan ember itu. BYUR! Air amis mengguyur Pak Lurah dari peci sampai kaki. Seluruh warga desa ternganga. Broto sampai tersedak tawanya sendiri."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Shot Reverse Shot (*Uno Reverse Pertama*).
+    ENVIRONMENT: MORNING. Teras balai desa, meja sidang dengan dua keping perak, warga di halaman.
+    SUBJECT: Pak Lurah basah kuyup, Ki Udin, Broto, warga desa.
+    ACTION: Pak Lurah melompat berdiri, kumisnya meneteskan air. Ki Udin dengan wajah polos menunjuk keping perak kedua di meja. Warga menahan tawa sambil menutup mulut.
+    NARASI: "Pak Lurah melompat berdiri, kumisnya meneteskan air amis. "Kurang ajar! Kau berani menyiram Lurah?!" Ki Udin menunjuk keping perak kedua di meja. "Lho, siraman berikutnya sudah dibayar Juragan Broto, Pak. Kata Bapak, dendanya cuma seperak. Lunas, kan?" Warga menahan tawa."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Wide lalu Close Up (*Uno Reverse Kedua - Antrean Ember*).
+    ENVIRONMENT: MORNING. Halaman balai desa, warga berbaris panjang di depan teras.
+    SUBJECT: Warga desa membawa ember kayu dan keping perak, Pak Lurah, Broto.
+    ACTION: Warga berbaris rapi sampai ke jalan, masing-masing memegang ember kayu berisi air sumur bening di satu tangan dan mengacungkan sekeping perak di tangan lain sambil menyeringai. Close up wajah Lurah dan Broto yang pucat. Broto beringsut mundur.
+    NARASI: "Belum sempat Pak Lurah membalas, warga desa berbaris rapi di depan teras. Masing-masing memegang seember air sumur dan sekeping perak sambil menyeringai. "Kami juga mau bayar seperak, Pak Lurah, Juragan Broto!" Wajah keduanya langsung pucat pasi. Broto beringsut mundur ketakutan."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Close Up (*Broto Berlutut*).
+    ENVIRONMENT: MORNING. Teras balai desa, antrean warga dengan ember terangkat di latar.
+    SUBJECT: Pak Lurah, Ki Udin, Broto, Mbok Darmi.
+    ACTION: Pak Lurah mengangkat kedua tangan panik. Ki Udin menggeleng tenang. Broto jatuh berlutut sambil merapatkan kedua telapak tangan memohon. Ki Udin menunjuk ke arah Mbok Darmi.
+    NARASI: "Pak Lurah panik. "Vonis kucabut!" Ki Udin menggeleng. "Lho, vonis itu baru saja dipakai Juragan, Pak. Masa berlaku untuk orang kaya saja?" Broto berlutut. "Ampun! Kubayar seratus keping emas, asal jangan disiram!" Ki Udin tersenyum. "Bayarkan ke Mbok Darmi, Juragan.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Action lalu Wide (*Slapstick Karma*).
+    ENVIRONMENT: MORNING. Halaman balai desa yang becek oleh genangan air keruh, andong kuda Broto di pinggir jalan.
+    SUBJECT: Broto, Pak Lurah, selusin kucing kampung belang oranye-putih, warga desa.
+    ACTION: Broto berlari ke andongnya, menginjak genangan, terpeleset dan jatuh terduduk. Selusin kucing kampung berlompatan mengerubunginya dan menjilati kumisnya. Beberapa kucing lain mengejar Pak Lurah yang berlari berputar-putar mengelilingi teras.
+    NARASI: "Broto bergegas mengambil emas ke andong kudanya, tapi kakinya menginjak genangan air ikan asin. GUBRAK! Ia jatuh terduduk. Meong! Meong! Selusin kucing kampung menyerbu, menjilati kumisnya yang bau amis. Pak Lurah yang basah kuyup ikut dikejar kucing. Warga tertawa terpingkal-pingkal."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Wide lalu Close Up (*Heartwarming Payoff*).
+    ENVIRONMENT: LATE AFTERNOON. Halaman balai desa, cahaya sore keemasan, lapak pecel Mbok Darmi yang sudah rapi kembali.
+    SUBJECT: Broto, Mbok Darmi, Ki Udin, Pak Lurah, kucing kampung, warga desa.
+    ACTION: Broto duduk di tanah menghitung keping emas ke kantong kain sambil menangis, kucing-kucing duduk di pundak dan kepalanya. Mbok Darmi memeluk kantong emas dengan senyum lega, warga bersorak. Ki Udin menepuk bahu Pak Lurah yang masih basah, lalu mengedip ke kamera. Freeze frame.
+    NARASI: "Sore itu, Broto menghitung seratus keping emas untuk Mbok Darmi sambil menangis dikerubungi kucing. Mbok Darmi tersenyum lega memeluk kantong emasnya. Warga bersorak gembira. Ki Udin menepuk bahu Pak Lurah yang masih basah. "Tenang, Pak. Bau amisnya cuma seperak, kok.""
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+BYUR! Juragan Broto menyiram Mbok Darmi, si penjual pecel, dengan air cucian ikan asin di depan balai desa! Pak Lurah malah terkekeh. "Menyiram orang dendanya cuma seperak!" Broto melempar dua keping perak. "Nih, sekalian bayar siraman berikutnya!" Keduanya tertawa terbahak-bahak.
+<break time="1.0s"/>
+
+Mbok Darmi menggigil menahan tangis. Pecel dagangannya basah dan bau amis, hanya karena lapaknya menghalangi andong Broto. Warga hanya bisa menutup hidung, tak berani membela. Tapi Ki Udin mengelus kumis, tersenyum licik, lalu mengangkat ember sisa air cucian ikan asin.
+<break time="1.0s"/>
+
+Ki Udin melangkah santai ke teras balai desa, tempat Pak Lurah duduk mengipas diri. Tanpa banyak bicara, ia mengayunkan ember itu. BYUR! Air amis mengguyur Pak Lurah dari peci sampai kaki. Seluruh warga desa ternganga. Broto sampai tersedak tawanya sendiri.
+<break time="1.0s"/>
+
+Pak Lurah melompat berdiri, kumisnya meneteskan air amis. "Kurang ajar! Kau berani menyiram Lurah?!" Ki Udin menunjuk keping perak kedua di meja. "Lho, siraman berikutnya sudah dibayar Juragan Broto, Pak. Kata Bapak, dendanya cuma seperak. Lunas, kan?" Warga menahan tawa.
+<break time="1.0s"/>
+
+Belum sempat Pak Lurah membalas, warga desa berbaris rapi di depan teras. Masing-masing memegang seember air sumur dan sekeping perak sambil menyeringai. "Kami juga mau bayar seperak, Pak Lurah, Juragan Broto!" Wajah keduanya langsung pucat pasi. Broto beringsut mundur ketakutan.
+<break time="1.0s"/>
+
+Pak Lurah panik. "Vonis kucabut!" Ki Udin menggeleng. "Lho, vonis itu baru saja dipakai Juragan, Pak. Masa berlaku untuk orang kaya saja?" Broto berlutut. "Ampun! Kubayar seratus keping emas, asal jangan disiram!" Ki Udin tersenyum. "Bayarkan ke Mbok Darmi, Juragan."
+<break time="1.0s"/>
+
+Broto bergegas mengambil emas ke andong kudanya, tapi kakinya menginjak genangan air ikan asin. GUBRAK! Ia jatuh terduduk. Meong! Meong! Selusin kucing kampung menyerbu, menjilati kumisnya yang bau amis. Pak Lurah yang basah kuyup ikut dikejar kucing. Warga tertawa terpingkal-pingkal.
+<break time="1.0s"/>
+
+Sore itu, Broto menghitung seratus keping emas untuk Mbok Darmi sambil menangis dikerubungi kucing. Mbok Darmi tersenyum lega memeluk kantong emasnya. Warga bersorak gembira. Ki Udin menepuk bahu Pak Lurah yang masih basah. "Tenang, Pak. Bau amisnya cuma seperak, kok."
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat Broto menyiram Mbok Darmi dan Lurah memvonis seperak. Berubah sendu singkat saat Mbok Darmi menggigil, lalu musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin tersenyum licik dan mengangkat ember. Berhenti mendadak (record scratch) tepat saat Ki Udin mengguyur Pak Lurah, naik penuh kejutan saat antrean warga berember muncul, lalu ditutup musik komedi slapstick riang saat Broto terpeleset dan dikejar kucing, dan musik hangat saat Mbok Darmi menerima emas.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'BYUR', 'dendanya cuma seperak', 'sekalian bayar siraman berikutnya', 'mengguyur Pak Lurah', 'sudah dibayar Juragan Broto', 'Lunas, kan', 'Kami juga mau bayar seperak', 'Masa berlaku untuk orang kaya saja', 'seratus keping emas', 'GUBRAK', 'Bau amisnya cuma seperak'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Pak Lurah Mulyo (ROLE_02)",
+        "description": "Greedy proud Javanese village chief, 55, short grey hair, thick grey mustache, stern frowning face, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets, brown leather belt, khaki trousers, barefoot. Arrogant strict expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Juragan Broto (ROLE_03)",
+        "description": "Fat greedy Javanese rice merchant, 50, thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly. Smug arrogant grin. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Mbok Darmi (ROLE_04)",
+        "description": "Kind poor Javanese pecel seller, 50, dark brown hair in a traditional bun, round gentle face, brown kebaya, brown parang batik jarik skirt, simple sandals. Weary hopeful expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: halaman depan balai desa kayu yang ramai seperti pasar pagi, teras panggung balai desa dengan meja sidang kayu, lapak pecel bambu Mbok Darmi di pinggir jalan tanah dengan tampah sayur dan pincuk daun pisang, andong kuda Broto terparkir di pinggir jalan. KONTINUITAS PROPERTI TERKUNCI: air cucian ikan asin selalu keruh keabu-abuan, sedangkan air di ember warga selalu air sumur bening agar penonton membedakannya; ember selalu ember kayu tradisional; dua keping perak Broto tetap tergeletak di meja sidang Lurah dari Shot 1 sampai Shot 4; seratus keping emas dihitung ke kantong kain cokelat di Shot 8; selusin kucing kampung belang oranye-putih baru muncul di Shot 7. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Pak Lurah Mulyo selalu rambut dan kumis tebal abu-abu, peci hitam tinggi, seragam safari khaki lengan pendek dengan dua saku dada, sabuk kulit cokelat, celana khaki, tanpa alas kaki, dan tetap basah kuyup sejak Shot 3 sampai Shot 8; Juragan Broto selalu blangkon batik cokelat, kumis hitam tebal melengkung, satu gigi depan emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, perut buncit; Mbok Darmi selalu sanggul cokelat tua, kebaya cokelat, jarik batik parang. REGISTER CAHAYA: Shot 1-7 pagi cerah segar dengan langit biru; Shot 8 sore keemasan hangat. MODERASI SLAPSTICK: semua siraman hanya air tanpa cedera dan tanpa ember mengenai badan; Broto jatuh terduduk tanpa cedera; kucing kampung hanya menjilat dan bertengger, tidak mencakar atau menggigit; baju basah, tetesan air, dan noda keruh lewat overlay CapCut. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no plastic bucket, no motor vehicle, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

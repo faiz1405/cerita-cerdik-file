@@ -1,0 +1,67 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Siram Orang Cuma Denda Seperak (Eps 64)
+- Clicky Video Headline: SIRAM ORANG CUMA DENDA SEPERAK! / KI UDIN BALIK MENYIRAM PAK LURAH?!
+- Single Video Title: Cerita Cerdik Ki Udin Season 6 - Siram Orang Cuma Denda Seperak & Pak Lurah Diguyur Air Ikan Asin (Eps 64)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In the busy dirt yard in front of a wooden Javanese village hall on a bright morning, with villagers crowding like a morning market and a horse-drawn andong cart parked by the road, a fat greedy Javanese rice merchant with thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, gold-embroidered brown vest and brown batik sarong swings a traditional wooden bucket and splashes murky grey water over a kind Javanese village woman in a brown kebaya with her hair in a bun, who flinches beside her small bamboo pecel food stall. On the raised wooden veranda of the village hall, a greedy village chief with short grey hair, thick grey mustache, tall black peci hat and khaki short-sleeve safari uniform sits behind a wooden table, chuckling, as the merchant tosses two silver coins onto the table with a clink. At exactly second 1.5, the chief points lazily and shouts loudly in authentic Javanese accent: "Nyiram wong dendane mung sak keping perak!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds, and the merchant bursts out laughing showing his gold tooth. In the crowd, a wise elderly Javanese man with grey mustache, brown batik blangkon and brown striped lurik shirt calmly strokes his mustache with a sly smile. Fluid clay stop-motion animation, bright fresh morning light, comedic water splash with droplets, tense comedic atmosphere, full environmental depth, rustic village scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, plastic bucket, motor vehicle, modern building, injury, violence, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster on the raised wooden veranda of a Javanese village hall on a bright morning: Ki Udin, a wise elderly Javanese villager with grey mustache, brown batik blangkon and brown striped lurik shirt, has just swung a traditional wooden bucket, a big frozen arc of murky grey water splashing over a greedy village chief with thick grey mustache, tall black peci knocked sideways and khaki safari uniform, whose eyes bulge and mouth gapes in shock as water drips from his mustache. Two silver coins sit on the wooden table beside them. Next to the chief, a fat greedy merchant with curled black mustache, gold tooth, brown blangkon and gold-embroidered vest chokes mid-laugh. Below the veranda, a long line of grinning villagers each hold a wooden bucket of clear water and raise a silver coin, and a few orange-and-white village cats sniff the puddles. Bright fresh morning light, blue sky, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, plastic bucket, motor vehicle, studio void, plain white background, blank backdrop, blood, injury, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - ember kayu, keping perak, kantong emas, kipas, dan kucing dianimasikan terpisah di CapCut. Air, tetesan, dan noda keruh ditambahkan lewat overlay, bukan di base render. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Pak Lurah Mulyo `character/season5/pak-lurah.png` (pose berdiri tegas - untuk Shot 4), Juragan Broto `character/season4/juragan_broto_transparent.png` (pose menunjuk marah - untuk Shot 5), Mbok Darmi `character/season3/ibu_warga_desa_transparent.png`, Mbok Darmi menangis `character/season5/nenek_menangis.png` (Shot 2). Pose baru di bawah simpan ke `character/season6/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Pak Lurah Mulyo - Option A (Duduk Terkekeh Sombong) - untuk Shot 1]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A greedy Javanese village chief, 55, short grey hair, thick grey mustache, tall black peci hat, khaki short-sleeve safari uniform with two chest pockets, brown leather belt, khaki trousers, barefoot, sitting leaned back with legs crossed, chuckling smugly with eyes half closed, one empty hand waving dismissively, other hand resting on his belly, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Pak Lurah Mulyo - Option B (Kaget Melotot, Tangan Terangkat) - untuk Shot 3-6]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same Javanese village chief with thick grey mustache, tall black peci tilted sideways and khaki safari uniform, standing stiff with both empty hands raised beside his head in panic, eyes bulging, mouth wide open in shock, shoulders hunched, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Juragan Broto - Option B (Berlutut Memohon) - untuk Shot 6]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A fat Javanese rice merchant, 50, thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly, kneeling on both knees with both empty palms pressed together begging, eyebrows raised in pitiful panic, mouth open pleading, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Ki Udin - Option A (Menunjuk dengan Wajah Polos) - untuk Shot 4 & 6]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals, standing relaxed, one empty hand pointing down and forward, other hand behind his back, innocent wide-eyed expression with a tiny sly smile, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 5: Mbok Darmi - Option A (Tersenyum Lega) - untuk Shot 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A kind Javanese village woman, 50, dark brown hair in a traditional bun, round gentle face, brown kebaya, brown parang batik jarik skirt, simple sandals, standing with both empty hands pressed to her chest, eyes glistening, warm relieved smile, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, busy dirt yard in front of a wooden village hall with raised veranda and wooden judgment table, small bamboo pecel food stall, horse-drawn andong cart by the road, traditional wooden buckets...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no plastic bucket, no motor vehicle]`
+Catatan: Warna air adalah pembeda cerita - air cucian ikan asin SELALU keruh keabu-abuan (Shot 1-3), air di ember warga SELALU air sumur bening (Shot 5-6). Dua keping perak Broto harus terlihat di meja Lurah dari Shot 1 sampai Shot 4 karena keping kedua adalah kunci logika Shot 4. Pak Lurah tetap basah sejak Shot 3 sampai akhir (lewat overlay tetesan). Kucing kampung baru muncul di Shot 7 dan hanya menjilat atau bertengger, tidak mencakar.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + BYUR! siraman. Dialog Jawa Pak Lurah "Nyiram wong dendane mung sak keping perak!" di 1.5s, denting dua keping perak, tawa Broto.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (cutaway sekitar 8s): Record Scratch kecil.
+- Siraman ke Lurah (Shot 3): Langkah di papan kayu (tok-tok), Record Scratch tepat sebelum siraman, BYUR!, "Hah?!" warga serempak.
+- Uno Reverse (Shot 4-6): "Ting!" label siraman sudah dibayar, "Cap!" stempel LUNAS, denting puluhan keping perak dari antrean, ember kayu diletakkan berurutan (duk-duk-duk), Record Scratch saat "Vonis kucabut!".
+- Slapstick (Shot 7): Slip! → GUBRAK! → Thud → Meong! Meong! bersahutan → langkah panik Lurah → Crowd Laughing.
+- Penutup (Shot 8): Denting koin emas satu per satu, sorakan warga, Crowd Laughing.
