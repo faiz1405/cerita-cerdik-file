@@ -13,7 +13,7 @@ Catatan Produksi: Narasi tepat 40 kata per shot (sama dengan Eps 59-62). Pak Kar
 ===================================================================
 - Visual Hook (0-3 Detik): Fajar biru berkabut di tepi kali. Pak Karto merangkak keluar dari kali sambil menggigil. Juragan Broto menginjakkan sepatunya ke karung beras upah, menunjuk obor kecil di seberang kali, lalu tertawa memamerkan gigi emas.
 - Teks Overlay Hook: "MENGGIGIL SEMALAM, UPAHNYA DIBATALKAN?!"
-- Audio Hook: Gong Jumpscare (BOOM!) di detik 0.0, gigi gemeletuk + gemericik air, teriakan Jawa "Ora ana beras kanggo kowe! Awakmu diangeti obor sebrang kali!" di detik 1.5.
+- Audio Hook: Gong Jumpscare (BOOM!) di detik 0.0, gigi gemeletuk + gemericik air, teriakan Jawa "Ora ana beras kanggo kowe! Awakmu anget merga obor sabrang kali!" di detik 1.5.
 - Cortisol Spike (Detik 4-10): Close up sepatu Broto menekan karung beras, close up tangan keriput Pak Karto yang gemetar, lalu cutaway Ki Udin di balik rumpun pisang mengelus kumis dan tersenyum licik sekitar detik 8 (mendahului narasi Shot 2).
 - Anti-Drop Detik 5-15: Minimal 3 perpindahan kamera: sepatu di atas karung → obor kecil di seberang kali (zoom) → wajah menggigil Pak Karto → senyum Ki Udin, ditambah Record Scratch kecil saat senyum.
 
@@ -42,7 +42,7 @@ Malamnya, Ki Udin menanak beras Broto dengan dandang tepat di atas tungku. Nasi 
 - Shot 1 (0-20s) - HOOK UPAH DIBATALKAN:
   - Visual: Fajar biru berkabut di tepi kali berbatu. Pak Karto merangkak keluar dari kali sambil menggigil memeluk diri. Broto menginjakkan sepatu ke karung goni beras, menunjuk obor kecil di gardu ronda seberang kali, lalu tertawa memamerkan gigi emas. Cutaway ke Ki Udin di balik rumpun pisang mengelus kumis sambil tersenyum licik (sekitar detik 8).
   - Efek CapCut: Quick Zoom-in (Keyframe) ke sepatu di atas karung, Shake ringan, text overlay "MENGGIGIL SEMALAM, UPAHNYA DIBATALKAN?!", lalu zoom-in ke obor kecil di seberang dengan teks "DIHANGATKAN OBOR SEJAUH ITU?".
-  - Audio/SFX: Gong Jumpscare 0.0s, gigi gemeletuk + gemericik air, teriakan Jawa "Ora ana beras kanggo kowe! Awakmu diangeti obor sebrang kali!" (klip Veo 0-4s), WHOOSH keras di 4.0s saat pindah ke klip CapCut, tawa sombong Broto, Record Scratch kecil saat Ki Udin tersenyum.
+  - Audio/SFX: Gong Jumpscare 0.0s, gigi gemeletuk + gemericik air, teriakan Jawa "Ora ana beras kanggo kowe! Awakmu anget merga obor sabrang kali!" (klip Veo 0-4s), WHOOSH keras di 4.0s saat pindah ke klip CapCut, tawa sombong Broto, Record Scratch kecil saat Ki Udin tersenyum.
 
 - Shot 2 (20-40s) - PERIUK KOSONG & UNDANGAN LICIK:
   - Visual: Pak Karto pulang menggigil ke gubuk bambu. Thole menatap periuk tanah liat kosong sambil memegangi perut. Lalu Ki Udin menghampiri Broto di jalan desa, membungkuk ramah mengundangnya; Broto mengusap perut buncit dan menjilat bibir.

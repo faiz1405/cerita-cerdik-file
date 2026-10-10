@@ -1,6 +1,6 @@
 # Bank Sumber Cerita Akal-Akalan (untuk dilokalkan jadi episode Ki Udin)
 
-Status "belum dipakai" dicek dengan `cek_repetisi.py` pada 2026-10-07. **Selalu cek ulang** sebelum dipakai - daftar episode terus bertambah.
+Status "belum dipakai" dicek dengan `cek_repetisi.py` pada 2026-10-10. **Selalu cek ulang** sebelum dipakai - daftar episode terus bertambah.
 
 Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarnya. Pindahkan ke desa/keraton Jawa, ganti bendanya dengan benda sehari-hari Indonesia, Ki Udin sebagai pemecah masalah.
 
@@ -8,8 +8,7 @@ Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarny
 
 | Motif | Asal tradisi | Mekanik inti | Catatan lokalisasi |
 |---|---|---|---|
-| Pencuri disuruh menimba | Tenali Raman (India) | Ki Udin sengaja bilang hartanya disembunyikan di sumur → maling menimba semalaman → sawah teraliri | Maling sapi/hansip sudah ada di aset karakter S4 |
-| Masak dengan api jauh | Birbal (India) | Orang miskin dihukum karena "dihangatkan" lampu jauh → Ki Udin memasak nasi dengan api 10 meter dari kuali | Tanak nasi di dandang - benda dapur, cocok tipe makanan |
+| Pencuri disuruh menimba | Tenali Raman (India) | Ki Udin sengaja bilang hartanya disembunyikan di sumur → maling menimba semalaman → sawah teraliri | Risiko repetisi tinggi: umpan "harta di dasar sumur" sudah dipakai Eps 53 (rentenir turun ke sumur belerang). Pakai hanya bila umpannya bukan sumur |
 | Baju ikut makan | Nasreddin Hodja | Datang ke kenduri berbaju lusuh diusir, ganti baju bagus disambut → Ki Udin menyuapi bajunya | Kenduri/selamatan Jawa; antagonis = tuan rumah gila hormat |
 | Sekendi kepintaran | Birbal (India) | Penguasa menuntut upeti "sekendi kepintaran" → labu ditanam di dalam kendi sampai memenuhi isinya: "keluarkan tanpa memecah kendi" | Kendi tanah liat + labu/blewah; butuh time-lapse pertumbuhan |
 | Upah sebutir padi berlipat | Legenda papan catur (India/Persia) | Minta upah 1 butir padi, berlipat dua tiap hari selama 30 hari → hari ke-30 saja 536.870.912 butir (±13 ton) | Teka-teki hitungan → hanya untuk slot eksperimen |
@@ -22,6 +21,8 @@ Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarny
 ## Sudah dipakai - jangan diulang
 
 - Sumur dijual tanpa airnya (Birbal) → Eps 57
+- "Jangan injak tanahku" + "jangan tunjukkan mukamu" (Tenali Raman) → Eps 62 - trik menuruti kata secara harfiah; hindari motif harfiah serupa (Manka, jembatan Ikkyu) di episode berdekatan
+- Masak dengan api jauh / khichdi (Birbal) → Eps 63 (menanak nasi pakai api jauh)
 - Tangkap macan dari lukisan (Ikkyu-san) → Eps 58
 - Rumah dijual kecuali satu paku (Juha/Nasreddin) → Eps 59
 - Kancil menghitung buaya untuk menyeberang → Eps 60 (jembatan dari perahu juragan)
