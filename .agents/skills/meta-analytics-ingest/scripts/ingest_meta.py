@@ -30,6 +30,15 @@ COL = {
     'comments': 'Komentar',
     'shares': 'Frekuensi dibagikan',
     'sec_rec': 'Detik dilihat dari Rekomendasi',
+    'page': 'Nama halaman',
+}
+
+# Nama Page Facebook yang sah per proyek (= nama folder tempat tracker berada), untuk mencegah
+# ekspor satu Page tertulis ke tracker proyek lain. Isi nama Page Jangan Tonton Sendirian persis
+# seperti kolom "Nama halaman" di ekspor Meta setelah dikonfirmasi pengguna.
+PAGE_NAMES = {
+    'cerita-cerdik': {'Cerita Cerdik'},
+    'jangan-tonton-sendirian': set(),
 }
 
 
@@ -61,6 +70,23 @@ def read_meta(path):
             r['female_pct'] = sum(v for k, v in demo.items() if k.startswith('F')) / total * 100 if total else 0
             rows.append(r)
     return sorted(rows, key=lambda r: r['published'])
+
+
+def check_page(meta, tracker_path):
+    """Hentikan skrip bila Page di ekspor bukan milik proyek pemilik tracker."""
+    project = Path(tracker_path).resolve().parent.name
+    if project not in PAGE_NAMES:
+        return  # tracker di luar folder proyek (mis. salinan untuk uji)
+    pages = {r['page'].strip() for r in meta if r['page'].strip()}
+    expected = PAGE_NAMES[project]
+    if expected:
+        wrong = pages - expected
+    else:
+        # Nama Page proyek ini belum dikonfirmasi: minimal tolak Page milik proyek lain.
+        wrong = pages & {p for other, names in PAGE_NAMES.items() if other != project for p in names}
+    if wrong:
+        sys.exit(f'Ekspor berisi Page {sorted(wrong)}, padahal tracker ini milik proyek "{project}". '
+                 f'Pastikan --tracker menunjuk ke tracker proyek yang benar.')
 
 
 def read_tracker(path):
@@ -179,6 +205,7 @@ def main():
         overrides[datetime.strptime(when.strip(), '%m/%d/%Y %H:%M').strftime('%Y-%m-%d %H:%M')] = int(eps)
 
     meta = read_meta(args.meta_csv)
+    check_page(meta, args.tracker)
     fields, tracker, newline = read_tracker(args.tracker)
     mapped = map_rows(meta, tracker, overrides)
     newest = max(r['published'] for r in meta)

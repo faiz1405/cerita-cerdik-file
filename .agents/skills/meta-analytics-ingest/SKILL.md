@@ -82,7 +82,8 @@ Urutan prioritas: `--map` → `tanggal_posting` yang sudah tercatat (rerun aman)
 - Jangan ubah aturan di `.agents/AGENTS.md` atau `EVALUASI_DAN_FORMULA_WINNING_CONTENT.md` berdasarkan hasil audit tanpa persetujuan pengguna - laporkan temuan + usulan, biar pengguna yang memutuskan.
 
 ## 7. Proyek Jangan Tonton Sendirian (halaman horror)
-- **Tracker**: selalu tambahkan `--tracker jangan-tonton-sendirian/episode_tracker.csv`. Skrip tidak memeriksa nama halaman, jadi pastikan pengguna mengekspor dari Page Jangan Tonton Sendirian, bukan Cerita Cerdik.
+- **Tracker**: selalu tambahkan `--tracker jangan-tonton-sendirian/episode_tracker.csv`.
+- **Pengaman nama Page**: skrip membaca kolom `Nama halaman` dan berhenti bila Page di ekspor bukan milik proyek pemilik tracker (daftar `PAGE_NAMES` di `ingest_meta.py`). Nama Page horror belum dikonfirmasi, jadi saat ini skrip baru bisa menolak ekspor Cerita Cerdik yang salah alamat. Isi nama Page horror persis seperti di ekspor setelah pengguna mengonfirmasinya.
 - **Pemetaan**: kolom Judul di ekspor Meta biasanya kosong dan durasi episode horror sengaja seragam (±150-160 dtk), sehingga pemetaan lewat durasi rawan ambigu. Andalkan `tanggal_posting` yang dicatat di tracker tepat setelah posting; bila belum tercatat, pakai `--map`.
 - **Metrik niche**: tracker horror punya kolom `female_total_pct` (porsi semua kolom `F, …`), metrik utama untuk menguji niche ibu muda. Tracker Cerita Cerdik tidak punya kolom ini dan tidak terpengaruh.
 - **Patokan**: patokan kalibrasi di §3 adalah data Cerita Cerdik (komedi) - JANGAN dipakai untuk menilai halaman horror. Perlakukan ±10 episode pertama sebagai baseline, lalu hitung patokan sendiri.
