@@ -10,7 +10,6 @@ Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarny
 |---|---|---|---|
 | Pencuri disuruh menimba | Tenali Raman (India) | Ki Udin sengaja bilang hartanya disembunyikan di sumur → maling menimba semalaman → sawah teraliri | Risiko repetisi tinggi: umpan "harta di dasar sumur" sudah dipakai Eps 53 (rentenir turun ke sumur belerang). Pakai hanya bila umpannya bukan sumur |
 | Baju ikut makan | Nasreddin Hodja | Datang ke kenduri berbaju lusuh diusir, ganti baju bagus disambut → Ki Udin menyuapi bajunya | Kenduri/selamatan Jawa; antagonis = tuan rumah gila hormat |
-| Separuh hadiah untuk penjaga | Birbal (India) | Penjaga gerbang minta separuh hadiah raja → Birbal minta hadiah 100 cambukan, separuhnya untuk penjaga | Cambukan = kekerasan; ganti 20 tomat busuk. Antagonis: Lurah pungli di gerbang keraton. Rasa ceritanya dekat Eps 64 (Lurah dipermalukan) - beri jeda |
 | Telur rebus tak bisa menetas | Cerita rakyat lintas tradisi (Turki/Rusia/India) | Penagih utang menuntut 10 telur rebus dibayar ratusan ayam ("harusnya sudah menetas") → Ki Udin datang membawa jagung rebus "untuk ditanam" | Logika cermin seperti Eps 1 (kuali beranak); tegaskan sejak awal telurnya dijual sebagai telur rebus |
 | Tikus pemakan besi | Panchatantra (India) | Penitip menagih barang besi, dijawab "dimakan tikus" → protagonis membalas "kerbaumu dibawa terbang elang" | Cangkul/bajak titipan di gudang Broto. Logika cermin seperti Eps 1; kerbau harus jelas hanya dipinjam lalu dikembalikan |
 | Warisan sapi: kau kepalanya, aku susunya | Cerita rakyat Asia Selatan (dua saudara membagi sapi & pohon kelapa) | Kakak serakah: adik memberi makan bagian depan, kakak memerah bagian belakang → adik "mengurus bagiannya" (menggelitik hidung sapi), sapi menendang kakak | Satu keluarga "pembagian berbalik" dengan Eps 65 - beri jeda beberapa episode |
@@ -30,6 +29,7 @@ Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarny
 - Masak dengan api jauh / khichdi (Birbal) → Eps 63 (menanak nasi pakai api jauh)
 - Hakim mendenda tamparan satu koin (Nasreddin) → Eps 64 (siram orang cuma denda seperak)
 - Pembagian panen atas/bawah/pucuk-akar (Tops and Bottoms; Grimm, Rusia) → Eps 65 (bagi hasil atas tanah, bawah tanah)
+- Separuh hadiah untuk penjaga gerbang (Birbal) → Eps 66 (hadiah Sultan, separuhnya buat Mahapatih; cambukan diganti jongkok-berdiri sambil menjewer telinga)
 - Ditolak 11 Okt: Rubah dan Gagak (Aesop) versi ayam bakar - fabel terlalu terkenal sehingga mudah ditebak, dan K3 hanya kalah oleh kesombongan
 - Ditolak 10 Okt: kambing/keledai "berak emas" (Kim Seon-dal, Korea) - umpan keserakahan sama dengan Eps 53; tip terbalik di pemandian (Nasreddin) - tak ada tantangan mustahil, latar warung orang miskin mirip Eps 6
 - Tangkap macan dari lukisan (Ikkyu-san) → Eps 58

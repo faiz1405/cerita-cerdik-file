@@ -1,0 +1,161 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe A (Slapstick Status Flip / Uno Reverse). Mahapatih Arya menghadang Ki Udin di gerbang keraton dan memaksanya berjanji menyerahkan separuh hadiah Sultan. Saat Sultan Prabu menawarkan hadiah apa saja untuk persembahan pisang raja dari warga, Ki Udin meminta dihukum jongkok-berdiri seratus kali sambil menjewer telinga sendiri. Separuhnya ia serahkan ke Mahapatih sesuai janji, dan bagiannya sendiri pun ia ikhlaskan. Pemerasan terbongkar, Mahapatih menjalani seratus kali jongkok-berdiri di alun-alun, dan desa mendapat bendungan serta beras.
+
+# [purpose]
+Memancing rasa geram pada pejabat keraton yang memeras rakyat kecil di gerbang istana, lalu melepaskannya lewat kepuasan melihat janji pungli itu berbalik menjadi hukuman memalukan di depan seluruh rakyat. Slapstick penurunan martabat yang aman dan dekat dengan pengalaman penonton Indonesia (hukuman jongkok-berdiri sambil menjewer telinga), ditutup kegembiraan warga desa. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, keadilan untuk rakyat kecil, kisah keraton, dan kenangan hukuman sekolah).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Mahapatih Arya menghadang Ki Udin di gerbang keraton dan melahap pisang titipan warga. TEXT OVERLAY BOLD: "LEWAT? BAYAR SEPARUH HADIAH!".
+    ENVIRONMENT: MORNING. Gerbang keraton (regol) bata merah dengan pintu kayu jati berukir, dua penjaga bertombak, halaman berpasir, cahaya pagi cerah.
+    SUBJECT: Mahapatih Arya (gemuk, kumis hitam tebal melengkung, wajah galak, kuluk ungu bergaris emas dengan hiasan mahkota emas, beskap beludru ungu bersulam emas berkancing emas, jarik batik parang cokelat, sepatu hitam, perut buncit), Ki Udin (blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik) memanggul setandan pisang raja, dua penjaga gerbang.
+    ACTION: Mahapatih merentangkan kedua tangan menghadang di tengah gerbang, mencomot sebuah pisang raja dari tandan yang dipanggul Ki Udin, mengupas dan melahapnya sambil tertawa. Para penjaga terkekeh. Potong cepat ke Ki Udin yang mengelus kumis dan tersenyum licik.
+    NARASI: "Mahapatih Arya menghadang Ki Udin di gerbang keraton! Ia mencomot pisang raja titipan warga dan melahapnya sambil tertawa. "Hei, mau menghadap Sultan? Janji dulu, separuh hadiah Sultan untukmu jadi milikku! Kalau tidak, pulang sana!" Para penjaga gerbang ikut terkekeh mengejek."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot lalu Flashback Singkat (*Injustice & Sly Reaction*).
+    ENVIRONMENT: MORNING. Gerbang keraton, lalu kilas balik singkat bendungan desa yang jebol dan sawah kering.
+    SUBJECT: Ki Udin, Mahapatih, warga desa dalam kilas balik.
+    ACTION: Kilas balik dengan tepi buram: warga desa menyerahkan setandan pisang raja terbaik kepada Ki Udin di depan bendungan yang jebol. Kembali ke gerbang: Ki Udin mengelus kumis, tersenyum licik, lalu membungkuk hormat kepada Mahapatih.
+    NARASI: "Pisang raja itu persembahan warga desa, yang berharap Sultan mau memperbaiki bendungan mereka yang jebol. Mahapatih memang terkenal suka memeras rakyat kecil. Tapi Ki Udin justru mengelus kumis dan tersenyum licik. "Baik, Gusti Mahapatih. Separuh hadiahnya untuk Gusti, saya janji.""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Wide Shot lalu Medium (*Sultan Terpukau*).
+    ENVIRONMENT: DAY. Pendopo keraton berpilar kayu ukir, singgasana emas, seperangkat gamelan di sisi, para abdi dalem duduk bersila.
+    SUBJECT: Sultan Prabu (mahkota emas berbatu permata, kumis dan janggut hitam rapi, beskap hitam bersulam emas, selendang emas di bahu, kalung manik berliontin emas, keris di pinggang, jarik batik cokelat), Ki Udin, Mahapatih Arya.
+    ACTION: Ki Udin bersimpuh menyerahkan setandan pisang raja besar. Sultan berdiri dari singgasana dan tersenyum lebar. Di belakang Sultan, Mahapatih menggosok-gosok kedua telapak tangannya dengan mata berbinar serakah.
+    NARASI: "Di pendopo keraton, Sultan Prabu terpukau dan tersenyum lebar melihat pisang raja sebesar lengan. "Persembahan yang luar biasa! Mintalah hadiah apa saja, Ki Udin!" Di belakang Sultan, Mahapatih menggosok-gosok tangannya, matanya berbinar membayangkan separuh hadiah itu masuk ke kantongnya sendiri."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Medium Close Up (*Permintaan Aneh*).
+    ENVIRONMENT: DAY. Pendopo keraton, abdi dalem dan penjaga di latar.
+    SUBJECT: Ki Udin bersimpuh, Sultan Prabu, Mahapatih Arya.
+    ACTION: Ki Udin bersimpuh dengan kedua telapak tangan menyembah. Seisi pendopo saling pandang terdiam. Mahapatih menutup mulut menahan tawa geli. Sultan mengerutkan dahi kebingungan.
+    NARASI: "Ki Udin bersimpuh hormat. "Ampun, Gusti. Hamba hanya minta satu hadiah: dihukum jongkok-berdiri seratus kali sambil menjewer telinga sendiri, di depan seluruh rakyat." Seisi pendopo keraton terdiam. Mahapatih menahan tawa geli. Sultan mengerutkan dahi. "Hadiah macam apa itu, Ki Udin?""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Shot Reverse Shot (*Uno Reverse*).
+    ENVIRONMENT: DAY. Pendopo keraton, dua penjaga gerbang dari Shot 1 berdiri di pintu pendopo.
+    SUBJECT: Ki Udin, Mahapatih Arya, Sultan Prabu, dua penjaga gerbang.
+    ACTION: Ki Udin tersenyum polos dan menunjuk Mahapatih dengan sopan. Senyum Mahapatih membeku lalu lenyap, wajahnya pucat, kedua tangannya mengibas-ngibas menyangkal. Kamera berpindah ke dua penjaga gerbang yang mengangguk serempak.
+    NARASI: "Ki Udin tersenyum polos. "Di gerbang tadi, hamba sudah berjanji pada Gusti Mahapatih: separuh hadiah hamba untuk beliau. Jadi lima puluh kali untuk beliau." Senyum Mahapatih langsung lenyap. "A... aku tidak pernah minta apa-apa!" Para penjaga gerbang langsung mengangguk serempak."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Shot lalu Close Up (*Vonis Sultan*).
+    ENVIRONMENT: DAY. Pendopo keraton, singgasana emas.
+    SUBJECT: Sultan Prabu, Ki Udin, Mahapatih Arya.
+    ACTION: Sultan menggebrak lengan singgasana dengan wajah murka. Ki Udin membungkuk sopan sambil menunjuk Mahapatih dengan telapak tangan terbuka. Sultan mengangguk tegas dan menunjuk ke arah alun-alun. Close up wajah Mahapatih yang pucat berkeringat.
+    NARASI: "Sultan murka menggebrak lengan singgasana. "Mahapatih memeras rakyat di gerbang istanaku?! Janji tetap janji!" Ki Udin menambahkan dengan sopan. "Bagian hamba yang lima puluh, hamba ikhlaskan juga untuk beliau, Gusti." Sultan mengangguk tegas. "Seratus kali, Mahapatih. Di alun-alun, sekarang juga!""
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Wide lalu Medium Action (*Slapstick Karma*).
+    ENVIRONMENT: DAY. Alun-alun keraton berpasir dengan dua pohon beringin kembar, rakyat berkerumun membentuk lingkaran.
+    SUBJECT: Mahapatih Arya, anak-anak desa, rakyat.
+    ACTION: Mahapatih jongkok-berdiri berulang kali sambil menjewer kedua telinganya sendiri, perut buncitnya naik turun. Anak-anak desa menghitung sambil mengacungkan jari. Kuluknya jatuh, napasnya tersengal, lalu ia ambruk telentang di pasir dengan tangan dan kaki terentang. Rakyat tertawa.
+    NARASI: "Di alun-alun, Mahapatih yang gendut mulai jongkok-berdiri sambil menjewer telinganya sendiri, keringatnya bercucuran. Anak-anak desa menghitung keras-keras. "Sembilan puluh delapan! Sembilan puluh sembilan! Seratus!" Napasnya ngos-ngosan, kuluknya jatuh. DEBUM! Ia ambruk telentang di tanah seperti karung beras. Rakyat tertawa terpingkal-pingkal."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Wide lalu Close Up (*Heartwarming Payoff*).
+    ENVIRONMENT: LATE AFTERNOON. Alun-alun keraton, cahaya sore keemasan, gerobak berisi sepuluh karung beras.
+    SUBJECT: Ki Udin, Mahapatih Arya, warga desa, Sultan Prabu di kejauhan.
+    ACTION: Warga desa bersorak di sekitar gerobak beras. Mahapatih masih terkapar di pasir dengan kuluk di sampingnya. Ki Udin membungkuk sopan di dekat kepalanya, lalu mengedip ke kamera. Freeze frame.
+    NARASI: "Sore itu, Sultan memerintahkan bendungan desa diperbaiki dan menghadiahkan sepuluh karung beras untuk warga. Seluruh desa bersorak gembira. Ki Udin membungkuk sopan pada Mahapatih yang masih terkapar kelelahan. "Terima kasih, Gusti. Lain kali, separuh hadiah saya untuk Gusti lagi, ya.""
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Mahapatih Arya menghadang Ki Udin di gerbang keraton! Ia mencomot pisang raja titipan warga dan melahapnya sambil tertawa. "Hei, mau menghadap Sultan? Janji dulu, separuh hadiah Sultan untukmu jadi milikku! Kalau tidak, pulang sana!" Para penjaga gerbang ikut terkekeh mengejek.
+<break time="1.0s"/>
+
+Pisang raja itu persembahan warga desa, yang berharap Sultan mau memperbaiki bendungan mereka yang jebol. Mahapatih memang terkenal suka memeras rakyat kecil. Tapi Ki Udin justru mengelus kumis dan tersenyum licik. "Baik, Gusti Mahapatih. Separuh hadiahnya untuk Gusti, saya janji."
+<break time="1.0s"/>
+
+Di pendopo keraton, Sultan Prabu terpukau dan tersenyum lebar melihat pisang raja sebesar lengan. "Persembahan yang luar biasa! Mintalah hadiah apa saja, Ki Udin!" Di belakang Sultan, Mahapatih menggosok-gosok tangannya, matanya berbinar membayangkan separuh hadiah itu masuk ke kantongnya sendiri.
+<break time="1.0s"/>
+
+Ki Udin bersimpuh hormat. "Ampun, Gusti. Hamba hanya minta satu hadiah: dihukum jongkok-berdiri seratus kali sambil menjewer telinga sendiri, di depan seluruh rakyat." Seisi pendopo keraton terdiam. Mahapatih menahan tawa geli. Sultan mengerutkan dahi. "Hadiah macam apa itu, Ki Udin?"
+<break time="1.0s"/>
+
+Ki Udin tersenyum polos. "Di gerbang tadi, hamba sudah berjanji pada Gusti Mahapatih: separuh hadiah hamba untuk beliau. Jadi lima puluh kali untuk beliau." Senyum Mahapatih langsung lenyap. "A... aku tidak pernah minta apa-apa!" Para penjaga gerbang langsung mengangguk serempak.
+<break time="1.0s"/>
+
+Sultan murka menggebrak lengan singgasana. "Mahapatih memeras rakyat di gerbang istanaku?! Janji tetap janji!" Ki Udin menambahkan dengan sopan. "Bagian hamba yang lima puluh, hamba ikhlaskan juga untuk beliau, Gusti." Sultan mengangguk tegas. "Seratus kali, Mahapatih. Di alun-alun, sekarang juga!"
+<break time="1.0s"/>
+
+Di alun-alun, Mahapatih yang gendut mulai jongkok-berdiri sambil menjewer telinganya sendiri, keringatnya bercucuran. Anak-anak desa menghitung keras-keras. "Sembilan puluh delapan! Sembilan puluh sembilan! Seratus!" Napasnya ngos-ngosan, kuluknya jatuh. DEBUM! Ia ambruk telentang di tanah seperti karung beras. Rakyat tertawa terpingkal-pingkal.
+<break time="1.0s"/>
+
+Sore itu, Sultan memerintahkan bendungan desa diperbaiki dan menghadiahkan sepuluh karung beras untuk warga. Seluruh desa bersorak gembira. Ki Udin membungkuk sopan pada Mahapatih yang masih terkapar kelelahan. "Terima kasih, Gusti. Lain kali, separuh hadiah saya untuk Gusti lagi, ya."
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat Mahapatih menghadang di gerbang dan melahap pisang warga. Berubah sendu singkat saat kilas balik bendungan jebol, lalu musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin tersenyum licik. Gamelan megah singkat saat masuk pendopo keraton, berhenti mendadak (record scratch) saat Ki Udin meminta hadiah aneh dan saat menunjuk Mahapatih. Ditutup musik komedi slapstick berirama cepat mengikuti hitungan jongkok-berdiri, lalu musik hangat saat warga bersorak.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'separuh hadiah Sultan untukmu jadi milikku', 'saya janji', 'Mintalah hadiah apa saja', 'jongkok-berdiri seratus kali', 'lima puluh kali untuk beliau', 'mengangguk serempak', 'Janji tetap janji', 'hamba ikhlaskan juga', 'Seratus', 'DEBUM', 'separuh hadiah saya untuk Gusti lagi'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Mahapatih Arya (ROLE_02)",
+        "description": "Fat corrupt Javanese royal prime minister, 55, thick curled black mustache, stern greedy scowl, tall purple kuluk cap with gold stripes and a gold crown ornament, purple velvet beskap jacket with ornate gold embroidery and gold buttons, brown parang batik jarik, black shoes, big belly. Arrogant greedy expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Sultan Prabu (ROLE_03)",
+        "description": "Wise just Javanese sultan, 50, neat black mustache and short black goatee beard, jeweled golden crown, black beskap jacket with gold embroidery, golden sash over one shoulder, beaded necklaces with gold pendants, keris tucked at his waist, brown batik jarik, embroidered slippers. Warm dignified expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. LATAR: gerbang keraton (regol) bata merah dengan pintu kayu jati berukir dan dua penjaga bertombak; pendopo keraton berpilar kayu ukir dengan singgasana emas, gamelan, dan abdi dalem bersila; alun-alun keraton berpasir dengan dua pohon beringin kembar dan rakyat berkerumun. KONTINUITAS PROPERTI TERKUNCI: setandan pisang raja kuning besar yang dipanggul Ki Udin dari Shot 1 sampai Shot 3, berkurang satu buah yang dimakan Mahapatih; dua penjaga gerbang yang sama (seragam lurik biru, tombak kayu) muncul di Shot 1 dan Shot 5 sebagai saksi janji; kuluk ungu Mahapatih jatuh di Shot 7 dan tergeletak di sampingnya di Shot 8; gerobak kayu berisi sepuluh karung goni beras di Shot 8. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Mahapatih Arya selalu gemuk, kumis hitam tebal melengkung, kuluk ungu bergaris emas dengan hiasan mahkota emas, beskap beludru ungu bersulam emas berkancing emas, jarik batik parang cokelat, sepatu hitam; Sultan Prabu selalu mahkota emas berbatu permata, kumis dan janggut hitam rapi, beskap hitam bersulam emas, selendang emas di bahu, kalung manik berliontin emas, keris di pinggang, jarik batik cokelat. REGISTER CAHAYA: Shot 1-2 pagi cerah; Shot 3-6 siang terang di bawah atap pendopo dengan cahaya hangat; Shot 7 siang terik di alun-alun; Shot 8 sore keemasan. MODERASI SLAPSTICK: Mahapatih hanya menjewer telinganya sendiri dengan ringan, tidak ada orang lain yang memukul atau menyentuhnya; ia ambruk telentang karena lelah tanpa cedera; keringat lewat overlay CapCut. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no motor vehicle, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

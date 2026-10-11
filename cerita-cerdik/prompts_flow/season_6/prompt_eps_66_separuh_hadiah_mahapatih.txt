@@ -1,0 +1,67 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Hadiah Sultan, Separuhnya Buat Mahapatih (Eps 66)
+- Clicky Video Headline: LEWAT? BAYAR SEPARUH HADIAH! / KI UDIN MINTA HADIAH DIHUKUM JONGKOK-BERDIRI?!
+- Single Video Title: Cerita Cerdik Ki Udin Season 6 - Hadiah Sultan, Separuhnya Buat Mahapatih & Hukuman Jongkok-Berdiri 100 Kali (Eps 66)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. At the red-brick gate of a Javanese royal palace with carved teak doors on a bright morning, flanked by two palace guards in blue lurik uniforms holding wooden spears, a fat corrupt royal prime minister with thick curled black mustache, tall purple kuluk cap with gold stripes and a gold crown ornament, purple velvet beskap jacket with ornate gold embroidery and gold buttons, brown batik jarik and black shoes spreads his arms wide to block the gateway. In front of him, a wise elderly Javanese man with grey mustache, brown batik blangkon and brown striped lurik shirt carries a big bunch of yellow king bananas on his shoulder. The prime minister snatches one banana from the bunch, peels it and bites it greedily. At exactly second 1.5, with his mouth half full, he points at the elderly man and shouts loudly in authentic Javanese accent: "Arep sowan Sultan? Janji sik, separo hadiahmu dadi duwekku!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds, and the two guards snicker behind him. The elderly man calmly strokes his mustache with a sly smile. Fluid clay stop-motion animation, bright fresh morning light, blue sky, tense comedic atmosphere, full environmental depth, royal palace scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, motor vehicle, modern building, hitting, injury, violence, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting, 8k resolution. Hilarious story poster in a sandy royal square with twin banyan trees under bright midday sun: a fat corrupt royal prime minister with thick curled black mustache, purple velvet beskap with gold embroidery and brown batik jarik is caught mid-squat, red-faced and sweating, pulling both of his own ears, his tall purple kuluk cap falling off his head. Around him a ring of laughing villagers and children hold up their fingers counting, one child holding a little sign with the number "99". In the foreground, Ki Udin, a wise elderly Javanese villager with grey mustache, brown batik blangkon and brown striped lurik shirt, stands calmly with hands behind his back and winks with a sly smile. In the background, a dignified sultan with a jeweled golden crown, black gold-embroidered beskap and golden sash watches from the palace veranda, nodding firmly. Bright warm daylight, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, motor vehicle, studio void, plain white background, blank backdrop, blood, injury, hitting, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - pisang raja, tombak, singgasana, kuluk yang jatuh, dan karung beras dianimasikan terpisah di CapCut. Keringat lewat overlay. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Mahapatih Arya `character/season3/mahapatih-arya-culas.png` (pose merentangkan tangan - untuk Shot 1), Sultan Prabu `character/season3/sultan-prabu.png` (pose ramah - untuk Shot 3). Pose baru di bawah simpan ke `character/season6/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Mahapatih Arya - Option A (Menggosok Tangan Serakah) - untuk Shot 3-4]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A fat corrupt Javanese royal prime minister, 55, thick curled black mustache, tall purple kuluk cap with gold stripes and a gold crown ornament, purple velvet beskap jacket with ornate gold embroidery and gold buttons, brown parang batik jarik, black shoes, big belly, rubbing both empty palms together greedily, eyes sparkling with greed, sly toothy grin, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Mahapatih Arya - Option B (Pucat Menyangkal) - untuk Shot 5-6]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese royal prime minister with thick curled black mustache, tall purple kuluk cap, purple gold-embroidered velvet beskap and brown batik jarik, standing stiff with a pale panicked face, eyes wide, both empty hands waving in front of his chest in denial, mouth open stammering, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Mahapatih Arya - Option B (Jongkok Menjewer Telinga Sendiri) - untuk Shot 7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese royal prime minister with thick curled black mustache, purple gold-embroidered velvet beskap and brown batik jarik, bareheaded with short black hair, in a deep squat with knees bent, gently pulling his own two earlobes with both hands crossed over his chest, red puffed cheeks, eyes squeezed, mouth panting, comical exhausted expression, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Sultan Prabu - Option B (Murka Menunjuk) - untuk Shot 6]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A dignified Javanese sultan, 50, neat black mustache and short black goatee beard, jeweled golden crown, black beskap jacket with gold embroidery, golden sash over one shoulder, beaded necklaces with gold pendants, keris tucked at his waist, brown batik jarik, embroidered slippers, standing tall with a stern angry frown, one empty hand pointing firmly forward, other hand clenched at his side, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 5: Ki Udin - Option A (Bersimpuh Menyembah) - untuk Shot 3-4]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, kneeling politely on the floor in a traditional Javanese sembah pose with both empty palms pressed together in front of his nose, calm humble face with a tiny sly smile, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese royal palace setting, red-brick palace gate with carved teak doors and two spear guards in blue lurik, pendopo hall with carved wooden pillars, golden throne and gamelan, sandy royal square with twin banyan trees...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no motor vehicle]`
+Catatan: Dua penjaga gerbang yang sama (seragam lurik biru, tombak kayu) WAJIB muncul di Shot 1 dan Shot 5 karena mereka saksi janji yang menutup celah logika. Mahapatih hanya menjewer telinganya sendiri dengan ringan; tidak ada orang lain yang menyentuh atau memukulnya. Kuluk ungu jatuh di Shot 7 dan tergeletak di sampingnya di Shot 8.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + BRAK! pintu gerbang. Dialog Jawa Mahapatih "Arep sowan Sultan? Janji sik, separo hadiahmu dadi duwekku!" di 1.5s, kunyahan pisang, tawa penjaga.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (cutaway sekitar 8s): Record Scratch kecil.
+- Pendopo (Shot 3-4): Gamelan megah singkat, Record Scratch saat permintaan "jongkok-berdiri", jangkrik (krik-krik) saat hening.
+- Uno Reverse (Shot 5-6): Record Scratch saat senyum Mahapatih lenyap, "Glek!", anggukan penjaga (tok-tok), DUAK! singgasana digebrak.
+- Slapstick (Shot 7): Hitungan anak-anak → napas ngos-ngosan → pluk! kuluk jatuh → DEBUM! → Thud → Crowd Laughing.
+- Penutup (Shot 8): Sorakan warga, Crowd Laughing.

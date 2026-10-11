@@ -1,0 +1,122 @@
+# ANALISIS & PENJELASAN BRIEF VIDEO - EPS 66 (SEASON 6 EPISODE 6)
+Judul Episode: Hadiah Sultan, Separuhnya Buat Mahapatih (Tipe A/Uno Reverse)
+Target Platform: Facebook Reels, Instagram Reels, TikTok, YouTube Shorts
+Target Durasi: 160 Detik (320 kata, TTS speed 1.0, estimasi validator ±170s → target render ±150-160s)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Sumber Mekanik: Birbal (India) - "separuh hadiah untuk penjaga gerbang": penjaga istana memaksa Birbal berjanji menyerahkan separuh hadiah raja, lalu Birbal meminta hadiah seratus cambukan dan menyerahkan separuhnya kepada si penjaga. Cambukan diganti hukuman jongkok-berdiri sambil menjewer telinga sendiri (aman moderasi, dekat dengan pengalaman penonton Indonesia), penjaga diganti Mahapatih Arya, dan hadiahnya dilokalkan ke persembahan pisang raja warga desa.
+Kunci Logika (Uno Reverse): Trik Ki Udin adalah meminta "hadiah" yang sebenarnya hukuman, sehingga janji pungli Mahapatih ("separuh hadiahmu milikku") menjadi jebakan bagi dirinya sendiri. Cabang yang ditutup naskah: (1) Mahapatih menyangkal pernah meminta → dua penjaga gerbang yang ikut mendengar mengangguk serempak di Shot 5; (2) Mahapatih menolak menjalani → Sultan memutuskan "janji tetap janji" sekaligus marah karena pemerasan terbongkar; (3) separuh bagian Ki Udin → ia ikhlaskan juga untuk Mahapatih, jadi Ki Udin tidak menjalani hukuman apa pun; (4) nasib persembahan warga → Sultan memerintahkan bendungan desa diperbaiki dan memberi sepuluh karung beras.
+Catatan Repetisi: Dicek 11 Okt 2026 - kata kunci `separuh hadiah`, `jewer`, `jongkok berdiri` tidak menemukan mekanik ini. Rasanya dekat Eps 64 (pejabat kena aturannya sendiri), tapi antagonis (Mahapatih, bukan Lurah), latar (keraton, bukan balai desa), dan hasil akhirnya (hukuman jongkok-berdiri, kering) berbeda, dan sudah berjarak dua episode. Mahapatih pernah menjadi antagonis di Eps 40 (reach 3k), tapi data itu dari format lama dan tidak bisa dijadikan bukti.
+Catatan Produksi: Narasi tepat 40 kata per shot (sama dengan Eps 59-65). Syarat pungli sudah terucap di narasi Shot 1 sesuai temuan audit 10 Okt. Antagonis sengaja bukan Broto setelah tiga episode berturut-turut (Eps 63-65). Aset: Mahapatih `character/season3/mahapatih-arya-culas.png`, Sultan `character/season3/sultan-prabu.png`.
+
+===================================================================
+[1] 3-SECOND HOOK STRATEGY (FLSR & NEUROMARKETING)
+===================================================================
+- Visual Hook (0-3 Detik): Pagi di gerbang keraton bata merah. Mahapatih Arya yang gendut berbeskap ungu merentangkan tangan menghadang Ki Udin, mencomot pisang raja dari tandan yang dipanggul Ki Udin, dan melahapnya sambil tertawa. Dua penjaga bertombak terkekeh.
+- Teks Overlay Hook: "LEWAT? BAYAR SEPARUH HADIAH!"
+- Audio Hook: Gong Jumpscare (BOOM!) di detik 0.0, pintu gerbang kayu dibanting (BRAK!), teriakan Jawa Mahapatih "Arep sowan Sultan? Janji sik, separo hadiahmu dadi duwekku!" di detik 1.5, kunyahan pisang (nyam-nyam).
+- Cortisol Spike (Detik 4-10): Close up mulut Mahapatih mengunyah pisang warga, tawa penjaga, lalu cutaway Ki Udin mengelus kumis dan tersenyum licik sekitar detik 8 (mendahului narasi Shot 2).
+- Anti-Drop Detik 5-15: Minimal 3 perpindahan kamera: tangan mencomot pisang → wajah tertawa Mahapatih → penjaga terkekeh → senyum Ki Udin, ditambah Record Scratch kecil saat senyum.
+
+===================================================================
+[2] NASKAH CERITA LENGKAP BAHASA INDONESIA (VOICE OVER)
+===================================================================
+Mahapatih Arya menghadang Ki Udin di gerbang keraton! Ia mencomot pisang raja titipan warga dan melahapnya sambil tertawa. "Hei, mau menghadap Sultan? Janji dulu, separuh hadiah Sultan untukmu jadi milikku! Kalau tidak, pulang sana!" Para penjaga gerbang ikut terkekeh mengejek.
+
+Pisang raja itu persembahan warga desa, yang berharap Sultan mau memperbaiki bendungan mereka yang jebol. Mahapatih memang terkenal suka memeras rakyat kecil. Tapi Ki Udin justru mengelus kumis dan tersenyum licik. "Baik, Gusti Mahapatih. Separuh hadiahnya untuk Gusti, saya janji."
+
+Di pendopo keraton, Sultan Prabu terpukau dan tersenyum lebar melihat pisang raja sebesar lengan. "Persembahan yang luar biasa! Mintalah hadiah apa saja, Ki Udin!" Di belakang Sultan, Mahapatih menggosok-gosok tangannya, matanya berbinar membayangkan separuh hadiah itu masuk ke kantongnya sendiri.
+
+Ki Udin bersimpuh hormat. "Ampun, Gusti. Hamba hanya minta satu hadiah: dihukum jongkok-berdiri seratus kali sambil menjewer telinga sendiri, di depan seluruh rakyat." Seisi pendopo keraton terdiam. Mahapatih menahan tawa geli. Sultan mengerutkan dahi. "Hadiah macam apa itu, Ki Udin?"
+
+Ki Udin tersenyum polos. "Di gerbang tadi, hamba sudah berjanji pada Gusti Mahapatih: separuh hadiah hamba untuk beliau. Jadi lima puluh kali untuk beliau." Senyum Mahapatih langsung lenyap. "A... aku tidak pernah minta apa-apa!" Para penjaga gerbang langsung mengangguk serempak.
+
+Sultan murka menggebrak lengan singgasana. "Mahapatih memeras rakyat di gerbang istanaku?! Janji tetap janji!" Ki Udin menambahkan dengan sopan. "Bagian hamba yang lima puluh, hamba ikhlaskan juga untuk beliau, Gusti." Sultan mengangguk tegas. "Seratus kali, Mahapatih. Di alun-alun, sekarang juga!"
+
+Di alun-alun, Mahapatih yang gendut mulai jongkok-berdiri sambil menjewer telinganya sendiri, keringatnya bercucuran. Anak-anak desa menghitung keras-keras. "Sembilan puluh delapan! Sembilan puluh sembilan! Seratus!" Napasnya ngos-ngosan, kuluknya jatuh. DEBUM! Ia ambruk telentang di tanah seperti karung beras. Rakyat tertawa terpingkal-pingkal.
+
+Sore itu, Sultan memerintahkan bendungan desa diperbaiki dan menghadiahkan sepuluh karung beras untuk warga. Seluruh desa bersorak gembira. Ki Udin membungkuk sopan pada Mahapatih yang masih terkapar kelelahan. "Terima kasih, Gusti. Lain kali, separuh hadiah saya untuk Gusti lagi, ya."
+
+===================================================================
+[3] RINCIAN VISUAL & AUDIO PER SHOT
+===================================================================
+- Shot 1 (0-20s) - HOOK PUNGLI DI GERBANG:
+  - Visual: Pagi di gerbang keraton. Mahapatih merentangkan tangan menghadang Ki Udin, mencomot pisang raja dari tandan yang dipanggul Ki Udin, mengupas dan melahapnya sambil tertawa. Dua penjaga bertombak terkekeh. Cutaway ke Ki Udin mengelus kumis sambil tersenyum licik (sekitar detik 8).
+  - Efek CapCut: Quick Zoom-in (Keyframe) ke tangan yang mencomot pisang, Shake ringan, text overlay "LEWAT? BAYAR SEPARUH HADIAH!", lalu stempel kartun "PUNGLI" di samping wajah Mahapatih.
+  - Audio/SFX: Gong Jumpscare 0.0s, BRAK! pintu gerbang, teriakan Jawa "Arep sowan Sultan? Janji sik, separo hadiahmu dadi duwekku!" (klip Veo 0-4s), WHOOSH keras di 4.0s saat pindah ke klip CapCut, kunyahan pisang, tawa penjaga, Record Scratch kecil saat Ki Udin tersenyum.
+
+- Shot 2 (20-40s) - HARAPAN WARGA & JANJI LICIK:
+  - Visual: Kilas balik bertepi buram: warga desa menyerahkan setandan pisang raja kepada Ki Udin di depan bendungan yang jebol dan sawah kering. Kembali ke gerbang: Ki Udin mengelus kumis, tersenyum licik, lalu membungkuk hormat kepada Mahapatih.
+  - Efek CapCut: Filter sepia + Blur tepi untuk kilas balik, teks "BENDUNGAN DESA JEBOL", lalu kembali normal dengan Zoom-in ke senyum Ki Udin.
+  - Audio/SFX: Musik sendu singkat dengan gemericik air bocor, lalu berubah ke Sneaky Comedy saat Ki Udin tersenyum, "Ting!" saat ia berkata "saya janji".
+
+- Shot 3 (40-60s) - SULTAN TERPUKAU:
+  - Visual: Pendopo keraton berpilar ukir. Ki Udin bersimpuh menyerahkan pisang raja besar. Sultan berdiri dari singgasana dan tersenyum lebar. Di belakang Sultan, Mahapatih menggosok-gosok telapak tangannya dengan mata berbinar serakah.
+  - Efek CapCut: Wide shot pendopo dengan efek kilau pada mahkota Sultan, Keyframe pan ke Mahapatih, overlay simbol koin emas berputar di matanya.
+  - Audio/SFX: Gamelan megah singkat, decak kagum abdi dalem, gesekan telapak tangan (srek-srek), tawa kecil serakah.
+
+- Shot 4 (60-80s) - PERMINTAAN ANEH:
+  - Visual: Ki Udin bersimpuh menyembah. Seisi pendopo saling pandang terdiam. Mahapatih menutup mulut menahan tawa geli. Sultan mengerutkan dahi kebingungan.
+  - Efek CapCut: Freeze frame singkat saat Ki Udin menyebut "jongkok-berdiri seratus kali", teks "HADIAHNYA... DIHUKUM?!", overlay tanda tanya besar di atas kepala Sultan.
+  - Audio/SFX: Record Scratch saat permintaan diucapkan, jangkrik (krik-krik) saat pendopo hening, tawa tertahan Mahapatih.
+
+- Shot 5 (80-100s) - UNO REVERSE:
+  - Visual: Ki Udin tersenyum polos dan menunjuk Mahapatih dengan sopan. Senyum Mahapatih membeku lalu lenyap, wajahnya pucat, tangannya mengibas menyangkal. Kamera berpindah ke dua penjaga gerbang di pintu pendopo yang mengangguk serempak.
+  - Efek CapCut: Split screen "100 KALI" dibagi dua dengan panah "50 → MAHAPATIH", Zoom-in cepat ke dua penjaga yang mengangguk dengan teks "SAKSI ✔".
+  - Audio/SFX: Record Scratch saat senyum Mahapatih lenyap, "Glek!", dua anggukan berbunyi (tok-tok).
+
+- Shot 6 (100-120s) - VONIS SULTAN:
+  - Visual: Sultan menggebrak lengan singgasana dengan wajah murka. Ki Udin membungkuk sopan menunjuk Mahapatih dengan telapak terbuka. Sultan menunjuk ke arah alun-alun. Close up wajah Mahapatih yang pucat berkeringat.
+  - Efek CapCut: Shake keras saat singgasana digebrak, teks "50 + 50 = 100 UNTUK MAHAPATIH", overlay asap marah di kepala Sultan.
+  - Audio/SFX: DUAK! singgasana digebrak, gong pendek, "Glek!" Mahapatih, musik tegang singkat.
+
+- Shot 7 (120-140s) - SLAPSTICK KARMA:
+  - Visual: Alun-alun dengan dua beringin kembar. Mahapatih jongkok-berdiri berulang sambil menjewer kedua telinganya sendiri, perut buncit naik turun. Anak-anak desa menghitung sambil mengacungkan jari. Kuluknya jatuh, napasnya tersengal, lalu ia ambruk telentang di pasir. Rakyat tertawa.
+  - Efek CapCut: Speed Ramp montase jongkok-berdiri dengan penghitung angka besar di pojok layar (1... 50... 98, 99, 100!), Slow-motion saat ambruk, Shake saat mendarat, overlay bintang berputar kartun.
+  - Audio/SFX: Hitungan anak-anak, napas ngos-ngosan (hah-huh), kuluk jatuh (pluk), DEBUM!, Thud, Crowd Laughing.
+
+- Shot 8 (140-160s) - BENDUNGAN & BERAS UNTUK DESA:
+  - Visual: Sore keemasan. Warga desa bersorak di sekitar gerobak berisi sepuluh karung beras. Mahapatih masih terkapar di pasir dengan kuluk di sampingnya. Ki Udin membungkuk sopan di dekat kepalanya, lalu mengedip ke kamera. Freeze frame.
+  - Efek CapCut: Teks "BENDUNGAN DIPERBAIKI ✔", kilau keemasan pada karung beras, freeze frame wajah Mahapatih yang lemas, overlay emoji tertawa kecil.
+  - Audio/SFX: Sorakan warga, Crowd Laughing, "Lain kali, separuh hadiah saya untuk Gusti lagi, ya.", musik komedi hangat penutup.
+
+===================================================================
+[4] METADATA & CAPTION STRATEGY LINTAS 3 PLATFORM
+===================================================================
+--- FACEBOOK REELS & PAGE CAPTION ---
+Pejabat keraton malakin rakyat di gerbang istana: "Mau menghadap Sultan? Janji dulu, separuh hadiahmu MILIKKU!" 😤 Pisang persembahan warga buat minta bendungan desa diperbaiki malah dia comot dan dimakan 😡
+
+Ki Udin bilang "siap, saya janji"... terus di depan Sultan dia minta hadiah DIHUKUM JONGKOK-BERDIRI 100 KALI sambil jewer telinga 😂 Separuhnya buat Mahapatih dong, sesuai janji!
+
+Kalian tim Mahapatih dicopot dari jabatannya (Ketik 1) atau tim Mahapatih wajib jongkok-berdiri tiap pagi di alun-alun sebulan penuh (Ketik 2)? Tulis pilihan kalian di bawah! 👇
+
+📌 Jangan lupa klik tombol [ IKUTI / FOLLOW ] di atas Halaman ini agar tidak ketinggalan cerita cerdik esok malam!
+
+#CeritaCerdik #CeritaCerdikSeason6 #SeparuhHadiahBuatMahapatih #DongengNusantara #DongengLucu #HumorNusantara #FacebookPage
+
+--- INSTAGRAM REELS CAPTION ---
+Minta separuh hadiah? Boleh, Gusti. Hadiahnya jongkok-berdiri 100 kali, ya 😂👂
+
+Mahapatih memalak Ki Udin di gerbang keraton. Ki Udin menepati janjinya dengan cara paling cerdik, sampai sang pejabat ambruk di alun-alun dan desa mendapat bendungan baru.
+
+Kalian tim Mahapatih dicopot (Ketik 1) atau tim jongkok-berdiri tiap pagi sebulan (Ketik 2)?
+
+📌 Klik tombol [ IKUTI / FOLLOW ] di profil @ceritacerdik agar tidak ketinggalan cerita seru esok hari!
+
+#CeritaCerdik #CeritaCerdikSeason6 #SeparuhHadiahBuatMahapatih #AnimasiIndonesia #CeritaRakyat #DongengNusantara #ReelsIndonesia #HumorIndonesia
+
+--- TIKTOK VIDEO CAPTION ---
+Mahapatih: "Separuh hadiahmu milikku!" Ki Udin: siap Gusti, hadiahnya jongkok-berdiri 100 kali 😂 Siapa yang dulu pernah dihukum begini di sekolah? 🙋
+
+📌 Klik tanda [+] dan follow @ceritacerdik biar gak ketinggalan taktik cerdik Ki Udin esok hari!
+
+#CeritaCerdik #CeritaCerdikSeason6 #SeparuhHadiahBuatMahapatih #AnimasiIndonesia #DongengNusantara #fyp #foryou #trending
+
+--- META BUSINESS SUITE KEYWORDS (Search Tags Tanpa Tanda Pagar) ---
+cerita cerdik, ki udin season 6, mahapatih serakah, pungli keraton, separuh hadiah sultan, hukuman jongkok berdiri, jewer telinga, birbal, sultan prabu, pisang raja, bendungan desa, karma instan, animasi stop motion claymation, dongeng rakyat indonesia, cerita rakyat nusantara lucu, keadilan rakyat kecil
+
+===================================================================
+[5] SHOPEE AFFILIATE MONETIZATION COPY (KOMISI EKSTRA)
+===================================================================
+Produk Rekomendasi: Matras Yoga Anti Slip (untuk olahraga ringan di rumah)
+Copy Komentar Shopee (Pinned):
+"Ngakak liat Mahapatih ngos-ngosan baru jongkok-berdiri 100 kali 🤣 Bunda yang mau rutin olahraga ringan di rumah biar nggak gampang capek kayak Mahapatih, pakai Matras Yoga Anti Slip ini aja, empuk, nggak licin, gampang digulung! Cocok buat squat, senam, atau stretching pagi bareng keluarga. Cek promo diskonnya di keranjang oranye / link di bio ya! 👉 [MASUKKAN LINK SHOPEE ANDA DI SINI]"
