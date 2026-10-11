@@ -58,7 +58,7 @@ Keputusan dasar (11 Okt 2026, dipilih pengguna): format creepypasta naratif (buk
    - Narator bercerita sebagai **"aku"** dalam kalimat lampau yang pendek, dengan Bahasa Indonesia sehari-hari yang santun ("aku", "suamiku", "Mas", "anakku").
    - Dialog tokoh lain ditulis dalam tanda kutip.
    - Penonton disapa "kamu" hanya di akhir (CTA).
-6. **Volume naskah**: 8 shot × ±40 kata (290-330 kata total), TTS speed 1.0. Jeda dramatis hanya `<break time="1.0s"/>`, satu-satunya panjang jeda yang sudah teruji di pipeline ini; jeda yang lebih panjang bisa hilang saat render dan diam-diam membuat video lebih pendek.
+6. **Volume naskah**: 8 shot × ±40 kata (300-330 kata total) dengan 7 jeda 1.0s, TTS speed 1.0. Yang mengikat adalah estimasi 160-178 detik; di bawah ±300 kata estimasinya jatuh di bawah 160 detik. Jeda dramatis hanya `<break time="1.0s"/>`, satu-satunya panjang jeda yang sudah teruji di pipeline ini; jeda yang lebih panjang bisa hilang saat render dan diam-diam membuat video lebih pendek.
 7. **Kalibrasi**: estimasi durasi memakai 118 kata/menit dari suara TTS Cerita Cerdik. Bila suara narator berbeda, anggap estimasi sementara sampai ±3 render pertama, lalu bandingkan `durasi_asli_detik` dengan `estimasi_detik` di tracker.
 
 ---
@@ -139,7 +139,7 @@ Twist harus terbaca lewat satu gambar dan satu kalimat. **Dilarang penjelasan al
 Bukan pertanyaan umum. Contoh: *"Kalau kamu jadi aku: tetap tinggal (Ketik 1) atau pindah malam itu juga (Ketik 2)?"*, *"Kamu tim buka pintu (1) atau tim pura-pura tidur (2)?"*
 
 ### 5.8 Caption lintas 3 platform
-Handle `@jangantontonsendirian` diambil dari draf lama dan **belum dikonfirmasi pengguna**. Konfirmasi sebelum episode pertama tayang.
+Handle `@jangantontonsendirian` diambil dari draf lama dan **belum dikonfirmasi pengguna**. Konfirmasi sebelum episode pertama tayang, sekaligus nama Page Facebook persisnya: isi ke `PAGE_NAMES` di `.agents/skills/meta-analytics-ingest/scripts/ingest_meta.py` agar ekspor Meta tidak tertukar dengan Cerita Cerdik.
 
 - **Facebook Reels & Page**:
   - Karakter: narasi emosional yang memancing komentar dan dibagikan ke grup ibu-ibu.
@@ -160,9 +160,8 @@ Handle `@jangantontonsendirian` diambil dari draf lama dan **belum dikonfirmasi 
 - Halaman ini **belum punya data**. Patokan Cerita Cerdik (komedi) tidak berlaku.
 - **Data pembanding awal (Cerita Cerdik, ekspor FB 1-9 Okt 2026, 7 video):**
   - Total penonton wanita gabungan 52,1%, berayun 29,9%-72,3% per video.
-  - Porsi wanita tertinggi ada di episode dengan korban wanita dan latar rumah tangga (Eps 57: 72,3%; Eps 60: 63,7%).
   - Tiga video juara (≥42k reach) masing-masing 72%, 30%, dan 64% wanita, jadi porsi wanita BUKAN penentu reach.
-  - Sampel kecil dan sebagian video berumur <7 hari: anggap sebagai pola, bukan bukti.
+  - Dari 7 video ini (sebagian berumur <7 hari) belum bisa disimpulkan jenis cerita apa yang menarik penonton wanita. Ukur sendiri di halaman ini.
 - Perlakukan ±10 episode pertama sebagai baseline, dengan rotasi Tipe A/B/C supaya ketiganya punya data.
 - **Metrik niche**: `female_total_pct` (porsi seluruh penonton wanita) dan `female_25_34_pct`, di samping thumb-stop, avg watch, dan hold 1 menit.
 - Setiap eksperimen: ubah satu variabel saja, dan tulis hipotesisnya di kolom `catatan` sebelum posting (format `[TES] ...`).

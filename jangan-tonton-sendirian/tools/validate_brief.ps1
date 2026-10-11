@@ -27,8 +27,8 @@ function Validate-Episode {
 	$est = Get-EstimatedSeconds $narration $speed
 
 	if ($speed -ne 1.0) { $errors += "TTS Speed bukan 1.0 (ditemukan $speed)" }
-	if ($words -lt 290 -or $words -gt 330) {
-		$errors += "Jumlah kata di luar batas aman (290-330). Ditemukan: $words kata"
+	if ($words -lt 300 -or $words -gt 330) {
+		$errors += "Jumlah kata di luar batas aman (300-330). Ditemukan: $words kata"
 	}
 	if ($est -lt 160 -or $est -gt 178) {
 		$errors += "Estimasi durasi melenceng. Ditemukan: ${est}s (Target estimasi: 160-178s agar render +-150-160s)"
