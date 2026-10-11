@@ -1,0 +1,166 @@
+# [theme]
+Creepypasta rumah tangga - Tipe B (Kriminal). Laras, ibu muda yang baru sebulan pindah ke perumahan baru, menemukan sepasang sandal jepit hijau bertali kuning yang berlumpur di atas kasurnya, padahal pintu rumah masih terkunci dan sandal itu bukan milik siapa pun di rumah. Tetangga sebelah yang sangat ramah, Bu Ratna, tahu motif sprei baru di kamarnya, dan Laras teringat kunci cadangan yang ia titipkan ke Bu Ratna saat pindahan. Malam itu, saat suaminya shift malam, ada langkah di dalam rumah. Subuhnya sandal bukti itu hilang dari dalam rumah dan berjajar di teras Bu Ratna.
+
+# [purpose]
+Membangun rasa was-was yang sangat dekat dengan pengalaman ibu muda: tinggal berdua dengan bayi saat suami shift malam, dan sungkan menagih kunci ke tetangga yang baik hati. Penonton digiring mengira ada hantu, lalu dibalik menjadi ancaman manusia yang jauh lebih nyata, ditutup dengan pelajaran praktis (ganti kunci saat pindah rumah) dan pertanyaan dua kubu yang memancing komentar. Fiksi, tanpa kekerasan yang ditampilkan.
+
+# [audience]
+Wanita Indonesia 22-40 tahun, khususnya ibu muda dan ibu rumah tangga yang tinggal di perumahan atau kontrakan (penikmat cerita horor, thread misteri, dan kisah tetangga).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up lalu Medium Shot (*First 3 Seconds - Hook*). Sandal berlumpur di atas sprei bersih. TEXT OVERLAY BOLD: "SANDAL BERLUMPUR DI ATAS KASURKU?!".
+    ENVIRONMENT: DUSK. Kamar tidur rumah tipe kecil di perumahan baru, sprei motif bunga biru yang masih rapi, kipas angin berdiri, cahaya senja kelabu dari jendela.
+    SUBJECT: Laras (ibu muda 28 tahun, jilbab instan cokelat susu, daster batik biru tua) menggendong Kinan (bayi perempuan 10 bulan, baju kodok kuning) di ambang pintu kamar. Sepasang sandal jepit hijau bertali kuning berlumpur tanah merah di tengah kasur.
+    ACTION: Close up sandal berlumpur di atas sprei bunga biru, tetes lumpur merah menodai kain. Pull back ke Laras yang membeku di ambang pintu sambil memeluk Kinan lebih erat, menoleh ke pintu depan yang masih terkunci.
+    NARASI: "Ada sepasang sandal berlumpur di atas kasurku. Sandal jepit hijau bertali kuning, di atas sprei yang kuganti pagi tadi. Sore itu aku pulang dari posyandu bersama Kinan. Pintu rumah masih terkunci. Sandal itu bukan milik siapa pun di rumah ini."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Wide Shot lalu Medium Close Up (*Normal & Sendirian*).
+    ENVIRONMENT: EARLY NIGHT. Jalan perumahan baru berderet rumah krem kecil, jalan tanah merah yang becek dan belum diaspal, lampu jalan jarang; lalu ruang tengah dekat pintu depan.
+    SUBJECT: Laras, Kinan di gendongan, Mas Bayu (seragam satpam biru dongker) hanya lewat suara telepon.
+    ACTION: Establishing shot kompleks yang becek dan sepi. Laras menelepon dengan HP di telinga (layar tidak terlihat), lalu memasukkan sandal itu ke kantong plastik kresek merah dan meletakkannya di lantai dekat pintu depan.
+    NARASI: "Kami baru sebulan pindah ke perumahan ini. Jalannya belum diaspal, tanah merahnya selalu becek. Mas Bayu, suamiku, sudah berangkat shift malam ke pabrik. Di telepon ia bilang, "Bukan punya Mas, Dik." Kumasukkan sandal itu ke kantong plastik di dekat pintu."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Two Shot (*Eskalasi 1 - Tetangga Terlalu Tahu*).
+    ENVIRONMENT: MORNING. Teras rumah Laras yang bersebelahan dengan teras Bu Ratna, pagar besi pendek, pot bunga, cahaya pagi pucat.
+    SUBJECT: Bu Ratna (tetangga sebelah, sekitar 45 tahun, rambut pendek keriting, kardigan merah muda di atas daster ungu, senyum lebar), Laras.
+    ACTION: Bu Ratna menyodorkan sepiring kue lapis dengan senyum yang terlalu lebar dan terlalu lama. Close up wajah Laras yang tersenyum kaku. Kamera pelan ke arah jendela kamar Laras yang tertutup tirai.
+    NARASI: "Besok paginya, Bu Ratna, tetangga sebelah yang paling ramah, mengantar sepiring kue lapis. "Sprei barunya cantik ya, Jeng. Yang motif bunga biru itu." Aku tersenyum kaku. Sprei itu baru kupasang kemarin, dan Bu Ratna belum pernah masuk kamarku. Jantungku berdegup."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Flashback lalu Close Up (*Eskalasi 2 - Kunci Cadangan*).
+    ENVIRONMENT: DAY (kilas balik hari pindahan, warna pudar) lalu AFTERNOON di ruang tengah.
+    SUBJECT: Laras, Bu Ratna, tukang angkut (siluet, punggung saja), kardus pindahan.
+    ACTION: Kilas balik bertepi buram: Laras menyerahkan satu anak kunci kepada Bu Ratna yang tersenyum di tengah tumpukan kardus. Kembali ke masa kini: Laras menatap paku gantungan kunci di dekat pintu yang hanya berisi satu kunci, lalu menggigit bibir.
+    NARASI: "Aku teringat sesuatu. Waktu pindahan, aku menitipkan kunci cadangan ke Bu Ratna, supaya ia bisa membukakan pintu untuk tukang angkut. Aku lupa memintanya kembali. Mau menagih, aku sungkan. Dia begitu baik, selalu mengirim makanan. Malam itu Mas Bayu shift lagi."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Close Up & Low Angle (*Eskalasi 3 - Langkah di Dalam Rumah*).
+    ENVIRONMENT: MIDNIGHT. Kamar tidur gelap, cahaya lampu jalan masuk lewat celah tirai, garis cahaya tipis di bawah pintu kamar.
+    SUBJECT: Laras, Kinan yang tertidur, bayangan sepasang kaki di celah bawah pintu.
+    ACTION: Laras terbangun. Close up gagang pintu kamar yang bergerak turun lalu naik lagi. Bayangan dua kaki diam di celah bawah pintu. Laras memeluk Kinan, memutar kunci kamar dengan tangan gemetar, lalu menempelkan HP ke telinga sambil berbisik.
+    NARASI: "Tengah malam, aku terbangun. Ada langkah pelan di ruang tengah, makin dekat. Kreek. Kreek. Gagang pintu kamarku bergerak turun, lalu naik lagi. Napasku tertahan. Aku memeluk Kinan dan memutar kunci kamar. Dengan tangan gemetar, aku menelepon Mas Bayu sambil berbisik."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Close Up lalu Insert Shot (*Petunjuk - Pelaku Punya Kunci*).
+    ENVIRONMENT: MIDNIGHT. Kamar tidur gelap, lalu insert pintu depan rumah dari dalam dalam gelap.
+    SUBJECT: Laras memeluk Kinan, bayangan kaki di celah pintu, pintu depan.
+    ACTION: Bayangan kaki di celah bawah pintu diam lama, lalu bergeser menjauh. Insert: pintu depan terbuka sedikit lalu tertutup, anak kunci diputar dari luar. Kembali ke wajah Laras yang pucat menatap pintu kamar.
+    NARASI: ""Jangan keluar kamar, Dik. Mas pulang sekarang," kata Mas Bayu di telepon. Langkah itu berhenti di depan pintuku, lama sekali, lalu perlahan menjauh. Pintu depan terbuka, lalu tertutup. Klik kecil. Dikunci dari luar. Siapa pun dia, dia punya kunci rumahku."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Shot lalu Wide Reveal (*Twist*).
+    ENVIRONMENT: DAWN. Ruang tengah dekat pintu depan, lalu teras rumah di bawah langit subuh biru kelabu, jalan tanah merah yang basah.
+    SUBJECT: Laras, Mas Bayu (seragam satpam), kantong kresek merah yang kosong, teras Bu Ratna.
+    ACTION: Mas Bayu mengangkat kantong kresek merah di dekat pintu: kosong. Laras dan Mas Bayu membuka pintu depan. Wide reveal: di teras sebelah, di depan pintu Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning yang masih berlumpur tanah merah. Laras membeku.
+    NARASI: "Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Sandal itu hilang. Saat kami membuka pintu untuk mencarinya, aku membeku. Di teras Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning. Masih berlumpur. Sandal dari atas kasurku."
+    Dark clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Medium Shot lalu Close Up (*Epilog & Pertanyaan Dua Kubu*).
+    ENVIRONMENT: LATE AFTERNOON. Pintu depan rumah Laras dengan gagang dan kunci baru yang berkilau, cahaya sore hangat yang terasa ganjil.
+    SUBJECT: Laras di balik pintu, Bu Ratna di teras membawa sepiring kue.
+    ACTION: Close up kunci baru di pintu depan. Ketukan. Laras membuka pintu sedikit dengan rantai pengaman terpasang. Bu Ratna tersenyum lebar membawa sepiring kue, matanya melirik ke lubang kunci baru. Close up wajah Laras. Freeze frame pada senyum Bu Ratna.
+    NARASI: "Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk pintu, tersenyum, membawa sepiring kue. "Lho, Jeng, kok kuncinya diganti?" Bagaimana dia tahu? Kalau kamu jadi aku: lapor Pak RT, ketik satu. Atau pura-pura tidak tahu, ketik dua."
+    Dark clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Ada sepasang sandal berlumpur di atas kasurku. Sandal jepit hijau bertali kuning, di atas sprei yang kuganti pagi tadi. Sore itu aku pulang dari posyandu bersama Kinan. Pintu rumah masih terkunci. Sandal itu bukan milik siapa pun di rumah ini.
+<break time="1.0s"/>
+
+Kami baru sebulan pindah ke perumahan ini. Jalannya belum diaspal, tanah merahnya selalu becek. Mas Bayu, suamiku, sudah berangkat shift malam ke pabrik. Di telepon ia bilang, "Bukan punya Mas, Dik." Kumasukkan sandal itu ke kantong plastik di dekat pintu.
+<break time="1.0s"/>
+
+Besok paginya, Bu Ratna, tetangga sebelah yang paling ramah, mengantar sepiring kue lapis. "Sprei barunya cantik ya, Jeng. Yang motif bunga biru itu." Aku tersenyum kaku. Sprei itu baru kupasang kemarin, dan Bu Ratna belum pernah masuk kamarku. Jantungku berdegup.
+<break time="1.0s"/>
+
+Aku teringat sesuatu. Waktu pindahan, aku menitipkan kunci cadangan ke Bu Ratna, supaya ia bisa membukakan pintu untuk tukang angkut. Aku lupa memintanya kembali. Mau menagih, aku sungkan. Dia begitu baik, selalu mengirim makanan. Malam itu Mas Bayu shift lagi.
+<break time="1.0s"/>
+
+Tengah malam, aku terbangun. Ada langkah pelan di ruang tengah, makin dekat. Kreek. Kreek. Gagang pintu kamarku bergerak turun, lalu naik lagi. Napasku tertahan. Aku memeluk Kinan dan memutar kunci kamar. Dengan tangan gemetar, aku menelepon Mas Bayu sambil berbisik.
+<break time="1.0s"/>
+
+"Jangan keluar kamar, Dik. Mas pulang sekarang," kata Mas Bayu di telepon. Langkah itu berhenti di depan pintuku, lama sekali, lalu perlahan menjauh. Pintu depan terbuka, lalu tertutup. Klik kecil. Dikunci dari luar. Siapa pun dia, dia punya kunci rumahku.
+<break time="1.0s"/>
+
+Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Sandal itu hilang. Saat kami membuka pintu untuk mencarinya, aku membeku. Di teras Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning. Masih berlumpur. Sandal dari atas kasurku.
+<break time="1.0s"/>
+
+Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk pintu, tersenyum, membawa sepiring kue. "Lho, Jeng, kok kuncinya diganti?" Bagaimana dia tahu? Kalau kamu jadi aku: lapor Pak RT, ketik satu. Atau pura-pura tidak tahu, ketik dua.
+
+# [bgmStyle]
+Ambient horror tunggal yang dingin dan pelan (drone rendah + dengung listrik samar). Diawali stinger bass rendah saat sandal terlihat di kasur, nyaris hening di adegan normal kompleks perumahan, menegang perlahan saat Bu Ratna menyebut sprei, naik jadi denyut tegang saat langkah di ruang tengah, hening total satu detik sebelum reveal teras, stinger keras saat sandal terlihat di teras Bu Ratna, lalu ditutup drone rendah dan detak jantung saat Bu Ratna bertanya soal kunci.
+
+# [bgmId]
+[ISI: ID BGM horror]
+
+# [subtitleInfo]
+{
+    "subtitleId": "[ISI: ID gaya subtitle CapCut]",
+    "subtitlePrompt": "Clean bold off-white subtitles with eerie desaturated blood-red highlights on key phrases: 'sandal berlumpur di atas kasurku', 'bukan milik siapa pun', 'belum pernah masuk kamarku', 'kunci cadangan', 'Gagang pintu kamarku bergerak', 'dia punya kunci rumahku', 'teras Bu Ratna', 'kok kuncinya diganti', 'Bagaimana dia tahu'"
+}
+
+# [characters]
+[
+    {
+        "name": "Laras (ROLE_01)",
+        "description": "Young Indonesian mother, 28, round gentle face, big expressive eyes, slightly tired under-eyes, plain light-brown instant hijab, dark blue batik house dress (daster), barefoot at home. Narrator. Dark eerie claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Bu Ratna (ROLE_02)",
+        "description": "Overly friendly Indonesian neighbor woman, about 45, short curly permed hair, pink cardigan over a purple house dress, wide smile held a little too long, watchful eyes. Dark eerie claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Mas Bayu (ROLE_03)",
+        "description": "Indonesian husband, 31, short black hair, kind tired face, navy security guard uniform. Dark eerie claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Kinan (ROLE_04)",
+        "description": "Chubby Indonesian baby girl, 10 months, wispy black hair, yellow romper, usually asleep in her mother's arms, always safe. Dark eerie claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "[ISI: ID suara TTS CapCut narator]",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent dark eerie claymation style, soft plasticine clay texture, handcrafted stop-motion animation, modern Indonesian domestic setting, low-key moody lighting. LATAR: perumahan baru dengan deretan rumah tipe kecil bercat krem, pagar besi pendek, jalan tanah merah yang becek dan belum diaspal, lampu jalan jarang; rumah Laras dan rumah Bu Ratna bersebelahan dengan teras yang berdampingan; kamar tidur kecil dengan kasur, kipas angin berdiri, jendela bertirai; ruang tengah dengan paku gantungan kunci di dekat pintu depan. KONTINUITAS PROPERTI TERKUNCI (kunci logika cerita): sepasang sandal jepit HIJAU dengan tali KUNING, selalu berlumpur tanah MERAH, harus tampil identik di Shot 1, Shot 2, dan Shot 7; sprei motif bunga biru di kasur Laras; kantong plastik kresek MERAH di lantai dekat pintu depan (berisi sandal di Shot 2, kosong di Shot 7); kunci baru yang berkilau dan rantai pengaman pintu di Shot 8. KONTINUITAS BUSANA TERKUNCI: Laras selalu jilbab instan cokelat susu dan daster batik biru tua; Bu Ratna selalu rambut pendek keriting, kardigan merah muda, daster ungu; Mas Bayu selalu seragam satpam biru dongker; Kinan selalu baju kodok kuning. REGISTER CAHAYA: Shot 1 senja kelabu; Shot 2 awal malam dengan lampu jalan; Shot 3 pagi pucat; Shot 4 kilas balik berwarna pudar lalu sore; Shot 5-6 tengah malam gelap dengan garis cahaya lampu jalan dan garis cahaya di bawah pintu; Shot 7 subuh biru kelabu; Shot 8 sore hangat yang terasa ganjil. MODERASI: tidak ada kekerasan yang ditampilkan; Bu Ratna TIDAK PERNAH terlihat di dalam rumah, penyusup hanya tampil sebagai bayangan kaki di celah bawah pintu dan suara; Kinan selalu aman dalam pelukan Laras; layar HP tidak pernah terlihat; tanpa teks, angka, atau jam yang terbaca di gambar. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no gore, no blood, no corpse, no readable text, no numbers, no clock hands, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

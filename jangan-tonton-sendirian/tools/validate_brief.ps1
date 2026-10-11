@@ -61,7 +61,8 @@ function Validate-Episode {
 
 	# 4. Etika: semua cerita fiksi (AGENTS bagian 5.4 no. 1)
 	$allText = $briefText + "`n" + $hasilText
-	if ($allText -match '(?i)((?<!bukan\s)(kisah nyata|kejadian nyata)|true story|kiriman penonton)') {
+	# Penyangkalan seperti "bukan kisah nyata" / "tidak mengklaim kisah nyata" tidak dihitung sebagai klaim.
+	if ($allText -match '(?i)((?<!bukan\s)(?<!mengklaim\s)(kisah nyata|kejadian nyata)|true story|kiriman penonton)') {
 		$errors += "Mengklaim kisah nyata / kiriman penonton ('$($Matches[0])'). Semua cerita fiksi (AGENTS bagian 5.4)"
 	}
 

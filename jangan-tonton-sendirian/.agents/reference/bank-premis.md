@@ -6,6 +6,15 @@ Riwayat premis yang sudah dipakai atau ditolak, plus sumber trope untuk premis b
 
 | Eps | Premis (1 kalimat) | Tipe | Kejanggalan hook | Fase hidup |
 |---|---|---|---|---|
+| 01 | Sandal jepit hijau bertali kuning berlumpur muncul di kasur Laras; ternyata tetangga ramah (Bu Ratna, tokoh sekali tampil) masuk memakai kunci cadangan titipan saat pindahan | B/Kriminal | Sandal berlumpur di atas kasur | Perumahan baru (fase 4) |
+
+## Cadangan (lolos saringan, belum dipakai)
+
+Kandidat Eps 01 yang tidak dipilih (11 Okt 2026). Ringkasan di bawah sudah cukup untuk merakit ulang premisnya; cek repetisi lagi sebelum dipakai.
+- **Aturan Rumah Mertua, Jemuran Tengah Malam** (C, fase 2): tiga aturan Bu Sumi; suara mertua memanggil dari kebun pisang padahal ia tidur di kamarnya. H4 bersih (keandalan tinggi).
+- **Rice Cooker yang Tak Pernah Dicolok** (A, fase 3): nasi hangat tiap subuh; twist kabel tergeletak tapi lampunya menyala. H4 sedang (detail kabel perlu close-up).
+- **Uang Belanja & Jejak Kaki Kecil** (A/tuyul, fase 3): jejak kaki balita di bedak bayi; Mas Bayu jelas tidak bersalah. H4 sedang (jejak kaki; uang hanya dompet kosong).
+- **Ayunan Bayi yang Bersenandung** (A, fase 3): siluet berbaju sama dengan Laras mengayun ayunan kosong. Memakai jatah bayi; satu keluarga mekanik peniru dengan Aturan Rumah Mertua.
 
 ## Ditolak (beserta alasan)
 

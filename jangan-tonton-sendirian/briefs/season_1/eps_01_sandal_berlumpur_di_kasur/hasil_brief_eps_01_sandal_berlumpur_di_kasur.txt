@@ -1,0 +1,141 @@
+# ANALISIS & PENJELASAN BRIEF VIDEO - EPS 01 (SEASON 1 EPISODE 1)
+Judul Episode: Sandal Berlumpur di Atas Kasurku (Tipe B/Kriminal)
+Target Platform: Facebook Reels, Instagram Reels, TikTok
+Target Durasi: 160 Detik (320 kata, 7 jeda 1.0s, TTS speed 1.0, estimasi validator ±170s → target render ±150-160s; estimasi masih sementara sampai suara TTS narator dipastikan)
+Gaya Visual: Dark Eerie Claymation (Clay Animation)
+Fase Hidup Narator: Rumah cicilan di perumahan baru (fase 4), sebulan setelah pindah. Kinan berusia 10 bulan.
+Sumber Trope: "Orang yang terlalu baik" (tetangga dengan kebiasaan janggal) + "penyusup yang punya kunci". Dilokalkan ke kebiasaan menitipkan kunci cadangan ke tetangga saat pindahan.
+Kejanggalan Hook (bank-ide.md, keandalan tinggi): sepasang sandal berlumpur di atas kasur, artinya ada yang berbaring di sana dengan kaki kotor dari luar.
+
+Kunci Twist: Sandal yang sama (hijau bertali kuning, berlumpur tanah merah kompleks) berpindah dari kantong plastik di dalam rumah Laras ke teras Bu Ratna dalam satu malam, sementara pintu depan terdengar dikunci dari luar memakai kunci. Satu gambar: sandal itu berjajar rapi di teras tetangga. Satu kalimat: "Sandal dari atas kasurku." Penonton digiring mengira hantu (pintu terkunci, sandal muncul sendiri), lalu dibalik menjadi ancaman manusia.
+
+Cek Logika (jangan-tonton-sendirian/.agents/AGENTS.md + skill jts-idea-hunter §3):
+1. Kenapa Laras tidak lari atau minta tolong? Ia menelepon Mas Bayu dua kali (Shot 2 dan Shot 5-6). Saat ada langkah di dalam rumah, pilihan teraman dengan bayi di pelukan adalah mengunci diri di kamar, dan itu yang dilakukannya atas arahan suaminya.
+2. Kenapa tidak ada yang tahu? Mas Bayu shift malam, kompleks baru masih sepi, dan Laras sungkan menagih kunci ke tetangga yang selalu baik padanya.
+3. Kenapa rumah baru punya kunci cadangan di tangan orang lain? Laras sendiri yang menitipkannya ke Bu Ratna saat pindahan untuk membukakan pintu bagi tukang angkut.
+4. Kontinuitas narator tetap: tidak bertentangan dengan character bible (fase 4, Mas Bayu satpam shift malam, Kinan sudah lahir). Pelaku adalah tokoh sekali tampil (Bu Ratna), bukan tetangga tetap Bu Wati.
+
+Cek Etika (AGENTS §5.4): fiksi murni tanpa nama orang, tempat, atau kasus sungguhan; tidak ada kekerasan yang ditampilkan (penyusup hanya bayangan kaki dan suara, Bu Ratna tidak pernah terlihat di dalam rumah); Kinan selalu aman di pelukan ibunya dan bukan pusat ancaman, jadi jatah bayi tidak terpakai; keluarga inti bukan pelaku; tanpa benda ibadah, tanpa stereotip suku atau daerah.
+
+Catatan Produksi:
+- Persona narator memakai usulan CHARACTER_BIBLE (disetujui sementara 11 Okt 2026, karena pengguna melanjutkan tanpa perubahan).
+- ID TTS, BGM, dan gaya subtitle masih `[ISI ...]`. Wajib diisi sebelum brief di-copy ke CapCut.
+- Sandal hijau bertali kuning adalah penanda identitas lintas shot; bila hasil AI berbeda warna antar-shot, perbaiki dengan overlay atau color grading di CapCut.
+
+===================================================================
+[1] 3-SECOND HOOK STRATEGY (FLSR & NEUROMARKETING)
+===================================================================
+- Visual Hook (0-3 Detik): Close up sepasang sandal jepit hijau bertali kuning, berlumpur tanah merah, di atas sprei bunga biru yang rapi. Pull back ke Laras yang membeku di ambang pintu kamar sambil menggendong Kinan.
+- Teks Overlay Hook: "SANDAL BERLUMPUR DI ATAS KASURKU?!"
+- Audio Hook: Stinger bass rendah di detik 0.0, tetes lumpur jatuh ke sprei, lalu bisikan Laras dalam Bahasa Indonesia "Sandal siapa ini...?" di detik 1.5.
+- Detik 4-10: Close up lumpur merah di sprei → wajah Laras → pintu depan yang masih terkunci (gagang dan anak kunci).
+- Anti-Drop Detik 5-15: Keanehan sudah diucapkan di kalimat pertama VO. Minimal 3 perpindahan kamera (sandal → wajah Laras → pintu terkunci → Kinan di gendongan) dan SFX kipas angin yang tiba-tiba berhenti.
+
+===================================================================
+[2] NASKAH CERITA LENGKAP BAHASA INDONESIA (VOICE OVER)
+===================================================================
+Ada sepasang sandal berlumpur di atas kasurku. Sandal jepit hijau bertali kuning, di atas sprei yang kuganti pagi tadi. Sore itu aku pulang dari posyandu bersama Kinan. Pintu rumah masih terkunci. Sandal itu bukan milik siapa pun di rumah ini.
+
+Kami baru sebulan pindah ke perumahan ini. Jalannya belum diaspal, tanah merahnya selalu becek. Mas Bayu, suamiku, sudah berangkat shift malam ke pabrik. Di telepon ia bilang, "Bukan punya Mas, Dik." Kumasukkan sandal itu ke kantong plastik di dekat pintu.
+
+Besok paginya, Bu Ratna, tetangga sebelah yang paling ramah, mengantar sepiring kue lapis. "Sprei barunya cantik ya, Jeng. Yang motif bunga biru itu." Aku tersenyum kaku. Sprei itu baru kupasang kemarin, dan Bu Ratna belum pernah masuk kamarku. Jantungku berdegup.
+
+Aku teringat sesuatu. Waktu pindahan, aku menitipkan kunci cadangan ke Bu Ratna, supaya ia bisa membukakan pintu untuk tukang angkut. Aku lupa memintanya kembali. Mau menagih, aku sungkan. Dia begitu baik, selalu mengirim makanan. Malam itu Mas Bayu shift lagi.
+
+Tengah malam, aku terbangun. Ada langkah pelan di ruang tengah, makin dekat. Kreek. Kreek. Gagang pintu kamarku bergerak turun, lalu naik lagi. Napasku tertahan. Aku memeluk Kinan dan memutar kunci kamar. Dengan tangan gemetar, aku menelepon Mas Bayu sambil berbisik.
+
+"Jangan keluar kamar, Dik. Mas pulang sekarang," kata Mas Bayu di telepon. Langkah itu berhenti di depan pintuku, lama sekali, lalu perlahan menjauh. Pintu depan terbuka, lalu tertutup. Klik kecil. Dikunci dari luar. Siapa pun dia, dia punya kunci rumahku.
+
+Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Sandal itu hilang. Saat kami membuka pintu untuk mencarinya, aku membeku. Di teras Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning. Masih berlumpur. Sandal dari atas kasurku.
+
+Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk pintu, tersenyum, membawa sepiring kue. "Lho, Jeng, kok kuncinya diganti?" Bagaimana dia tahu? Kalau kamu jadi aku: lapor Pak RT, ketik satu. Atau pura-pura tidak tahu, ketik dua.
+
+===================================================================
+[3] RINCIAN VISUAL & AUDIO PER SHOT
+===================================================================
+- Shot 1 (0-20s) - HOOK SANDAL DI KASUR:
+  - Visual: Close up sandal jepit hijau bertali kuning berlumpur tanah merah di atas sprei bunga biru, tetes lumpur menodai kain. Pull back ke Laras yang membeku di ambang pintu kamar sambil memeluk Kinan, lalu menoleh ke pintu depan yang masih terkunci.
+  - Efek CapCut: Slow push-in (Keyframe) ke sandal, Shake halus saat Laras membeku, text overlay "SANDAL BERLUMPUR DI ATAS KASURKU?!", vignette gelap di tepi layar.
+  - Audio/SFX: Stinger bass rendah 0.0s, tetes lumpur (plok), bisikan "Sandal siapa ini...?" (klip Veo 0-4s), tarikan napas tajam / reverse whoosh di 4.0s saat pindah ke klip CapCut, kipas angin yang mendadak berhenti.
+
+- Shot 2 (20-40s) - SENDIRIAN DI KOMPLEKS BARU:
+  - Visual: Establishing shot perumahan baru yang sepi, jalan tanah merah becek, lampu jalan jarang. Laras menelepon dengan HP di telinga (layar tidak terlihat), lalu memasukkan sandal ke kantong kresek merah dan meletakkannya di lantai dekat pintu depan.
+  - Efek CapCut: Slow pan kompleks, efek Blur ringan di latar saat fokus ke wajah Laras, close up kantong kresek merah dengan Keyframe zoom pelan (penanda penting untuk twist).
+  - Audio/SFX: Jangkrik, anjing menggonggong jauh, nada sambung telepon, suara Mas Bayu lewat telepon (efek suara telepon), gemerisik plastik.
+
+- Shot 3 (40-60s) - TETANGGA TERLALU TAHU:
+  - Visual: Pagi di teras yang berdampingan. Bu Ratna menyodorkan sepiring kue lapis dengan senyum yang terlalu lebar dan terlalu lama. Close up senyum kaku Laras. Kamera pelan ke jendela kamar Laras yang bertirai.
+  - Efek CapCut: Freeze frame singkat pada senyum Bu Ratna, Zoom-in lambat ke matanya, teks kecil "DIA TAHU MOTIF SPREI-KU?".
+  - Audio/SFX: Suara pagi kompleks (motor lewat jauh), denting piring, BGM menegang tipis saat Bu Ratna menyebut sprei, detak jantung pelan.
+
+- Shot 4 (60-80s) - KUNCI CADANGAN:
+  - Visual: Kilas balik berwarna pudar: hari pindahan, tumpukan kardus, siluet tukang angkut dari belakang, Laras menyerahkan satu anak kunci kepada Bu Ratna yang tersenyum. Kembali ke masa kini: paku gantungan kunci di dekat pintu yang hanya berisi satu kunci.
+  - Efek CapCut: Filter sepia + Blur tepi untuk kilas balik, transisi Fade kembali ke warna normal, Zoom-in ke paku gantungan kunci, teks "KUNCI CADANGAN... MASIH DI DIA".
+  - Audio/SFX: Gemerincing kunci (kilas balik bergema), keheningan, BGM turun.
+
+- Shot 5 (80-100s) - LANGKAH DI DALAM RUMAH:
+  - Visual: Tengah malam. Laras terbangun di kamar gelap. Close up gagang pintu kamar yang bergerak turun lalu naik. Bayangan dua kaki diam di celah cahaya bawah pintu. Laras memeluk Kinan yang tertidur, memutar kunci kamar dengan tangan gemetar, dan berbisik ke HP.
+  - Efek CapCut: Low angle ke celah bawah pintu, Shake halus mengikuti detak jantung, cahaya dibuat makin gelap (Keyframe exposure).
+  - Audio/SFX: Langkah pelan di lantai keramik, derit lantai (kreek), gagang pintu berderit, kunci kamar diputar (klik), detak jantung makin cepat.
+
+- Shot 6 (100-120s) - PETUNJUK, PELAKU PUNYA KUNCI:
+  - Visual: Bayangan kaki di celah pintu diam lama, lalu bergeser menjauh. Insert pintu depan dari dalam dalam gelap: terbuka sedikit, tertutup, lalu anak kunci berputar dari luar. Kembali ke wajah Laras yang pucat.
+  - Efek CapCut: Close up anak kunci yang berputar dengan Slow-motion, teks "DIA PUNYA KUNCI RUMAHKU", lalu BGM di-duck menuju hening.
+  - Audio/SFX: Suara Mas Bayu lewat telepon, langkah menjauh, pintu depan berderit, "klik" kunci dari luar, lalu HENING TOTAL 1 detik (jeda sebelum twist).
+
+- Shot 7 (120-140s) - TWIST:
+  - Visual: Subuh biru kelabu. Mas Bayu mengangkat kantong kresek merah di dekat pintu: kosong. Mereka membuka pintu depan. Wide reveal: di teras sebelah, di depan pintu Bu Ratna, berjajar rapi sandal jepit hijau bertali kuning yang masih berlumpur. Laras membeku.
+  - Efek CapCut: Whip pan dari kantong kosong ke pintu depan, lalu Slow push-in ke sandal di teras Bu Ratna, highlight lingkaran merah tipis di sandal (Overlay), teks "SANDAL DARI ATAS KASURKU".
+  - Audio/SFX: Gemerisik kantong kosong, pintu dibuka, stinger keras saat sandal terlihat, lalu drone rendah.
+
+- Shot 8 (140-160s) - EPILOG & PERTANYAAN DUA KUBU:
+  - Visual: Close up kunci baru berkilau di pintu depan. Ketukan. Laras membuka pintu sedikit dengan rantai pengaman terpasang. Bu Ratna tersenyum lebar membawa sepiring kue, matanya melirik ke lubang kunci baru. Close up wajah Laras. Freeze frame pada senyum Bu Ratna.
+  - Efek CapCut: Freeze frame senyum Bu Ratna dengan vignette menggelap, teks CTA "LAPOR PAK RT (1) / PURA-PURA TIDAK TAHU (2)".
+  - Audio/SFX: Ketukan pintu tiga kali, rantai pengaman berdenting, suara ramah Bu Ratna, drone rendah + detak jantung sampai video berakhir.
+
+===================================================================
+[4] METADATA & CAPTION STRATEGY LINTAS 3 PLATFORM
+===================================================================
+--- FACEBOOK REELS & PAGE CAPTION ---
+Pulang dari posyandu, ada sandal berlumpur di atas kasurku. Pintu rumah masih terkunci, dan sandal itu bukan punya siapa-siapa di rumah ini 😨
+
+Besoknya tetangga sebelah yang paaaling baik bilang, "Sprei barunya cantik ya, Jeng." Padahal dia belum pernah masuk kamarku... Terus aku inget, waktu pindahan aku nitip kunci cadangan ke dia 🔑
+
+Buat yang baru pindah rumah: jangan lupa minta balik kunci cadangan, ya.
+
+Kalau kamu jadi aku: lapor Pak RT (Ketik 1) atau pura-pura tidak tahu biar tetap rukun (Ketik 2)? Tulis pilihanmu di bawah! 👇
+
+📌 Jangan lupa klik tombol [ IKUTI / FOLLOW ] di atas Halaman ini agar tidak ketinggalan cerita seram esok malam!
+
+#JanganTontonSendirian #CeritaHoror #HororIndonesia #CreepypastaIndonesia #SandalBerlumpurDiKasurku #FacebookPage
+
+--- INSTAGRAM REELS CAPTION ---
+Sandal berlumpur di atas kasur, pintu masih terkunci, dan cuma satu orang lagi yang pegang kunci rumahku 🔑
+
+Tetangga baru yang selalu kirim makanan itu tahu motif sprei di kamarku. Malamnya, ada langkah di dalam rumah.
+
+Lapor Pak RT (Ketik 1) atau pura-pura tidak tahu (Ketik 2)?
+
+📌 Klik tombol [ IKUTI / FOLLOW ] di profil @jangantontonsendirian agar tidak ketinggalan cerita seram berikutnya!
+
+#JanganTontonSendirian #CeritaHoror #HororIndonesia #CreepypastaIndonesia #SandalBerlumpurDiKasurku #AnimasiIndonesia #ReelsIndonesia
+
+--- TIKTOK VIDEO CAPTION ---
+Ada sandal berlumpur di kasurku... padahal pintu masih terkunci 😨🔑 Dan tetangga sebelah tahu motif spreiku.
+
+📌 Klik tanda [+] dan follow @jangantontonsendirian biar gak ketinggalan cerita seram berikutnya!
+
+#JanganTontonSendirian #CeritaHoror #HororIndonesia #SandalBerlumpurDiKasurku #fyp #foryou
+
+--- META BUSINESS SUITE KEYWORDS (Search Tags Tanpa Tanda Pagar) ---
+jangan tonton sendirian, cerita horor, creepypasta indonesia, horor rumah tangga, tetangga misterius, kunci cadangan, rumah baru, perumahan baru, ibu muda, suami shift malam, sandal berlumpur, penyusup, cerita seram ibu rumah tangga, animasi claymation horor
+
+===================================================================
+[5] PINNED COMMENT & SHOPEE AFFILIATE (KOMISI EKSTRA)
+===================================================================
+Pinned Comment (dua kubu):
+"Jujur deh, siapa di sini yang pernah nitip kunci ke tetangga terus lupa minta balik? 🙋‍♀️ Kalau kamu jadi Laras: lapor Pak RT (Ketik 1) atau pura-pura tidak tahu biar tetap rukun (Ketik 2)? 👇"
+
+Produk Rekomendasi: Kunci Slot / Grendel Pintu Tambahan + Rantai Pengaman Pintu
+Copy Komentar Shopee:
+"Habis nonton ini langsung cek pintu rumah 😅 Bunda yang baru pindah rumah atau sering sendirian waktu suami kerja malam, pasang Kunci Slot + Rantai Pengaman Pintu ini, gampang dipasang sendiri dan bikin tidur lebih tenang. Cek promo diskonnya di keranjang oranye / link di bio ya! 👉 [MASUKKAN LINK SHOPEE ANDA DI SINI]"

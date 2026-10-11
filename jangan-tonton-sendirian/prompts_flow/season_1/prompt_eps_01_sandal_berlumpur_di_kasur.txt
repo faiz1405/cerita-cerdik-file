@@ -1,0 +1,67 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Sandal Berlumpur di Atas Kasurku (Eps 01)
+- Clicky Video Headline: SANDAL BERLUMPUR DI ATAS KASURKU! / PINTU TERKUNCI, TAPI DIA PUNYA KUNCINYA
+- Single Video Title: Jangan Tonton Sendirian Eps 01 - Sandal Berlumpur di Atas Kasurku & Tetangga yang Terlalu Baik
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent dark eerie claymation style, soft plasticine clay texture, handcrafted stop-motion animation, modern Indonesian domestic setting, low-key moody lighting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. Extreme close-up of a pair of green flip-flop sandals with yellow straps, caked with wet red clay mud, lying in the middle of a neatly made bed with a blue floral bedsheet inside a small bedroom of a modest Indonesian housing-complex home at grey dusk, a standing electric fan and a curtained window behind; a drop of red mud slowly falls and stains the sheet. The camera pulls back to reveal a 28-year-old Indonesian young mother with a round gentle face, big eyes, a plain light-brown instant hijab and a dark blue batik house dress, frozen in the bedroom doorway while holding a sleeping chubby baby girl in a yellow romper close to her chest. At exactly second 1.5, she whispers softly and fearfully in Indonesian: "Sandal siapa ini...?" with clear, soft Indonesian spoken audio starting right at 1.5 seconds, and the standing fan suddenly stops spinning. Fluid clay stop-motion animation, cold grey dusk light, deep shadows, quiet tense atmosphere, full environmental depth, realistic home interior details, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, gore, blood, injury, violence, readable text, numbers, clock, phone screen, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent dark eerie claymation style, soft plasticine clay texture, handcrafted stop-motion animation, modern Indonesian domestic setting, low-key moody lighting, 8k resolution. Unsettling horror poster inside a small dim bedroom at dusk: in the foreground, a pair of green flip-flop sandals with yellow straps, caked with wet red clay mud, sits on a clean blue floral bedsheet, a red mud stain spreading on the fabric. Through the curtained window behind the bed, across a low iron fence, the porch of the house next door is visible, where a smiling middle-aged neighbor woman with short curly hair and a pink cardigan stands perfectly still, watching the window with a wide smile held too long. In the bedroom doorway, a young Indonesian mother in a light-brown instant hijab and dark blue batik house dress clutches her sleeping baby, eyes wide with fear. Cold grey-blue light, deep shadows, cinematic depth of field, full environmental setting, no text, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, gore, blood, injury, corpse, readable text, numbers, studio void, plain white background, blank backdrop, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - sandal, kantong kresek, piring kue, HP, kunci, dan rantai pintu dianimasikan terpisah di CapCut. Pose menggendong bayi dibuat lewat komposit Kinan + Laras di CapCut, atau lewat klip Veo. Belum ada aset karakter untuk proyek ini; simpan semua aset baru ke `jangan-tonton-sendirian/character/season1/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Laras - Option A (Tenang, Senyum Lelah) - untuk Shot 2-4]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Dark eerie claymation style, soft plasticine clay texture. A 28-year-old Indonesian young mother, round gentle face, big expressive eyes, slightly tired under-eyes, plain light-brown instant hijab, dark blue batik house dress (daster), barefoot, standing relaxed with a small polite tired smile, empty hands, hands relaxed naturally at her sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 2: Laras - Option B (Takut, Waspada) - untuk Shot 1, 5-7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Dark eerie claymation style, soft plasticine clay texture. The same young Indonesian mother in a light-brown instant hijab and dark blue batik house dress, shoulders tense, body leaning slightly back, eyes wide with fear, lips pressed tight, both empty hands raised close to her chest, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 3: Bu Ratna - Option A (Ramah Berlebihan) - untuk Shot 3 & 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Dark eerie claymation style, soft plasticine clay texture. An Indonesian neighbor woman, about 45, short curly permed black hair, pink knitted cardigan over a purple house dress, flat sandals, standing very upright with a wide friendly smile held a little too long and unblinking watchful eyes, empty hands clasped in front of her waist, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Mas Bayu - Option A (Pulang Subuh, Cemas) - untuk Shot 7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Dark eerie claymation style, soft plasticine clay texture. A 31-year-old Indonesian man, short black hair, kind tired face with a worried frown, navy security guard uniform with a plain badge (no text), black shoes, empty hands at his sides, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 5: Kinan - Option A (Tidur Pulas) - untuk komposit Shot 1-2 & 5]
+Isolated on a clean transparent background, clean alpha cutout edges, no background scenery. Dark eerie claymation style, soft plasticine clay texture. A chubby Indonesian baby girl, 10 months old, wispy black hair, yellow romper, sleeping peacefully curled up with relaxed tiny hands, calm content face, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent dark eerie claymation style, soft plasticine clay texture, handcrafted stop-motion animation, modern Indonesian domestic setting, low-key moody lighting, small cream-painted housing-complex homes, low iron fences, muddy unpaved red clay road...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no gore, no blood, no corpse, no readable text, no numbers, no clock hands, no white studio background, no blank void]`
+Catatan: Sandal adalah kunci logika cerita - SELALU sandal jepit HIJAU dengan tali KUNING dan lumpur tanah MERAH, identik di Shot 1, 2, dan 7. Kantong plastik kresek MERAH di dekat pintu depan berisi sandal di Shot 2 dan kosong di Shot 7. Bu Ratna TIDAK PERNAH terlihat di dalam rumah Laras: penyusup hanya tampil sebagai bayangan kaki di celah bawah pintu dan suara langkah. Kinan selalu tidur aman di pelukan Laras. Layar HP tidak pernah terlihat.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM ambient horror utuh (bgmId di brief). MUTE semua audio bawaan klip KECUALI bisikan Laras di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Stinger bass rendah tepat di 0.0s + tetes lumpur (plok). Bisikan "Sandal siapa ini...?" di 1.5s, kipas angin mendadak berhenti.
+- Transisi Veo ke CapCut (4.0s): reverse whoosh atau tarikan napas tajam persis di patahan klip.
+- Eskalasi (Shot 3-5): denting piring kue, detak jantung pelan, langkah di lantai keramik, derit lantai (kreek), gagang pintu berderit, kunci kamar diputar (klik).
+- Sebelum Twist (akhir Shot 6): "klik" kunci dari luar, lalu HENING TOTAL 1 detik (BGM di-duck).
+- Twist (Shot 7): stinger keras tepat saat sandal di teras Bu Ratna terlihat, lalu drone rendah.
+- Penutup (Shot 8): ketukan pintu tiga kali, rantai pengaman berdenting, drone rendah + detak jantung sampai akhir.
+- DILARANG: crowd laughing, record scratch, dan SFX komedi lain.

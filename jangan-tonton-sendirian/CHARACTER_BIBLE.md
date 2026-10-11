@@ -1,6 +1,6 @@
 # CHARACTER BIBLE - JANGAN TONTON SENDIRIAN
 
-> **STATUS: USULAN, BELUM DISETUJUI PENGGUNA.** Nama, usia, penampilan, pekerjaan suami, dan fase hidup narator di bawah ini hanya usulan awal. Jangan dipakai di brief sebelum pengguna mengonfirmasi atau mengubahnya, lalu ganti status ini menjadi DISETUJUI beserta tanggalnya.
+> **STATUS: DISETUJUI SEMENTARA (11 Okt 2026).** Pengguna melanjutkan ke Eps 01 dengan usulan ini tanpa perubahan, tapi belum menjawab secara eksplisit soal jilbab, nama, dan suara TTS narator. Jika pengguna mengubah salah satunya, perbarui file ini dan brief yang sudah memakainya, lalu ganti status menjadi DISETUJUI.
 
 Panduan konsistensi tokoh untuk prompt AI (Google Flow / Imagen / CapCut) dan naskah VO.
 
