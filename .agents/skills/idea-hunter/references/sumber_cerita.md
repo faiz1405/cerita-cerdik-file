@@ -13,6 +13,8 @@ Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarny
 | Separuh hadiah untuk penjaga | Birbal (India) | Penjaga gerbang minta separuh hadiah raja → Birbal minta hadiah 100 cambukan, separuhnya untuk penjaga | Cambukan = kekerasan; ganti 20 tomat busuk. Antagonis: Lurah pungli di gerbang keraton. Rasa ceritanya dekat Eps 64 (Lurah dipermalukan) - beri jeda |
 | Telur rebus tak bisa menetas | Cerita rakyat lintas tradisi (Turki/Rusia/India) | Penagih utang menuntut 10 telur rebus dibayar ratusan ayam ("harusnya sudah menetas") → Ki Udin datang membawa jagung rebus "untuk ditanam" | Logika cermin seperti Eps 1 (kuali beranak); tegaskan sejak awal telurnya dijual sebagai telur rebus |
 | Tikus pemakan besi | Panchatantra (India) | Penitip menagih barang besi, dijawab "dimakan tikus" → protagonis membalas "kerbaumu dibawa terbang elang" | Cangkul/bajak titipan di gudang Broto. Logika cermin seperti Eps 1; kerbau harus jelas hanya dipinjam lalu dikembalikan |
+| Warisan sapi: kau kepalanya, aku susunya | Cerita rakyat Asia Selatan (dua saudara membagi sapi & pohon kelapa) | Kakak serakah: adik memberi makan bagian depan, kakak memerah bagian belakang → adik "mengurus bagiannya" (menggelitik hidung sapi), sapi menendang kakak | Satu keluarga "pembagian berbalik" dengan Eps 65 - beri jeda beberapa episode |
+| Arwah minta mangga emas | Tenali Raman (India) | Penipu menagih "pesan arwah" berupa emas → protagonis membalas dengan "pesan arwah" yang menghukum si penipu | Antagonis Dukun Klenik (Eps 39: 46k). Logika cermin seperti Eps 1; tema arwah rawan menyinggung kepercayaan |
 | Sekendi kepintaran | Birbal (India) | Penguasa menuntut upeti "sekendi kepintaran" → labu ditanam di dalam kendi sampai memenuhi isinya: "keluarkan tanpa memecah kendi" | Kendi tanah liat + labu/blewah; butuh time-lapse pertumbuhan. Catatan 10 Okt: Eps 55 sudah memakai gag "kepala nyangkut di kendi" dan Eps 45 teka-teki mengeluarkan benda dari wadah sempit - ganti gagnya (mis. labu meletus saat kendi dibanting) |
 | Upah sebutir padi berlipat | Legenda papan catur (India/Persia) | Minta upah 1 butir padi, berlipat dua tiap hari selama 30 hari → hari ke-30 saja 536.870.912 butir (±13 ton) | Teka-teki hitungan → hanya untuk slot eksperimen |
 | Jangan lewat pinggir jembatan | Ikkyu-san (Jepang) | Larangan "dilarang lewat pinggir" → lewat tengah | Pun aslinya (hashi) tidak ada di bahasa Indonesia - perlu diganti permainan kata lokal, risiko sedang |
@@ -27,6 +29,8 @@ Cara pakai: ambil *mekanik* ceritanya (tantangan + balasan), bukan tokoh/latarny
 - "Jangan injak tanahku" + "jangan tunjukkan mukamu" (Tenali Raman) → Eps 62 - trik menuruti kata secara harfiah; hindari motif harfiah serupa (Manka, jembatan Ikkyu) di episode berdekatan
 - Masak dengan api jauh / khichdi (Birbal) → Eps 63 (menanak nasi pakai api jauh)
 - Hakim mendenda tamparan satu koin (Nasreddin) → Eps 64 (siram orang cuma denda seperak)
+- Pembagian panen atas/bawah/pucuk-akar (Tops and Bottoms; Grimm, Rusia) → Eps 65 (bagi hasil atas tanah, bawah tanah)
+- Ditolak 11 Okt: Rubah dan Gagak (Aesop) versi ayam bakar - fabel terlalu terkenal sehingga mudah ditebak, dan K3 hanya kalah oleh kesombongan
 - Ditolak 10 Okt: kambing/keledai "berak emas" (Kim Seon-dal, Korea) - umpan keserakahan sama dengan Eps 53; tip terbalik di pemandian (Nasreddin) - tak ada tantangan mustahil, latar warung orang miskin mirip Eps 6
 - Tangkap macan dari lukisan (Ikkyu-san) → Eps 58
 - Rumah dijual kecuali satu paku (Juha/Nasreddin) → Eps 59

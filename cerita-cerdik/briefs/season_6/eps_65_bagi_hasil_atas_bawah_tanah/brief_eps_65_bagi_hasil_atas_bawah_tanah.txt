@@ -1,0 +1,166 @@
+# [theme]
+Kisah kecerdikan Ki Udin - Tipe B (Pangan & Logika Panen / Uno Reverse). Juragan Broto, pemilik sawah, memaksa Pak Karto membagi hasil dengan aturan yang ia tentukan sendiri: tanam apa saja terserah, tapi semua yang di atas tanah milik Broto. Atas bisikan Ki Udin, Pak Karto menanam singkong, sehingga Broto hanya dapat daun. Broto mengganti aturan menjadi "bawah tanah", Pak Karto menanam padi, dan Broto hanya dapat akar. Broto lalu menuntut pucuk dan akar sekaligus, Pak Karto menanam jagung yang tongkolnya tumbuh di tengah batang. Tiga kali aturan Broto berbalik, dan gerobak "panennya" diserbu kambing.
+
+# [purpose]
+Memancing rasa geram pada tuan tanah serakah yang memeras petani tua lewat aturan bagi hasil sepihak, lalu melepaskannya lewat kepuasan melihat aturan itu berbalik tiga kali berturut-turut dengan bukti visual yang langsung terbaca (daun vs umbi, akar vs bulir, pucuk vs tongkol). Menghadirkan emosi kasih sayang keluarga (Pak Karto dan cucunya, Thole) dan visual dopamine panen serta jagung bakar di akhir. Menggunakan FLSR Framework.
+
+# [audience]
+Masyarakat Indonesia 20-55 tahun (penonton cerita rakyat lucu, karma instan, keadilan untuk petani kecil, hasil bumi dan masakan desa, serta kehangatan keluarga).
+
+# [visualMaterial]
+[
+"aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+  - **Shot 1**: Extreme Close Up & Action (*First 3 Seconds - Hook*). Juragan Broto menendang bakul bibit Pak Karto dan memukul patok kayu di pematang. TEXT OVERLAY BOLD: "PANEN DI ATAS TANAH MILIK JURAGAN?!".
+    ENVIRONMENT: MORNING. Sawah kosong yang baru dibajak di tepi desa, pematang tanah, patok kayu batas sawah, gubuk bambu kecil, cahaya pagi cerah.
+    SUBJECT: Juragan Broto (blangkon batik cokelat, kumis hitam tebal melengkung, satu gigi depan emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, perut buncit), Pak Karto (kakek kurus, caping bambu, janggut dan kumis abu-abu, kemeja cokelat lusuh bertambal, celana batik selutut bertambal, tanpa alas kaki), Ki Udin.
+    ACTION: Broto menendang bakul bibit Pak Karto hingga bibit berhamburan, memukul patok kayu ke pematang dengan palu kayu, lalu menunjuk sawah sambil tertawa memamerkan gigi emasnya. Pak Karto terdiam lemas. Potong cepat ke Ki Udin di pematang yang mengelus kumis dan tersenyum licik.
+    NARASI: "Juragan Broto menendang bakul bibit Pak Karto sambil tertawa! "Sawah ini milikku! Tanam apa saja terserah, tapi semua yang tumbuh di atas tanah jadi milikku! Kau cukup ambil sisanya!" Pak Karto terdiam lemas. Di atas tanah, berarti hampir seluruh panen."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 2**: Medium Shot lalu Time-lapse (*Family Injustice & Sly Plan*).
+    ENVIRONMENT: AFTERNOON. Pematang sawah dan gubuk bambu Pak Karto, lalu time-lapse sawah ditanami batang-batang singkong.
+    SUBJECT: Thole (bocah kurus 8 tahun, rambut cepak, baju lurik lusuh, celana pendek cokelat, tanpa alas kaki), Pak Karto, Ki Udin.
+    ACTION: Thole memeluk lengan kakeknya dengan mata berkaca-kaca. Ki Udin mengelus kumis, tersenyum licik, lalu berbisik ke telinga Pak Karto. Time-lapse: Pak Karto menancapkan ratusan stek batang singkong berbaris rapi di seluruh sawah.
+    NARASI: "Thole, cucu Pak Karto, memeluk lengan kakeknya dengan mata berkaca-kaca. Tapi Ki Udin justru mengelus kumis dan tersenyum licik. Ia membisikkan sesuatu ke telinga Pak Karto. Esoknya, Pak Karto tidak menanam padi. Ia menancapkan ratusan batang singkong di seluruh sawah."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 3**: Wide Shot lalu Split Reveal (*Panen Pertama: Singkong*).
+    ENVIRONMENT: DAY. Kebun singkong yang rimbun hijau di sawah yang sama, gerobak kayu Broto di pematang.
+    SUBJECT: Juragan Broto, Pak Karto, Thole.
+    ACTION: Broto datang bersiul mendorong gerobak kayu, memotong semua batang dan daun singkong lalu menumpuknya di gerobak. Pak Karto dan Thole mencabut sisanya: umbi-umbi singkong besar bergelantungan dari tanah. Broto melongo memandangi gerobaknya yang hanya berisi daun.
+    NARASI: "Musim panen tiba. Broto datang sambil bersiul membawa gerobak besar dan memotong semua yang di atas tanah: batang dan daun singkong. Lalu Pak Karto mencabut bagiannya. Umbi singkong besar-besar bergelantungan! Broto melongo. Gerobaknya penuh daun, karung Pak Karto penuh singkong."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 4**: Medium Close Up lalu Time-lapse (*Aturan Kedua: Bawah Tanah*).
+    ENVIRONMENT: DAY TO GOLDEN HOUR. Sawah yang sama, time-lapse padi tumbuh dari hijau sampai menguning.
+    SUBJECT: Juragan Broto, Ki Udin, Pak Karto.
+    ACTION: Broto menghentakkan kaki dan menunjuk tanah. Ki Udin berbisik lagi ke Pak Karto, Pak Karto tersenyum. Time-lapse: bibit padi ditanam, sawah menghijau, lalu menguning dengan bulir padi merunduk berat berkilau keemasan.
+    NARASI: "Broto menghentakkan kaki. "Curang! Pokoknya musim depan aku ambil yang di bawah tanah!" Ki Udin kembali berbisik pelan, dan Pak Karto tersenyum. Kali ini ia menanam padi. Sawah menghijau, lalu menguning. Bulir-bulir padinya merunduk berat, berkilau keemasan di bawah matahari."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 5**: Shot Reverse Shot (*Panen Kedua: Padi*).
+    ENVIRONMENT: DAY. Sawah padi menguning yang sedang dipanen, warga menonton di pematang.
+    SUBJECT: Juragan Broto, Pak Karto, Thole, warga desa.
+    ACTION: Broto mencabut rumpun padi dan memotong semua akarnya, menggenggam segumpal akar kusut. Pak Karto dan Thole memanen bulir padi bernas lalu mengikatnya ke dalam karung-karung. Broto memandangi akar di tangannya. Warga di pematang tertawa terpingkal-pingkal.
+    NARASI: "Saat panen, Broto mencabut semua yang di bawah tanah. Yang ia dapat hanya akar padi berlumpur, kusut seperti rambut basah. Sementara Pak Karto dan Thole memanen bulir padi bernas berkarung-karung. Broto memandangi akar di tangannya. Warga yang menonton tertawa terpingkal-pingkal."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 6**: Medium Shot lalu Time-lapse (*Aturan Ketiga: Pucuk dan Akar*).
+    ENVIRONMENT: AFTERNOON TO DAY. Sawah yang sama, time-lapse batang jagung tumbuh tinggi.
+    SUBJECT: Juragan Broto, Pak Karto, Ki Udin.
+    ACTION: Broto mengamuk sambil menunjuk ke atas lalu ke bawah. Pak Karto mengangguk. Ki Udin tersenyum dan menyerahkan sekantong biji jagung kepada Pak Karto. Time-lapse: batang jagung tumbuh tinggi, bunga jantan muncul di pucuk, lalu tongkol-tongkol gemuk tumbuh tepat di tengah batang.
+    NARASI: "Broto mengamuk. "Padi buahnya di pucuk, singkong buahnya di akar. Musim depan, pucuk dan akar dua-duanya milikku! Kau ambil batang tengahnya saja!" Pak Karto mengangguk. Ki Udin tersenyum, lalu menyerahkan sekantong biji jagung. Tongkol jagung tumbuh tepat di tengah batang."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 7**: Medium Action lalu Wide (*Panen Ketiga & Slapstick Karma*).
+    ENVIRONMENT: DAY. Kebun jagung yang dipanen, jalan tanah desa, tumpukan jerami di tepi jalan.
+    SUBJECT: Juragan Broto, Pak Karto, sekawanan kambing kampung putih-cokelat.
+    ACTION: Broto memotong semua pucuk jagung dan mencabut semua akarnya. Pak Karto memetik tongkol-tongkol jagung yang gemuk. Broto pulang mendorong gerobak penuh pucuk dan akar. Sekawanan kambing berlari menyerbu gerobaknya, gerobak oleng, dan Broto terjengkang ke tumpukan jerami dengan kaki di udara.
+    NARASI: "Panen ketiga tiba. Broto memotong semua pucuk jagung dan mencabut semua akarnya. Pak Karto memetik tongkol-tongkol jagung yang gemuk. Broto pulang mendorong gerobak penuh pucuk dan akar. Tiba-tiba, sekawanan kambing lapar menyerbu gerobaknya. Mbeee! GEDEBUK! Broto terjengkang ke tumpukan jerami."
+    Clay stop-motion, vertical 9:16.
+
+  - **Shot 8**: Wide lalu Close Up (*Heartwarming Food Payoff*).
+    ENVIRONMENT: NIGHT. Halaman gubuk Pak Karto, api unggun kecil untuk membakar jagung, lumbung bambu kecil penuh karung beras, lampu teplok.
+    SUBJECT: Thole, Pak Karto, warga desa, Ki Udin, Juragan Broto, kambing.
+    ACTION: Thole dan warga berpesta jagung bakar dan singkong rebus di sekitar api unggun. Lumbung kecil penuh karung beras. Broto duduk di atas jerami dengan blangkon miring, kambing mengunyah sisa pucuk di sampingnya. Ki Udin menyodorkan sebatang jagung bakar kepada Broto, lalu mengedip ke kamera. Freeze frame.
+    NARASI: "Malamnya, Thole dan warga berpesta jagung bakar dan singkong rebus di halaman Pak Karto. Lumbung kecil mereka penuh beras. Broto duduk di jerami, kambing mengunyah sisa pucuknya. Ki Udin menyodorkan sepotong jagung bakar. "Mau coba bagian tengahnya, Juragan? Enak, lho.""
+    Clay stop-motion, vertical 9:16.
+
+# [videoNarration]
+Juragan Broto menendang bakul bibit Pak Karto sambil tertawa! "Sawah ini milikku! Tanam apa saja terserah, tapi semua yang tumbuh di atas tanah jadi milikku! Kau cukup ambil sisanya!" Pak Karto terdiam lemas. Di atas tanah, berarti hampir seluruh panen.
+<break time="1.0s"/>
+
+Thole, cucu Pak Karto, memeluk lengan kakeknya dengan mata berkaca-kaca. Tapi Ki Udin justru mengelus kumis dan tersenyum licik. Ia membisikkan sesuatu ke telinga Pak Karto. Esoknya, Pak Karto tidak menanam padi. Ia menancapkan ratusan batang singkong di seluruh sawah.
+<break time="1.0s"/>
+
+Musim panen tiba. Broto datang sambil bersiul membawa gerobak besar dan memotong semua yang di atas tanah: batang dan daun singkong. Lalu Pak Karto mencabut bagiannya. Umbi singkong besar-besar bergelantungan! Broto melongo. Gerobaknya penuh daun, karung Pak Karto penuh singkong.
+<break time="1.0s"/>
+
+Broto menghentakkan kaki. "Curang! Pokoknya musim depan aku ambil yang di bawah tanah!" Ki Udin kembali berbisik pelan, dan Pak Karto tersenyum. Kali ini ia menanam padi. Sawah menghijau, lalu menguning. Bulir-bulir padinya merunduk berat, berkilau keemasan di bawah matahari.
+<break time="1.0s"/>
+
+Saat panen, Broto mencabut semua yang di bawah tanah. Yang ia dapat hanya akar padi berlumpur, kusut seperti rambut basah. Sementara Pak Karto dan Thole memanen bulir padi bernas berkarung-karung. Broto memandangi akar di tangannya. Warga yang menonton tertawa terpingkal-pingkal.
+<break time="1.0s"/>
+
+Broto mengamuk. "Padi buahnya di pucuk, singkong buahnya di akar. Musim depan, pucuk dan akar dua-duanya milikku! Kau ambil batang tengahnya saja!" Pak Karto mengangguk. Ki Udin tersenyum, lalu menyerahkan sekantong biji jagung. Tongkol jagung tumbuh tepat di tengah batang.
+<break time="1.0s"/>
+
+Panen ketiga tiba. Broto memotong semua pucuk jagung dan mencabut semua akarnya. Pak Karto memetik tongkol-tongkol jagung yang gemuk. Broto pulang mendorong gerobak penuh pucuk dan akar. Tiba-tiba, sekawanan kambing lapar menyerbu gerobaknya. Mbeee! GEDEBUK! Broto terjengkang ke tumpukan jerami.
+<break time="1.0s"/>
+
+Malamnya, Thole dan warga berpesta jagung bakar dan singkong rebus di halaman Pak Karto. Lumbung kecil mereka penuh beras. Broto duduk di jerami, kambing mengunyah sisa pucuknya. Ki Udin menyodorkan sepotong jagung bakar. "Mau coba bagian tengahnya, Juragan? Enak, lho."
+
+# [bgmStyle]
+Diawali hentakan tegang (drum + gong) saat Broto menendang bakul bibit dan memukul patok. Berubah sendu singkat saat Thole memeluk kakeknya, lalu musik jenaka cerdik (*Sneaky Comedy / Pizzicato*) saat Ki Udin berbisik. Tiap panen diberi aksen kejutan lucu (record scratch) saat Broto melongo, dengan tempo naik dari musim ke musim. Ditutup musik komedi slapstick riang saat kambing menyerbu gerobak, lalu musik hangat saat pesta jagung bakar.
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+    "subtitleId": "7444459455560879416",
+    "subtitlePrompt": "Modern clean bold, pure warm white with bright ruby-red and sunny amber highlights on key punchline phrases: 'semua yang tumbuh di atas tanah jadi milikku', 'batang singkong', 'Gerobaknya penuh daun', 'aku ambil yang di bawah tanah', 'hanya akar padi', 'pucuk dan akar dua-duanya milikku', 'tepat di tengah batang', 'GEDEBUK', 'Mau coba bagian tengahnya'"
+}
+
+# [characters]
+[
+    {
+        "name": "Ki Udin (ROLE_01)",
+        "description": "Wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals. Calm sly smile. POV PROTAGONIS CERDIK. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_01"
+    },
+    {
+        "name": "Juragan Broto (ROLE_02)",
+        "description": "Fat greedy Javanese landlord and rice merchant, 50, thick curled black mustache, one gold front tooth, brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly. Smug arrogant grin. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_02"
+    },
+    {
+        "name": "Pak Karto (ROLE_03)",
+        "description": "Poor skinny elderly Javanese rice farmer, 65, grey beard and grey mustache, thick grey eyebrows, woven bamboo caping hat, faded brown short-sleeve shirt with patches over a white undershirt, patched brown batik knee-length trousers, barefoot. Weary kind expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_03"
+    },
+    {
+        "name": "Thole (ROLE_04)",
+        "description": "Skinny Javanese village boy, 8, grandson of Pak Karto, short cropped black hair, big hopeful eyes, faded brown striped lurik shirt, brown shorts, barefoot. Innocent cheerful expression. Clay stop-motion claymation aesthetic.",
+        "id": "ROLE_04"
+    }
+]
+
+# [materialReferences]
+
+# [ttsList]
+[
+    {
+        "id": "7469007109456138768",
+        "speed": 1.0
+    }
+]
+
+# [digitalHumanList]
+
+# [styleList]
+[
+    {
+        "styleValue": "-1",
+        "stylePrompt": "Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. LATAR: satu petak sawah yang SAMA sepanjang cerita di tepi desa, dibatasi pematang tanah dan patok kayu, gubuk bambu kecil Pak Karto di ujung pematang, jalan tanah desa dengan tumpukan jerami. KONTINUITAS TANAMAN TERKUNCI (kunci logika cerita): Musim 1 = singkong, batang dan daun hijau di atas tanah, umbi cokelat besar di bawah tanah; Musim 2 = padi, bulir kuning keemasan di pucuk, akar kusut cokelat di bawah tanah; Musim 3 = jagung, bunga jantan kecokelatan di pucuk, akar di bawah tanah, tongkol jagung gemuk berkulit hijau tumbuh TEPAT di tengah batang. Bagian milik Broto selalu bagian yang tidak bisa dimakan (daun, akar, pucuk), bagian milik Pak Karto selalu bagian yang bisa dimakan (umbi, bulir, tongkol). KONTINUITAS PROPERTI TERKUNCI: gerobak kayu dua roda milik Broto; karung goni polos milik Pak Karto; bakul bibit anyaman bambu; sekawanan lima ekor kambing kampung putih-cokelat yang baru muncul di Shot 7. KONTINUITAS BUSANA TERKUNCI: Ki Udin selalu blangkon batik cokelat, kumis abu-abu, baju lurik cokelat bergaris, sarung batik; Juragan Broto selalu blangkon batik cokelat, kumis hitam tebal melengkung, satu gigi depan emas, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, perut buncit; Pak Karto selalu caping bambu, janggut dan kumis abu-abu, kemeja cokelat lusuh bertambal, celana batik selutut bertambal, tanpa alas kaki; Thole selalu rambut cepak, baju lurik lusuh, celana pendek cokelat, tanpa alas kaki. REGISTER CAHAYA: pagi cerah di Shot 1; sore hangat di Shot 2; siang terang tiap adegan panen; time-lapse menunjukkan pergantian musim; malam hangat dari api unggun dan lampu teplok di Shot 8. MODERASI SLAPSTICK: Broto hanya menendang bakul bibit, tidak menyentuh Pak Karto; kambing hanya memakan daun dan pucuk di gerobak, tidak menyeruduk orang; Broto jatuh ke tumpukan jerami yang empuk tanpa cedera; noda tanah dan jerami di baju lewat overlay CapCut. DILARANG text card penutup. [no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no tractor, no motor vehicle, no white studio background, no blank void]."
+    }
+]
+
+# [referenceNodeIds]
+
+# [rawReferences]

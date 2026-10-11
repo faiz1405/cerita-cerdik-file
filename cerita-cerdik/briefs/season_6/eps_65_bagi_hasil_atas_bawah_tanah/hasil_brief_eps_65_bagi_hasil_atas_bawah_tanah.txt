@@ -1,0 +1,122 @@
+# ANALISIS & PENJELASAN BRIEF VIDEO - EPS 65 (SEASON 6 EPISODE 5)
+Judul Episode: Bagi Hasil Atas Tanah, Bawah Tanah (Tipe B/Uno Reverse)
+Target Platform: Facebook Reels, Instagram Reels, TikTok, YouTube Shorts
+Target Durasi: 160 Detik (320 kata, TTS speed 1.0, estimasi validator ±170s → target render ±150-160s)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Sumber Mekanik: Dongeng "pembagian panen" / Tops and Bottoms (tipe cerita rakyat dunia: versi Grimm "Petani dan Setan", versi Rusia "Petani dan Beruang") - si kuat memilih bagian atas atau bawah tanaman, si cerdik memilih tanaman yang hasilnya ada di bagian sebaliknya. Dilokalkan ke sawah garapan di desa Jawa dengan singkong, padi, jagung, dan tuan tanah Juragan Broto.
+Kunci Logika (Uno Reverse): Trik Ki Udin bukan melawan aturan, melainkan memilih tanaman yang hasilnya selalu ada di bagian yang tidak diminta Broto - jebakan yang membuat aturan sepihak itu mustahil menguntungkan pembuatnya. Broto sendiri yang menetapkan aturan dan sendiri yang bilang "tanam apa saja terserah" (menutup celah "kenapa Broto tidak memilih tanamannya"). (1) "Semua di atas tanah milikku" → singkong: Broto dapat batang & daun, Pak Karto dapat umbi. (2) "Semua di bawah tanah milikku" → padi: Broto dapat akar, Pak Karto dapat bulir. (3) Broto belajar dari dua kekalahan: "padi buahnya di pucuk, singkong buahnya di akar, jadi pucuk DAN akar milikku, kau ambil batang tengahnya" → jagung: tongkolnya tumbuh di tengah batang, jadi jatuh ke Pak Karto. Aturan musim 3 sengaja memakai kata "pucuk dan akar", bukan "atas dan bawah tanah", karena "atas tanah + bawah tanah" akan mencakup seluruh tanaman dan merusak logika.
+Catatan Repetisi: Dicek 11 Okt 2026 - kata kunci `singkong`, `bagi hasil`, `akar padi`, `atas tanah`, `tongkol`, `pucuk akar` tidak menemukan mekanik ini (hit Eps 24 = ruang bawah tanah; singkong Eps 9 kebetulan). Keluarga "pembagian yang berbalik" sama dengan Eps 16 (bebek panggang, 41k) dan Eps 44 (17 kambing, 29k) - data format lama, bukan bukti. Ending sengaja KERING (jerami + kambing) karena Eps 63 dan 64 sama-sama berakhir antagonis basah.
+Catatan Produksi: Narasi tepat 40 kata per shot (sama dengan Eps 59-64). Aturan sepihak Broto sudah terucap di narasi Shot 1 sesuai temuan audit 10 Okt. Tiga musim dalam 160 detik bergantung pada label musim di layar (lihat Efek CapCut per shot) agar penonton tidak tersesat. Pak Karto memakai aset `character/season4/petani-tua.png`, Thole `character/season6/thole.png`.
+
+===================================================================
+[1] 3-SECOND HOOK STRATEGY (FLSR & NEUROMARKETING)
+===================================================================
+- Visual Hook (0-3 Detik): Pagi di sawah yang baru dibajak. Juragan Broto menendang bakul bibit Pak Karto hingga bibit berhamburan, memukul patok kayu ke pematang, lalu menunjuk sawah sambil tertawa memamerkan gigi emas. Pak Karto terdiam lemas.
+- Teks Overlay Hook: "PANEN DI ATAS TANAH MILIK JURAGAN?!"
+- Audio Hook: Gong Jumpscare (BOOM!) di detik 0.0, bakul ditendang (BRAK!), patok dipukul (DUK!), teriakan Jawa Broto "Nandura apa wae, tapi sing ing dhuwur lemah duwekku!" di detik 1.5.
+- Cortisol Spike (Detik 4-10): Close up bibit berhamburan di tanah, wajah lemas Pak Karto, lalu cutaway Ki Udin di pematang mengelus kumis dan tersenyum licik sekitar detik 8 (mendahului narasi Shot 2).
+- Anti-Drop Detik 5-15: Minimal 3 perpindahan kamera: bakul terbalik → patok kayu → wajah tertawa Broto → senyum Ki Udin, ditambah Record Scratch kecil saat senyum.
+
+===================================================================
+[2] NASKAH CERITA LENGKAP BAHASA INDONESIA (VOICE OVER)
+===================================================================
+Juragan Broto menendang bakul bibit Pak Karto sambil tertawa! "Sawah ini milikku! Tanam apa saja terserah, tapi semua yang tumbuh di atas tanah jadi milikku! Kau cukup ambil sisanya!" Pak Karto terdiam lemas. Di atas tanah, berarti hampir seluruh panen.
+
+Thole, cucu Pak Karto, memeluk lengan kakeknya dengan mata berkaca-kaca. Tapi Ki Udin justru mengelus kumis dan tersenyum licik. Ia membisikkan sesuatu ke telinga Pak Karto. Esoknya, Pak Karto tidak menanam padi. Ia menancapkan ratusan batang singkong di seluruh sawah.
+
+Musim panen tiba. Broto datang sambil bersiul membawa gerobak besar dan memotong semua yang di atas tanah: batang dan daun singkong. Lalu Pak Karto mencabut bagiannya. Umbi singkong besar-besar bergelantungan! Broto melongo. Gerobaknya penuh daun, karung Pak Karto penuh singkong.
+
+Broto menghentakkan kaki. "Curang! Pokoknya musim depan aku ambil yang di bawah tanah!" Ki Udin kembali berbisik pelan, dan Pak Karto tersenyum. Kali ini ia menanam padi. Sawah menghijau, lalu menguning. Bulir-bulir padinya merunduk berat, berkilau keemasan di bawah matahari.
+
+Saat panen, Broto mencabut semua yang di bawah tanah. Yang ia dapat hanya akar padi berlumpur, kusut seperti rambut basah. Sementara Pak Karto dan Thole memanen bulir padi bernas berkarung-karung. Broto memandangi akar di tangannya. Warga yang menonton tertawa terpingkal-pingkal.
+
+Broto mengamuk. "Padi buahnya di pucuk, singkong buahnya di akar. Musim depan, pucuk dan akar dua-duanya milikku! Kau ambil batang tengahnya saja!" Pak Karto mengangguk. Ki Udin tersenyum, lalu menyerahkan sekantong biji jagung. Tongkol jagung tumbuh tepat di tengah batang.
+
+Panen ketiga tiba. Broto memotong semua pucuk jagung dan mencabut semua akarnya. Pak Karto memetik tongkol-tongkol jagung yang gemuk. Broto pulang mendorong gerobak penuh pucuk dan akar. Tiba-tiba, sekawanan kambing lapar menyerbu gerobaknya. Mbeee! GEDEBUK! Broto terjengkang ke tumpukan jerami.
+
+Malamnya, Thole dan warga berpesta jagung bakar dan singkong rebus di halaman Pak Karto. Lumbung kecil mereka penuh beras. Broto duduk di jerami, kambing mengunyah sisa pucuknya. Ki Udin menyodorkan sepotong jagung bakar. "Mau coba bagian tengahnya, Juragan? Enak, lho."
+
+===================================================================
+[3] RINCIAN VISUAL & AUDIO PER SHOT
+===================================================================
+- Shot 1 (0-20s) - HOOK ATURAN SEPIHAK:
+  - Visual: Pagi di sawah yang baru dibajak. Broto menendang bakul bibit Pak Karto, memukul patok kayu ke pematang, lalu menunjuk sawah sambil tertawa memamerkan gigi emas. Pak Karto terdiam lemas. Cutaway ke Ki Udin di pematang mengelus kumis sambil tersenyum licik (sekitar detik 8).
+  - Efek CapCut: Quick Zoom-in (Keyframe) ke bakul yang terbalik, Shake ringan, text overlay "PANEN DI ATAS TANAH MILIK JURAGAN?!", lalu panah animasi dari permukaan tanah ke atas dengan label "MILIK BROTO" dan ke bawah dengan label "SISA UNTUK PAK KARTO".
+  - Audio/SFX: Gong Jumpscare 0.0s, BRAK! bakul ditendang, DUK! patok dipukul, teriakan Jawa "Nandura apa wae, tapi sing ing dhuwur lemah duwekku!" (klip Veo 0-4s), WHOOSH keras di 4.0s saat pindah ke klip CapCut, tawa sombong Broto, Record Scratch kecil saat Ki Udin tersenyum.
+
+- Shot 2 (20-40s) - CUCU MENANGIS & BISIKAN LICIK:
+  - Visual: Thole memeluk lengan kakeknya dengan mata berkaca-kaca. Ki Udin mengelus kumis, tersenyum licik, lalu berbisik ke telinga Pak Karto. Time-lapse Pak Karto menancapkan ratusan stek batang singkong berbaris rapi.
+  - Efek CapCut: Slow push-in ke mata Thole, efek Blur ringan pada latar saat Ki Udin berbisik, Speed Ramp untuk time-lapse menanam, label "MUSIM 1: SINGKONG".
+  - Audio/SFX: Isak lirih Thole, musik sendu singkat lalu berubah ke Sneaky Comedy saat Ki Udin berbisik, bunyi stek ditancapkan cepat (tuk-tuk-tuk).
+
+- Shot 3 (40-60s) - PANEN PERTAMA, SINGKONG:
+  - Visual: Broto datang bersiul mendorong gerobak kayu, memotong semua batang dan daun singkong. Pak Karto dan Thole mencabut sisanya: umbi singkong besar bergelantungan. Broto melongo memandangi gerobak berisi daun.
+  - Efek CapCut: Split screen papan skor kartun "BROTO: DAUN 🍃 | PAK KARTO: UMBI 🥔", Keyframe zoom ke umbi yang keluar dari tanah, teks "UMBINYA DI BAWAH TANAH!".
+  - Audio/SFX: Siulan Broto, bunyi celurit memotong daun (sret-sret), bunyi umbi tercabut (PLOP!), Record Scratch saat Broto melongo.
+
+- Shot 4 (60-80s) - ATURAN KEDUA, BAWAH TANAH:
+  - Visual: Broto menghentakkan kaki dan menunjuk ke tanah. Ki Udin berbisik lagi, Pak Karto tersenyum. Time-lapse sawah padi dari hijau ke kuning keemasan, bulir merunduk berat.
+  - Efek CapCut: Teks "MUSIM 2: PADI", Speed Ramp time-lapse dengan transisi warna hijau ke emas, efek kilau pada bulir padi.
+  - Audio/SFX: Hentakan kaki (DUG!), angin sawah, musik Sneaky Comedy naik, kilau (ting).
+
+- Shot 5 (80-100s) - PANEN KEDUA, PADI:
+  - Visual: Broto mencabut rumpun padi dan memotong akarnya, menggenggam akar kusut. Pak Karto dan Thole memanen bulir padi bernas ke karung-karung. Broto memandangi akar di tangannya. Warga di pematang tertawa.
+  - Efek CapCut: Papan skor kedua "BROTO: AKAR 🌱 | PAK KARTO: BERAS 🌾", Freeze frame wajah Broto memegang akar dengan overlay garis kusut kartun.
+  - Audio/SFX: Bunyi akar tercabut, gemerisik padi, Record Scratch saat Broto memandangi akar, tawa warga.
+
+- Shot 6 (100-120s) - ATURAN KETIGA, PUCUK DAN AKAR:
+  - Visual: Broto mengamuk, menunjuk ke atas lalu ke bawah. Pak Karto mengangguk. Ki Udin menyerahkan sekantong biji jagung. Time-lapse batang jagung tumbuh tinggi, bunga jantan di pucuk, tongkol gemuk muncul di tengah batang.
+  - Efek CapCut: Teks "MUSIM 3: JAGUNG", diagram kartun batang jagung dengan label "PUCUK → BROTO", "AKAR → BROTO", "TENGAH → PAK KARTO", Keyframe zoom ke tongkol di tengah batang.
+  - Audio/SFX: Teriakan Broto, bunyi kantong biji (srek), time-lapse tumbuh (wuuup), "Ting!" saat tongkol muncul.
+
+- Shot 7 (120-140s) - PANEN KETIGA & SLAPSTICK KARMA:
+  - Visual: Broto memotong semua pucuk jagung dan mencabut akarnya. Pak Karto memetik tongkol-tongkol gemuk. Broto mendorong gerobak penuh pucuk dan akar. Sekawanan kambing menyerbu gerobak, gerobak oleng, Broto terjengkang ke tumpukan jerami dengan kaki di udara.
+  - Efek CapCut: Papan skor ketiga "BROTO: PUCUK + AKAR | PAK KARTO: JAGUNG 🌽", Speed Ramp saat kambing menyerbu, Slow-motion saat Broto terjengkang, Shake saat mendarat.
+  - Audio/SFX: Mbeee! bersahutan, derap kaki kambing, Slip!, GEDEBUK!, Thud, Crowd Laughing.
+
+- Shot 8 (140-160s) - PESTA JAGUNG BAKAR:
+  - Visual: Malam hangat. Thole dan warga berpesta jagung bakar dan singkong rebus di sekitar api unggun, lumbung kecil penuh karung beras. Broto duduk di jerami dengan blangkon miring, kambing mengunyah sisa pucuk di sampingnya. Ki Udin menyodorkan jagung bakar ke Broto, lalu mengedip ke kamera. Freeze frame.
+  - Efek CapCut: Close up jagung bakar dengan asap dan kilau mentega, overlay emoji tertawa kecil, freeze frame wajah Broto memandangi jagung.
+  - Audio/SFX: Api unggun berderak, jagung dibakar (cesss), tawa Thole, Crowd Laughing, "Mau coba bagian tengahnya, Juragan? Enak, lho.", musik komedi hangat penutup.
+
+===================================================================
+[4] METADATA & CAPTION STRATEGY LINTAS 3 PLATFORM
+===================================================================
+--- FACEBOOK REELS & PAGE CAPTION ---
+Tuan tanah serakah nendang bibit kakek petani, terus bikin aturan bagi hasil semaunya: "Tanam apa saja terserah, tapi semua yang di atas tanah MILIKKU!" 😤 Kakek miskin cuma bisa diam, cucunya nangis 😢
+
+Ki Udin cuma bisik-bisik ke Pak Karto... dan tiga musim berturut-turut si Juragan cuma dapat DAUN, AKAR, sama PUCUK! 🌱🌾🌽😂 Ujung-ujungnya gerobak "panen"-nya diserbu kambing!
+
+Kalian tim Broto wajib garap sawah Pak Karto semusim tanpa upah (Ketik 1) atau tim sawah Broto dihibahkan ke Pak Karto selamanya (Ketik 2)? Tulis pilihan kalian di bawah! 👇
+
+📌 Jangan lupa klik tombol [ IKUTI / FOLLOW ] di atas Halaman ini agar tidak ketinggalan cerita cerdik esok malam!
+
+#CeritaCerdik #CeritaCerdikSeason6 #BagiHasilAtasTanahBawahTanah #DongengNusantara #DongengLucu #HumorNusantara #FacebookPage
+
+--- INSTAGRAM REELS CAPTION ---
+Atas tanah? Tanam singkong. Bawah tanah? Tanam padi. Pucuk dan akar? Tanam jagung 🌽😂
+
+Juragan Broto bikin aturan bagi hasil semaunya ke kakek petani. Ki Udin cukup berbisik, dan tiga musim berturut-turut sang juragan cuma kebagian daun, akar, dan pucuk.
+
+Kalian tim Broto garap sawah tanpa upah (Ketik 1) atau tim sawah Broto buat Pak Karto (Ketik 2)?
+
+📌 Klik tombol [ IKUTI / FOLLOW ] di profil @ceritacerdik agar tidak ketinggalan cerita seru esok hari!
+
+#CeritaCerdik #CeritaCerdikSeason6 #BagiHasilAtasTanahBawahTanah #AnimasiIndonesia #CeritaRakyat #DongengNusantara #ReelsIndonesia #HumorIndonesia
+
+--- TIKTOK VIDEO CAPTION ---
+"Semua yang di atas tanah milikku!" Oke Juragan, kami tanam singkong 😂🌱 Tiga musim berturut-turut Broto cuma dapat daun, akar, sama pucuk!
+
+📌 Klik tanda [+] dan follow @ceritacerdik biar gak ketinggalan taktik cerdik Ki Udin esok hari!
+
+#CeritaCerdik #CeritaCerdikSeason6 #BagiHasilAtasTanahBawahTanah #AnimasiIndonesia #DongengNusantara #fyp #foryou #trending
+
+--- META BUSINESS SUITE KEYWORDS (Search Tags Tanpa Tanda Pagar) ---
+cerita cerdik, ki udin season 6, juragan broto serakah, bagi hasil sawah, atas tanah bawah tanah, petani miskin, tanam singkong, panen padi, jagung bakar, tuan tanah licik, tops and bottoms, karma instan, animasi stop motion claymation, dongeng rakyat indonesia, cerita rakyat nusantara lucu, keadilan petani kecil
+
+===================================================================
+[5] SHOPEE AFFILIATE MONETIZATION COPY (KOMISI EKSTRA)
+===================================================================
+Produk Rekomendasi: Panggangan Arang Mini / Grill Jagung Bakar Portable
+Copy Komentar Shopee (Pinned):
+"Paling ngiler pas pesta jagung bakar di akhir 🤤🌽 Bunda yang suka bakar-bakaran bareng keluarga, pakai Panggangan Arang Mini ini aja, ringkas, panasnya rata, jagung sama sate matang sempurna tanpa gosong! Cocok buat malam minggu di teras rumah. Cek promo diskonnya di keranjang oranye / link di bio ya! 👉 [MASUKKAN LINK SHOPEE ANDA DI SINI]"
