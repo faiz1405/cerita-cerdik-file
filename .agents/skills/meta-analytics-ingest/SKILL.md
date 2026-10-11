@@ -1,6 +1,6 @@
 ---
 name: meta-analytics-ingest
-description: Memasukkan ekspor CSV video Meta Business Suite (Facebook Page Cerita Cerdik) ke cerita-cerdik/episode_tracker.csv, memetakan tiap video ke nomor episode, lalu membuat audit performa berbasis data (thumb-stop, avg watch, hold 1 menit, rekomendasi, demografi) lengkap dengan perbandingan kohort dan desain eksperimen. Gunakan skill ini SETIAP KALI pengguna menempelkan/mengirim file CSV Meta (nama file seperti "Sep-05-2026_Oct-02-2026_....csv", kolom "Jangkauan", "Tayangan video 3 detik"), meminta weekly/monthly audit, bertanya "kenapa reach turun", "episode mana yang menang", "isi tracker", "evaluasi tes jam posting/durasi", atau ingin menilai hasil eksperimen konten - walaupun tidak menyebut kata "ingest".
+description: Memasukkan ekspor CSV video Meta Business Suite (Facebook Page Cerita Cerdik atau Jangan Tonton Sendirian) ke episode_tracker.csv proyeknya (cerita-cerdik/ atau jangan-tonton-sendirian/ lewat --tracker), memetakan tiap video ke nomor episode, lalu membuat audit performa berbasis data (thumb-stop, avg watch, hold 1 menit, rekomendasi, demografi) lengkap dengan perbandingan kohort dan desain eksperimen. Gunakan skill ini SETIAP KALI pengguna menempelkan/mengirim file CSV Meta (nama file seperti "Sep-05-2026_Oct-02-2026_....csv", kolom "Jangkauan", "Tayangan video 3 detik"), meminta weekly/monthly audit, bertanya "kenapa reach turun", "episode mana yang menang", "isi tracker", "evaluasi tes jam posting/durasi", atau ingin menilai hasil eksperimen konten - walaupun tidak menyebut kata "ingest".
 ---
 
 # Meta Analytics Ingest (Data Loop Cerita Cerdik)
@@ -80,3 +80,9 @@ Urutan prioritas: `--map` → `tanggal_posting` yang sudah tercatat (rerun aman)
 ## 6. Di luar cakupan skrip
 - Ekspor Instagram/TikTok punya kolom berbeda; isi `ig_views` / `tiktok_views` manual dan sebutkan ke pengguna bahwa skrip baru mendukung Facebook.
 - Jangan ubah aturan di `.agents/AGENTS.md` atau `EVALUASI_DAN_FORMULA_WINNING_CONTENT.md` berdasarkan hasil audit tanpa persetujuan pengguna - laporkan temuan + usulan, biar pengguna yang memutuskan.
+
+## 7. Proyek Jangan Tonton Sendirian (halaman horror)
+- **Tracker**: selalu tambahkan `--tracker jangan-tonton-sendirian/episode_tracker.csv`. Skrip tidak memeriksa nama halaman, jadi pastikan pengguna mengekspor dari Page Jangan Tonton Sendirian, bukan Cerita Cerdik.
+- **Pemetaan**: kolom Judul di ekspor Meta biasanya kosong dan durasi episode horror sengaja seragam (±150-160 dtk), sehingga pemetaan lewat durasi rawan ambigu. Andalkan `tanggal_posting` yang dicatat di tracker tepat setelah posting; bila belum tercatat, pakai `--map`.
+- **Metrik niche**: tracker horror punya kolom `female_total_pct` (porsi semua kolom `F, …`), metrik utama untuk menguji niche ibu muda. Tracker Cerita Cerdik tidak punya kolom ini dan tidak terpengaruh.
+- **Patokan**: patokan kalibrasi di §3 adalah data Cerita Cerdik (komedi) - JANGAN dipakai untuk menilai halaman horror. Perlakukan ±10 episode pertama sebagai baseline, lalu hitung patokan sendiri.

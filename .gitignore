@@ -4,3 +4,6 @@ cerita-cerdik/output/
 # Junction lokal Claude Code ke .agents/skills (sumber asli ada di .agents/skills)
 .claude/skills/
 .claude/settings.local.json
+
+# Video render proyek horror
+jangan-tonton-sendirian/output/

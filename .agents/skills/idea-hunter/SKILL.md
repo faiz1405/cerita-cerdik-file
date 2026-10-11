@@ -1,6 +1,6 @@
 ---
 name: idea-hunter
-description: Mencari, menyaring, dan mengecek ide episode baru Cerita Cerdik (Ki Udin) supaya tidak mengulang 57+ episode yang ada dan sesuai pola tema yang terbukti menang di data performa. Mengambil mekanik dari cerita akal-akalan dunia & nusantara (Nasreddin, Birbal, Tenali Raman, Ikkyu-san, Abu Nawas, Kancil) lalu melokalkannya ke desa Jawa. Gunakan skill ini SETIAP KALI pengguna minta ide konten/episode, roadmap season baru, "stok ide habis", "ide kurang relate", menilai apakah sebuah ide bagus, atau sebelum menulis brief episode baru - walaupun pengguna hanya bilang "kasih ide dong" atau "episode selanjutnya apa".
+description: KHUSUS proyek Cerita Cerdik (folder cerita-cerdik/) - BUKAN untuk proyek horror Jangan Tonton Sendirian (pakai jts-idea-hunter). Mencari, menyaring, dan mengecek ide episode baru Cerita Cerdik (Ki Udin) supaya tidak mengulang 57+ episode yang ada dan sesuai pola tema yang terbukti menang di data performa. Mengambil mekanik dari cerita akal-akalan dunia & nusantara (Nasreddin, Birbal, Tenali Raman, Ikkyu-san, Abu Nawas, Kancil) lalu melokalkannya ke desa Jawa. Gunakan skill ini SETIAP KALI pengguna minta ide konten/episode Cerita Cerdik atau Ki Udin, roadmap season baru, "stok ide habis", "ide kurang relate", menilai apakah sebuah ide bagus, atau sebelum menulis brief episode baru - walaupun pengguna hanya bilang "kasih ide dong" atau "episode selanjutnya apa".
 ---
 
 # Idea Hunter (Cerita Cerdik)

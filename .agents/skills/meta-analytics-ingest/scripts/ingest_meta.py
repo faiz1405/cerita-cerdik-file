@@ -158,6 +158,8 @@ def metrics(r):
         'hold_1min_pct': f'{r["v1m"] / r["v3"] * 100:.1f}' if r['v3'] else '',
         'rekomendasi_pct': f'{r["sec_rec"] / r["sec"] * 100:.1f}' if r['sec'] else '',
         'female_25_34_pct': f'{r["f2534_pct"]:.1f}',
+        # Hanya tertulis bila tracker punya kolomnya (Jangan Tonton Sendirian); tracker lain mengabaikannya.
+        'female_total_pct': f'{r["female_pct"]:.1f}',
         'share': str(int(r['shares'])),
         'komen': str(int(r['comments'])),
     }
@@ -208,7 +210,8 @@ def main():
                 by_eps[eps]['catatan'] = (by_eps[eps]['catatan'] + ' | ' if by_eps[eps]['catatan'] else '') + note
         written += 1
     with open(args.tracker, 'w', encoding='utf-8-sig', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=fields, quoting=csv.QUOTE_ALL, lineterminator=newline)
+        w = csv.DictWriter(f, fieldnames=fields, quoting=csv.QUOTE_ALL, lineterminator=newline,
+                           extrasaction='ignore')
         w.writeheader()
         w.writerows(tracker)
     print(f'\n{written} episode diperbarui di {args.tracker}')
