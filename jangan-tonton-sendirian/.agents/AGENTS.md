@@ -68,10 +68,15 @@ Keputusan dasar (11 Okt 2026, dipilih pengguna): format creepypasta naratif (buk
 Setiap episode WAJIB punya `prompts_flow/season_X/prompt_eps_XX_[slug].txt` berisi 6 bagian:
 
 1. **[1] VIDEO TITLE & HEADLINE**: Judul Utama, Clicky Video Headline, Single Video Title.
-2. **[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)**:
-   - Target engine: **Google AI Flow (Veo 3.1)**, 9:16, 3-4 detik, terbuka langsung di frame pertama, latar lingkungan penuh, dan negative constraint (`no plain white background, no studio void`).
-   - Bila ada suara atau dialog di hook (bisikan, panggilan nama, nyanyian pelan), tulis kalimatnya eksplisit dalam **Bahasa Indonesia** (mis. `whispering softly in Indonesian: "..." with clear Indonesian spoken audio`).
-   - Tambahkan `[english speech, english audio, western accent, english dialogue, subtitles, english text]` ke Negative Prompt.
+2. **[2] AI VIDEO GENERATOR PROMPT (IMAGE TO VIDEO - 3-SECOND HOOK)**: proyek ini memakai **image-to-video**, bukan text-to-video (keputusan pengguna 11 Okt 2026). Tulis dua bagian:
+   - **[2A] Frame awal** (Google Flow Image / Imagen, 9:16): frasa pengunci gaya, latar lingkungan penuh, dan negative gambar. Sebutkan aset karakter dari `character/season1/` sebagai referensi bila fitur referensi tersedia.
+   - **[2B] Motion prompt** (Veo 3.1 mode Frames to Video, frame awal = gambar 2A):
+     - Buka dengan `Use the provided image as the first frame. Keep the same [tokoh], clothing and setting exactly as in the image; do not add any new person.`
+     - Isinya hanya gerakan, kamera, dan audio berdasarkan detik, tanpa mendeskripsikan ulang penampilan tokoh dengan kata-kata yang berbeda.
+   - **Aturan utama I2V**: semua yang terlihat di klip HARUS sudah ada di frame awal. Tokoh yang baru muncul di tengah klip akan dikarang ulang oleh Veo dan wajahnya tidak sama dengan aset. Untuk reveal, letakkan tokoh di latar belakang yang blur lalu pakai rack focus atau push-in, jangan pull back ke ruang yang tidak ada di gambar.
+   - Bila ada suara atau dialog (bisikan, panggilan nama, nyanyian pelan), tulis kalimatnya eksplisit dalam **Bahasa Indonesia** (mis. `whispers softly in Indonesian: "..." with clear Indonesian spoken audio`).
+   - **Negative 2B** wajib memuat `[face morphing, identity change, different face, new characters, extra people, scene change, camera cut]` ditambah `[english speech, english audio, western accent, english dialogue, subtitles, english text]`.
+   - Klip Veo berdurasi 8 detik; untuk hook dipakai detik 0-4.
 3. **[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)**: Google Imagen / Flow Image, versi 9:16 dan 16:9, mencekam, tanpa teks di gambar.
 4. **[4] AI CHARACTER GENERATOR PROMPTS**:
    - Latar transparan (`isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery`).

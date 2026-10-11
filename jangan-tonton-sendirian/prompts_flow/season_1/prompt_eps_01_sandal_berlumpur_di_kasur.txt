@@ -5,16 +5,26 @@
 - Single Video Title: Jangan Tonton Sendirian Eps 01 - Sandal Berlumpur di Atas Kasurku & Tetangga yang Terlalu Baik
 
 ===================================================================
-[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
-Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
-Rasio: 9:16 Vertical
-Durasi: 3-4 Detik Looping Motion
+[2] AI VIDEO GENERATOR PROMPT (IMAGE TO VIDEO - 3-SECOND HOOK)
+Alur: 2A buat frame awal (gambar) → 2B gerakkan dengan Veo 3.1 mode Frames to Video (frame awal = gambar 2A).
+Rasio: 9:16 Vertical | Durasi klip Veo 8 detik, yang dipakai untuk hook detik 0-4.
+Aturan I2V: semua yang terlihat di klip HARUS sudah ada di frame awal. Tokoh yang baru muncul di tengah klip akan dikarang ulang oleh Veo dan wajahnya tidak akan sama dengan aset karakter.
 -------------------------------------------------------------------
-Prompt:
-Cinematic semi-realistic horror style, near-photorealistic, realistic human proportions and natural skin texture, soft film grain, low-key moody lighting, modern Indonesian domestic setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. Extreme close-up of a pair of green flip-flop sandals with yellow straps, caked with wet red clay mud, lying in the middle of a neatly made bed with a blue floral bedsheet inside a small bedroom of a modest Indonesian housing-complex home at grey dusk, a standing electric fan and a curtained window behind; a drop of red mud slowly falls and stains the sheet. The camera pulls back to reveal a 28-year-old Indonesian young mother with a round gentle face, big eyes, a plain light-brown instant hijab and a dark blue batik house dress, frozen in the bedroom doorway while holding a sleeping chubby baby girl in a yellow romper close to her chest. At exactly second 1.5, she whispers softly and fearfully in Indonesian: "Sandal siapa ini...?" with clear, soft Indonesian spoken audio starting right at 1.5 seconds, and the standing fan suddenly stops spinning. Smooth cinematic camera motion, cold grey dusk light, deep shadows, quiet tense atmosphere, full environmental depth, realistic home interior details, no plain white background, no blank studio backdrop.
+[2A] FRAME AWAL (Google Flow Image / Imagen, 9:16)
+Sertakan aset Laras Option A dan Kinan dari `character/season1/` sebagai gambar referensi bila fitur referensi tersedia.
 
-[Negative Prompt]
-[slow motion, static image, frozen frame, no movement, still picture, cartoon, anime, claymation, plastic toy look, distorted face, extra fingers, deformed hands, gore, blood, injury, violence, readable text, numbers, clock, phone screen, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+Prompt:
+Cinematic semi-realistic horror style, near-photorealistic, realistic human proportions and natural skin texture, soft film grain, low-key moody lighting, modern Indonesian domestic setting. Vertical 9:16 frame, low camera at the foot of a neatly made bed with a blue floral bedsheet in a small bedroom of a modest Indonesian housing-complex home at grey dusk. In sharp focus in the foreground, a pair of green flip-flop sandals with yellow straps, caked with wet red clay mud, lies in the middle of the bed, a fresh red mud stain spreading on the sheet. In the softly blurred background, framed by the open bedroom doorway, a 28-year-old Indonesian young mother with a round gentle face, big eyes, a plain light-brown instant hijab and a dark blue batik house dress stands frozen, holding a sleeping chubby baby girl in a yellow romper close to her chest. A standing electric fan and a curtained window at the side, cold grey dusk light, deep shadows, realistic home interior details, quiet tense atmosphere.
+
+[Negative Prompt 2A]
+[cartoon, anime, claymation, plastic toy look, distorted face, extra fingers, deformed hands, celebrity likeness, gore, blood, injury, readable text, numbers, clock, phone screen, watermark, plain white background, studio void, blank backdrop]
+
+[2B] MOTION PROMPT (Google Veo 3.1 - Frames to Video, frame awal = gambar 2A)
+Prompt:
+Use the provided image as the first frame. Keep the same woman, the same baby, the same clothing, the same sandals and the same bedroom exactly as in the image; do not add any new person. Starting immediately at second 0.0: a slow cinematic push-in toward the muddy sandals while a single drop of red mud slides off a strap and soaks into the blue floral sheet. At second 1.0, a smooth rack focus shifts from the sandals to the woman in the doorway, her face becoming sharp: her eyes widen and she pulls the sleeping baby tighter to her chest. At exactly second 1.5, she whispers softly and fearfully in Indonesian: "Sandal siapa ini...?" with clear, soft Indonesian spoken audio, and at the same moment the standing fan beside the window slows down and stops. Subtle natural movement only, quiet room tone, cold grey dusk light, tense horror atmosphere.
+
+[Negative Prompt 2B]
+[face morphing, identity change, different face, new characters, extra people, scene change, camera cut, cartoon, anime, claymation, distorted face, extra fingers, deformed hands, gore, blood, readable text, subtitles, english speech, english audio, western accent, english dialogue, english text]
 
 ===================================================================
 [3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
