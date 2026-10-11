@@ -7,13 +7,19 @@ Fase Hidup Narator: Rumah cicilan di perumahan baru (fase 4), sebulan setelah pi
 Sumber Trope: "Orang yang terlalu baik" (tetangga dengan kebiasaan janggal) + "penyusup yang punya kunci". Dilokalkan ke kebiasaan menitipkan kunci cadangan ke tetangga saat pindahan.
 Kejanggalan Hook (bank-ide.md, keandalan tinggi): sepasang sandal berlumpur di atas kasur, artinya ada yang berbaring di sana dengan kaki kotor dari luar.
 
-Kunci Twist: Sandal yang sama (hijau bertali kuning, berlumpur tanah merah kompleks) berpindah dari kantong plastik di dalam rumah Laras ke teras Bu Ratna dalam satu malam, sementara pintu depan terdengar dikunci dari luar memakai kunci. Satu gambar: sandal itu berjajar rapi di teras tetangga. Satu kalimat: "Sandal dari atas kasurku." Penonton digiring mengira hantu (pintu terkunci, sandal muncul sendiri), lalu dibalik menjadi ancaman manusia.
+Kunci Twist: Sandal yang sama (hijau bertali kuning, berlumpur tanah merah kompleks) berpindah dari kantong plastik di dalam rumah Laras ke teras Bu Ratna dalam satu malam, sementara pintu depan terdengar dikunci dari luar memakai kunci. Satu gambar: sandal itu berjajar di teras tetangga. Satu kalimat: "Artinya, sore itu, saat aku pulang, dia masih di dalam rumahku." Penonton digiring mengira hantu (pintu terkunci, sandal muncul sendiri), lalu dibalik menjadi ancaman manusia yang ternyata masih bersembunyi di rumah saat Laras pulang.
 
 Cek Logika (jangan-tonton-sendirian/.agents/AGENTS.md + skill jts-idea-hunter §3):
 1. Kenapa Laras tidak lari atau minta tolong? Ia menelepon Mas Bayu dua kali (Shot 2 dan Shot 5-6). Saat ada langkah di dalam rumah, pilihan teraman dengan bayi di pelukan adalah mengunci diri di kamar, dan itu yang dilakukannya atas arahan suaminya.
 2. Kenapa tidak ada yang tahu? Mas Bayu shift malam, kompleks baru masih sepi, dan Laras sungkan menagih kunci ke tetangga yang selalu baik padanya.
 3. Kenapa rumah baru punya kunci cadangan di tangan orang lain? Laras sendiri yang menitipkannya ke Bu Ratna saat pindahan untuk membukakan pintu bagi tukang angkut.
-4. Kontinuitas narator tetap: tidak bertentangan dengan character bible (fase 4, Mas Bayu satpam shift malam, Kinan sudah lahir). Pelaku adalah tokoh sekali tampil (Bu Ratna), bukan tetangga tetap Bu Wati.
+4. Penjelasan manusia untuk setiap kejadian "mustahil" (wajib Tipe B):
+   - Sandal di kasur: Bu Ratna masuk memakai kunci cadangan dan berbaring di kasur Laras. Ia masih di dalam saat Laras pulang, sempat bersembunyi, lalu kabur tanpa alas kaki tanpa sempat mengambil sandalnya.
+   - Pintu masih terkunci: Bu Ratna mengunci pintu dari dalam memakai kunci cadangan.
+   - Tahu motif sprei: ia sudah melihatnya dari kasur itu sendiri.
+   - Kunjungan malam: ia kembali memakai kunci yang sama untuk mengambil sandal yang menjadi bukti di kantong plastik dekat pintu.
+5. Kenapa Mas Bayu tidak bertindak: pagi harinya Laras bercerita, tapi Mas Bayu menganggapnya terlalu curiga lalu berangkat shift lagi (Shot 4).
+6. Kontinuitas narator tetap: tidak bertentangan dengan character bible (fase 4, Mas Bayu satpam shift malam, Kinan sudah lahir). Pelaku adalah tokoh sekali tampil (Bu Ratna), bukan tetangga tetap Bu Wati.
 
 Cek Etika (AGENTS §5.4): fiksi murni tanpa nama orang, tempat, atau kasus sungguhan; tidak ada kekerasan yang ditampilkan (penyusup hanya bayangan kaki dan suara, Bu Ratna tidak pernah terlihat di dalam rumah); Kinan selalu aman di pelukan ibunya dan bukan pusat ancaman, jadi jatah bayi tidak terpakai; keluarga inti bukan pelaku; tanpa benda ibadah, tanpa stereotip suku atau daerah.
 
@@ -40,13 +46,13 @@ Kami baru sebulan pindah ke perumahan ini. Jalannya belum diaspal, tanah merahny
 
 Besok paginya, Bu Ratna, tetangga sebelah yang paling ramah, mengantar sepiring kue lapis. "Sprei barunya cantik ya, Jeng. Yang motif bunga biru itu." Aku tersenyum kaku. Sprei itu baru kupasang kemarin, dan Bu Ratna belum pernah masuk kamarku. Jantungku berdegup.
 
-Aku teringat sesuatu. Waktu pindahan, aku menitipkan kunci cadangan ke Bu Ratna, supaya ia bisa membukakan pintu untuk tukang angkut. Aku lupa memintanya kembali. Mau menagih, aku sungkan. Dia begitu baik, selalu mengirim makanan. Malam itu Mas Bayu shift lagi.
+Lalu aku teringat. Waktu pindahan, kunci cadangan kutitipkan ke Bu Ratna, untuk membukakan pintu bagi tukang angkut. Aku lupa memintanya kembali, dan sungkan menagih. Dia begitu baik, selalu mengirim makanan. Mas Bayu bilang aku terlalu curiga, lalu berangkat shift lagi.
 
 Tengah malam, aku terbangun. Ada langkah pelan di ruang tengah, makin dekat. Kreek. Kreek. Gagang pintu kamarku bergerak turun, lalu naik lagi. Napasku tertahan. Aku memeluk Kinan dan memutar kunci kamar. Dengan tangan gemetar, aku menelepon Mas Bayu sambil berbisik.
 
 "Jangan keluar kamar, Dik. Mas pulang sekarang," kata Mas Bayu di telepon. Langkah itu berhenti di depan pintuku, lama sekali, lalu perlahan menjauh. Pintu depan terbuka, lalu tertutup. Klik kecil. Dikunci dari luar. Siapa pun dia, dia punya kunci rumahku.
 
-Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Sandal itu hilang. Saat kami membuka pintu untuk mencarinya, aku membeku. Di teras Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning. Masih berlumpur. Sandal dari atas kasurku.
+Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Saat kami membuka pintu, aku membeku. Di teras Bu Ratna, berjajar sandal jepit hijau bertali kuning. Masih berlumpur. Artinya, sore itu, saat aku pulang, dia masih di dalam rumahku.
 
 Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk pintu, tersenyum, membawa sepiring kue. "Lho, Jeng, kok kuncinya diganti?" Bagaimana dia tahu? Kalau kamu jadi aku: lapor Pak RT, ketik satu. Atau pura-pura tidak tahu, ketik dua.
 
@@ -69,7 +75,7 @@ Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk
   - Audio/SFX: Suara pagi kompleks (motor lewat jauh), denting piring, BGM menegang tipis saat Bu Ratna menyebut sprei, detak jantung pelan.
 
 - Shot 4 (60-80s) - KUNCI CADANGAN:
-  - Visual: Kilas balik berwarna pudar: hari pindahan, tumpukan kardus, siluet tukang angkut dari belakang, Laras menyerahkan satu anak kunci kepada Bu Ratna yang tersenyum. Kembali ke masa kini: paku gantungan kunci di dekat pintu yang hanya berisi satu kunci.
+  - Visual: Kilas balik berwarna pudar: hari pindahan, tumpukan kardus, siluet tukang angkut dari belakang, Laras menyerahkan satu anak kunci kepada Bu Ratna yang tersenyum. Kembali ke masa kini: paku gantungan kunci di dekat pintu yang hanya berisi satu kunci. Mas Bayu berseragam menepuk bahu Laras sambil tersenyum menenangkan, lalu berangkat kerja.
   - Efek CapCut: Filter sepia + Blur tepi untuk kilas balik, transisi Fade kembali ke warna normal, Zoom-in ke paku gantungan kunci, teks "KUNCI CADANGAN... MASIH DI DIA".
   - Audio/SFX: Gemerincing kunci (kilas balik bergema), keheningan, BGM turun.
 
@@ -85,7 +91,7 @@ Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk
 
 - Shot 7 (120-140s) - TWIST:
   - Visual: Subuh biru kelabu. Mas Bayu mengangkat kantong kresek merah di dekat pintu: kosong. Mereka membuka pintu depan. Wide reveal: di teras sebelah, di depan pintu Bu Ratna, berjajar rapi sandal jepit hijau bertali kuning yang masih berlumpur. Laras membeku.
-  - Efek CapCut: Whip pan dari kantong kosong ke pintu depan, lalu Slow push-in ke sandal di teras Bu Ratna, highlight lingkaran merah tipis di sandal (Overlay), teks "SANDAL DARI ATAS KASURKU".
+  - Efek CapCut: Whip pan dari kantong kosong ke pintu depan, lalu Slow push-in ke sandal di teras Bu Ratna, highlight lingkaran merah tipis di sandal (Overlay), lalu teks "DIA MASIH DI DALAM RUMAHKU" saat kalimat terakhir.
   - Audio/SFX: Gemerisik kantong kosong, pintu dibuka, stinger keras saat sandal terlihat, lalu drone rendah.
 
 - Shot 8 (140-160s) - EPILOG & PERTANYAAN DUA KUBU:

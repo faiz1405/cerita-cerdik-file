@@ -42,6 +42,7 @@ Jawab setiap pertanyaan berikut dalam satu kalimat narasi. Kalau ada yang tidak 
 2. Kenapa orang lain di rumah (suami, mertua, tetangga) tidak menyadarinya?
 3. Apakah twist bisa dipahami dari satu gambar tanpa penjelasan tambahan?
 4. Apakah twist bertentangan dengan fakta narator di episode lain?
+5. **Khusus Tipe B/Kriminal**: apakah setiap kejadian yang tampak "mustahil" di awal (pintu terkunci, benda muncul sendiri, orang lain tahu hal pribadi) punya penjelasan manusia yang bisa disimpulkan penonton: siapa, bagaimana masuk, dan kenapa meninggalkan jejak? Contoh Eps 01: sandal tertinggal di kasur karena pelakunya masih di dalam rumah saat narator pulang, lalu kabur tanpa sempat mengambilnya.
 
 ## 4. Format Output
 

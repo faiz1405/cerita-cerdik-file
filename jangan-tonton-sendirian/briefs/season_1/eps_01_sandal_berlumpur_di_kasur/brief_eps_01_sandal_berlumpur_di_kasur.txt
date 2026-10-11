@@ -48,9 +48,9 @@ Tiktok
 
   - **Shot 4**: Flashback lalu Close Up (*Eskalasi 2 - Kunci Cadangan*).
     ENVIRONMENT: DAY (kilas balik hari pindahan, warna pudar) lalu AFTERNOON di ruang tengah.
-    SUBJECT: Laras, Bu Ratna, tukang angkut (siluet, punggung saja), kardus pindahan.
-    ACTION: Kilas balik bertepi buram: Laras menyerahkan satu anak kunci kepada Bu Ratna yang tersenyum di tengah tumpukan kardus. Kembali ke masa kini: Laras menatap paku gantungan kunci di dekat pintu yang hanya berisi satu kunci, lalu menggigit bibir.
-    NARASI: "Aku teringat sesuatu. Waktu pindahan, aku menitipkan kunci cadangan ke Bu Ratna, supaya ia bisa membukakan pintu untuk tukang angkut. Aku lupa memintanya kembali. Mau menagih, aku sungkan. Dia begitu baik, selalu mengirim makanan. Malam itu Mas Bayu shift lagi."
+    SUBJECT: Laras, Bu Ratna, tukang angkut (siluet, punggung saja), kardus pindahan, Mas Bayu berseragam satpam.
+    ACTION: Kilas balik bertepi buram: Laras menyerahkan satu anak kunci kepada Bu Ratna yang tersenyum di tengah tumpukan kardus. Kembali ke masa kini: Laras menatap paku gantungan kunci di dekat pintu yang hanya berisi satu kunci. Mas Bayu menepuk bahunya sambil tersenyum menenangkan, lalu berangkat kerja; Laras menggigit bibir.
+    NARASI: "Lalu aku teringat. Waktu pindahan, kunci cadangan kutitipkan ke Bu Ratna, untuk membukakan pintu bagi tukang angkut. Aku lupa memintanya kembali, dan sungkan menagih. Dia begitu baik, selalu mengirim makanan. Mas Bayu bilang aku terlalu curiga, lalu berangkat shift lagi."
     Dark clay stop-motion, vertical 9:16.
 
   - **Shot 5**: Close Up & Low Angle (*Eskalasi 3 - Langkah di Dalam Rumah*).
@@ -71,7 +71,7 @@ Tiktok
     ENVIRONMENT: DAWN. Ruang tengah dekat pintu depan, lalu teras rumah di bawah langit subuh biru kelabu, jalan tanah merah yang basah.
     SUBJECT: Laras, Mas Bayu (seragam satpam), kantong kresek merah yang kosong, teras Bu Ratna.
     ACTION: Mas Bayu mengangkat kantong kresek merah di dekat pintu: kosong. Laras dan Mas Bayu membuka pintu depan. Wide reveal: di teras sebelah, di depan pintu Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning yang masih berlumpur tanah merah. Laras membeku.
-    NARASI: "Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Sandal itu hilang. Saat kami membuka pintu untuk mencarinya, aku membeku. Di teras Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning. Masih berlumpur. Sandal dari atas kasurku."
+    NARASI: "Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Saat kami membuka pintu, aku membeku. Di teras Bu Ratna, berjajar sandal jepit hijau bertali kuning. Masih berlumpur. Artinya, sore itu, saat aku pulang, dia masih di dalam rumahku."
     Dark clay stop-motion, vertical 9:16.
 
   - **Shot 8**: Medium Shot lalu Close Up (*Epilog & Pertanyaan Dua Kubu*).
@@ -91,7 +91,7 @@ Kami baru sebulan pindah ke perumahan ini. Jalannya belum diaspal, tanah merahny
 Besok paginya, Bu Ratna, tetangga sebelah yang paling ramah, mengantar sepiring kue lapis. "Sprei barunya cantik ya, Jeng. Yang motif bunga biru itu." Aku tersenyum kaku. Sprei itu baru kupasang kemarin, dan Bu Ratna belum pernah masuk kamarku. Jantungku berdegup.
 <break time="1.0s"/>
 
-Aku teringat sesuatu. Waktu pindahan, aku menitipkan kunci cadangan ke Bu Ratna, supaya ia bisa membukakan pintu untuk tukang angkut. Aku lupa memintanya kembali. Mau menagih, aku sungkan. Dia begitu baik, selalu mengirim makanan. Malam itu Mas Bayu shift lagi.
+Lalu aku teringat. Waktu pindahan, kunci cadangan kutitipkan ke Bu Ratna, untuk membukakan pintu bagi tukang angkut. Aku lupa memintanya kembali, dan sungkan menagih. Dia begitu baik, selalu mengirim makanan. Mas Bayu bilang aku terlalu curiga, lalu berangkat shift lagi.
 <break time="1.0s"/>
 
 Tengah malam, aku terbangun. Ada langkah pelan di ruang tengah, makin dekat. Kreek. Kreek. Gagang pintu kamarku bergerak turun, lalu naik lagi. Napasku tertahan. Aku memeluk Kinan dan memutar kunci kamar. Dengan tangan gemetar, aku menelepon Mas Bayu sambil berbisik.
@@ -100,7 +100,7 @@ Tengah malam, aku terbangun. Ada langkah pelan di ruang tengah, makin dekat. Kre
 "Jangan keluar kamar, Dik. Mas pulang sekarang," kata Mas Bayu di telepon. Langkah itu berhenti di depan pintuku, lama sekali, lalu perlahan menjauh. Pintu depan terbuka, lalu tertutup. Klik kecil. Dikunci dari luar. Siapa pun dia, dia punya kunci rumahku.
 <break time="1.0s"/>
 
-Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Sandal itu hilang. Saat kami membuka pintu untuk mencarinya, aku membeku. Di teras Bu Ratna, berjajar rapi sepasang sandal jepit hijau bertali kuning. Masih berlumpur. Sandal dari atas kasurku.
+Subuh, Mas Bayu pulang. Kantong plastik di dekat pintu sudah kosong. Saat kami membuka pintu, aku membeku. Di teras Bu Ratna, berjajar sandal jepit hijau bertali kuning. Masih berlumpur. Artinya, sore itu, saat aku pulang, dia masih di dalam rumahku.
 <break time="1.0s"/>
 
 Hari itu, diam-diam, kami mengganti semua kunci. Sore harinya, Bu Ratna mengetuk pintu, tersenyum, membawa sepiring kue. "Lho, Jeng, kok kuncinya diganti?" Bagaimana dia tahu? Kalau kamu jadi aku: lapor Pak RT, ketik satu. Atau pura-pura tidak tahu, ketik dua.
@@ -114,7 +114,7 @@ Ambient horror tunggal yang dingin dan pelan (drone rendah + dengung listrik sam
 # [subtitleInfo]
 {
     "subtitleId": "[ISI: ID gaya subtitle CapCut]",
-    "subtitlePrompt": "Clean bold off-white subtitles with eerie desaturated blood-red highlights on key phrases: 'sandal berlumpur di atas kasurku', 'bukan milik siapa pun', 'belum pernah masuk kamarku', 'kunci cadangan', 'Gagang pintu kamarku bergerak', 'dia punya kunci rumahku', 'teras Bu Ratna', 'kok kuncinya diganti', 'Bagaimana dia tahu'"
+    "subtitlePrompt": "Clean bold off-white subtitles with eerie desaturated blood-red highlights on key phrases: 'sandal berlumpur di atas kasurku', 'bukan milik siapa pun', 'belum pernah masuk kamarku', 'kunci cadangan', 'Gagang pintu kamarku bergerak', 'dia punya kunci rumahku', 'teras Bu Ratna', 'dia masih di dalam rumahku', 'kok kuncinya diganti', 'Bagaimana dia tahu'"
 }
 
 # [characters]
