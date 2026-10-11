@@ -1,6 +1,6 @@
 ---
 name: jts-idea-hunter
-description: KHUSUS proyek horror Jangan Tonton Sendirian (folder jangan-tonton-sendirian/) - BUKAN untuk Cerita Cerdik/Ki Udin (pakai idea-hunter). Mencari, menyaring, dan mengecek premis creepypasta rumah tangga yang diceritakan narator tetap seorang ibu muda, memakai bank kejanggalan dan bank premis proyek, supaya tidak mengulang episode yang ada, aman diproduksi dengan AI claymation, dan lolos batas etika. Gunakan SETIAP KALI pengguna minta ide/premis/episode horror Jangan Tonton Sendirian, minta "eps selanjutnya" saat bekerja di folder jangan-tonton-sendirian, menilai apakah premis horror bagus, merencanakan season horror, atau sebelum menulis brief horror baru.
+description: KHUSUS proyek horror Jangan Tonton Sendirian (folder jangan-tonton-sendirian/) - BUKAN untuk Cerita Cerdik/Ki Udin (pakai idea-hunter). Mencari, menyaring, dan mengecek premis creepypasta rumah tangga yang diceritakan narator tetap seorang ibu muda, memakai bank kejanggalan dan bank premis proyek, supaya tidak mengulang episode yang ada, aman diproduksi dengan AI bergaya semi-realistis, dan lolos batas etika. Gunakan SETIAP KALI pengguna minta ide/premis/episode horror Jangan Tonton Sendirian, minta "eps selanjutnya" saat bekerja di folder jangan-tonton-sendirian, menilai apakah premis horror bagus, merencanakan season horror, atau sebelum menulis brief horror baru.
 ---
 
 # JTS Idea Hunter (Jangan Tonton Sendirian)
@@ -31,7 +31,7 @@ Masalah yang diselesaikan: halaman horror ini baru mulai, stok kejanggalan di ba
 | H1 | **Keanehan terbayang dalam 1 kalimat dan terlihat dalam 1 gambar** | Penonton langsung bertanya "kok bisa?" di 3 detik pertama, dan keanehannya sudah diucapkan di narasi Shot 1 |
 | H2 | **Dekat dengan rutinitas ibu muda** | Terjadi di dapur, jemuran, kamar mandi, kamar bayi, rumah mertua, kontrakan, belanja, atau urusan ART/tetangga |
 | H3 | **Twist terbaca lewat satu gambar + satu kalimat** | Tidak butuh penjelasan ala detektif (pelajaran Cerita Cerdik: episode investigasi Eps 47-50 hanya 4-7 ribu reach, bukti lemah karena beda halaman) |
-| H4 | **Aman diproduksi & etis** | AI bisa menggambarnya tanpa teks/hitungan/angka/jam; entitas tanpa wajah jelas; lolos AGENTS proyek §5.4 (fiksi, kekerasan tersirat, bayi selamat, keluarga inti bukan pelaku, benda ibadah dihormati) |
+| H4 | **Aman diproduksi & etis** | AI bisa menggambarnya tanpa teks/hitungan/angka/jam dan tanpa bergantung pada detail wajah; entitas tanpa wajah jelas; lolos AGENTS proyek §5.4 (fiksi, kekerasan tersirat, bayi selamat, keluarga inti bukan pelaku, benda ibadah dihormati) |
 
 Risiko tinggi (bukan larangan, beri label risiko): kasus nyata yang mirip berita kriminal, pamali yang belum pasti dikenal nasional, premis yang bergantung pada layar HP/teks, dan bayi sebagai pusat ancaman (maksimal 1 dari 4 episode).
 

@@ -2,7 +2,7 @@
 Judul Episode: Sandal Berlumpur di Atas Kasurku (Tipe B/Kriminal)
 Target Platform: Facebook Reels, Instagram Reels, TikTok
 Target Durasi: 160 Detik (320 kata, 7 jeda 1.0s, TTS speed 1.0, estimasi validator ±170s → target render ±150-160s; estimasi masih sementara sampai suara TTS narator dipastikan)
-Gaya Visual: Dark Eerie Claymation (Clay Animation)
+Gaya Visual: Sinematik Semi-Realistis Gelap (hampir nyata)
 Fase Hidup Narator: Rumah cicilan di perumahan baru (fase 4), sebulan setelah pindah. Kinan berusia 10 bulan.
 Sumber Trope: "Orang yang terlalu baik" (tetangga dengan kebiasaan janggal) + "penyusup yang punya kunci". Dilokalkan ke kebiasaan menitipkan kunci cadangan ke tetangga saat pindahan.
 Kejanggalan Hook (bank-ide.md, keandalan tinggi): sepasang sandal berlumpur di atas kasur, artinya ada yang berbaring di sana dengan kaki kotor dari luar.
@@ -26,6 +26,8 @@ Cek Etika (AGENTS §5.4): fiksi murni tanpa nama orang, tempat, atau kasus sungg
 Catatan Produksi:
 - Persona narator memakai usulan CHARACTER_BIBLE (disetujui sementara 11 Okt 2026, karena pengguna melanjutkan tanpa perubahan).
 - ID TTS, BGM, dan gaya subtitle masih `[ISI ...]`. Wajib diisi sebelum brief di-copy ke CapCut.
+- Gaya visual diganti dari claymation ke semi-realistis (11 Okt 2026, permintaan pengguna). Buat aset karakter lebih dulu dan pakai sebagai referensi di setiap klip agar wajah Laras, Mas Bayu, dan Bu Ratna tidak berubah antar-shot.
+- Aktifkan label konten AI saat posting (visual realistis buatan AI).
 - Sandal hijau bertali kuning adalah penanda identitas lintas shot; bila hasil AI berbeda warna antar-shot, perbaiki dengan overlay atau color grading di CapCut.
 
 ===================================================================
@@ -124,7 +126,7 @@ Lapor Pak RT (Ketik 1) atau pura-pura tidak tahu (Ketik 2)?
 
 📌 Klik tombol [ IKUTI / FOLLOW ] di profil @jangantontonsendirian agar tidak ketinggalan cerita seram berikutnya!
 
-#JanganTontonSendirian #CeritaHoror #HororIndonesia #CreepypastaIndonesia #SandalBerlumpurDiKasurku #AnimasiIndonesia #ReelsIndonesia
+#JanganTontonSendirian #CeritaHoror #HororIndonesia #CreepypastaIndonesia #SandalBerlumpurDiKasurku #CeritaSeram #ReelsIndonesia
 
 --- TIKTOK VIDEO CAPTION ---
 Ada sandal berlumpur di kasurku... padahal pintu masih terkunci 😨🔑 Dan tetangga sebelah tahu motif spreiku.
@@ -134,7 +136,7 @@ Ada sandal berlumpur di kasurku... padahal pintu masih terkunci 😨🔑 Dan tet
 #JanganTontonSendirian #CeritaHoror #HororIndonesia #SandalBerlumpurDiKasurku #fyp #foryou
 
 --- META BUSINESS SUITE KEYWORDS (Search Tags Tanpa Tanda Pagar) ---
-jangan tonton sendirian, cerita horor, creepypasta indonesia, horor rumah tangga, tetangga misterius, kunci cadangan, rumah baru, perumahan baru, ibu muda, suami shift malam, sandal berlumpur, penyusup, cerita seram ibu rumah tangga, animasi claymation horor
+jangan tonton sendirian, cerita horor, creepypasta indonesia, horor rumah tangga, tetangga misterius, kunci cadangan, rumah baru, perumahan baru, ibu muda, suami shift malam, sandal berlumpur, penyusup, cerita seram ibu rumah tangga, video horor ai, cerita seram rumah tangga
 
 ===================================================================
 [5] PINNED COMMENT & SHOPEE AFFILIATE (KOMISI EKSTRA)

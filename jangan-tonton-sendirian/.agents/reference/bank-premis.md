@@ -18,7 +18,7 @@ Kandidat Eps 01 yang tidak dipilih (11 Okt 2026). Ringkasan di bawah sudah cukup
 
 ## Ditolak (beserta alasan)
 
-- **Format "Cari Yang Janggal" sebagai episode utuh** (11 Okt 2026): diganti format creepypasta. Kejanggalan dalam claymation cenderung terlihat lucu, bukan mencekam, dan format dengan 30 detik tanpa narasi belum pernah teruji. Draf Eps 01 "Teman Tidur Baru" (guling putih terikat) dihapus; motif guling putih masih boleh dipakai sebagai hook.
+- **Format "Cari Yang Janggal" sebagai episode utuh** (11 Okt 2026): diganti format creepypasta. Kejanggalan dalam claymation cenderung terlihat lucu, bukan mencekam, dan format dengan 30 detik tanpa narasi belum pernah teruji. (Catatan: alasan "terlihat lucu dalam claymation" tidak berlaku lagi sejak gaya visual diganti ke semi-realistis pada 11 Okt 2026; alasan pipeline naratif yang sudah teruji tetap berlaku.) Draf Eps 01 "Teman Tidur Baru" (guling putih terikat) dihapus; motif guling putih masih boleh dipakai sebagai hook.
 
 ## Sumber trope (ambil mekaniknya, lokalkan ke rumah tangga Indonesia)
 

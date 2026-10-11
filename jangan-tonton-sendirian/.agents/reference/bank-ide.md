@@ -1,6 +1,6 @@
 # Bank Ide Kejanggalan
 
-> **Peran di format creepypasta (ditambahkan 11 Okt 2026):** sejak format inti diganti dari "Cari Yang Janggal" menjadi creepypasta rumah tangga, bank ini dipakai sebagai **bank kejanggalan**, yaitu sumber gambar hook (Shot 1) dan petunjuk di tengah cerita, bukan episode utuh. Tingkat keandalan di bawah ditulis untuk adegan fotorealistis full-AI. Dengan gaya claymation, batas *wajah* lebih longgar (wajah clay sudah aman di Cerita Cerdik), tetapi batas **hitungan, teks, angka, dan jarum jam tetap berlaku**. Premis cerita dan riwayat pemakaiannya dicatat di `bank-premis.md`.
+> **Peran di format creepypasta (ditambahkan 11 Okt 2026):** sejak format inti diganti dari "Cari Yang Janggal" menjadi creepypasta rumah tangga, bank ini dipakai sebagai **bank kejanggalan**, yaitu sumber gambar hook (Shot 1) dan petunjuk di tengah cerita, bukan episode utuh. Tingkat keandalan di bawah ditulis untuk adegan fotorealistis full-AI dan **berlaku penuh**, karena gaya visual proyek ini sinematik semi-realistis (hampir nyata): **hitungan, teks, angka, jarum jam, dan wajah** tidak boleh menjadi inti kejanggalan. Premis cerita dan riwayat pemakaiannya dicatat di `bank-premis.md`.
 
 Ide disusun berdasarkan seberapa andal generator AI bisa menggambarnya, bukan berdasarkan seberapa seram. Ide seram yang gagal di-generate tidak berguna.
 

@@ -7,8 +7,8 @@ Panduan konsistensi tokoh untuk prompt AI (Google Flow / Imagen / CapCut) dan na
 ---
 
 ## 1. Aturan Visual Global
-- **Frasa pembuka**: `Consistent dark eerie claymation style, soft plasticine clay texture, handcrafted stop-motion animation, modern Indonesian domestic setting, low-key moody lighting`
-- **Negative**: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no gore, no blood, no corpse, no readable text, no numbers, no clock hands, no white studio background, no blank void]`
+- **Frasa pembuka**: `Cinematic semi-realistic horror style, near-photorealistic, realistic human proportions and natural skin texture, soft film grain, low-key moody lighting, modern Indonesian domestic setting`
+- **Negative**: `[no cartoon, no anime, no claymation, no plastic toy look, no video game render, no gore, no blood, no corpse, no distorted face, no extra fingers, no deformed hands, no celebrity likeness, no readable text, no numbers, no clock hands, no watermark, no white studio background, no blank void]`
 - **Register cahaya default**: malam dengan lampu kuning redup dan bayangan panjang; siang hari hanya untuk adegan "normal" (Shot 2) agar kontrasnya terasa.
 
 ---
@@ -48,6 +48,7 @@ Bayi baru ada sejak fase 3, sehingga tidak semua episode melibatkan bayi.
 ---
 
 ## 5. Aturan Penerapan
+- **Referensi wajah**: gaya visual hampir nyata (sejak 11 Okt 2026), jadi wajah mudah berubah antar-generate. Simpan aset tokoh pertama yang disetujui di `character/season1/` dan pakai sebagai referensi di setiap generate berikutnya.
 - **DO**: aset tokoh selalu `empty hands` dan berlatar transparan (`isolated on clean transparent background, clean alpha cutout`) agar mudah dianimasikan dengan properti CapCut.
 - **DON'T**: wajah tidak boleh berdarah, kotor, atau terluka di base render; noda, bayangan, dan efek lewat overlay CapCut.
 - **Keluarga inti** (Laras, Mas Bayu, Kinan) tidak pernah menjadi pelaku kejahatan atau KDRT dan tidak pernah ditampilkan celaka (AGENTS §5.4).

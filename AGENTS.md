@@ -5,7 +5,7 @@ Repo ini berisi dua proyek konten. **Baca aturan proyek yang sedang dikerjakan s
 | Proyek | Folder | Aturan lengkap |
 |---|---|---|
 | Cerita Cerdik (Ki Udin, komedi claymation) | `cerita-cerdik/` | `.agents/AGENTS.md` |
-| Jangan Tonton Sendirian (creepypasta rumah tangga, claymation gelap) | `jangan-tonton-sendirian/` | `jangan-tonton-sendirian/.agents/AGENTS.md` |
+| Jangan Tonton Sendirian (creepypasta rumah tangga, semi-realistis gelap) | `jangan-tonton-sendirian/` | `jangan-tonton-sendirian/.agents/AGENTS.md` |
 
 Jika permintaan tidak menyebut proyek (mis. "eps selanjutnya", "kasih ide"), ikuti proyek dari file yang sedang dibuka atau disebut; bila tetap tidak jelas, tanyakan dulu.
 
