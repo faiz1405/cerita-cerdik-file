@@ -1,0 +1,122 @@
+# ANALISIS & PENJELASAN BRIEF VIDEO - EPS 67 (SEASON 6 EPISODE 7)
+Judul Episode: Kucing Kurus Makan Dua Kilo Daging (Tipe B/Uno Reverse)
+Target Platform: Facebook Reels, Instagram Reels, TikTok, YouTube Shorts
+Target Durasi: 160 Detik (303 kata, TTS speed 1.0, estimasi validator ±161s → target render ±150-160s)
+Gaya Visual: Comical Claymation Folk Art (Clay Animation)
+Sumber Mekanik: Nasreddin Hodja (Turki) - "kucing dan daging": istri Nasreddin menghabiskan daging lalu menuduh kucing; Nasreddin menimbang kucing itu dan beratnya sama dengan daging yang hilang. "Kalau ini kucingnya, mana dagingnya? Kalau ini dagingnya, mana kucingnya?" Dilokalkan: penuduh diganti Juragan Broto yang pelit, daging diganti rendang kenduri jatah warga, timbangan diganti dacin beras milik Broto sendiri, dan ditambah bukti fisik (rendang utuh di dalam blangkon) supaya kemenangan tidak bergantung pada debat.
+Kunci Logika (Uno Reverse): Trik Ki Udin adalah menimbang "pencurinya" memakai dacin milik Broto sendiri. Angka "dua kilo" dan klaim "dacinku paling jujur sedesa" keluar dari mulut Broto sendiri, lalu berbalik menjadi jebakan baginya. Cabang yang ditutup naskah: (1) "kucingnya memang dua kilo / dagingnya sudah dicerna" → Broto sendiri bilang "baru saja kutinggal sebentar" di Shot 1, dan perut kucing yang kempis malah keroncongan di Shot 5; (2) "dacinnya rusak" → itu dacin milik Broto yang ia sebut paling jujur di Shot 3; (3) "dimakan kucing lain atau warga" → rendang dua kilo jatuh utuh dari blangkon Broto di Shot 6, ditanam lewat blangkon menggembung yang terus ia pegangi di Shot 1-2; (4) nasib korban → rendang dibagikan ke warga, Mbok Darmi mendapat dua kilo daging sebagai ganti rugi (cermin dari tuntutan Broto), dan kambingnya tidak jadi disita.
+Catatan Repetisi: Dicek 14 Okt 2026 - kata kunci `kucing timbang`, `kucing daging`, `timbangan kucing` tidak menemukan mekanik ini. Kucing pernah muncul di Eps 17 (bundling kuda-kucing) dan Eps 64 (punchline kucing kampung menjilati kumis Broto yang bau ikan asin setelah ia terpeleset genangan). Agar tidak mirip Eps 64, naskah ini sengaja TIDAK memakai ikan asin, terpeleset genangan, atau kucing menjilati kumis; tes lapar diganti perut keroncongan dan slapstick diganti tersangkut tali dacin lalu masuk wajan kosong. Timbangan pernah dipakai Eps 13 (gajah) dan Eps 30 (beras curang) dengan mekanik berbeda.
+Catatan Produksi: Narasi maks 39 kata per shot (8 shot), 2287 karakter termasuk tag jeda (di bawah ±2411 karakter yang terbukti terbaca CapCut di Eps 66) dan tanpa titik dua di dalam narasi. Tuduhan + ancaman sudah terucap di Shot 1, Ki Udin tersenyum di akhir Shot 1 (±detik 8) dan meminta dacin di Shot 2 sesuai aturan anti-drop detik 5-15. Kucing belang masuk [characters] sebagai ROLE_04 mengikuti preseden Eps 59 (Kambing Jantan) karena fisiknya (kurus, belang oranye-putih) kunci punchline; EVALUASI baris 125 menyebut [characters] hanya untuk manusia, jadi bila CapCut merender kucing menjadi humanoid, hapus ROLE_04 dan pindahkan deskripsinya ke stylePrompt. Tersedia juga `brief_eps_67_kucing_kurus_dua_kilo_daging_v2.txt` (format seperti Eps 66 v2: 14 shot, narasi gaya dongeng 313 kata / 2183 karakter, digital human). Aset: Ki Udin `character/season3/ki-udin.png`, Juragan Broto `character/season4/juragan_broto_transparent.png`, Mbok Darmi `character/season3/ibu_warga_desa_transparent.png` dan Mbok Darmi menangis `character/season5/nenek_menangis.png`. Kucing belang BELUM punya aset (generate di prompt flow bagian [4]).
+
+===================================================================
+[1] 3-SECOND HOOK STRATEGY (FLSR & NEUROMARKETING)
+===================================================================
+- Visual Hook (0-3 Detik): Siang di halaman kenduri rumah joglo. Juragan Broto yang gemuk bergigi emas menuding kucing kurus belang oranye-putih di pelukan Mbok Darmi yang menangis, lalu menunjuk wajan rendang raksasa yang kosong. Warga bersila di depan piring kosong.
+- Teks Overlay Hook: "KUCING KURUS MAKAN 2 KILO?!"
+- Audio Hook: Gong Jumpscare (BOOM!) di detik 0.0, sendok kayu dihantam ke wajan (TENG!), teriakan Jawa Broto "Kucingmu nyolong rendangku rong kilo! Ganti saiki, yen ora wedhusmu tak sita!" di detik 1.5, kucing mengeong kaget.
+- Cortisol Spike (Detik 4-10): Close up air mata Mbok Darmi dan kucing yang gemetar di pelukannya, Broto tertawa memamerkan gigi emas, lalu cutaway Ki Udin mengelus kumis dan tersenyum tipis sekitar detik 8.
+- Anti-Drop Detik 5-15: Minimal 3 perpindahan kamera: tudingan Broto → wajan kosong → air mata Mbok Darmi → senyum Ki Udin, ditambah Record Scratch kecil saat senyum dan "Ting!" saat Ki Udin menunjuk dacin di Shot 2.
+
+===================================================================
+[2] NASKAH CERITA LENGKAP BAHASA INDONESIA (VOICE OVER)
+===================================================================
+Juragan Broto menuding kucing kurus di pelukan Mbok Darmi! "Kucingmu mencuri rendang kenduriku! Baru saja kutinggal sebentar, dua kilo habis tak bersisa! Ganti sekarang, atau kambingmu kusita!" Mbok Darmi menangis memeluk kucing belangnya. Ki Udin justru tersenyum tipis.
+
+Rendang itu sebenarnya jatah warga yang seharian membantu panen Broto. Kini piring mereka kosong. Warga hanya bisa menelan ludah. Ki Udin melirik Broto yang berkeringat dan terus memegangi blangkonnya. "Juragan, boleh pinjam dacin beras Juragan? Kita timbang saja kucingnya."
+
+Broto tertawa sampai gigi emasnya berkilat. "Silakan! Dacinku paling jujur sedesa!" Ki Udin menaruh kucing kurus itu dengan lembut di piring dacin. Seluruh warga menahan napas. Anak timbangan digeser pelan, lalu berhenti. Jarumnya lurus. Tepat dua kilo, tidak lebih!
+
+Ki Udin mengangguk-angguk. "Pas dua kilo. Nah, Juragan. Kalau ini dagingnya, mana kucingnya? Kalau ini kucingnya, mana dagingnya? Kucing dan rendang kok beratnya sama persis?" Warga saling pandang, lalu meledak tertawa. Senyum Broto membeku. Wajahnya merah padam.
+
+Broto gelagapan. "Eh... dagingnya sudah dicerna!" Ki Udin mengusap perut kucing yang kempis. KRUUUK! Perut kucing kurus itu malah keroncongan keras. "Lho, katanya baru saja makan dua kilo rendang, kok masih kelaparan, Juragan?" Warga makin keras tertawa.
+
+Tiba-tiba kucing itu mengendus-endus, menatap blangkon Broto, lalu melompat ringan. HUP! Blangkon Broto terlepas. Sebungkus besar rendang dalam daun pisang jatuh dari kepalanya, kuahnya meleleh di jidat dan kumis. Seluruh warga terbelalak. Rendang dua kilo, masih utuh!
+
+Malu bukan main, Broto mencoba kabur, tapi perut buncitnya tersangkut tali dacin. TUING! Ia terpental mundur dan jatuh terduduk di dalam wajan rendang yang kosong. GEDEBUK! Kakinya terangkat ke atas. Kucing belang duduk manis di kepalanya. Warga tertawa terpingkal-pingkal.
+
+Sore itu, rendang dibagikan ke seluruh warga. Disoraki sedesa, Broto terpaksa memberi Mbok Darmi dua kilo daging sebagai ganti rugi. Kucing belang dapat potongan paling besar. Ki Udin tersenyum. "Lain kali, Juragan, timbang dulu mulutnya sebelum menuduh."
+
+===================================================================
+[3] RINCIAN VISUAL & AUDIO PER SHOT
+===================================================================
+- Shot 1 (0-20s) - HOOK FITNAH DI KENDURI:
+  - Visual: Siang di halaman kenduri. Broto menuding kucing kurus di pelukan Mbok Darmi sambil tertawa memamerkan gigi emas, lalu menunjuk wajan rendang raksasa yang kosong. Mbok Darmi menangis memeluk kucingnya. Blangkon Broto tampak menggembung tinggi. Cutaway ke Ki Udin mengelus kumis sambil tersenyum tipis (sekitar detik 8).
+  - Efek CapCut: Quick Zoom-in (Keyframe) ke jari Broto yang menuding, Shake ringan, text overlay "KUCING KURUS MAKAN 2 KILO?!", lalu stempel kartun "FITNAH?" di samping wajah Broto.
+  - Audio/SFX: Gong Jumpscare 0.0s, TENG! sendok kayu dihantam ke wajan, teriakan Jawa "Kucingmu nyolong rendangku rong kilo! Ganti saiki, yen ora wedhusmu tak sita!" (klip Veo 0-4s), WHOOSH keras di 4.0s saat pindah ke klip CapCut, isak tangis Mbok Darmi, meong lirih, Record Scratch kecil saat Ki Udin tersenyum.
+
+- Shot 2 (20-40s) - PIRING KOSONG & TANAMAN BLANGKON:
+  - Visual: Kamera menyapu deretan warga yang menatap piring kosong di atas daun pisang dan menelan ludah. Close up Broto yang berkeringat, kedua tangannya terus memegangi blangkon yang menggembung. Ki Udin melirik blangkon itu, tersenyum licik, lalu menunjuk dacin besi di teras lumbung.
+  - Efek CapCut: Keyframe pan pelan di deretan piring kosong dengan teks "JATAH WARGA... KOSONG", Zoom-in singkat ke blangkon menggembung (tanpa teks, biarkan penonton curiga), lalu Zoom-in ke senyum Ki Udin.
+  - Audio/SFX: Musik sendu singkat dengan suara perut warga keroncongan pelan, tetes keringat (tik), lalu berubah ke Sneaky Comedy saat Ki Udin tersenyum, "Ting!" saat ia menunjuk dacin.
+
+- Shot 3 (40-60s) - DACIN PALING JUJUR:
+  - Visual: Teras lumbung padi. Broto tertawa lebar, gigi emasnya berkilat, menepuk dada bangga. Ki Udin dengan lembut menaruh kucing kurus di piring kuningan dacin. Warga mencondongkan badan menahan napas. Extreme close up anak timbangan digeser pelan lalu berhenti, batang dacin lurus tepat di angka dua kilo.
+  - Efek CapCut: Efek kilau (sparkle) pada gigi emas Broto, Slow-motion saat anak timbangan digeser, angka besar "2 KG" muncul dengan efek pop-up saat batang dacin lurus.
+  - Audio/SFX: Tawa sombong Broto, derit tali dacin (kriet-kriet), drumroll pendek saat anak timbangan digeser, "TING!" keras saat berhenti di dua kilo.
+
+- Shot 4 (60-80s) - UNO REVERSE:
+  - Visual: Ki Udin mengangguk-angguk, menunjuk kucing di dacin lalu menunjuk wajan kosong dengan telapak tangan terbuka. Warga saling pandang lalu meledak tertawa. Senyum Broto membeku, wajahnya memerah dari leher sampai ke ubun-ubun.
+  - Efek CapCut: Split screen kiri "KUCING = 2 KG" dan kanan "RENDANG = 2 KG" dengan tanda tanya besar di tengah, Freeze frame singkat pada wajah Broto yang membeku, overlay warna merah naik dari leher ke kepalanya.
+  - Audio/SFX: Record Scratch saat pertanyaan "mana kucingnya", jangkrik (krik-krik) sesaat, lalu tawa warga pecah.
+
+- Shot 5 (80-100s) - PERUT KERONCONGAN:
+  - Visual: Broto mengibas-ngibaskan tangan gelagapan. Ki Udin mengusap lembut perut kucing yang kempis di pangkuannya. Perut kucing berbunyi keroncongan, kucing mengeong memelas. Ki Udin menoleh ke Broto dengan wajah polos. Warga tertawa makin keras.
+  - Efek CapCut: Teks "DICERNA? 🤔" di samping Broto, gelombang suara kartun (sound wave) keluar dari perut kucing, Zoom-in ke mata kucing yang berkaca-kaca memelas.
+  - Audio/SFX: "Glek!" Broto, KRUUUK! keras dan panjang dari perut kucing, meong memelas, tawa warga.
+
+- Shot 6 (100-120s) - BONGKAR BLANGKON:
+  - Visual: Hidung kucing mengendus-endus udara, matanya tertuju ke blangkon Broto. Kucing melompat ringan dan menyenggol blangkon dengan kaki depannya tanpa mencakar. Blangkon terlepas, sebungkus besar rendang dalam daun pisang jatuh dari kepala Broto dalam gerak lambat. Kuah rendang meleleh di jidat dan kumisnya. Warga terbelalak.
+  - Efek CapCut: Overlay garis aroma kartun melayang dari blangkon ke hidung kucing, Slow-motion saat bungkusan jatuh, overlay kuah cokelat meleleh di jidat dan kumis Broto (stiker, bukan base render), teks "RENDANG 2 KG ✔ UTUH".
+  - Audio/SFX: Endusan kucing (sniff-sniff), HUP!, blangkon jatuh (pluk), bungkusan mendarat (BLUK!), warga terkesiap serempak (hah!), Record Scratch.
+
+- Shot 7 (120-140s) - SLAPSTICK KARMA:
+  - Visual: Broto berbalik mencoba kabur, perut buncitnya tersangkut tali dacin yang melar seperti ketapel. Ia terpental mundur dan jatuh terduduk masuk ke wajan rendang raksasa yang kosong, kedua kakinya terangkat ke atas. Kucing belang melompat dan duduk manis di atas rambutnya yang acak-acakan. Warga tertawa terpingkal-pingkal.
+  - Efek CapCut: Speed Ramp saat Broto berlari, efek karet melar pada tali dacin, Slow-motion saat terpental, Shake keras saat mendarat di wajan, overlay bintang berputar kartun, freeze frame singkat kucing duduk di kepalanya.
+  - Audio/SFX: Langkah tergesa (dug-dug-dug), Slip (cartoon slip whistle), TUING!, GEDEBUK!, Thud wajan besi (DANG!), meong puas, Crowd Laughing.
+
+- Shot 8 (140-160s) - RENDANG UNTUK WARGA:
+  - Visual: Sore keemasan. Warga makan rendang bersama dengan gembira. Broto yang lesu menyerahkan bungkusan daging dalam daun pisang kepada Mbok Darmi. Mbok Darmi tersenyum lega, kucing belang melahap potongan rendang paling besar di piring kecil. Ki Udin tersenyum pada Broto, lalu mengedip ke kamera. Freeze frame.
+  - Efek CapCut: Teks "GANTI RUGI 2 KG ✔", kilau keemasan pada piring rendang, overlay hati kecil di atas kucing, freeze frame wajah Broto yang cemberut, overlay emoji tertawa kecil.
+  - Audio/SFX: Sorakan warga, Crowd Laughing, kucing mendengkur puas (purr), "Lain kali, Juragan, timbang dulu mulutnya sebelum menuduh.", musik gamelan hangat penutup.
+
+===================================================================
+[4] METADATA & CAPTION STRATEGY LINTAS 3 PLATFORM
+===================================================================
+--- FACEBOOK REELS & PAGE CAPTION ---
+Juragan pelit nuduh kucing kurus punya janda miskin ngabisin DUA KILO rendang kenduri 😡 Ancamannya, ganti sekarang atau kambing satu-satunya disita! 😭
+
+Ki Udin cuma bilang "Kita timbang saja kucingnya." Hasilnya pas 2 kilo... terus rendangnya di mana, Juragan? 😂🐈 Ternyata hidung kucingnya lebih jujur dari mulut juragannya!
+
+Kalian tim Broto wajib traktir rendang sedesa sebulan penuh (Ketik 1) atau tim Broto jadi tukang masak kenduri tanpa boleh nyicip sedikit pun (Ketik 2)? Tulis pilihan kalian di bawah! 👇
+
+📌 Jangan lupa klik tombol [ IKUTI / FOLLOW ] di atas Halaman ini agar tidak ketinggalan cerita cerdik esok malam!
+
+#CeritaCerdik #CeritaCerdikSeason6 #KucingKurusMakanDuaKiloDaging #DongengNusantara #DongengLucu #HumorNusantara #FacebookPage
+
+--- INSTAGRAM REELS CAPTION ---
+Kucing 2 kilo makan rendang 2 kilo? Terus kucingnya ke mana? 🐈⚖️😂
+
+Juragan Broto memfitnah kucing Mbok Darmi demi menyembunyikan jatah rendang warga. Ki Udin cukup meminjam dacin si juragan sendiri, dan hidung si kucing yang menyelesaikan sisanya.
+
+Kalian tim traktir rendang sedesa sebulan (Ketik 1) atau tim jadi tukang masak kenduri tanpa boleh nyicip (Ketik 2)?
+
+📌 Klik tombol [ IKUTI / FOLLOW ] di profil @ceritacerdik agar tidak ketinggalan cerita seru esok hari!
+
+#CeritaCerdik #CeritaCerdikSeason6 #KucingKurusMakanDuaKiloDaging #AnimasiIndonesia #CeritaRakyat #DongengNusantara #ReelsIndonesia #HumorIndonesia
+
+--- TIKTOK VIDEO CAPTION ---
+Kucing kurus dituduh ngabisin 2 kilo rendang 😭 Ditimbang... pas 2 kilo. Terus dagingnya di mana, Juragan? 🐈😂 Pecinta kucing wajib nonton sampai habis!
+
+📌 Klik tanda [+] dan follow @ceritacerdik biar gak ketinggalan taktik cerdik Ki Udin esok hari!
+
+#CeritaCerdik #CeritaCerdikSeason6 #KucingKurusMakanDuaKiloDaging #AnimasiIndonesia #DongengNusantara #fyp #foryou #trending
+
+--- META BUSINESS SUITE KEYWORDS (Search Tags Tanpa Tanda Pagar) ---
+cerita cerdik, ki udin season 6, juragan broto, kucing kurus, kucing dituduh mencuri, rendang kenduri, dacin timbangan, nasreddin hodja, mbok darmi, fitnah juragan pelit, kenduri desa, karma instan, pecinta kucing, animasi stop motion claymation, dongeng rakyat indonesia, cerita rakyat nusantara lucu, keadilan rakyat kecil
+
+===================================================================
+[5] SHOPEE AFFILIATE MONETIZATION COPY (KOMISI EKSTRA)
+===================================================================
+Produk Rekomendasi: Timbangan Dapur Digital (untuk menakar bahan masakan dan kue)
+Copy Komentar Shopee (Pinned):
+"Ngakak, kucingnya ditimbang pas 2 kilo, rendangnya malah ngumpet di blangkon 🤣 Bunda yang suka masak rendang atau bikin kue biar takarannya pas dan nggak bisa dibohongi siapa pun, pakai Timbangan Dapur Digital ini aja, akurat sampai 1 gram, layarnya jelas, ringkas disimpan di dapur! Cek promo diskonnya di keranjang oranye / link di bio ya! 👉 [MASUKKAN LINK SHOPEE ANDA DI SINI]"

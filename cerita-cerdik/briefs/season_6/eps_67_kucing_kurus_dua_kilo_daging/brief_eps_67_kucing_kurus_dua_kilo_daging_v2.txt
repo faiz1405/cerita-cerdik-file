@@ -1,0 +1,124 @@
+# [theme]
+Kisah kecerdikan Ki Udin membongkar fitnah Juragan Broto yang menuduh kucing kurus milik Mbok Darmi menghabiskan dua kilo rendang kenduri.
+
+# [purpose]
+Menghibur penonton dengan cerita rakyat klasik penuh humor dan pesan moral tentang karma instan, kasih sayang pada hewan, serta kecerdikan melawan juragan pelit dan tukang fitnah.
+
+# [audience]
+Anak-anak, keluarga, ibu-ibu pecinta kucing, dan pecinta cerita rakyat Nusantara.
+
+# [visualMaterial]
+[
+  "aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+**Pembukaan (0-30s)**
+- **Shot 1**: Pemandangan halaman belakang rumah joglo Juragan Broto yang ramai oleh kenduri syukuran panen dalam gaya claymation. Tikar pandan dan daun pisang tergelar, deretan warga desa duduk bersila, pawon terbuka dengan tungku kayu dan wajan rendang raksasa di bawah cahaya siang yang cerah.
+- **Shot 2**: Kamera mendekat ke wajan rendang raksasa yang ternyata kosong melompong, lalu menyapu deretan piring tanah liat kosong di depan warga yang menelan ludah kecewa.
+- **Shot 3**: Juragan Broto yang gemuk bergigi emas menuding marah ke arah kucing belang oranye-putih yang kurus di pelukan Mbok Darmi, sementara Mbok Darmi menangis memeluk kucingnya erat-erat.
+
+**Konflik (30-80s)**
+- **Shot 4**: Juragan Broto berkacak pinggang di depan wajan kosong, berteriak menuntut ganti rugi dua kilo rendang dan mengancam menyita kambing Mbok Darmi sambil tertawa congkak memamerkan gigi emasnya.
+- **Shot 5**: Ki Udin mengelus kumis tipisnya dan tersenyum cerdik, matanya melirik blangkon Broto yang tampak menggembung tinggi dan terus dipegangi Broto dengan gelisah.
+- **Shot 6**: Ki Udin dengan sopan menunjuk dacin besi tradisional yang tergantung di teras lumbung padi, dan Juragan Broto menepuk dada sambil tertawa sombong menyombongkan dacinnya yang paling jujur sedesa.
+- **Shot 7**: Ki Udin dengan lembut menaruh kucing kurus itu di piring kuningan dacin; seluruh warga menahan napas saat anak timbangan digeser pelan dan batang dacin berhenti lurus tepat di angka dua kilo.
+
+**Strategi Ki Udin (80-130s)**
+- **Shot 8**: Ki Udin mengangguk-angguk polos sambil menunjuk kucing di dacin lalu menunjuk wajan kosong, bertanya mana kucingnya dan mana dagingnya, membuat warga saling pandang lalu meledak tertawa.
+- **Shot 9**: Juragan Broto gelagapan mengibaskan tangan berdalih dagingnya sudah dicerna, namun saat Ki Udin mengusap perut kucing yang kempis, perut kucing itu malah keroncongan keras.
+- **Shot 10**: Hidung kucing belang mengendus-endus udara dan matanya tertuju ke blangkon Broto, lalu kucing melompat ringan menyenggol blangkon itu dengan kaki depannya tanpa mencakar.
+- **Shot 11**: Blangkon Broto terlepas dan sebungkus besar rendang dalam daun pisang jatuh dari kepalanya dalam gerak lambat, kuah rendang meleleh di jidat dan kumisnya, sementara warga terbelalak kaget.
+
+**Penyelesaian & Penutup (130-160s)**
+- **Shot 12**: Broto yang malu berbalik mencoba kabur, tetapi perut buncitnya tersangkut tali dacin yang melar seperti ketapel, membuatnya terpental mundur dan jatuh terduduk ke dalam wajan rendang raksasa yang kosong dengan kedua kaki terangkat, lalu kucing belang duduk manis di atas kepalanya.
+- **Shot 13**: Suasana sore keemasan di halaman kenduri; warga makan rendang bersama dengan gembira, Broto yang lesu menyerahkan bungkusan daging dalam daun pisang kepada Mbok Darmi, dan kucing belang melahap potongan rendang paling besar.
+- **Shot 14**: Ki Udin tersenyum puas menatap Broto yang masih duduk di wajan, lalu mengedipkan sebelah matanya ke arah kamera. Akhir video.
+
+# [videoNarration]
+Alkisah di sebuah desa subur tanah Jawa, hiduplah Juragan Broto, saudagar beras kaya yang terkenal sangat pelit. Siang itu ia mengadakan kenduri syukuran panen, dan sewajan rendang sudah dijanjikan untuk warga yang seharian membantu memanen sawahnya. Namun wajan rendang itu mendadak kosong, dan warga hanya bisa menelan ludah. Broto langsung menuding kucing kurus di pelukan Mbok Darmi dan membentak, "Kucingmu mencuri rendangku! Baru saja kutinggal sebentar, dua kilo habis tak bersisa! Ganti sekarang, atau kambingmu kusita!" Mbok Darmi menangis memeluk kucing belangnya, sementara Ki Udin hanya tersenyum tipis.
+
+Ki Udin memperhatikan Broto yang berkeringat dan terus memegangi blangkonnya. Dengan sopan ia berkata, "Juragan, boleh pinjam dacin beras Juragan? Kita timbang saja kucingnya." Broto tertawa sombong sampai gigi emasnya berkilat, "Silakan! Dacinku paling jujur sedesa!" Ki Udin menaruh kucing itu dengan lembut di piring dacin. Seluruh warga menahan napas saat anak timbangan digeser pelan, lalu berhenti tepat di angka dua kilo, tidak lebih sedikit pun.
+
+Ki Udin mengangguk-angguk dan bertanya polos, "Nah, Juragan. Kalau ini dagingnya, mana kucingnya? Kalau ini kucingnya, mana dagingnya?" Warga pun meledak tertawa. Broto gelagapan mengaku dagingnya sudah dicerna, tetapi perut kucing yang kempis itu malah keroncongan keras. "Lho, katanya baru saja makan dua kilo rendang, kok masih kelaparan?" tanya Ki Udin. Tiba-tiba kucing itu mengendus-endus, menatap blangkon Broto, lalu melompat ringan. Blangkon terlepas, dan sebungkus besar rendang dalam daun pisang jatuh dari kepala Broto, kuahnya meleleh di jidat dan kumisnya. Rendang dua kilo itu ternyata masih utuh!
+
+Malu bukan main, Broto mencoba kabur, tetapi perut buncitnya tersangkut tali dacin. Ia terpental mundur dan jatuh terduduk di dalam wajan rendang yang kosong, sementara kucing belang duduk manis di kepalanya. Warga tertawa terpingkal-pingkal. Sore itu, rendang dibagikan ke seluruh warga, dan Broto terpaksa memberi Mbok Darmi dua kilo daging sebagai ganti rugi. Kucing belang pun mendapat potongan paling besar. Ki Udin tersenyum puas, "Lain kali, Juragan, timbang dulu mulutnya sebelum menuduh."
+
+# [bgmStyle]
+Traditional Javanese Gamelan & Sneaky Comedy Melody
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+  "subtitleId": "7444118342031428920",
+  "subtitlePrompt": "Cute 3D Bold Subtitles"
+}
+
+# [characters]
+[
+  {
+    "name": "Ki Udin",
+    "description": "Pria desa Jawa paruh baya bijak dengan blangkon batik cokelat, kumis abu-abu tipis, baju surjan lurik cokelat sederhana, jarik batik, ekspresi tenang dengan senyum cerdik, tekstur tanah liat stop-motion.",
+    "visualReference": {
+      "everCloudAsset": {
+        "md5": "e3a8907b92f7c0411a843b44b8217d12"
+      }
+    },
+    "id": "ROLE_01"
+  },
+  {
+    "name": "Juragan Broto",
+    "description": "Saudagar beras Jawa bertubuh gemuk dan perut buncit, kumis hitam tebal melengkung, satu gigi depan emas, blangkon batik cokelat tua, kemeja putih lengan panjang, rompi cokelat bersulam emas, sarung batik parang cokelat, sepatu hitam, ekspresi pelit dan congkak, tekstur tanah liat stop-motion.",
+    "id": "ROLE_02"
+  },
+  {
+    "name": "Mbok Darmi",
+    "description": "Janda desa Jawa sederhana berusia sekitar 50 tahun, rambut cokelat tua disanggul rapi, wajah bulat lembut, kebaya cokelat, jarik batik parang cokelat, sandal sederhana, ekspresi lelah namun penuh harap, tekstur tanah liat stop-motion.",
+    "id": "ROLE_03"
+  },
+  {
+    "name": "Kucing Belang",
+    "description": "Kucing kampung belang oranye-putih bertubuh kurus kecil, mata bulat kuning besar, hidung merah muda, ekor panjang tipis, perut kempis karena lapar, ekspresi polos menggemaskan, tekstur tanah liat stop-motion.",
+    "id": "ROLE_04"
+  }
+]
+
+# [materialReferences]
+
+
+# [ttsList]
+
+
+# [digitalHumanList]
+[
+  {
+    "id": "7476385205088046341",
+    "ttsId": "7130515992936976897"
+  }
+]
+
+# [styleList]
+[
+  {
+    "styleValue": "Clay Stop-Motion Animation"
+  }
+]
+
+# [referenceNodeIds]
+
+
+# [rawReferences]

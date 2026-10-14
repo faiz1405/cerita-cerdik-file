@@ -1,0 +1,71 @@
+[1] VIDEO TITLE & HEADLINE
+-------------------------------------------------------------------
+- Main Title: Kucing Kurus Makan Dua Kilo Daging (Eps 67)
+- Clicky Video Headline: KUCING KURUS MAKAN 2 KILO?! / DITIMBANG PAS 2 KILO, TERUS RENDANGNYA DI MANA?!
+- Single Video Title: Cerita Cerdik Ki Udin Season 6 - Kucing Kurus Makan Dua Kilo Daging & Rendang di Balik Blangkon (Eps 67)
+
+===================================================================
+[2] AI VIDEO GENERATOR PROMPT (3-SECOND HOOK MOTION)
+Target Engine: Google AI Flow / Google Veo 3.1 (Text-to-Video)
+Rasio: 9:16 Vertical
+Durasi: 3-4 Detik Looping Motion
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting. Immediate opening at second 0.0: Dynamic 9:16 vertical video clip, 4k resolution, opening directly from the very first frame without any silent intro or delay. In the backyard of a traditional Javanese joglo house during a harvest thanksgiving feast on a bright sunny day, with pandan mats and banana leaves spread on the ground, villagers sitting cross-legged in front of empty clay plates, and an open wood-fired kitchen with a giant empty black iron wok, a fat stingy Javanese rice merchant with thick curled black mustache, one gold front tooth, a tall oddly bulging brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery and brown parang batik sarong points angrily at a skinny orange-and-white tabby cat held gently in the arms of a crying 50-year-old Javanese village woman in a brown kebaya with her hair in a bun. At exactly second 1.5, the merchant turns to the camera, flashes his gold tooth and shouts loudly in authentic Javanese accent: "Kucingmu nyolong rendangku rong kilo! Ganti saiki, yen ora wedhusmu tak sita!" with immediate, loud, clear Javanese spoken dialogue audio starting right at 1.5 seconds, then he points at the giant empty wok. The skinny cat flinches with wide round eyes and meows. In the background, a wise elderly Javanese man with grey mustache, brown batik blangkon and brown striped lurik shirt calmly strokes his mustache with a sly smile. Fluid clay stop-motion animation, bright warm midday light, tense comedic atmosphere, full environmental depth, village feast scenery, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[slow motion, static image, frozen frame, no movement, still picture, photorealistic, real human, live action footage, 3d CGI cartoon, modern clothing, motor vehicle, modern building, hitting, injury, violence, animal cruelty, grabbing cat by the scruff, scratching face, blood, plain white background, studio void, blank backdrop, english speech, english audio, western accent, english dialogue, subtitles, english text]
+
+===================================================================
+[3] AI IMAGE GENERATOR PROMPT (THUMBNAIL / POSTER COVER)
+Target Engine: Google AI Flow / Google Imagen 3 / Flow Image
+Rasio: 9:16 Vertical & 16:9 Horizontal
+-------------------------------------------------------------------
+Prompt:
+Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, 8k resolution. Hilarious story poster on the porch of a wooden rice barn during a village feast under bright midday sun: a skinny orange-and-white tabby cat sits calmly on the brass pan of a traditional hanging iron steelyard scale (dacin), the scale beam perfectly level with a big bold "2 KG" marker. Next to it, a fat stingy Javanese rice merchant with thick curled black mustache, one gold front tooth, white long-sleeve shirt and brown gold-embroidered vest freezes in shock as his brown batik blangkon flies off his head and a big banana-leaf bundle of beef rendang tumbles out of it in mid-air. In the foreground, Ki Udin, a wise elderly Javanese villager with grey mustache, brown batik blangkon and brown striped lurik shirt, stands calmly with an open palm pointing at the scale and winks with a sly smile. Behind them, a kind village woman in a brown kebaya with her hair in a bun covers her mouth in surprise, and villagers sitting on pandan mats with empty plates burst into laughter. Bright warm daylight, rich clay textures, cinematic depth of field, full environmental setting, no plain white background, no blank studio backdrop.
+
+[Negative Prompt]
+[photorealistic, realistic human skin, 3d CGI render, flat 2d illustration, modern clothes, motor vehicle, studio void, plain white background, blank backdrop, blood, injury, hitting, animal cruelty, gloomy, low resolution, blurry]
+
+===================================================================
+[4] AI CHARACTER GENERATOR PROMPTS (TRANSPARENT BACKGROUND & NO HELD OBJECTS)
+Target Engine: Google AI Flow / Google Imagen 3 / Midjourney / Flux
+*(Catatan Wajib: latar transparan / clean alpha cutout, tangan kosong tanpa properti - dacin, wajan, bungkusan rendang, blangkon yang terlepas, piring, dan daging ganti rugi dianimasikan terpisah di CapCut. Kuah rendang di jidat dan keringat lewat overlay, bukan di base render. Aset yang sudah ada: Ki Udin `character/season3/ki-udin.png`, Juragan Broto `character/season4/juragan_broto_transparent.png` (pose menunjuk marah - untuk Shot 1), Mbok Darmi `character/season3/ibu_warga_desa_transparent.png`, Mbok Darmi menangis `character/season5/nenek_menangis.png` (Shot 1). Kucing belang BELUM punya aset. Pose baru di bawah simpan ke `character/season6/`.)*
+-------------------------------------------------------------------
+[Prompt Karakter 1: Kucing Belang - Option A (Duduk Polos) - untuk Shot 3-4 & 8]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A skinny orange-and-white tabby village cat, small thin body, big round amber eyes, pink nose, long thin tail curled around its paws, slightly flat hungry belly, sitting upright and calm with a sweet innocent expression, nothing in its mouth, no props. Clean fur, unblemished, immaculate.
+
+[Prompt Karakter 2: Kucing Belang - Option B (Mengendus & Melompat) - untuk Shot 6-7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same skinny orange-and-white tabby cat with big round amber eyes and long thin tail, captured mid-leap upward with front paws stretched forward and claws retracted, nose twitching as if sniffing a delicious smell, playful curious expression, nothing in its mouth, no props. Clean fur, unblemished, immaculate.
+
+[Prompt Karakter 3: Juragan Broto - Option A (Memegangi Blangkon Gelisah) - untuk Shot 2-3]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A fat stingy Javanese rice merchant, 50, thick curled black mustache, one gold front tooth, a tall oddly bulging brown batik blangkon, white long-sleeve shirt, brown vest with gold embroidery, brown parang batik sarong, black shoes, big belly, both empty hands pressed on top of his blangkon nervously, forced toothy grin, eyes darting sideways, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 4: Juragan Broto - Option B (Panik Tanpa Blangkon) - untuk Shot 6-7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese rice merchant with thick curled black mustache, one gold front tooth, white long-sleeve shirt, brown gold-embroidered vest and brown parang batik sarong, bareheaded with messy short black hair, eyes wide and mouth open in panic, both empty hands raised beside his head, comical frozen pose, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 5: Juragan Broto - Option B (Terduduk Kaki Terangkat) - untuk Shot 7]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. The same fat Javanese rice merchant, bareheaded with messy short black hair, sitting on his bottom with both legs kicked up in the air and arms flailing, dizzy cross-eyed comical expression with puffed cheeks, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+[Prompt Karakter 6: Ki Udin - Option A (Menunjuk dengan Telapak Terbuka) - untuk Shot 4-5]
+Isolated full body on a clean transparent background, clean alpha cutout edges, no background scenery. Comical claymation style, soft plasticine clay texture. A wise elderly Javanese villager, 60, grey hair at temples, grey mustache, brown batik blangkon head wrap, brown striped lurik surjan shirt, brown-cream batik sarong, leather sandals, standing relaxed with one empty open palm extended politely to the side as if presenting something, head tilted with an innocent questioning face and a tiny sly smile, holding no objects, holding nothing, no props. Clean face, unblemished, immaculate.
+
+===================================================================
+[5] ATURAN PENGUNCI KONSISTENSI GAYA VISUAL (ANTI-MELENCENG & ANTI-STOCK FOOTAGE)
+-------------------------------------------------------------------
+Awali Prompt: `Consistent comical claymation style, soft plasticine clay texture, handcrafted stop-motion animation, traditional rustic Javanese village setting, backyard of a joglo house during a harvest feast, pandan mats and banana leaves, open wood-fired kitchen with a giant empty black iron wok, wooden rice barn with a traditional hanging iron steelyard scale (dacin)...`
+Akhiri Prompt dengan Negatif: `[no photorealistic, no real human, no live action footage, no 3d CGI cartoon, no modern clothes, no white studio background, no blank void, no motor vehicle]`
+Catatan: Blangkon Broto WAJIB tampak menggembung tinggi di Shot 1-5 (tanaman visual sebelum terbongkar di Shot 6), lalu Broto tanpa blangkon dengan rambut hitam pendek acak-acakan di Shot 7-8. Wajan rendang raksasa tetap KOSONG sampai Shot 7. Batang dacin lurus tepat di angka dua kilo di Shot 3. Kucing hanya menyenggol blangkon dengan kaki depan tanpa mencakar wajah; tidak ada yang mengangkat kucing dengan kasar atau mencengkeram tengkuknya. Broto jatuh ke wajan yang dingin dan kosong tanpa cedera.
+
+===================================================================
+[6] ATURAN AUDIO TIMELINE & SFX TRANSACTIONS (1 BGM RULE)
+-------------------------------------------------------------------
+- BGM: 1 BGM utuh Sneaky Comedy (bgmId di brief). MUTE semua audio bawaan klip KECUALI dialog Jawa di klip Veo 0-4s.
+- Hook Veo (0.0s - 4.0s): Gong Jumpscare tepat di 0.0s + TENG! sendok kayu dihantam ke wajan. Dialog Jawa Broto "Kucingmu nyolong rendangku rong kilo! Ganti saiki, yen ora wedhusmu tak sita!" di 1.5s, meong kaget, isak Mbok Darmi.
+- Transisi Veo ke CapCut (4.0s): WHOOSH keras persis di patahan klip.
+- Senyum Ki Udin (cutaway sekitar 8s): Record Scratch kecil.
+- Piring Kosong & Dacin (Shot 2-3): Musik sendu singkat + perut warga keroncongan pelan, "Ting!" saat Ki Udin menunjuk dacin, derit tali dacin (kriet-kriet), drumroll pendek, TING! keras di angka dua kilo.
+- Uno Reverse (Shot 4-5): Record Scratch saat "mana kucingnya", jangkrik (krik-krik), tawa warga, "Glek!" Broto, KRUUUK! panjang dari perut kucing.
+- Bongkar Blangkon (Shot 6): Endusan kucing (sniff-sniff), HUP!, pluk! blangkon jatuh, BLUK! bungkusan rendang mendarat, warga terkesiap (hah!).
+- Slapstick (Shot 7): Langkah tergesa → Slip (cartoon slip whistle) → TUING! tali dacin → GEDEBUK! → Thud wajan besi (DANG!) → Crowd Laughing.
+- Penutup (Shot 8): Sorakan warga, Crowd Laughing, kucing mendengkur (purr), musik gamelan hangat.
