@@ -14,4 +14,4 @@ File ini hanya penunjuk untuk agent yang membaca `AGENTS.md` dari root repo (mis
 Skill ada di `.agents/skills/`:
 - Cerita Cerdik: `idea-hunter`, `flsr-winning-content`, `neuromarketing-director`, `ths-content-evaluator`
 - Jangan Tonton Sendirian: `jts-idea-hunter`
-- Keduanya: `meta-analytics-ingest` (pakai `--tracker` untuk memilih tracker proyek)
+- Keduanya: `meta-analytics-ingest` (pakai `--tracker` untuk memilih tracker proyek), `comment-humanizer`

@@ -1,0 +1,129 @@
+# [theme]
+Kisah kecerdikan Ki Udin memenuhi janji separuh hadiah kepada Mahapatih yang serakah di hadapan Sultan Prabu.
+
+# [purpose]
+Menghibur penonton dengan cerita rakyat klasik penuh humor dan pesan moral tentang karma instan serta kecerdikan melawan pejabat serakah.
+
+# [audience]
+Anak-anak, keluarga, dan pecinta cerita rakyat Nusantara.
+
+# [visualMaterial]
+[
+  "aigc"
+]
+
+# [duration]
+160
+
+# [mediaType]
+clip
+
+# [ratio]
+9:16
+
+# [platform]
+Tiktok
+
+# [videoContent]
+**Pembukaan (0-30s)**
+- **Shot 1**: Pemandangan panorama gerbang keraton Jawa (regol) megah berbata merah dengan pintu jati berukir dalam gaya claymation. Terlihat dua prajurit bertombak berjaga di bawah hangatnya sinar matahari pagi.
+- **Shot 2**: Ki Udin berjalan santai memanggul setandan pisang raja emas berukuran besar yang ranum, membawakan amanat warga desa yang berharap bendungan sawah mereka diperbaiki.
+- **Shot 3**: Mahapatih Arya yang bertubuh tambun berbeskap beludru ungu mewah tiba-tiba merentangkan kedua tangannya menghadang di tengah gerbang dengan seringai congkak.
+
+**Konflik (30-80s)**
+- **Shot 4**: Mahapatih Arya mencomot sebutir pisang raja dari tandan Ki Udin, mengupas dan melahapnya dengan tawa licik sambil menuntut jatah separuh hadiah Sultan jika ingin masuk.
+- **Shot 5**: Ki Udin tersenyum tenang penuh arti sambil mengelus kumis tipisnya, lalu membungkuk sopan menyetujui syarat pemerasan tersebut di hadapan para penjaga gerbang.
+- **Shot 6**: Kamera beralih ke dalam pendopo agung keraton yang megah dan asri; Sultan Prabu duduk di singgasana emas, terpukau melihat setandan pisang raja persembahan Ki Udin.
+- **Shot 7**: Sultan Prabu tersenyum lebar dan mempersilakan Ki Udin meminta hadiah apa saja, sementara Mahapatih Arya di samping singgasana menggosok telapak tangannya dengan mata berbinar tamak.
+
+**Strategi Ki Udin (80-130s)**
+- **Shot 8**: Ki Udin bersimpuh hormat dengan wajah polos, lalu meminta satu hadiah aneh yaitu dihukum jongkok-berdiri seratus kali sambil menjewer telinga sendiri di hadapan seluruh rakyat.
+- **Shot 9**: Suasana seisi pendopo mendadak hening dan bingung; Sultan Prabu mengernyit heran, sedangkan Mahapatih Arya menahan tawa geli mengira Ki Udin sudah hilang akal.
+- **Shot 10**: Ki Udin dengan tenang menoleh ke arah Mahapatih Arya dan membeberkan janji di gerbang, menyerahkan jatah separuh hadiahnya yaitu lima puluh kali jongkok-berdiri kepada sang Mahapatih.
+- **Shot 11**: Wajah Mahapatih seketika memucat panik dan terbata-bata menyangkal, namun dua prajurit penjaga gerbang serempak mengangguk membenarkan janji tersebut di hadapan Sultan.
+
+**Penyelesaian & Penutup (130-160s)**
+- **Shot 12**: Sultan Prabu murka mengetahui kebusukan bawahannya, lalu Ki Udin dengan santun mengikhlaskan sisa separuh bagiannya sehingga sang Mahapatih genap dijatuhi hukuman seratus kali.
+- **Shot 13**: Di alun-alun keraton, rakyat bersorak dan tertawa riang menyaksikan Mahapatih Arya yang gemuk megap-megap jongkok-berdiri menjewer telinganya sendiri hingga kuluknya jatuh dan ia ambruk telentang kelelahan.
+- **Shot 14**: Suasana sore keemasan di halaman keraton; warga desa bersorak girang menyambut gerobak beras dan bantuan perbaikan bendungan dari Sultan, sementara Ki Udin tersenyum puas mengedipkan sebelah matanya ke arah kamera. Akhir video.
+
+# [videoNarration]
+Alkisah di sebuah kerajaan makmur tanah Jawa, seorang Mahapatih bertubuh tambun bernama Mahapatih Arya terkenal sangat serakah dan suka memeras rakyat kecil. Suatu pagi di gerbang keraton, ia menghadang Ki Udin yang memanggul setandan pisang raja titipan warga desa. Warga desa sangat berharap Sultan mau membantu memperbaiki bendungan sawah mereka yang jebol. Dengan congkak, sang Mahapatih mencomot sebutir pisang lalu membentak, "Mau menghadap Sultan? Janji dulu, separuh dari hadiah Sultan untukmu nanti harus jadi milikku! Kalau tidak mau, angkat kaki sekarang!" Menghadapi pemerasan itu, Ki Udin justru tersenyum tenang dan menyanggupi janji tersebut.
+
+Di pendopo agung keraton, Sultan Prabu sangat terpukau melihat persembahan pisang raja yang luar biasa besar dan ranum. Sang Sultan dengan riang bersabda, "Persembahan yang sangat istimewa, Ki Udin! Mintalah hadiah apa saja yang kau inginkan!" Di belakang singgasana, Mahapatih Arya menggosok-gosok tangannya dengan mata berbinar tamak membayangkan limpahan emas perhiasan. Namun seisi ruangan terperanjat heran saat Ki Udin bersimpuh hormat dan berkata, "Ampun Baginda Sultan yang bijaksana, hamba hanya meminta satu hadiah, yaitu dihukum jongkok-berdiri seratus kali sambil menjewer telinga sendiri di hadapan seluruh rakyat!"
+
+Mendengar permintaan aneh itu, Sultan mengernyit heran sementara Mahapatih menahan tawa geli mengira Ki Udin hilang akal. Namun senyum Mahapatih seketika membeku saat Ki Udin dengan polos berkata, "Di gerbang tadi hamba sudah berjanji, separuh hadiah hamba untuk Mahapatih. Jadi lima puluh kali jongkok-berdiri adalah jatah beliau!" Mahapatih sontak pucat pasi dan membantah panik, namun para prajurit penjaga gerbang serempak mengangguk membenarkan janji tersebut di hadapan Sultan.
+
+Mengetahui kebusukan Mahapatih yang memeras rakyat kecil, Sultan Prabu seketika murka. Ki Udin pun dengan sopan mengikhlaskan sisa lima puluh bagian miliknya untuk Mahapatih. Sultan langsung memerintahkan Mahapatih menjalani genap seratus kali jongkok-berdiri di alun-alun keraton hingga ambruk telentang kelelahan ditertawakan seluruh rakyat. Sore itu, Sultan memerintahkan bendungan desa segera diperbaiki serta menghadiahkan sepuluh karung beras untuk warga desa. Ki Udin pun tersenyum puas mengedipkan mata, membuktikan bahwa ketamakan selalu memakan tuannya sendiri.
+
+# [bgmStyle]
+Traditional Javanese Gamelan & Sneaky Comedy Melody
+
+# [bgmId]
+6817169438580672514
+
+# [subtitleInfo]
+{
+  "subtitleId": "7444118342031428920",
+  "subtitlePrompt": "Cute 3D Bold Subtitles"
+}
+
+# [characters]
+[
+  {
+    "name": "Ki Udin",
+    "description": "Pria desa Jawa paruh baya bijak dengan blangkon batik cokelat, kumis abu-abu tipis, baju surjan lurik cokelat sederhana, jarik batik, ekspresi tenang dengan senyum cerdik, tekstur tanah liat stop-motion.",
+    "visualReference": {
+      "everCloudAsset": {
+        "md5": "e3a8907b92f7c0411a843b44b8217d12"
+      }
+    },
+    "id": "ROLE_01"
+  },
+  {
+    "name": "Mahapatih Arya",
+    "description": "Pejabat keraton Jawa bertubuh gemuk tambun, kumis hitam tebal melengkung, kuluk ungu tinggi berhias mahkota emas, beskap beludru ungu bersulam benang emas, ekspresi congkak dan serakah, tekstur tanah liat stop-motion.",
+    "visualReference": {
+      "everCloudAsset": {
+        "md5": "b5c179428f52de7a61908d132a7e9301"
+      }
+    },
+    "id": "ROLE_02"
+  },
+  {
+    "name": "Sultan Prabu",
+    "description": "Raja keraton Jawa yang adil dan berwibawa, mahkota emas bertahtakan batu permata, kumis dan janggut hitam rapi, beskap hitam bersulam emas dengan selendang kuning keemasan, ekspresi tegas dan penuh wibawa, tekstur tanah liat stop-motion.",
+    "visualReference": {
+      "everCloudAsset": {
+        "md5": "f82c401369ae51b72e19d45381aa99c4"
+      }
+    },
+    "id": "ROLE_03"
+  }
+]
+
+# [materialReferences]
+
+
+# [ttsList]
+
+
+# [digitalHumanList]
+[
+  {
+    "id": "7476385205088046341",
+    "ttsId": "7130515992936976897"
+  }
+]
+
+# [styleList]
+[
+  {
+    "styleValue": "Clay Stop-Motion Animation"
+  }
+]
+
+# [referenceNodeIds]
+
+
+# [rawReferences]
